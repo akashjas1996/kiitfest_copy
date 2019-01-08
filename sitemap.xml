@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://kiitfest.org/</loc>
+  <lastmod>2018-11-01T21:46:16+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://kiitfest.org/index.php</loc>
+  <lastmod>2018-11-01T21:46:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kiitfest.org/technical.php</loc>
+  <lastmod>2018-11-01T21:46:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kiitfest.org/cultural.php</loc>
+  <lastmod>2018-11-01T21:46:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kiitfest.org/webteam.php</loc>
+  <lastmod>2018-11-01T21:46:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kiitfest.org/contact.php</loc>
+  <lastmod>2018-11-01T21:46:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kiitfest.org/404/registration.php</loc>
+  <lastmod>2018-11-01T21:46:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kiitfest.org/quizfest.php</loc>
+  <lastmod>2018-11-01T21:46:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kiitfest.org/events/kinesis.php</loc>
+  <lastmod>2018-11-01T21:46:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kiitfest.org/events/ksom.php</loc>
+  <lastmod>2018-11-01T21:46:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kiitfest.org/events/luminaire.php</loc>
+  <lastmod>2018-11-01T21:46:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kiitfest.org/events/mirabilia.php</loc>
+  <lastmod>2018-11-01T21:46:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kiitfest.org/events/nirminite.php</loc>
+  <lastmod>2018-11-01T21:46:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kiitfest.org/events/vidnan.php</loc>
+  <lastmod>2018-11-01T21:46:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kiitfest.org/events/yantriki.php</loc>
+  <lastmod>2018-11-01T21:46:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kiitfest.org/index.html</loc>
+  <lastmod>2018-11-01T13:18:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
