@@ -45,7 +45,7 @@ $sql = new sql();
 		<div class="row align-items-center">
 		    <div class="col-10 col-lg-4">
 			<h1 class="site-branding flex">
-			    <a href="index.php">
+			    <a href="index.html">
 				<img src="../img/kiitfest_logo.png" alt="kiitfest logo" height="85px">
 			    </a>
 			</h1>
@@ -60,12 +60,12 @@ $sql = new sql();
 				<span></span>
 			    </div><!-- .hamburger-menu -->
 			    <ul>
-				<li><a href="../index.php">HOME</a></li>
+				<li><a href="../index.html">HOME</a></li>
 				<li><a href="../technical.php">TECHNICAL</a></li>
 				<li><a href="../cultural.php">CULTURAL</a></li>
 				<li><a href="../quizfest.php">QUIZFEST</a></li>
-				<li><a href="../webteam.php">WEB TEAM</a></li>
-				<li><a href="../contact.php">CONTACT</a></li>
+				<li><a href="../webteam.php"></a></li>
+				<li><a href="../contact.php"></a></li>
 <?php
 if($sql->isLogin()==1)
 {
@@ -105,8 +105,8 @@ if($sql->isLogin()==1)
 	<div class="pricingTable11">
 	  <div class="pricingTable-header" style="height:12rem">
 
-	    <div class="price-value"><div style="margin:8px">Cell-Lock</div> 
-	    <div>Holmes</div> 
+	    <div class="price-value"><div style="margin:8px">Cell-Lock</div>
+	    <div>Holmes</div>
 	  </div>
 	</div>
 	<h3 class="heading"></h3>
@@ -119,7 +119,7 @@ if($sql->isLogin()==1)
 	</div>
 	<div class="pricingTable-signup">
 	  <a href="#" data-toggle="modal" data-target="#myModal">Know More</a>
-<?php 
+<?php
 
 if($sql->isLogin() == 1)
 {
@@ -138,8 +138,8 @@ if($sql->isLogin() == 1)
 	<div class="pricingTable11 red">
 	  <div class="pricingTable-header" style="height:12rem">
 
-	    <div class="price-value"><div style="margin:8px">Chitra-a-ghar</div> 
-	    <div> </div> 
+	    <div class="price-value"><div style="margin:8px">Chitra-a-ghar</div>
+	    <div> </div>
 	  </div>
 	</div>
 	<h3 class="heading"></h3>
@@ -152,7 +152,7 @@ if($sql->isLogin() == 1)
 	</div>
 	<div class="pricingTable-signup">
 	  <a href="#" data-toggle="modal" data-target="#myModal1">Know More</a>
-	  <?php 
+	  <?php
 
 	     if($sql->isLogin() == 1)
 	     {
@@ -174,8 +174,8 @@ if($sql->isLogin() == 1)
 	<div class="pricingTable11 blue">
 	  <div class="pricingTable-header" style="height:12rem">
 
-	    <div class="price-value"><div style="margin:8px">Hackathon 5.0</div> 
-	    <div> </div> 
+	    <div class="price-value"><div style="margin:8px">Hackathon 5.0</div>
+	    <div> </div>
 	  </div>
 	</div>
 	<h3 class="heading"></h3>
@@ -188,7 +188,7 @@ if($sql->isLogin() == 1)
 	</div>
 	<div class="pricingTable-signup">
 	  <a href="#" data-toggle="modal" data-target="#myModal2">Know More</a>
-<?php 
+<?php
 
 	     if($sql->isLogin() == 1)
 	     {
@@ -205,8 +205,8 @@ if($sql->isLogin() == 1)
 	<div class="pricingTable11">
 	  <div class="pricingTable-header" style="height:12rem">
 
-	    <div class="price-value"><div style="margin:8px">Jugaad Out of</div> 
-	    <div>  Kabaad</div> 
+	    <div class="price-value"><div style="margin:8px">Jugaad Out of</div>
+	    <div>  Kabaad</div>
 	  </div>
 	</div>
 	<h3 class="heading"></h3>
@@ -219,7 +219,7 @@ if($sql->isLogin() == 1)
 	</div>
 	<div class="pricingTable-signup">
 	  <a href="#" data-toggle="modal" data-target="#myModal3">Know More</a>
-	<?php 
+	<?php
 
 	     if($sql->isLogin() == 1)
 	     {
@@ -241,8 +241,8 @@ if($sql->isLogin() == 1)
 	<div class="pricingTable11 green">
 	  <div class="pricingTable-header" style="height:12rem">
 
-	    <div class="price-value"><div style="margin:8px">PainTerrific</div> 
-	    <div></div> 
+	    <div class="price-value"><div style="margin:8px">PainTerrific</div>
+	    <div></div>
 	  </div>
 	</div>
 	<h3 class="heading"></h3>
@@ -255,7 +255,7 @@ if($sql->isLogin() == 1)
 	</div>
 	<div class="pricingTable-signup">
 	  <a href="#" data-toggle="modal" data-target="#myModal4">Know More</a>
-<?php 
+<?php
 
 	     if($sql->isLogin() == 1)
 	     {
@@ -273,8 +273,8 @@ if($sql->isLogin() == 1)
 	<div class="pricingTable11">
 	  <div class="pricingTable-header" style="height:12rem">
 
-	    <div class="price-value"><div style="margin:8px">Pixeloscope</div> 
-	    <div></div> 
+	    <div class="price-value"><div style="margin:8px">Pixeloscope</div>
+	    <div></div>
 	  </div>
 	</div>
 	<h3 class="heading"></h3>
@@ -287,7 +287,7 @@ if($sql->isLogin() == 1)
 	</div>
 	<div class="pricingTable-signup">
 	  <a href="#" data-toggle="modal" data-target="#myModal5">Know More</a>
-	  <?php 
+	  <?php
 
 	     if($sql->isLogin() == 1)
 	     {
@@ -298,7 +298,7 @@ if($sql->isLogin() == 1)
 ?>
 	</div>
       </div>
-      </div>               
+      </div>
 
 
 
@@ -306,8 +306,8 @@ if($sql->isLogin() == 1)
 	<div class="pricingTable11 red">
 	  <div class="pricingTable-header" style="height:12rem">
 
-	    <div class="price-value"><div style="margin:8px">Shabd-War</div> 
-	    <div></div> 
+	    <div class="price-value"><div style="margin:8px">Shabd-War</div>
+	    <div></div>
 	  </div>
 	</div>
 	<h3 class="heading"></h3>
@@ -320,7 +320,7 @@ if($sql->isLogin() == 1)
 	</div>
 	<div class="pricingTable-signup">
 	  <a href="#" data-toggle="modal" data-target="#myModal6">Know More</a>
-<?php 
+<?php
 
 	     if($sql->isLogin() == 1)
 	     {
@@ -331,7 +331,7 @@ if($sql->isLogin() == 1)
 	  ?>
 	</div>
       </div>
-      </div>  
+      </div>
 
       </div><!--row-->
     </div>
@@ -350,7 +350,7 @@ if($sql->isLogin() == 1)
 			      <center ><h5 style="color: black;">School of Biotechnology <br>
 			   <i style="font-family: Allura; font-weight: bold;"> Kinesis-Events</i></h5></center>
 			      <p style="color: black;"><center ><h3 style="color: black;">Cell-Lock Holmes</h3></center>
-				<hr style="border-color: black;"> 
+				<hr style="border-color: black;">
 
 
 <p style="color: black;"><b>Description:</b> “Absence of evidence is not evidence of absence.” Ever pictured the Sherlock Holmes or the Byomkesh Bakshi in you? Grab the opportunity to unleash your detective brains and solve the brainstorming puzzles!
@@ -361,10 +361,10 @@ This event shall comprise of two rounds:<br>
 <b>Round 2 –</b> Participants will be given case studies. The most suited analysis of the case takes away the prize.<br>
 <b>Judging Criteria:</b><br>
 <ul style="color: black;" >
-<li>Maximum compound names cracked from meme. 
-<li>Least time taken to analyze the meme. 
+<li>Maximum compound names cracked from meme.
+<li>Least time taken to analyze the meme.
 <li>The maximum number of hints cracked for reaching the final answer.
-<li>Closeness to the exact answer. 
+<li>Closeness to the exact answer.
 <li>The minimum time taken to reach the final answer.</ul><br>
 <p style="color: black;"><b>Prize Money worth: </b> &nbsp;Rs. 13,000<br>
 
@@ -396,7 +396,7 @@ Soumitra Pathak (9674455405)
 			      <center ><h5 style="color: black;">School of Biotechnology <br>
 			   <i style="font-family: Allura; font-weight: bold;"> Kinesis-Events</i></h5></center>
 			      <p style="color: black;"><center ><h3 style="color: black;">CHITR-A-GAR</h3></center>
-			      <hr style="border-color: black;"> 
+			      <hr style="border-color: black;">
 
 
 <p style="color: black;"><b>Description:</b><br> Ever wondered how amazing it would have been if you got to paint with a form of life! We unveil the most exciting event which lets you draw your imaginations out on plates. The single celled life form will eat up the food on the plate and it’s pattern of growth would be your pattern of art. <br>
@@ -440,7 +440,7 @@ Soumitra Pathak (9674455405)<br>
 			      <center ><h5 style="color: black;">School of Biotechnology <br>
 			   <i style="font-family: Allura; font-weight: bold;"> Kinesis-Events</i></h5></center>
 			      <p style="color: black;"><center ><h3 style="color: black;">Hackathon 5.0</h3></center>
-			      <hr style="border-color: black;"> 
+			      <hr style="border-color: black;">
 
 
 <p style="color: black;"><b>Description:</b><br> Bring your out-of-the-box ideas in this low-risk environment. Showcase the clever hacker that dwells in you and the one who has the highest endurance wins.
@@ -448,9 +448,9 @@ Soumitra Pathak (9674455405)<br>
 <b>Rules and regulations:</b><br>
 <ul style="color: black;">
 <li>During registration, the participants will be given any problem or issue pertaining to the field of Biotechnology.
-<li>This event which will last for 30hours which begins with each student pitching their unique solutions. 
+<li>This event which will last for 30hours which begins with each student pitching their unique solutions.
 <li>The ones with similar ideas may or may not chose to team up.
-<li>They will be given a duration of 24hours in which they need to work on their ideas which shall be followed by the participants having to showcase their work in the form of a model or poster and a presentation (compulsory). 
+<li>They will be given a duration of 24hours in which they need to work on their ideas which shall be followed by the participants having to showcase their work in the form of a model or poster and a presentation (compulsory).
 </ul>
 <br>
 <b style="color: black;">Judging Criteria:</b><br>
@@ -458,7 +458,7 @@ Soumitra Pathak (9674455405)<br>
 <li>The problem statement and its relevance to the theme.
 <li>The innovativeness and practical applicability of the proposed hack.
  <li>Utility of the hack be it a process or a product.
-<li>The commercialization potential and its scalability. 
+<li>The commercialization potential and its scalability.
 <li>Presentation of the overall idea.</ul><br>
 <p style="color: black;"><b>Prize money worth:</b> &nbsp; Rs. 21,000<br>
 <b>Contacts:</b><br>
@@ -489,15 +489,15 @@ Soumitra Pathak (9674455405)<br>
 			      <center ><h5 style="color: black;">School of Biotechnology <br>
 			   <i style="font-family: Allura; font-weight: bold;"> Kinesis-Events</i></h5></center>
 			       <p style="color: black;"><center ><h3 style="color: black;">Jugaad Out of Kabaad</h3></center>
-			      <hr style="border-color: black;"> 
+			      <hr style="border-color: black;">
 
 
-<p style="color: black;"><b>Description:</b><br> “Use it up, wear it out; Make it do or do without.”  In this event, let your creative hands and imaginative minds come together in sync and we’ll witness a burst of energies. 
+<p style="color: black;"><b>Description:</b><br> “Use it up, wear it out; Make it do or do without.”  In this event, let your creative hands and imaginative minds come together in sync and we’ll witness a burst of energies.
  <br>
 <b>Rules and regulations:</b><br>
 <ul style="color: black;">
-<li>Participants will be provided with any trash material that may range from straws to pencil shaves. 
-<li>The materials shall be provided on a lucky draw basis which will form the primary raw materials for the making of final product. 
+<li>Participants will be provided with any trash material that may range from straws to pencil shaves.
+<li>The materials shall be provided on a lucky draw basis which will form the primary raw materials for the making of final product.
 <li>After a time period of 24hours, the participants are required to present a useful product. The one who makes the best will be declared the JUGADOO OF THE YEAR.
 <li>They can use extra materials for beautification and decoration of the products.
 
@@ -539,10 +539,10 @@ Soumitra Pathak (9674455405)<br>
 			      <center ><h5 style="color: black;">School of Biotechnology <br>
 			   <i style="font-family: Allura; font-weight: bold;"> Kinesis-Events</i></h5></center>
 			       <p style="color: black;"><center ><h3 style="color: black;">Illustory</h3></center>
-			      <hr style="border-color: black;"> 
+			      <hr style="border-color: black;">
 
 
-<p style="color: black;"><b>Description:</b><br>A team of two will comprise of a painter and a writer. A common topic will be given to all and one word, per group, that the writer has to use in their story. The painter in the group will have to depict the story in their painting or sketch. 
+<p style="color: black;"><b>Description:</b><br>A team of two will comprise of a painter and a writer. A common topic will be given to all and one word, per group, that the writer has to use in their story. The painter in the group will have to depict the story in their painting or sketch.
  <br>
 <b>Rules and regulations:</b><br>
 <ul style="color: black;">
@@ -574,7 +574,7 @@ Soumitra Pathak (9674455405)<br>
 
 
  <br>
-<p style="color: black;"><b>Prize money worth:</b><br> &nbsp;1st Prize: Rs. 12,000<br>2nd Prize: Rs 8000 <br>	
+<p style="color: black;"><b>Prize money worth:</b><br> &nbsp;1st Prize: Rs. 12,000<br>2nd Prize: Rs 8000 <br>
 <b>Contacts:</b><br>
 Swagatika (7873632732)
 <br>
@@ -605,7 +605,7 @@ Anuttama (90733 60613) <br>
 			      <center ><h5 style="color: black;">School of Biotechnology <br>
 			   <i style="font-family: Allura; font-weight: bold;"> Kinesis-Events</i></h5></center>
 			       <p style="color: black;"><center ><h3 style="color: black;">Pixeloscope</h3></center>
-			      <<hr style="border-color: black;"> 
+			      <<hr style="border-color: black;">
 
 
 <p style="color: black;"><b>Description:</b><br> Art and thus, photography can exist in any form. Presenting to you Pixeloscope- the event where you do Microscope photography to create MICROGRAPHS.
@@ -614,7 +614,7 @@ Anuttama (90733 60613) <br>
 <b>Rules and regulations:</b><br>
 <ul style="color: black;">
 <li>Individual Submissions. Each entrant may submit up to three images in each contest for judging.
-<li>Photos at least 8" x 10" at 300 dpi. 
+<li>Photos at least 8" x 10" at 300 dpi.
 <li>Photographed safely in the appropriate Bio Safety Level environment for the organism(s) used. For more information, please consult LABORATORY GUIDELINES FOR BIOSAFETY IN TEACHING LABORATORIES and the APPENDIX TO THE GUIDELINES.
 <li> New and original, not seen/posted on the internet before or previously published or displayed elsewhere.
 <li>Digitally untouched or minimally edited to improve clarity of the photo. No other artificial enhancements or manipulations (e.g. false coloring) are permitted.
@@ -660,7 +660,7 @@ Soumitra Pathak (9674455405)<br>
 			      <center ><h5 style="color: black;">School of Biotechnology <br>
 			   <i style="font-family: Allura; font-weight: bold;"> Kinesis-Events</i></h5></center>
 			      <p style="color: black;"><center ><h3 style="color: black;">Cell-Lock Holmes</h3></center>
-				<hr style="border-color: black;"> 
+				<hr style="border-color: black;">
 
 
 <p style="color: black;"><b>Description:</b> “Absence of evidence is not evidence of absence.” Ever pictured the Sherlock Holmes or the Byomkesh Bakshi in you? Grab the opportunity to unleash your detective brains and solve the brainstorming puzzles!
@@ -671,10 +671,10 @@ This event shall comprise of two rounds:<br>
 <b>Round 2 –</b> Participants will be given case studies. The most suited analysis of the case takes away the prize.<br>
 <b>Judging Criteria:</b><br>
 <ul style="color: black;" >
-<li>Maximum compound names cracked from meme. 
-<li>Least time taken to analyze the meme. 
+<li>Maximum compound names cracked from meme.
+<li>Least time taken to analyze the meme.
 <li>The maximum number of hints cracked for reaching the final answer.
-<li>Closeness to the exact answer. 
+<li>Closeness to the exact answer.
 <li>The minimum time taken to reach the final answer.</ul><br>
 <p style="color: black;"><b>Prize Money worth: </b> &nbsp;Rs. 13,000<br>
 
@@ -707,7 +707,7 @@ Soumitra Pathak (9674455405)
 			      <center ><h5 style="color: black;">School of Biotechnology <br>
 			   <i style="font-family: Allura; font-weight: bold;"> Kinesis-Events</i></h5></center>
 			       <p style="color: black;"><center ><h3 style="color: black;">Shabd-War</h3></center>
-			      <hr style="border-color: black;"> 
+			      <hr style="border-color: black;">
 
 
 <p style="color: black;"><b>Description:</b><br> “Prove me wrong, prove me right; it’s the fight of words and thus, I shall strive.” A general event to involve the views of students from each and every field with topics pertaining to Life Sciences background. Tighten your belts, mates! This ride will be worth the take.
@@ -720,7 +720,7 @@ Turncoat round: each speaker gets 60 seconds for speaking for the motion and 60 
 Preparation time 10 mins.
 <li><b>Round 2:</b><br>
 Classical debate.
-Participants will be paired with a random opponent and each have to speak either for or against the motion. Preparation time 15min. Each participant will be given 5 minutes to speak on it. 
+Participants will be paired with a random opponent and each have to speak either for or against the motion. Preparation time 15min. Each participant will be given 5 minutes to speak on it.
 
 
 
@@ -731,8 +731,8 @@ Participants will be paired with a random opponent and each have to speak either
 <ul style="color: black;">
 <li>Time utilisation
 <li>Relevance to topic
-<li>Content (structure, points, facts/statistics, recent studies etc.) 
-<li>Response to rebuttals 
+<li>Content (structure, points, facts/statistics, recent studies etc.)
+<li>Response to rebuttals
 <li>Bonus: opponent rebuttal
 <li>Penalty: exceeding time limit
 

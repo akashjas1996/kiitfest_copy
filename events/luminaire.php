@@ -45,7 +45,7 @@ $sql = new sql();
                 <div class="row align-items-center">
                     <div class="col-10 col-lg-4">
                         <h1 class="site-branding flex">
-                            <a href="index.php">
+                            <a href="index.html">
                                 <img src="../img/kiitfest_logo.png" alt="kiitfest logo" height="85px">
                             </a>
                         </h1>
@@ -60,21 +60,21 @@ $sql = new sql();
                                 <span></span>
                             </div><!-- .hamburger-menu -->
                             <ul>
-                                <li><a href="../index.php">HOME</a></li>
+                                <li><a href="../index.html">HOME</a></li>
                                 <li><a href="../technical.php">TECHNICAL</a></li>
                                 <li><a href="../cultural.php">CULTURAL</a></li>
                                 <li><a href="../quizfest.php">QUIZFEST</a></li>
-                                <li><a href="../webteam.php">WEB TEAM</a></li>
-            
+                                <li><a href="../webteam.php"></a></li>
+
                                 <?php
                                     if($sql->isLogin()==1)
                                     {
                                       echo '<li><a href="checkout.php">CHECKOUT</a></li>';
                                         echo '<li><a href="../logout.php">LOGOUT</a></li>';
-                                        
+
                                     }
                                 ?>
-              
+
                             </ul><!-- flex -->
                         </nav><!-- .site-navigation -->
                     </div><!-- .col-12 -->
@@ -111,9 +111,9 @@ $sql = new sql();
         <div class="col-md-4 col-sm-6">
         <div class="pricingTable11">
           <div class="pricingTable-header" style="height:12rem">
-            
-            <div class="price-value"><div style="margin:8px">Brainotracking</div> 
-            <div></div> 
+
+            <div class="price-value"><div style="margin:8px">Brainotracking</div>
+            <div></div>
           </div>
         </div>
         <h3 class="heading"></h3>
@@ -126,27 +126,27 @@ $sql = new sql();
         </div>
         <div class="pricingTable-signup">
           <a href="#" data-toggle="modal" data-target="#myModal1">Know More</a>
-          <?php 
-             
+          <?php
+
              if($sql->isLogin() == 1)
              {
                echo '
                 <a onClick=addToCart(401) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
-              
+
               }
           ?>
         </div>
       </div>
       </div>
-                  
+
 <!-- Modal 1 -->
-                    
+
       <!--Modal starts-->
   <!--modal 1-->
   <div class="modal fade" id="myModal1" role="dialog">
                         <div class="modal-dialog modal-lg">
                           <div class="modal-content">
-                           
+
                             <div class="modal-body" style="background-color: aqua; ">
                               <button type="button" class="close" aria-label="Close" data-dismiss="modal">
                                 <span aria-hidden="true">&times;</span>
@@ -155,8 +155,8 @@ $sql = new sql();
                               <center ><h5 style="color: black;">School Of Computer Science <br>
                            <i style="font-family: Allura; font-weight: bold;"> Luminare-Events</i></h5></center>
                              <p style="color: black;"><center ><h3 style="color: black;">Brainotracking</h3></center>
-                              
-                              <hr style="border-color: black;"> 
+
+                              <hr style="border-color: black;">
 
 <p style="color: black;"><b>Description:</b><br> <b>“Truth can only be found in one place : THE CODE”</b><br>
 If you think you have the 7th sense, Which people normally refer to as the Coder Sense then brush up your mind for a brain teasing snippets with the essence of cinematic universe. Let your mind relax while reading the code, but let me remind you time is important.
@@ -179,14 +179,14 @@ Round 1 :
 <ol style="color: black;">
 <Li>A code snippet will be given along with its output.
 <Li>The code snippet will be jumbled.
-<Li>It is to be ordered correctly. 
+<Li>It is to be ordered correctly.
 <Li>Winners will be selected on minimum time taken to order the code according to the output.
 
 
 </ol>
 </p>
 <p style="color: black;"><b>Prize money worth:</b> &nbsp; Rs. 20,000<br>
-                       
+
                       <br>
 <b>Contacts:</b><br>
 Ankita Kumari, Bhavya Raj, Natasha Michael, Shalini Jha <br>
@@ -200,21 +200,21 @@ Ankita Kumari, Bhavya Raj, Natasha Michael, Shalini Jha <br>
 </p>
 
   </div>
-                            
+
                           </div>
                         </div>
                       </div>
 
         <!--end of modal 1-->
-                 
+
 
 
         <div class="col-md-4 col-sm-6">
         <div class="pricingTable11 red">
           <div class="pricingTable-header" style="height:12rem">
-            
-            <div class="price-value"><div style="margin:8px">Hackathon</div> 
-            <div></div> 
+
+            <div class="price-value"><div style="margin:8px">Hackathon</div>
+            <div></div>
           </div>
         </div>
         <h3 class="heading"></h3>
@@ -227,30 +227,30 @@ Ankita Kumari, Bhavya Raj, Natasha Michael, Shalini Jha <br>
         </div>
         <div class="pricingTable-signup">
           <a href="#" data-toggle="modal" data-target="#myModal2">Know More</a>
-          <?php 
-             
+          <?php
+
              if($sql->isLogin() == 1)
              {
                echo '
                 <a onClick=addToCart(402) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
-              
+
               }
           ?>
         </div>
       </div>
       </div>
-                      
-                      
-                  
-                
+
+
+
+
 
 
       <div class="col-md-4 col-sm-6">
         <div class="pricingTable11 green">
           <div class="pricingTable-header" style="height:12rem">
-            
-            <div class="price-value"><div style="margin:8px">Matricity</div> 
-            <div></div> 
+
+            <div class="price-value"><div style="margin:8px">Matricity</div>
+            <div></div>
           </div>
         </div>
         <h3 class="heading"></h3>
@@ -263,30 +263,30 @@ Ankita Kumari, Bhavya Raj, Natasha Michael, Shalini Jha <br>
         </div>
         <div class="pricingTable-signup">
           <a href="#" data-toggle="modal" data-target="#myModal3">Know More</a>
-          <?php 
-             
+          <?php
+
              if($sql->isLogin() == 1)
              {
                echo '
                 <a onClick=addToCart(403) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
-              
+
               }
           ?>
         </div>
       </div>
       </div>
-                        
 
-                      
+
+
 </div><!--row tag ends-->
-           
+
         <div class="row" style="margin-left: 2%; margin-top: 10%;margin-right:2%;">
           <div class="col-md-4 col-sm-6">
         <div class="pricingTable11 blue">
           <div class="pricingTable-header" style="height:12rem">
-            
-            <div class="price-value"><div style="margin:8px">Minute-to-Win-it</div> 
-            <div></div> 
+
+            <div class="price-value"><div style="margin:8px">Minute-to-Win-it</div>
+            <div></div>
           </div>
         </div>
         <h3 class="heading"></h3>
@@ -299,26 +299,26 @@ Ankita Kumari, Bhavya Raj, Natasha Michael, Shalini Jha <br>
         </div>
         <div class="pricingTable-signup">
           <a href="#" data-toggle="modal" data-target="#myModal4">Know More</a>
-          <?php 
-             
+          <?php
+
              if($sql->isLogin() == 1)
              {
                echo '
                 <a onClick=addToCart(404) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
-              
+
               }
           ?>
         </div>
       </div>
       </div>
-               
+
 
        <div class="col-md-4 col-sm-6">
         <div class="pricingTable11 red">
           <div class="pricingTable-header" style="height:12rem">
-            
-            <div class="price-value"><div style="margin:8px">Eagle's Hunt</div> 
-            <div></div> 
+
+            <div class="price-value"><div style="margin:8px">Eagle's Hunt</div>
+            <div></div>
           </div>
         </div>
         <h3 class="heading"></h3>
@@ -331,27 +331,27 @@ Ankita Kumari, Bhavya Raj, Natasha Michael, Shalini Jha <br>
         </div>
         <div class="pricingTable-signup">
           <a href="#" data-toggle="modal" data-target="#myModal5">Know More</a>
-          <?php 
-             
+          <?php
+
              if($sql->isLogin() == 1)
              {
                echo '
                 <a onClick=addToCart(405) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
-              
+
               }
           ?>
         </div>
       </div>
-      </div>               
-       
+      </div>
 
-        
+
+
       <div class="col-md-4 col-sm-6">
         <div class="pricingTable11">
           <div class="pricingTable-header" style="height:12rem">
-            
-            <div class="price-value"><div style="margin:8px">Tech-Builder</div> 
-            <div>Konflictus 5.0</div> 
+
+            <div class="price-value"><div style="margin:8px">Tech-Builder</div>
+            <div>Konflictus 5.0</div>
           </div>
         </div>
         <h3 class="heading"></h3>
@@ -364,22 +364,22 @@ Ankita Kumari, Bhavya Raj, Natasha Michael, Shalini Jha <br>
         </div>
         <div class="pricingTable-signup">
           <a href="#" data-toggle="modal" data-target="#myModal6">Know More</a>
-          <?php 
-             
+          <?php
+
              if($sql->isLogin() == 1)
              {
                echo '
                 <a onClick=addToCart(406) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
-              
+
               }
           ?>
         </div>
       </div>
-      </div>  
-                  
+      </div>
+
 
       </div><!--row--><!-- col-6 -->
-                    
+
 
                 </div><!-- blog-list-page -->
             </div><!-- last-news -->
@@ -399,7 +399,7 @@ Ankita Kumari, Bhavya Raj, Natasha Michael, Shalini Jha <br>
 <div class="modal fade" id="myModal2" role="dialog">
                         <div class="modal-dialog modal-lg">
                           <div class="modal-content">
-                           
+
                             <div class="modal-body" style="background-color: aqua;">
                               <button type="button" class="close" aria-label="Close" data-dismiss="modal">
                                 <span aria-hidden="true">&times;</span>
@@ -408,8 +408,8 @@ Ankita Kumari, Bhavya Raj, Natasha Michael, Shalini Jha <br>
                               <center ><h5 style="color: black;">School of Computer Science <br>
                            <i style="font-family: Allura; font-weight: bold;"> Luminare-Events</i></h5></center>
                                <p style="color: black;"><center ><h3 style="color: black;">Hackathon</h3></center>
-                              
-                              <hr style="border-color: black;"> 
+
+                              <hr style="border-color: black;">
 
 <p style="color: black;"><b>Description:</b><br> Hey Coders! Isn't it time you registered already? Brush up on your favorite programming language, because LUMINAIRE presents Hackathon. Whenever a layman hears the term 'coding', a nerd with glasses and immense logical skills is pictured. Show the world, that logic is just one side of the coin. Display your artistic and innovation skills and create theme based website/app under a time pressure. Are you ready for the challenge, coz we are here waiting for you.
 
@@ -418,13 +418,13 @@ Ankita Kumari, Bhavya Raj, Natasha Michael, Shalini Jha <br>
 <b>Rules and regulations:</b><br>
 
 <ul style="color: black;">
-<li>Team Size: maximum 2 participants 
+<li>Team Size: maximum 2 participants
 
 <li>Duration: 6 hours
 
 <li>All ideas/codes must be original and developed specifically for the event.
 
-<li>Please get your own laptops, mobile phones and any other devices with the necessary software. While a Wi-Fi connection would be provided, no tech support for   connecting your personal devices to the same would be available. 
+<li>Please get your own laptops, mobile phones and any other devices with the necessary software. While a Wi-Fi connection would be provided, no tech support for   connecting your personal devices to the same would be available.
 
 <li>The teams can code the challenge in any desired programming language.
 
@@ -452,18 +452,18 @@ Adarsh Parashar (7985235594)
 </p>
 </p>
                             </div>
-                            
+
                           </div>
                         </div>
                       </div>
         <!--modal 2 closes-->
 
         <!--modal 3-->
-   
+
                       <div class="modal fade" id="myModal3" role="dialog">
                         <div class="modal-dialog modal-lg">
                           <div class="modal-content">
-                           
+
                             <div class="modal-body" style="background-color: aqua;">
                               <button type="button" class="close" aria-label="Close" data-dismiss="modal">
                                 <span aria-hidden="true">&times;</span>
@@ -472,8 +472,8 @@ Adarsh Parashar (7985235594)
                               <center ><h5 style="color: black;">School of Computer Science <br>
                            <i style="font-family: Allura; font-weight: bold;"> Luminare-Events</i></h5></center>
                                <p style="color: black;"><center ><h3 style="color: black;">Matricity</h3></center>
-                              
-                              <hr style="border-color: black;"> 
+
+                              <hr style="border-color: black;">
 
 <p style="color: black;"><b>Description:</b><br>Each puzzle is an enigma. Everyone is a puzzle not only to himself but to others also, and the great mystery of our time is how we penetrate this puzzle. Come conjure the world of puzzle and feel the adrenaline rush down your veins for a mind teasing conquest of inexplicable world.
 
@@ -490,7 +490,7 @@ Adarsh Parashar (7985235594)
 </ul>
 
 <p style="color: black;"><b>Prize money worth:</b> &nbsp; Rs. 13,000<br>
-                   
+
 <b>Contacts:</b><br>
 Coordinator<br>
 Bharat Sharma(8795487676)<br>
@@ -498,7 +498,7 @@ Bharat Sharma(8795487676)<br>
 </p>
 
                             </div>
-                            
+
                           </div>
                         </div>
                       </div>
@@ -508,7 +508,7 @@ Bharat Sharma(8795487676)<br>
 <div class="modal fade" id="myModal4" role="dialog">
                         <div class="modal-dialog modal-lg">
                           <div class="modal-content">
-                           
+
                             <div class="modal-body" style="background-color: aqua;">
                               <button type="button" class="close" aria-label="Close" data-dismiss="modal">
                                 <span aria-hidden="true">&times;</span>
@@ -517,8 +517,8 @@ Bharat Sharma(8795487676)<br>
                               <center ><h5 style="color: black;">School of Computer Science <br>
                            <i style="font-family: Allura; font-weight: bold;"> Luminare-Events</i></h5></center>
                                 <p style="color: black;"><center ><h3 style="color: black;">Minute-to-Win-it</h3></center>
-                              
-                              <hr style="border-color: black;"> 
+
+                              <hr style="border-color: black;">
 
 <p style="color: black;"><b>Description:</b><br> It takes an incredibly smart person to do something incredibly fast. Do have needle sharp focus and Usain Bolt speed? Do you have what it takes to complete any given task in a minute?<br>
 If yes, welcome champ, to a minute to win it.
@@ -529,8 +529,8 @@ If yes, welcome champ, to a minute to win it.
 
 <ul style="color: black;">
 <li>2-5  participants in each team.
- <li>Each round will have interesting task 
- <li>There will be around 4-5 rounds 
+ <li>Each round will have interesting task
+ <li>There will be around 4-5 rounds
  <li>Each round will be Knockout round.
 
 </ul>
@@ -547,7 +547,7 @@ Kaushtoov Biswas (9078802955)<br>
 </p>
 </p>
                             </div>
-                            
+
                           </div>
                         </div>
                       </div>
@@ -557,7 +557,7 @@ Kaushtoov Biswas (9078802955)<br>
 <div class="modal fade" id="myModal5" role="dialog">
                         <div class="modal-dialog modal-lg">
                           <div class="modal-content">
-                           
+
                             <div class="modal-body" style="background-color: aqua;">
                               <button type="button" class="close" aria-label="Close" data-dismiss="modal">
                                 <span aria-hidden="true">&times;</span>
@@ -566,8 +566,8 @@ Kaushtoov Biswas (9078802955)<br>
                               <center ><h5 style="color: black;">School of Computer Science <br>
                            <i style="font-family: Allura; font-weight: bold;"> Luminare-Events</i></h5></center>
                                <p style="color: black;"><center ><h3 style="color: black;">Eagle's Hunt</h3></center>
-                              
-                              <hr style="border-color: black;"> 
+
+                              <hr style="border-color: black;">
 
 <p style="color: black;"><b>Description:</b><br>“To date, treasure-hunters have followed up clue after clue, including a dagger-marked tree, to no avail. If there is a fortune buried in Handcart Gulch, it is still safely hidden”, so do you have what it needs to do the mind boggling search for the answers. So fasten your seatbelts for this adventurous ride.
 
@@ -596,9 +596,9 @@ Ankita Kumari (7978136032)
 </p>
 </p>
 </p>
-     
+
                             </div>
-                            
+
                           </div>
                         </div>
                       </div>
@@ -608,7 +608,7 @@ Ankita Kumari (7978136032)
 <div class="modal fade" id="myModal6" role="dialog">
                         <div class="modal-dialog modal-lg">
                           <div class="modal-content">
-                           
+
                             <div class="modal-body" style="background-color: aqua;">
                               <button type="button" class="close" aria-label="Close" data-dismiss="modal">
                                 <span aria-hidden="true">&times;</span>
@@ -617,8 +617,8 @@ Ankita Kumari (7978136032)
                               <center ><h5 style="color: black;">School of Computer Science <br>
                            <i style="font-family: Allura; font-weight: bold;"> Luminare-Events</i></h5></center>
                               <p style="color: black;"><center ><h3 style="color: black;">Tech-Builder</h3></center>
-                              
-                              <hr style="border-color: black;"> 
+
+                              <hr style="border-color: black;">
 
 <p style="color: black;"><b>Description:</b><br>Living at risk is jumping off the cliff and building your wings at the way down, want to feel the same and build your solution just from raw ideas? Then you are at the right place and good to go, it will need nothing other than speedy analysis of thoughts. “Be prepared”
 
@@ -649,7 +649,7 @@ Ritik (9546862541)<br>
 </p>
 </p>
                             </div>
-                            
+
                           </div>
                         </div>
                       </div>
@@ -695,7 +695,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
         </div><!-- footer-content-wrapper -->
     </footer><!-- site-footer -->
 
-    
+
     <script type='text/javascript' src='../js/jquery.js'></script>
     <script type='text/javascript' src='../js/masonry.pkgd.min.js'></script>
     <script type='text/javascript' src='../js/jquery.collapsible.min.js'></script>
@@ -706,7 +706,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script type='text/javascript' src='../js/custom.js'></script>
 
     <style >
-  
+
   .pricingTable11{text-align:center;background:#fff;margin:0 2px;box-shadow:0 0 10px #ababab;padding-bottom:40px;border-radius:10px;color:#cad0de;transform:scale(1);transition:all .5s ease 0s}
 .pricingTable11:hover{transform:scale(1.05);z-index:1}
 .pricingTable11 .pricingTable-header{padding:40px 0;background:#f5f6f9;border-radius:10px 10px 50% 50%;transition:all .5s ease 0s}
