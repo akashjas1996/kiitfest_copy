@@ -120,7 +120,7 @@ $sql = new sql();
                     <div class="col-12 col-md-4 single-blog-content">
                         <div class="blog-content">
                             <figure class="featured-image">
-                                <a href="#"> <img src="images/blog-image-1.jpg" alt="fesival+celebration"> </a>
+                                <a href="#"> <img src="img/works/frozen in time.png" alt="fesival+celebration"> </a>
                             </figure><!-- featured-image -->
                             
                             
@@ -343,7 +343,7 @@ A. Angana Majumder        (Ph. No.-7873877305)
                     <div class="col-12 col-md-4 single-blog-content">
                         <div class="blog-content">
                             <figure class="featured-image">
-                                <a href="#"> <img src="images/blog-image-3.jpg" alt="fesival+celebration"> </a>
+                                <a href="#"> <img src="img/works/open sesame.png" alt="fesival+celebration"> </a>
                             </figure><!-- featured-image -->
 
                            
@@ -610,7 +610,7 @@ Peenal-9078802826 <br>
                     <div class="col-12 col-md-4 single-blog-content">
                         <div class="blog-content">
                             <figure class="featured-image">
-                                <a href="#"> <img src="images/tellatale.png" alt="fesival+celebration"> </a>
+                                <a href="#"><img src="img/works/tell a tale.png" alt="fesival+celebration"> </a>
                             </figure><!-- featured-image -->
 
                            
@@ -987,7 +987,7 @@ However, the above criteria are completely subjected to discretion of judges.</l
                     <div class="col-12 col-md-4 single-blog-content">
                         <div class="blog-content">
                             <figure class="featured-image">
-                                <a href="#"> <img src="images/blog-image-2.jpg" alt="fesival+celebration"> </a>
+                                <a href="#"><img src="img/works/isle to glory.png" alt="fesival+celebration"> </a>
                             </figure><!-- featured-image -->
 
 
@@ -1119,7 +1119,7 @@ Choreography, Beat kills, Costumes, Coordination, Innovation, originality, and O
                     <div class="col-12 col-md-4 single-blog-content">
                         <div class="blog-content">
                             <figure class="featured-image">
-                                <a href="#"> <img src="images/blog-image-3.jpg" alt="fesival+celebration"> </a>
+                                <a href="#"> <img src="img/works/instantofie.png" alt="fesival+celebration"> </a>
                             </figure><!-- featured-image -->
 
                            
@@ -1223,7 +1223,7 @@ Choreography, Beat kills, Costumes, Coordination, Innovation, originality, and O
                     <div class="col-12 col-md-4 single-blog-content">
                         <div class="blog-content">
                             <figure class="featured-image">
-                                <a href="#"> <img src="images/blog-image-1.jpg" alt="fesival+celebration"> </a>
+                                <a href="#"> <img src="img/works/fuego.png" alt="fesival+celebration"> </a>
                             </figure><!-- featured-image -->
 
                           
@@ -1358,7 +1358,7 @@ obey.</b>/p>
                     <div class="col-12 col-md-4 single-blog-content">
                         <div class="blog-content">
                             <figure class="featured-image">
-                                <a href="#"> <img src="images/blog-image-5.jpg" alt="fesival+celebration"> </a>
+                                <a href="#"> <img src="img/works/chitra vi chitra.png" alt="fesival+celebration"> </a>
                             </figure><!-- featured-image -->
 
                            
@@ -1504,7 +1504,7 @@ obey.</b>/p>
                     <div class="col-12 col-md-4 single-blog-content">
                         <div class="blog-content">
                             <figure class="featured-image">
-                                <a href="#"> <img src="images/blog-image-5.jpg" alt="fesival+celebration"> </a>
+                                <a href="#"> <img src="img/works/alankaar.png" alt="fesival+celebration"> </a>
                             </figure><!-- featured-image -->
 
                           
@@ -1623,7 +1623,7 @@ the participant might be disqualified as per the jury decision.</li>
                     <div class="col-12 col-md-12 single-blog-content">
                         <div class="blog-content">
                             <figure class="featured-image">
-                                <a href="#"> <img src="images/blog-image-3.jpg" alt="fesival+celebration"> </a>
+                                <a href="#"><img src="img/works/illustory.png" alt="fesival+celebration"> </a>
                             </figure><!-- featured-image -->
 
                            
