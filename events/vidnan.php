@@ -58,7 +58,7 @@ $sql = new sql();
                 <div class="row align-items-center">
                     <div class="col-10 col-lg-4">
                         <h1 class="site-branding flex">
-                            <a href="index.html">
+                            <a href="../index.html">
                                 <img src="../img/kiitfest_logo.png" alt="kiitfest logo" height="85px">
                             </a>
                         </h1>
