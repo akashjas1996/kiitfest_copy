@@ -143,7 +143,7 @@ $sql = new sql();
                     <div class="col-12 col-md-6 single-blog-content">
                         <div class="blog-content">
                             <figure class="featured-image">
-                                <a href="#"> <img src="images/blog-image-1.jpg" alt="fesival+celebration"> </a>
+                                <a href="#"> <img src="1.png" alt="fesival+celebration"> </a>
                             </figure><!-- featured-image -->
 
                             <div class="box-link-date">
@@ -233,7 +233,7 @@ Email - qutopia 2018@gmail.com<br>
                     <div class="col-12 col-md-6 single-blog-content">
                         <div class="blog-content">
                             <figure class="featured-image">
-                                <a href="#"> <img src="images/blog-image-2.jpg" alt="fesival+celebration"> </a>
+                                <a href="#"> <img src="2.png" alt="fesival+celebration"> </a>
                             </figure><!-- featured-image -->
 
                            
