@@ -61,7 +61,7 @@ $sql = new sql();
                 <div class="row align-items-center">
                     <div class="col-10 col-lg-4">
                         <h1 class="site-branding flex">
-                            <a href="index.php">
+                            <a href="index.html">
                                 <img src="../img/kiitfest_logo.png" alt="kiitfest logo" height="85px">
                             </a>
                         </h1>
@@ -76,23 +76,23 @@ $sql = new sql();
                                 <span></span>
                             </div><!-- .hamburger-menu -->
                             <ul>
-                                <li><a href="../index.php">HOME</a></li>
+                                <li><a href="../index.html">HOME</a></li>
                                 <li><a href="../technical.php">TECHNICAL</a></li>
                                 <li><a href="../cultural.php">CULTURAL</a></li>
                                 <li><a href="../quizfest.php">QUIZFEST</a></li>
-                                <li><a href="../webteam.php">WEB TEAM</a></li>
-                                <li><a href="../contact.php">CONTACT</a></li>
+                                <li><a href="../webteam.php"></a></li>
+                                <li><a href="../contact.php"></a></li>
                                 <?php
                                     if($sql->isLogin()==1)
                                     {
                                       echo '<li><a href="checkout.php">CHECKOUT</a></li>';
                                       echo '<li><a href="../logout.php">LOGOUT</a></li>';
-                                        
+
                                     }
                                 ?>
                                 <li></li>
                                 <li></li>
-              
+
                             </ul><!-- flex -->
                         </nav><!-- .site-navigation -->
                     </div><!-- .col-12 -->
@@ -120,10 +120,10 @@ $sql = new sql();
               <div class="row align-items-center">
                     <div class="col-lg-4">
                     </div>
-              
-              
+
+
                  <div class="col-lg-8">
-                   
+
                   </div>
              </div>
              <br>
@@ -131,9 +131,9 @@ $sql = new sql();
         <div class="col-md-3 col-sm-6">
         <div class="pricingTable11">
           <div class="pricingTable-header" style="height:12rem">
-            
-            <div class="price-value"><div style="margin:8px">Circuit Design & </div> 
-            <div>Power Relay</div> 
+
+            <div class="price-value"><div style="margin:8px">Circuit Design & </div>
+            <div>Power Relay</div>
           </div>
         </div>
         <h3 class="heading"></h3>
@@ -146,25 +146,25 @@ $sql = new sql();
         </div>
         <div class="pricingTable-signup">
           <a href="#" data-toggle="modal" data-target="#myModal">Know More</a>
-          <?php 
-             
+          <?php
+
              if($sql->isLogin() == 1)
              {
                echo '
                 <a onClick=addToCart(101) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
-              
+
               }
           ?>
         </div>
       </div>
       </div>
-                
+
         <div class="col-md-3 col-sm-6">
         <div class="pricingTable11 red">
           <div class="pricingTable-header" style="height:12rem">
-            
-            <div class="price-value"><div style="margin:8px">Design 4 </div> 
-            <div>Energy </div> 
+
+            <div class="price-value"><div style="margin:8px">Design 4 </div>
+            <div>Energy </div>
           </div>
         </div>
         <h3 class="heading"></h3>
@@ -177,30 +177,30 @@ $sql = new sql();
         </div>
         <div class="pricingTable-signup">
           <a href="#" data-toggle="modal" data-target="#myModal1">Know More</a>
-          <?php 
+          <?php
               $query="SELECT `kf_id` FROM `participants_participant` WHERE `unique_id`='retriveSessionParticipant()'";
              if($sql->isLogin() == 1)
              {
                echo '
                 <a onClick=addToCart(102) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
-              
+
               }
           ?>
         </div>
       </div>
       </div>
-                      
-                      
-                  
-                
+
+
+
+
 
 
       <div class="col-md-3 col-sm-6">
         <div class="pricingTable11 blue">
           <div class="pricingTable-header" style="height:12rem">
-            
-            <div class="price-value"><div style="margin:8px">KIIT-IEEE</div> 
-            <div> Workshop</div> 
+
+            <div class="price-value"><div style="margin:8px">KIIT-IEEE</div>
+            <div> Workshop</div>
           </div>
         </div>
         <h3 class="heading"></h3>
@@ -213,25 +213,25 @@ $sql = new sql();
         </div>
         <div class="pricingTable-signup">
           <a href="#" data-toggle="modal" data-target="#myModal2">Know More</a>
-          <?php 
+          <?php
               $query="SELECT `kf_id` FROM `participants_participant` WHERE `unique_id`='retriveSessionParticipant()'";
              if($sql->isLogin() == 1)
              {
                echo '
                 <a onClick=addToCart(103) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
-              
+
               }
           ?>
         </div>
       </div>
       </div>
-         
+
          <div class="col-md-3 col-sm-6">
         <div class="pricingTable11 green">
           <div class="pricingTable-header" style="height:12rem">
-            
-            <div class="price-value"><div style="margin:8px">Robot</div> 
-            <div> Triathlon</div> 
+
+            <div class="price-value"><div style="margin:8px">Robot</div>
+            <div> Triathlon</div>
           </div>
         </div>
         <h3 class="heading"></h3>
@@ -244,30 +244,30 @@ $sql = new sql();
         </div>
         <div class="pricingTable-signup">
           <a href="#" data-toggle="modal" data-target="#myModal3">Know More</a>
-          <?php 
+          <?php
               $query="SELECT `kf_id` FROM `participants_participant` WHERE `unique_id`='retriveSessionParticipant()'";
              if($sql->isLogin() == 1)
              {
                echo '
                 <a onClick=addToCart(104) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
-              
+
               }
           ?>
         </div>
       </div>
       </div>
-                                       
 
-                      
+
+
 </div><!--row tag ends-->
-           
+
         <div class="row" style="margin-left: 2%; margin-top: 10%;margin-right:2%;">
           <div class="col-md-4 col-sm-6">
         <div class="pricingTable11 red">
           <div class="pricingTable-header" style="height:12rem">
-            
-            <div class="price-value"><div style="margin:8px">Smart Ways Of </div> 
-            <div>Electrical Application</div> 
+
+            <div class="price-value"><div style="margin:8px">Smart Ways Of </div>
+            <div>Electrical Application</div>
           </div>
         </div>
         <h3 class="heading"></h3>
@@ -280,26 +280,26 @@ $sql = new sql();
         </div>
         <div class="pricingTable-signup">
           <a href="#" data-toggle="modal" data-target="#myModal4">Know More</a>
-          <?php 
+          <?php
               $query="SELECT `kf_id` FROM `participants_participant` WHERE `unique_id`='retriveSessionParticipant()'";
              if($sql->isLogin() == 1)
              {
                echo '
                 <a onClick=addToCart(105) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
-              
+
               }
           ?>
         </div>
       </div>
       </div>
-               
+
 
        <div class="col-md-4 col-sm-6">
         <div class="pricingTable11">
           <div class="pricingTable-header" style="height:12rem">
-            
-            <div class="price-value"><div style="margin:8px"> Solar </div> 
-            <div>Spectrum</div> 
+
+            <div class="price-value"><div style="margin:8px"> Solar </div>
+            <div>Spectrum</div>
           </div>
         </div>
         <h3 class="heading"></h3>
@@ -312,23 +312,23 @@ $sql = new sql();
         </div>
         <div class="pricingTable-signup">
           <a href="#" data-toggle="modal" data-target="#myModal5">Know More</a>
-          <?php 
+          <?php
               $query="SELECT `kf_id` FROM `participants_participant` WHERE `unique_id`='retriveSessionParticipant()'";
              if($sql->isLogin() == 1)
              {
                echo '
                 <a onClick=addToCart(106) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
-              
+
               }
           ?>
         </div>
       </div>
-      </div>               
-       
+      </div>
 
-        
-     </div>  
-                  
+
+
+     </div>
+
 
       </div><!--row-->
     </div>
@@ -338,7 +338,7 @@ $sql = new sql();
  <div class="modal fade" id="myModal" role="dialog">
                         <div class="modal-dialog modal-lg">
                           <div class="modal-content">
-                           
+
                             <div class="modal-body" style="background-color: aqua;">
                               <button type="button" class="close" aria-label="Close" data-dismiss="modal">
                                 <span aria-hidden="true">&times;</span>
@@ -347,7 +347,7 @@ $sql = new sql();
                               <center ><h5 style="color: black;">School of Electrical Engineering <br>
                            <i style="font-family: Allura; font-weight: bold;"> Electrify-Events</i></h5></center>
                               <p style="color: black;"><center ><h3 style="color: black;">Circuit Design & Power Relay</h3></center>
-                                <hr style="border-color: black;"> 
+                                <hr style="border-color: black;">
 
 
 <p style="color: black;"><b>Description:</b> Power relay as well as circuit design is about having knowledge about basic electrical components. Showcase your skills with your ideas about electrical things. Design the best circuit you do with least time. What matters is knowledge and speed with accurate result. So, Think and design how fast and how accurate you can be!
@@ -372,7 +372,7 @@ Stage 3:- Find the fault in the circuit and rectify it within the time limit.<br
 </p>
 <p style="color: black;">
 <b>Contacts:</b><br>
-Shobhan Banerjee (7355433380)  <br>   
+Shobhan Banerjee (7355433380)  <br>
 Anamika Das (7978498536)
 
 <br>
@@ -381,17 +381,17 @@ Anamika Das (7978498536)
 </p>
 </p>
                             </div>
-                            
+
                           </div>
                         </div>
                       </div>
 
                 <!-- end of modal 1 -->
-                
+
                      <div class="modal fade" id="myModal1" role="dialog">
                         <div class="modal-dialog modal-lg">
                           <div class="modal-content">
-                           
+
                             <div class="modal-body" style="background-color: aqua;">
                               <button type="button" class="close" aria-label="Close" data-dismiss="modal">
                                 <span aria-hidden="true">&times;</span>
@@ -400,8 +400,8 @@ Anamika Das (7978498536)
                                <center ><h5 style="color: black;">School of Electrical Engineering <br>
                            <i style="font-family: Allura; font-weight: bold;"> Electrify-Events</i></h5></center>
                               <p style="color: black;"><center ><h3 style="color: black;">Design 4 Energy</h3></center>
-                              <hr style="border-color: black;"> 
- 
+                              <hr style="border-color: black;">
+
 
 <p style="color: black;"><b>Description:</b><br> The best way to predict the future is to design it. Innovation begins at home…..<br>
 The prime motive of this event is to grab out the innovative ideas from the scholars regarding the maximum utilization of Power through  renewable sources of energy. So that the most acceptable outcome would be recognized and can become a tool for its implementation.<br>
@@ -427,7 +427,7 @@ Round 3:- Last round will be judged on best feasible idea and best model of oper
 </p>
 <p style="color: black;">
 <b>Contacts:</b><br>
-Yashwant Kumar Sahu (8463886801)   <br>   
+Yashwant Kumar Sahu (8463886801)   <br>
  Soumya Raj (8984970743)  <br>
 </p>
 </p>
@@ -435,7 +435,7 @@ Yashwant Kumar Sahu (8463886801)   <br>
 </p>
 </p>
                             </div>
-                            
+
                           </div>
                         </div>
                       </div>
@@ -446,7 +446,7 @@ Yashwant Kumar Sahu (8463886801)   <br>
                       <div class="modal fade" id="myModal2" role="dialog">
                         <div class="modal-dialog modal-lg">
                           <div class="modal-content">
-                           
+
                             <div class="modal-body" style="background-color: aqua;">
                               <button type="button" class="close" aria-label="Close" data-dismiss="modal">
                                 <span aria-hidden="true">&times;</span>
@@ -455,12 +455,12 @@ Yashwant Kumar Sahu (8463886801)   <br>
                                <center ><h5 style="color: black;">School of Electrical Engineering <br>
                            <i style="font-family: Allura; font-weight: bold;"> Electrify-Events</i></h5></center>
                               <p style="color: black;"><center ><h3 style="color: black;">KIIT-IEEE Workshop</h3></center>
-                              <hr style="border-color: black;"> 
- 
+                              <hr style="border-color: black;">
+
 
 <p style="color: black;"><b>Description:</b><br> Since it’s inception in 2016, KIIT-IEEE student branch council has organised seminar workshop and seminar on various trending domain in the fields of technology.<br>
 This year is no different. KIIT-IEEE Student branch council invites all enthusiastic techno-geeks to come broaden their horizon on the wide field of science this KIITFEST 2018<br>
-A certificate from the KIIT-IEEE student branch chapter would be awarded to all the attendees   <br> 
+A certificate from the KIIT-IEEE student branch chapter would be awarded to all the attendees   <br>
 <p style="color: black;">
 <b> Contacts</b><br>
 Anubhav Mohanty (7011639373)<br>
@@ -471,7 +471,7 @@ Saikat Gupta (7978780265)<br>
 </p>
 </p>
                             </div>
-                            
+
                           </div>
                         </div>
                       </div>
@@ -482,7 +482,7 @@ Saikat Gupta (7978780265)<br>
                       <div class="modal fade" id="myModal3" role="dialog">
                         <div class="modal-dialog modal-lg">
                           <div class="modal-content">
-                           
+
                             <div class="modal-body" style="background-color: aqua;">
                               <button type="button" class="close" aria-label="Close" data-dismiss="modal">
                                 <span aria-hidden="true">&times;</span>
@@ -492,8 +492,8 @@ Saikat Gupta (7978780265)<br>
                            <i style="font-family: Allura; font-weight: bold;"> Electrify-Events</i></h5></center>
                                <p style="color: black;"><center ><h3 style="color: black;">Robo Triathlon
 </h3></center>
-                              <hr style="border-color: black;"> 
- 
+                              <hr style="border-color: black;">
+
 
 <p style="color: black;"><b>Description:</b><br> It’s time that robots take over! Design a manually controlled mechanical bot, which can push or kick a medium sized ball, and is durable enough to survive highly challenging obstacle course and also would be strong and agile enough for a sumo-style wrestling fight. The prime motive is to built a robot which is brisk as well as strong enough to overcome all the hurdles. Let the games begin.
 
@@ -524,7 +524,7 @@ Abhishek Khushari (8876546411 / 8327707064)<br>
 </p>
 </p>
                             </div>
-                            
+
                           </div>
                         </div>
                       </div>
@@ -534,7 +534,7 @@ Abhishek Khushari (8876546411 / 8327707064)<br>
                       <div class="modal fade" id="myModal4" role="dialog">
                         <div class="modal-dialog modal-lg">
                           <div class="modal-content">
-                           
+
                             <div class="modal-body" style="background-color: aqua;">
                               <button type="button" class="close" aria-label="Close" data-dismiss="modal">
                                 <span aria-hidden="true">&times;</span>
@@ -544,12 +544,12 @@ Abhishek Khushari (8876546411 / 8327707064)<br>
                            <i style="font-family: Allura; font-weight: bold;"> Electrify-Events</i></h5></center>
                                <p style="color: black;"><center ><h3 style="color: black;">Smart ways of Electrical Applications
 </h3></center>
-                              <hr style="border-color: black;"> 
+                              <hr style="border-color: black;">
 
 
-<p style="color: black;"><b>Description:</b><br> Ideate and propose innovative applications of electrical engineering in day-to-day life. Applications can be (but not limited to) related to the field of Medical sciences, traffic control, pollution monitoring, agriculture, water/irrigation, home automation, smart grid, vehicular electronics, etc. 
+<p style="color: black;"><b>Description:</b><br> Ideate and propose innovative applications of electrical engineering in day-to-day life. Applications can be (but not limited to) related to the field of Medical sciences, traffic control, pollution monitoring, agriculture, water/irrigation, home automation, smart grid, vehicular electronics, etc.
 
- 
+
  <br>
 
 <b style="color: black;">Judging Criteria:</b><br>
@@ -558,7 +558,7 @@ Round 2:- Working model of the proposed Idea and small report.<br>
 
 <p style="color: black;"><b>Prize money worth:</b> &nbsp; Rs. 20,000<br>
 <b>Contacts:</b><br>
-Ashutosh Nayak (7999205175)<br>     
+Ashutosh Nayak (7999205175)<br>
 Tanisha Das (9937460081)
 <br>
 
@@ -566,7 +566,7 @@ Tanisha Das (9937460081)
 </p>
 </p>
                             </div>
-                            
+
                           </div>
                         </div>
                       </div>
@@ -578,7 +578,7 @@ Tanisha Das (9937460081)
                       <div class="modal fade" id="myModal5" role="dialog">
                         <div class="modal-dialog modal-lg">
                           <div class="modal-content">
-                           
+
                             <div class="modal-body" style="background-color: aqua;">
                               <button type="button" class="close" aria-label="Close" data-dismiss="modal">
                                 <span aria-hidden="true">&times;</span>
@@ -587,8 +587,8 @@ Tanisha Das (9937460081)
                               <center ><h5 style="color: black;">School of Electrical Engineering <br>
                            <i style="font-family: Allura; font-weight: bold;"> Electrify-Events</i></h5></center>
                                <p style="color: black;"><center ><h3 style="color: black;">Solar Spectrum</h3></center>
-                              <<hr style="border-color: black;"> 
- 
+                              <<hr style="border-color: black;">
+
 
 <p style="color: black;"><b>Description:</b><br>Solar spectrum is about designing solar based car models with creativity. It’s about unleashing your racing spirit in toy cars. Clean and green is our motto as solar cars are the next big thing! We have absolutely no constraints to your creativity or your will to innovate and design solar based car modules. Vroooommm your way to the top with style!
 
@@ -599,11 +599,11 @@ Tanisha Das (9937460081)
 Group participation, maximum member allowed is 3.<br>
 Solo participation is allowed.<br>
 
-ROUND 1(SPEED TEST): In this round, a plain arena will be setup where solar 
-based cars will be competing against each other testing their speed capability. Fastest 
+ROUND 1(SPEED TEST): In this round, a plain arena will be setup where solar
+based cars will be competing against each other testing their speed capability. Fastest
 cars will be selected for the next round.<br>
 
-ROUND 2 (TORQUE TEST): In this final round, hurdles like inclination, water pod 
+ROUND 2 (TORQUE TEST): In this final round, hurdles like inclination, water pod
 etc will be setup, testing the torque capability in the solar cars.<br>
 
 DESIGN SPECIFICATION:<br>
@@ -612,12 +612,12 @@ Should fit inside a standard shoe box.
 <br>
 <p style="color: black;">
 <b style="color: black;">Judging Criteria:</b><br>
-1st round will be judged on aesthetics, rules and specifications followed, creativeness, 
-skills shown, presentation, and speed capability. Fastest teams will be further selected 
+1st round will be judged on aesthetics, rules and specifications followed, creativeness,
+skills shown, presentation, and speed capability. Fastest teams will be further selected
 for final round.<br>
 
-2nd round will be based on torque testing skills, adherence to spirit, successful 
-completion of the hurdles will bag the Top 3 spots. 
+2nd round will be based on torque testing skills, adherence to spirit, successful
+completion of the hurdles will bag the Top 3 spots.
 
 
 <br>
@@ -632,7 +632,7 @@ Shreya Sinha (9078641075)
 </p>
 </p>
                             </div>
-                            
+
                           </div>
                         </div>
                       </div>
@@ -675,7 +675,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
         </div><!-- footer-content-wrapper -->
     </footer><!-- site-footer -->
 
-    
+
     <script type='text/javascript' src='js/jquery.js'></script>
     <script type='text/javascript' src='js/masonry.pkgd.min.js'></script>
     <script type='text/javascript' src='js/jquery.collapsible.min.js'></script>

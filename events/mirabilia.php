@@ -44,7 +44,7 @@ $sql = new sql();
                 <div class="row align-items-center">
                     <div class="col-10 col-lg-4">
                         <h1 class="site-branding flex">
-                            <a href="index.php">
+                            <a href="index.html">
                                 <img src="../img/kiitfest_logo.png" alt="kiitfest logo" height="85px">
                             </a>
                         </h1>
@@ -59,21 +59,21 @@ $sql = new sql();
                                 <span></span>
                             </div><!-- .hamburger-menu -->
                             <ul>
-                                <li><a href="../index.php">HOME</a></li>
+                                <li><a href="../index.html">HOME</a></li>
                                 <li><a href="../technical.php">TECHNICAL</a></li>
                                 <li><a href="../cultural.php">CULTURAL</a></li>
                                 <li><a href="../quizfest.php">QUIZFEST</a></li>
-                                <li><a href="../webteam.php">WEB TEAM</a></li>
-                                
+                                <li><a href="../webteam.php"></a></li>
+
                                 <?php
                                     if($sql->isLogin()==1)
                                     {
                                         echo '<li><a href="checkout.php">CHECKOUT</a></li>';
                                         echo '<li><a href="../logout.php">LOGOUT</a></li>';
-                                        
+
                                     }
                                 ?>
-              
+
                             </ul><!-- flex -->
                         </nav><!-- .site-navigation -->
                     </div><!-- .col-12 -->
@@ -88,7 +88,7 @@ $sql = new sql();
                 <div class="col-12">
                     <div class="entry-header" style="font-size: 215%;margin-left: 2%;%;">
                       School of Computer Application
-                      
+
 
                     </div><!-- entry-header -->
                 </div><!-- col-12 -->
@@ -98,16 +98,16 @@ $sql = new sql();
 
     <div class="content" style="margin-top:10%;">
       <br><br>
-              
+
         <div class="row" style="margin-left:2%;margin-right:2%;" >
-            
+
 
             <div class="col-md-3 col-sm-6">
         <div class="pricingTable11 blue">
           <div class="pricingTable-header" style="height:12rem">
-            
-            <div class="price-value"><div style="margin:8px">Braille Coding</div> 
-            <div></div> 
+
+            <div class="price-value"><div style="margin:8px">Braille Coding</div>
+            <div></div>
           </div>
         </div>
         <h3 class="heading"></h3>
@@ -120,27 +120,27 @@ $sql = new sql();
         </div>
         <div class="pricingTable-signup">
           <a href="#" data-toggle="modal" data-target="#myModal3">Know More</a>
-          <?php 
-             
+          <?php
+
              if($sql->isLogin() == 1)
              {
                echo '
                 <a onClick=addToCart(501) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
-              
+
               }
           ?>
         </div>
       </div>
       </div>
-                  
+
 
 
             <div class="col-md-3 col-sm-6">
         <div class="pricingTable11">
           <div class="pricingTable-header" style="height:12rem">
-            
-            <div class="price-value"><div style="margin:8px">Bring Back To</div> 
-            <div>Life</div> 
+
+            <div class="price-value"><div style="margin:8px">Bring Back To</div>
+            <div>Life</div>
           </div>
         </div>
         <h3 class="heading"></h3>
@@ -153,28 +153,28 @@ $sql = new sql();
         </div>
         <div class="pricingTable-signup">
           <a href="#" data-toggle="modal" data-target="#myModal4">Know More</a>
-          <?php 
-             
+          <?php
+
              if($sql->isLogin() == 1)
              {
                echo '
                 <a onClick=addToCart(502) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
-              
+
               }
           ?>
         </div>
       </div>
       </div>
-                  
-            
+
+
 
 
             <div class="col-md-3 col-sm-6">
         <div class="pricingTable11 green">
           <div class="pricingTable-header" style="height:12rem">
-            
-            <div class="price-value"><div style="margin:8px">Human Snake and </div> 
-            <div> Ladder</div> 
+
+            <div class="price-value"><div style="margin:8px">Human Snake and </div>
+            <div> Ladder</div>
           </div>
         </div>
         <h3 class="heading"></h3>
@@ -187,28 +187,28 @@ $sql = new sql();
         </div>
         <div class="pricingTable-signup">
           <a href="#" data-toggle="modal" data-target="#myModal6">Know More</a>
-          <?php 
-             
+          <?php
+
              if($sql->isLogin() == 1)
              {
                echo '
                 <a onClick=addToCart(503) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
-              
+
               }
           ?>
         </div>
       </div>
       </div>
-                  
 
 
-            
+
+
            <div class="col-md-3 col-sm-6">
         <div class="pricingTable11 red">
           <div class="pricingTable-header" style="height:12rem">
-            
-            <div class="price-value"><div style="margin:8px">Turncoat</div> 
-            <div></div> 
+
+            <div class="price-value"><div style="margin:8px">Turncoat</div>
+            <div></div>
           </div>
         </div>
         <h3 class="heading"></h3>
@@ -221,20 +221,20 @@ $sql = new sql();
         </div>
         <div class="pricingTable-signup">
           <a href="#" data-toggle="modal" data-target="#myModal8">Know More</a>
-          <?php 
-             
+          <?php
+
              if($sql->isLogin() == 1)
              {
                echo '
                 <a onClick=addToCart(504) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
-              
+
               }
           ?>
         </div>
       </div>
       </div>
-                  
-           
+
+
         </div>
     </div>
       <br><br>
@@ -244,7 +244,7 @@ $sql = new sql();
                       <div class="modal fade" id="myModal3" role="dialog">
                         <div class="modal-dialog modal-lg">
                           <div class="modal-content">
-                           
+
                             <div class="modal-body"  style="background-color: aqua;">
                               <button type="button" class="close" aria-label="Close" data-dismiss="modal">
                                 <span aria-hidden="true">&times;</span>
@@ -255,7 +255,7 @@ $sql = new sql();
                               <center>
                                     <h3 style="color:black;">Braille Coding</h3>
                                 </center>
-                                                    <hr style="border-color: black;"> 
+                                                    <hr style="border-color: black;">
 
                                 <p style="color: black;">
 
@@ -283,7 +283,7 @@ have two rounds in which first round is an elimination round.</li>
 A. Priyatesh Shah (+91-7978411690)  <br>  B. Raziur Rahman (+91-8240735593)
 </p>
                             </div>
-                            
+
                           </div>
                         </div>
                       </div>
@@ -294,7 +294,7 @@ A. Priyatesh Shah (+91-7978411690)  <br>  B. Raziur Rahman (+91-8240735593)
                       <div class="modal fade" id="myModal4" role="dialog">
                         <div class="modal-dialog modal-lg">
                           <div class="modal-content">
-                           
+
                             <div class="modal-body"  style="background-color: aqua;">
                               <button type="button" class="close" aria-label="Close" data-dismiss="modal">
                                 <span aria-hidden="true">&times;</span>
@@ -305,7 +305,7 @@ A. Priyatesh Shah (+91-7978411690)  <br>  B. Raziur Rahman (+91-8240735593)
                                <center>
                                     <h3 style="color:black;">Bring Back To Life</h3>
                                 </center>
-                                                 <hr style="border-color: black;"> 
+                                                 <hr style="border-color: black;">
 
                                 <p style="color: black;">
 
@@ -336,7 +336,7 @@ second round.</li>
 <p style="color: black;"><b>Contact with phone numbers:</b><br>
 A. Ravi Kumar (+91-9905083800)  <br>  B. Subhajit Kundu (+91-8840782451)</p>
                             </div>
-                            
+
                           </div>
                         </div>
                       </div>
@@ -347,7 +347,7 @@ A. Ravi Kumar (+91-9905083800)  <br>  B. Subhajit Kundu (+91-8840782451)</p>
                       <div class="modal fade" id="myModal6" role="dialog">
                         <div class="modal-dialog modal-lg">
                           <div class="modal-content">
-                           
+
                             <div class="modal-body"  style="background-color: aqua;">
                               <button type="button" class="close" aria-label="Close" data-dismiss="modal">
                                 <span aria-hidden="true">&times;</span>
@@ -358,7 +358,7 @@ A. Ravi Kumar (+91-9905083800)  <br>  B. Subhajit Kundu (+91-8840782451)</p>
                                  <center>
                                     <h3 style="color:black;">Human Snake and Ladder</h3>
                                 </center>
-                                                   <hr style="border-color: black;"> 
+                                                   <hr style="border-color: black;">
                                 <p style="color: black;">
 
                                  <b> Description of the Event:</b>
@@ -388,7 +388,7 @@ A. Gouri Priya Hansda (91-9040153804)  <br>  B. Anshu Priya (91-9905660327)
 
 
                             </div>
-                            
+
                           </div>
                         </div>
                       </div>
@@ -399,7 +399,7 @@ A. Gouri Priya Hansda (91-9040153804)  <br>  B. Anshu Priya (91-9905660327)
                       <div class="modal fade" id="myModal8" role="dialog">
                         <div class="modal-dialog modal-lg">
                           <div class="modal-content">
-                           
+
                             <div class="modal-body"  style="background-color: aqua;">
                               <button type="button" class="close" aria-label="Close" data-dismiss="modal">
                                 <span aria-hidden="true">&times;</span>
@@ -410,7 +410,7 @@ A. Gouri Priya Hansda (91-9040153804)  <br>  B. Anshu Priya (91-9905660327)
                               <center>
                                     <h3 style="color:black;">Turncoat</h3>
                                 </center>
-                                              <hr style="border-color: black;"> 
+                                              <hr style="border-color: black;">
 
                                 <p style="color: black;">
 
@@ -448,7 +448,7 @@ A. Akansha (+91-9771118956)  <br>  B. Sinet Chowdhury (+91-8910209855)
 
 
                             </div>
-                            
+
                           </div>
                         </div>
                       </div>
@@ -491,7 +491,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
         </div><!-- footer-content-wrapper -->
     </footer><!-- site-footer -->
 
-    
+
      <script type='text/javascript' src='../js/jquery.js'></script>
     <script type='text/javascript' src='../js/masonry.pkgd.min.js'></script>
     <script type='text/javascript' src='../js/jquery.collapsible.min.js'></script>
@@ -502,7 +502,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script type='text/javascript' src='../js/custom.js'></script>
 
     <style >
-  
+
   .pricingTable11{text-align:center;background:#fff;margin:0 2px;box-shadow:0 0 10px #ababab;padding-bottom:40px;border-radius:10px;color:#cad0de;transform:scale(1);transition:all .5s ease 0s}
 .pricingTable11:hover{transform:scale(1.05);z-index:1}
 .pricingTable11 .pricingTable-header{padding:40px 0;background:#f5f6f9;border-radius:10px 10px 50% 50%;transition:all .5s ease 0s}
@@ -550,7 +550,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 </body>
 </html>
 <style >
-  
+
   .card-body{
     background-color: lightgrey;
   }

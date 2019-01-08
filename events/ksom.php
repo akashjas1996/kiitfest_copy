@@ -58,7 +58,7 @@ gtag('config', 'UA-66101749-2');
 		<div class="row align-items-center">
 		    <div class="col-10 col-lg-4">
 			<h1 class="site-branding flex">
-			    <a href="index.php">
+			    <a href="index.html">
 				<img src="../img/kiitfest_logo.png" alt="kiitfest logo" height="85px">
 			    </a>
 			</h1>
@@ -73,11 +73,11 @@ gtag('config', 'UA-66101749-2');
 				<span></span>
 			    </div><!-- .hamburger-menu -->
 			    <ul>
-				<li><a href="../index.php">HOME</a></li>
+				<li><a href="../index.html">HOME</a></li>
 				<li><a href="../technical.php">TECHNICAL</a></li>
 				<li><a href="../cultural.php">CULTURAL</a></li>
 				<li><a href="../quizfest.php">QUIZFEST</a></li>
-				<li><a href="../webteam.php">WEB TEAM</a></li>
+				<li><a href="../webteam.php"></a></li>
 
 <?php
 if($sql->isLogin()==1)
@@ -116,8 +116,8 @@ if($sql->isLogin()==1)
 	<div class="pricingTable11 green">
 	  <div class="pricingTable-header" style="height:12rem">
 
-	    <div class="price-value"><div style="margin:8px">Business</div> 
-	    <div>Simulation</div> 
+	    <div class="price-value"><div style="margin:8px">Business</div>
+	    <div>Simulation</div>
 	  </div>
 	</div>
 	<h3 class="heading"></h3>
@@ -130,7 +130,7 @@ if($sql->isLogin()==1)
 	</div>
 	<div class="pricingTable-signup">
 	  <a href="#" data-toggle="modal" data-target="#myModal1">Know More</a>
-<?php 
+<?php
 
 if($sql->isLogin() == 1)
 {
@@ -151,8 +151,8 @@ if($sql->isLogin() == 1)
 	<div class="pricingTable11 red">
 	  <div class="pricingTable-header" style="height:12rem">
 
-	    <div class="price-value"><div style="margin:8px">Dalal</div> 
-	    <div> Street</div> 
+	    <div class="price-value"><div style="margin:8px">Dalal</div>
+	    <div> Street</div>
 	  </div>
 	</div>
 	<h3 class="heading"></h3>
@@ -165,7 +165,7 @@ if($sql->isLogin() == 1)
 	</div>
 	<div class="pricingTable-signup">
 	  <a href="#" data-toggle="modal" data-target="#myModal2">Know More</a>
-	  <?php 
+	  <?php
 
 	     if($sql->isLogin() == 1)
 	     {
@@ -187,8 +187,8 @@ if($sql->isLogin() == 1)
 	<div class="pricingTable11 blue">
 	  <div class="pricingTable-header" style="height:12rem">
 
-	    <div class="price-value"><div style="margin:8px">Dare To</div> 
-	    <div> Face</div> 
+	    <div class="price-value"><div style="margin:8px">Dare To</div>
+	    <div> Face</div>
 	  </div>
 	</div>
 	<h3 class="heading"></h3>
@@ -201,7 +201,7 @@ if($sql->isLogin() == 1)
 	</div>
 	<div class="pricingTable-signup">
 	  <a href="#" data-toggle="modal" data-target="#myModal3">Know More</a>
-<?php 
+<?php
 
 	     if($sql->isLogin() == 1)
 	     {
@@ -223,8 +223,8 @@ if($sql->isLogin() == 1)
 	<div class="pricingTable11">
 	  <div class="pricingTable-header" style="height:12rem">
 
-	    <div class="price-value"><div style="margin:8px">Ikadhikaar</div> 
-	    <div></div> 
+	    <div class="price-value"><div style="margin:8px">Ikadhikaar</div>
+	    <div></div>
 	  </div>
 	</div>
 	<h3 class="heading"></h3>
@@ -237,7 +237,7 @@ if($sql->isLogin() == 1)
 	</div>
 	<div class="pricingTable-signup">
 	  <a href="#" data-toggle="modal" data-target="#myModal4">Know More</a>
-	  <?php 
+	  <?php
 
 	     if($sql->isLogin() == 1)
 	     {
@@ -255,8 +255,8 @@ if($sql->isLogin() == 1)
 	<div class="pricingTable11 red">
 	  <div class="pricingTable-header" style="height:12rem">
 
-	    <div class="price-value"><div style="margin:8px">Milk Run</div> 
-	    <div></div> 
+	    <div class="price-value"><div style="margin:8px">Milk Run</div>
+	    <div></div>
 	  </div>
 	</div>
 	<h3 class="heading"></h3>
@@ -269,7 +269,7 @@ if($sql->isLogin() == 1)
 	</div>
 	<div class="pricingTable-signup">
 	  <a href="#" data-toggle="modal" data-target="#myModal5">Know More</a>
-<?php 
+<?php
 
 	     if($sql->isLogin() == 1)
 	     {
@@ -280,7 +280,7 @@ if($sql->isLogin() == 1)
 	  ?>
 	</div>
       </div>
-      </div>               
+      </div>
 
 
 
@@ -288,8 +288,8 @@ if($sql->isLogin() == 1)
 	<div class="pricingTable11 green">
 	  <div class="pricingTable-header" style="height:12rem">
 
-	    <div class="price-value"><div style="margin:8px">Synergy</div> 
-	    <div>Konflictus 5.0</div> 
+	    <div class="price-value"><div style="margin:8px">Synergy</div>
+	    <div>Konflictus 5.0</div>
 	  </div>
 	</div>
 	<h3 class="heading"></h3>
@@ -302,7 +302,7 @@ if($sql->isLogin() == 1)
 	</div>
 	<div class="pricingTable-signup">
 	  <a href="#" data-toggle="modal" data-target="#myModal6">Know More</a>
-	  <?php 
+	  <?php
 
 	     if($sql->isLogin() == 1)
 	     {
@@ -313,7 +313,7 @@ if($sql->isLogin() == 1)
 ?>
 	</div>
       </div>
-      </div>  
+      </div>
 
 
       </div><!--row-->
@@ -401,7 +401,7 @@ Pras Khanna <br>
 <li> Participants would be provided with a laptop where there would be an online platform for virtual stock market trading.
 <li> A virtual ID would be created of Rs.2500000 portfolio.
 <li> Participants are required to buy or sell stocks according to their judgement.
-<li> At the end of the trading, the one with a portfolio of Rs.2500000 or more wins.  
+<li> At the end of the trading, the one with a portfolio of Rs.2500000 or more wins.
 
 
 </ul></p>
@@ -426,7 +426,7 @@ Nishan Agarwalla<br>
 			  </div>
 			</div>
 		      </div>
-       <!--MODAL  2 CLOSE-->    
+       <!--MODAL  2 CLOSE-->
 
 <!-- Modal 3-->
 		      <div class="modal fade" id="myModal3" role="dialog">
@@ -482,7 +482,7 @@ Pras Khanna <br>
 			  </div>
 			</div>
 		      </div>
-  <!--MODAL 3 CLOSED-->               
+  <!--MODAL 3 CLOSED-->
 
 <!-- Modal 4 -->
 		      <div class="modal fade" id="myModal4" role="dialog">
@@ -547,7 +547,7 @@ Ujjwal Mahato<br>
 			  </div>
 			</div>
 		      </div>
-      <!--Modal 4 closed-->  
+      <!--Modal 4 closed-->
 
  <!-- Modal 5 -->
 		      <div class="modal fade" id="myModal5" role="dialog">
@@ -598,7 +598,7 @@ Shashi Sekhar Ray<br>
 			  </div>
 			</div>
 		      </div>
-	<!--MODAL 5 CLOSED-->     
+	<!--MODAL 5 CLOSED-->
 
  <!-- Modal  6-->
 		      <div class="modal fade" id="myModal6" role="dialog">
@@ -613,7 +613,7 @@ Shashi Sekhar Ray<br>
 			      <center ><h5 style="color: black;">School of Management <br>
 			   <i style="font-family: Allura; font-weight: bold;"> KSOM-Events</i></h5></center>
 			      <p style="color: black;"><center ><h3 style="color: black;">Synergy Konflictus 5.0</h3></center></p>
-			      <hr style="border-color: black;"> 
+			      <hr style="border-color: black;">
 
 <p style="color: black;"><b>Description:</b><br> Managing Human Capital is a key business function. Happy employees results in better productivity & greater growth. This game will give participants a firsthand feel of managing employees.</p>
  <br>
@@ -651,7 +651,7 @@ Ashrita Das<br>
 			  </div>
 			</div>
 		      </div>
-      <!--MODAL 6 CLOSES-->                                 
+      <!--MODAL 6 CLOSES-->
 
 
 <!--END OF MODALS-->
@@ -749,4 +749,3 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 	     </script>
 </body>
 </html>
-
