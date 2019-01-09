@@ -70,7 +70,7 @@ gtag('config', 'UA-66101749-2');
 
 
 
-<body style="background-image: url(technical(1).png); overflow-x: hidden;">
+<body style="background-image: url(images/bg.jpg); overflow-x: hidden;">
 
 <header id="header" id="home" style1="background-color: rgba(000, 0, 0, 0.6);">
 			    <div class="container" >
@@ -124,7 +124,7 @@ gtag('config', 'UA-66101749-2');
 	  </nav><!-- #nav-menu-container -->
 	</div>
       </div>
-    </header> 
+    </header>
 
 
 <div class="container">
