@@ -228,7 +228,7 @@ $(document).ready(function(){
 
 (() => {
   // Specify the deadline date
-  const deadlineDate = new Date('February 14, 2019 23:59:59').getTime();
+  const deadlineDate = new Date('February 15, 2019 23:59:59').getTime();
   
   // Cache all countdown boxes into consts
   const countdownDays = document.querySelector('.countdown__days .number');

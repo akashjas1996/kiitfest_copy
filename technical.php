@@ -53,10 +53,6 @@ gtag('config', 'UA-66101749-2');
       <link rel="stylesheet" href="css/nice-select.css">
       <link rel="stylesheet" href="css/animate.min.css">
       <link rel="stylesheet" href="css/main.css">
-<script src="js/p5.dom.js"></script>
-<script src="js/p5.min.js"></script>
-<script src="js/sketch.js"></script>
-
   </head>
 
 
