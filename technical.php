@@ -89,7 +89,7 @@ gtag('config', 'UA-66101749-2');
 			    </div>
 			  </header><!-- #header -->
 
-			  <div class="page-header" style="background-image: url('img/technical.jpg')">
+			  <div class="page-header" style="background-image: url(img/technical.png)">
         <div class="container">
             <div class="row">
                 <div class="col-12">
