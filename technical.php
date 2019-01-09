@@ -89,7 +89,7 @@ gtag('config', 'UA-66101749-2');
 			    </div>
 			  </header><!-- #header -->
 
-			  <div class="page-header" style="background-image: url('img/technical.jpg')">
+			  <div class="page-header" style="background-image: url(img/technical.png)">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -133,14 +133,14 @@ gtag('config', 'UA-66101749-2');
 		    <div class="the-complete-lineup">
 			<div class="entry-title">
 			    <p></p>
-			    <h2 style="color: white;">TECHNICAL EVENTS - SCHOOLS</h2>
+			    <h2 style="color: white;"></h2>
 			</div><!-- entry-title -->
 
 			<div class="row the-complete-lineup-artists">
 			    <div class="col-6 col-md-4 col-lg-3 artist-single">
 				<figure class="featured-image">
 				    <a href="events/electrifyn.php"> <img src="img/kiit.jpg" alt=""> </a>
-				    <a href="events/electrifyn.php" class="box-link"> <img src="images/box.jpg" alt=""> </a>
+				    <a href="events/electrifyn.php" class="box-link"> <img src="" alt=""> </a>
 				</figure><!-- featured-image -->
 
 				<a href="events/electrifyn.php"><h2 style="color: white;">ELECTRIFYN</h2></a>
@@ -150,7 +150,7 @@ gtag('config', 'UA-66101749-2');
 			    <div class="col-6 col-md-4 col-lg-3 artist-single">
 				<figure class="featured-image">
 				    <a href="events/kinesis.php"> <img src="img/kinesis.png" alt=""> </a>
-				    <a href="events/kinesis.php" class="box-link"> <img src="images/box.jpg" alt=""> </a>
+				    <a href="events/kinesis.php" class="box-link"> <img src="" alt=""> </a>
 				</figure><!-- featured-image -->
 
 				<a href="events/kinesis.php"><h2 style="color: white;">KINESIS</h2></a>
@@ -160,7 +160,7 @@ gtag('config', 'UA-66101749-2');
 			    <div class="col-6 col-md-4 col-lg-3 artist-single">
 				<figure class="featured-image">
 				    <a href="events/ksom.php"> <img src="img/kiit.jpg"  alt=""> </a>
-				    <a href="events/ksom.php" class="box-link"> <img src="images/box.jpg" alt=""> </a>
+				    <a href="events/ksom.php" class="box-link"> <img src="" alt=""> </a>
 				</figure><!-- featured-image -->
 
 				<a href="events/ksom.php"><h2 style="color: white;">KSOM</h2></a>
@@ -170,7 +170,7 @@ gtag('config', 'UA-66101749-2');
 			    <div class="col-6 col-md-4 col-lg-3 artist-single">
 				<figure class="featured-image">
 				    <a href="events/luminaire.php"> <img src="img/luminaire.png" alt=""> </a>
-				    <a href="events/luminaire.php" class="box-link"> <img src="images/box.jpg" alt=""> </a>
+				    <a href="events/luminaire.php" class="box-link"> <img src="" alt=""> </a>
 				</figure><!-- featured-image -->
 
 			       <a href="events/luminaire.php"> <h2 style="color: white;">LUMINAIRE</h2></a>
@@ -180,7 +180,7 @@ gtag('config', 'UA-66101749-2');
 			    <div class="col-6 col-md-4 col-lg-3 artist-single">
 				<figure class="featured-image">
 				    <a href="events/mirabilia.php"> <img src="img/mirabilia.png" alt=""> </a>
-				    <a href="events/mirabilia.php" class="box-link"> <img src="images/box.jpg" alt=""> </a>
+				    <a href="events/mirabilia.php" class="box-link"> <img src="" alt=""> </a>
 				</figure><!-- featured-image -->
 
 				<a href="events/mirabilia.php"><h2 style="color: white;">MIRABILIA</h2></a>
@@ -190,7 +190,7 @@ gtag('config', 'UA-66101749-2');
 			    <div class="col-6 col-md-4 col-lg-3 artist-single">
 				<figure class="featured-image">
 				    <a href="events/nirminite.php"> <img src="img/nirminite.png"  alt=""> </a>
-				    <a href="events/nirminite.php" class="box-link"> <img src="images/box.jpg" alt=""> </a>
+				    <a href="events/nirminite.php" class="box-link"> <img src="" alt=""> </a>
 				</figure><!-- featured-image -->
 
 				<a href="events/nirminite.php"><h2 style="color: white;">NIRMINITE</h2></a>
@@ -201,7 +201,7 @@ gtag('config', 'UA-66101749-2');
 			    <div class="col-6 col-md-4 col-lg-3 artist-single">
 				<figure class="featured-image">
 				    <a href="events/vidnan.php"> <img src="img/vidnan.png" alt=""> </a>
-				    <a href="events/vidnan.php" class="box-link"> <img src="images/box.jpg" alt=""> </a>
+				    <a href="events/vidnan.php" class="box-link"> <img src="" alt=""> </a>
 				</figure><!-- featured-image -->
 
 				<a href="events/vidnan.php"><h2 style="color: white;">VIDNAN</h2></a>
@@ -211,7 +211,7 @@ gtag('config', 'UA-66101749-2');
 			    <div class="col-6 col-md-4 col-lg-3 artist-single">
 				<figure class="featured-image">
 				    <a href="events/yantriki.php"> <img src="img/yantriki.png" alt=""> </a>
-				    <a href="events/yantriki.php" class="box-link"> <img src="images/box.jpg" alt=""> </a>
+				    <a href="events/yantriki.php" class="box-link"> <img src="" alt=""> </a>
 				</figure><!-- featured-image -->
 
 				<a href="events/yantriki.php"><h2 style="color: white;">YANTRIKI</h2></a>
