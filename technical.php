@@ -133,7 +133,7 @@ gtag('config', 'UA-66101749-2');
 		    <div class="the-complete-lineup">
 			<div class="entry-title">
 			    <p></p>
-			    <h2 style="color: white;">TECHNICAL EVENTS - SCHOOLS</h2>
+			    <h2 style="color: white;"></h2>
 			</div><!-- entry-title -->
 
 			<div class="row the-complete-lineup-artists">
