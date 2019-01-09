@@ -83,8 +83,8 @@ gtag('config', 'UA-66101749-2');
 					  <li class="menu-active"><a href="index.html#home">Home</a></li>
 					  <li><a href="https://kiitfest.org/cultural.php">Cultural</a></li>
 				  <li><a href="quizfest.php">QuizFest</a></li>
-					<li><a href="webteam.php">Our Team</a></li>
-					<li><a href="contact.php">Contact</a></li>
+					<li><a href="webteam.php"></a></li>
+					<li><a href="contact.php"> </a></li>
 				</div>
 			    </div>
 			  </header><!-- #header -->
