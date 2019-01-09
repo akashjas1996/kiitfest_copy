@@ -50,7 +50,7 @@ gtag('config', 'UA-66101749-2');
 
       <link rel="stylesheet" href="css/linearicons.css">
       <link rel="stylesheet" href="css/magnific-popup.css">
-      <link rel="stylesheet" href="css/nice-select.css">					
+      <link rel="stylesheet" href="css/nice-select.css">
       <link rel="stylesheet" href="css/animate.min.css">
       <link rel="stylesheet" href="css/main.css">
 <script src="js/p5.dom.js"></script>
@@ -70,7 +70,7 @@ gtag('config', 'UA-66101749-2');
 
 
 
-<body style="background-image: url(images/bg.jpg); overflow-x: hidden;">
+<body style="background-image: url(technical(1).png); overflow-x: hidden;">
 
 <header id="header" id="home" style1="background-color: rgba(000, 0, 0, 0.6);">
 			    <div class="container" >
@@ -84,7 +84,7 @@ gtag('config', 'UA-66101749-2');
 					  <li><a href="https://kiitfest.org/cultural.php">Cultural</a></li>
 				  <li><a href="quizfest.php">QuizFest</a></li>
 					<li><a href="webteam.php">Our Team</a></li>
-					<li><a href="contact.php">Contact</a></li>	
+					<li><a href="contact.php">Contact</a></li>
 				</div>
 			    </div>
 			  </header><!-- #header -->
@@ -121,10 +121,10 @@ gtag('config', 'UA-66101749-2');
 	      <li><a class="ticker-btn" href="#">Register</a></li>
 	      <li><a class="ticker-btn" href="#">Register</a></li>
 	    </ul>
-	  </nav><!-- #nav-menu-container -->		    		
+	  </nav><!-- #nav-menu-container -->
 	</div>
       </div>
-    </header> #header -->
+    </header> 
 
 
 <div class="container">
@@ -262,7 +262,7 @@ gtag('config', 'UA-66101749-2');
 		</div><!-- row -->
 	    </div><!-- container -->
 	</div><!-- footer-content-wrapper -->
-    </footer><!-- site-footer --> 
+    </footer><!-- site-footer -->
 
     <script type='text/javascript' src='js/jquery.js'></script>
     <script type='text/javascript' src='js/masonry.pkgd.min.js'></script>
