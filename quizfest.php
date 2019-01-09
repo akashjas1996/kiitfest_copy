@@ -47,7 +47,7 @@ $sql = new sql();
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="viewport" content="width-device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-  
+
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
@@ -95,14 +95,14 @@ $sql = new sql();
                                 <li><a href="cultural.php">CULTURAL</a></li>
                                 <!--li><a href="webteam.php">WEB TEAM</a></li>
                                 <li><a href="contact.php">CONTACT</a></li-->
-                                <li>                                    <?php 
+                                <li>                                    <?php
                                 if($sql->isLogin()==1)
                                     {
                                       echo '<li><a href="events/checkout.php">CHECKOUT</a></li>';
-                                        echo '<li><a href="logout.php">LOGOUT</a></li>';    
+                                        echo '<li><a href="logout.php">LOGOUT</a></li>';
                                     }
                                 ?></li>
-              
+
                             </ul><!-- flex -->
                         </nav><!-- .site-navigation -->
                     </div><!-- .col-12 -->
@@ -110,7 +110,7 @@ $sql = new sql();
             </div><!-- container-fluid -->
         </div><!-- header-bar -->
     </header>
-    <div class="page-header" style="background-image: url('img/quizfest.jpg')">
+    <div class="page-header" style="background-image: url('quizfest.png')">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -126,7 +126,7 @@ $sql = new sql();
         </div><!-- container -->
     </div><!-- page-header -->
 
-   
+
 
     <div class="main-content">
         <div class="container">
@@ -147,7 +147,7 @@ $sql = new sql();
 
                             <div class="box-link-date">
                                 <a href="http://Tinyurl.com/udghosh18" target="_blank">No Registration Fee</a>
-                            </div>  
+                            </div>
 
                             <div class="entry-content">
                                 <div class="entry-header">
@@ -169,20 +169,20 @@ $sql = new sql();
                                     <div class="container">
                       				<!-- Trigger the modal with a button -->
                      				<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Explore More</button>
-                                     <?php 
-             
+                                     <?php
+
              if($sql->isLogin() == 1)
              {
                echo '
                 <a onClick=addToCart(1001) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
-              
+
               }
           ?>
                       				<!-- Modal -->
                       				<div class="modal fade" id="myModal" role="dialog">
                         				<div class="modal-dialog modal-lg">
                           					<div class="modal-content">
-                           
+
                           			<div class="modal-body" style="background-color: aqua;">
                                    <button type="button" class="close" aria-label="Close" data-dismiss="modal">
                                       <span aria-hidden="true">&times;</span>
@@ -191,17 +191,17 @@ $sql = new sql();
                                 	<center ><h5 style="color: black;"><br>
                            			<i style="font-family: Allura; font-weight: bold;"> QuizFest-Events</i></h5></center>
                               		<p style="color: black;"><center ><h3 style="color: black;">Udghosh 2018</h3></center>
-                                	<hr style="border-color: black;"> 
+                                	<hr style="border-color: black;">
 
 
 
-<p style="color: black;"><b>Event Description:</b><br>The battlefield waits in anticipation. The calm before the storm. One of the most testing, intense and yet fulfilling quizzing experiences awaits you. Belligerents from all over India will fight for the top prize with their full might. The stakes are high. The stage is set. Do you have the nerve to get into battle with the best and the brightest open quizzers of India? You better get ready. This is the war cry. 
+<p style="color: black;"><b>Event Description:</b><br>The battlefield waits in anticipation. The calm before the storm. One of the most testing, intense and yet fulfilling quizzing experiences awaits you. Belligerents from all over India will fight for the top prize with their full might. The stakes are high. The stage is set. Do you have the nerve to get into battle with the best and the brightest open quizzers of India? You better get ready. This is the war cry.
 <br><br>
 <b>Rules and Regulations:</b><br>
 This event shall comprise of two rounds:<br>
 <b>Round 1 –</b> Written prelims having 25-30 questions. <br>
 <b>Round 2 –</b> 8 top scoring teams from prelims qualify for final stage round. <br>
-Open to all ages. From school students to undergraduates, graduates and corporate.<br> 
+Open to all ages. From school students to undergraduates, graduates and corporate.<br>
 Each team should consist of two members.<br>
 
 <p style="color: black;"><b>Prizes: </b><br>
@@ -220,11 +220,11 @@ Email - qutopia 2018@gmail.com<br>
 </p>
 </p>
                             </div>
-                            
+
                           </div>
                         </div>
                       </div>
-                    </div>   
+                    </div>
                             </div><!-- entry-content -->
                         </div>
                     </div><!-- col-6 -->
@@ -235,7 +235,7 @@ Email - qutopia 2018@gmail.com<br>
                                 <a href="#"> <img src="2.png" alt="fesival+celebration"> </a>
                             </figure><!-- featured-image -->
 
-                           
+
 
                             <div class="entry-content">
                                 <div class="entry-header">
@@ -258,20 +258,20 @@ Email - qutopia 2018@gmail.com<br>
                                 <div class="container">
                       				<!-- Trigger the modal with a button -->
                      				<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal1">Explore More</button>
-                                     <?php 
-             
+                                     <?php
+
              if($sql->isLogin() == 1)
              {
                echo '
                 <a onClick=addToCart(1002) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
-              
+
               }
           ?>
                       				<!-- Modal -->
                       				<div class="modal fade" id="myModal1" role="dialog">
                         				<div class="modal-dialog modal-lg">
                           					<div class="modal-content">
-                           
+
                           			<div class="modal-body" style="background-color: aqua;">
                                    <button type="button" class="close" aria-label="Close" data-dismiss="modal">
                                       <span aria-hidden="true">&times;</span>
@@ -280,7 +280,7 @@ Email - qutopia 2018@gmail.com<br>
                               		<center ><h5 style="color: black;"><br>
                            			<i style="font-family: Allura; font-weight: bold;"> QuizFest-Events</i></h5></center>
                               		<p style="color: black;"><center ><h3 style="color: black;">FLAMES Quiz</h3></center>
-                                	<hr style="border-color: black;"> 
+                                	<hr style="border-color: black;">
 
 <p style="color: black;"><b>Event Description:</b><br>Do you know the founders of which company had considered the names "Cargo House" and "Pequod" before settling on the current name inspired by the book Moby Dick? Or what do we call a person opposed to any kind of technological innovation? If these questions were a cake walk  for you then come join us at the Biz-Tech quiz and be a Star. Major Chandrakant Nair, the quizmaster for this quiz, has assured us that the questions will be a bang for your Buck.
 <br><br>
@@ -295,7 +295,7 @@ Any number of teams can participate from an institute.<br>
 1st Prize- Rs 12,000<br>
 2nd Prize- Rs 8,000<br>
 Finalists- Goodies and exciting vouchers.<br>
-Certificate for every participant and abundant audience prizes.<br>                             
+Certificate for every participant and abundant audience prizes.<br>
 <br>
 <b>Contacts:</b><br>
 Shubham Saurav (8588005280)<br>
@@ -304,11 +304,11 @@ Alankar Devta (7381279653)<br>
 </p>
 </p>
                             </div>
-                            
+
                           </div>
                         </div>
                       </div>
-                    </div>  
+                    </div>
 
                             </div><!-- entry-content -->
                         </div>
@@ -320,7 +320,7 @@ Alankar Devta (7381279653)<br>
                                 <a href="#"> <img src="3.png" alt="fesival+celebration"> </a>
                             </figure><!-- featured-image -->
 
-                          
+
                             <div class="entry-content">
                                 <div class="entry-header">
                                     <h2>FLAMES Quiz</h2>
@@ -341,20 +341,20 @@ Alankar Devta (7381279653)<br>
                                 <div class="container">
                       				<!-- Trigger the modal with a button -->
                      				<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal2">Explore More</button>
-                                     <?php 
-             
+                                     <?php
+
              if($sql->isLogin() == 1)
              {
                echo '
                 <a onClick=addToCart(1003) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
-              
+
               }
           ?>
                       				<!-- Modal -->
                       				<div class="modal fade" id="myModal2" role="dialog">
                         				<div class="modal-dialog modal-lg">
                           					<div class="modal-content">
-                           
+
                           			<div class="modal-body" style="background-color: aqua;">
                                    <button type="button" class="close" aria-label="Close" data-dismiss="modal">
                                     <span aria-hidden="true">&times;</span>
@@ -363,7 +363,7 @@ Alankar Devta (7381279653)<br>
                               		<center ><h5 style="color: black;"><br>
                            			<i style="font-family: Allura; font-weight: bold;"> QuizFest-Events</i></h5></center>
                               		<p style="color: black;"><center ><h3 style="color: black;">Biz-tech Quiz</h3></center>
-                                	<hr style="border-color: black;"> 
+                                	<hr style="border-color: black;">
 
 <p style="color: black;"><b>Event Description:</b><br>This quiz will be conducted by the fiery Abhinav Dhar. Thrown into this quizzing crucible will be such varied topics as Food/Fashion, Literature, Arts/Architecture, Music, Entertainment, Sports. Let the burning questions come to you on the blazing bounces or answer them with passionate pounces. Come, participate and have your minds ignited. <br><br>
 <b>Rules and Regulations:</b><br>
@@ -377,7 +377,7 @@ Any number of teams can participate from an institute.<br>
 1st Prize- Rs 12,000<br>
 2nd Prize- Rs 8,000<br>
 Finalists- Goodies and exciting vouchers.<br>
-Certificate for every participant and abundant audience prizes.<br>                             
+Certificate for every participant and abundant audience prizes.<br>
 <br>
 <b>Contacts:</b><br>
 Shubham Saurav (8588005280)<br>
@@ -388,11 +388,11 @@ Alankar Devta (7381279653)
 </p>
 
                             </div>
-                            
+
                           </div>
                         </div>
                       </div>
-                    </div> 
+                    </div>
 
                             </div><!-- entry-content -->
                         </div>
@@ -406,7 +406,7 @@ Alankar Devta (7381279653)
                                 <a href="#"> <img src="4.png" alt="fesival+celebration"> </a>
                             </figure><!-- featured-image -->
 
-                          
+
 
                             <div class="entry-content">
                                 <div class="entry-header">
@@ -429,20 +429,20 @@ Alankar Devta (7381279653)
                                 <div class="container">
                       				<!-- Trigger the modal with a button -->
                      				<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal3">Explore More</button>
-                                     <?php 
-             
+                                     <?php
+
              if($sql->isLogin() == 1)
              {
                echo '
                 <a onClick=addToCart(1004) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
-              
+
               }
           ?>
                       				<!-- Modal -->
                       				<div class="modal fade" id="myModal3" role="dialog">
                         				<div class="modal-dialog modal-lg">
                           					<div class="modal-content">
-                           
+
                           			<div class="modal-body" style="background-color: aqua;">
                                    <button type="button" class="close" aria-label="Close" data-dismiss="modal">
                                     <span aria-hidden="true">&times;</span>
@@ -451,7 +451,7 @@ Alankar Devta (7381279653)
                               		<center ><h5 style="color: black;"><br>
                            			<i style="font-family: Allura; font-weight: bold;"> QuizFest-Events</i></h5></center>
                               		<p style="color: black;"><center ><h3 style="color: black;">Travel, Living and Culture</h3></center>
-                                	<hr style="border-color: black;"> 
+                                	<hr style="border-color: black;">
 
 <p style="color: black;"><b>Event Description:</b><br>The sanskaari Navin Rajaram, quizmaster for our quiz, is bringing us an edifying India, Travel and Culture quiz. Learn about our rich Indian heritage and be enthralled by questions on different world cultures.<br><br>
 <b>Rules and Regulations:</b><br>
@@ -462,11 +462,11 @@ This event shall comprise of two rounds:<br>
 <br>
 Maximum 2 students/team, PG and cross-college teams are allowed.<br>
 Any number of teams can participate from an institute.<br>
-<p style="color: black;"><b>Prizes: </b><br> 
+<p style="color: black;"><b>Prizes: </b><br>
 1st Prize- Rs 12,000<br>
 2nd Prize- Rs 8,000<br>
 Finalists- Goodies and exciting vouchers.<br>
-Certificate for every participant and abundant audience prizes.<br>                             
+Certificate for every participant and abundant audience prizes.<br>
 <br>
 <b>Contacts:</b><br>
 Shubham Saurav (8588005280)<br>
@@ -477,11 +477,11 @@ Alankar Devta (7381279653)
 </p>
 
                             </div>
-                            
+
                           </div>
                         </div>
                       </div>
-                    </div>  
+                    </div>
 
                             </div><!-- entry-content -->
                         </div>
@@ -510,25 +510,25 @@ Alankar Devta (7381279653)
                         </div><!-- .entry-mail -->
 
                         <div class="copyright-info">
-                            
+
                            <a href="webteam.php"> KIITFEST 5.0 WEB TEAM</a>
 
                         </div><!-- copyright-info -->
 
                         <div class="footer-social">
                             <ul class="flex justify-content-center align-items-center">
-                                
+
                                 <li><a href="https://www.facebook.com/kiitfest/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
                                 <li><a href="https://twitter.com/KIITFest" target="_blank"><i class="fab fa-twitter"></i></a></li>
                                 <li><a href="https://www.instagram.com/kiitfest/" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                                
+
                             </ul>
                         </div><!-- footer-social -->
                     </div><!-- col -->
                 </div><!-- row -->
             </div><!-- container -->
         </div><!-- footer-content-wrapper -->
-    </footer><!-- site-footer --> 
+    </footer><!-- site-footer -->
 
     <script type='text/javascript' src='js/jquery.js'></script>
     <script type='text/javascript' src='js/masonry.pkgd.min.js'></script>
