@@ -218,44 +218,42 @@ $(document).ready(function(){
     }
 
 
-        $(document).ready(function() {
-            $('#mc_embed_signup').find('form').ajaxChimp();
-        });      
+  $(document).ready(function() {
+      $('#mc_embed_signup').find('form').ajaxChimp();
+  });   
+  
+  
 
+});
 
+(() => {
+  // Specify the deadline date
+  const deadlineDate = new Date('February 14, 2019 23:59:59').getTime();
+  
+  // Cache all countdown boxes into consts
+  const countdownDays = document.querySelector('.countdown__days .number');
+  const countdownHours= document.querySelector('.countdown__hours .number');
+  const countdownMinutes= document.querySelector('.countdown__minutes .number');
+  const countdownSeconds= document.querySelector('.countdown__seconds .number');
 
-    // Set the date we're counting down to
-    var countDownDate = new Date("Feb 15, 2019 00:00:00").getTime();
+  // Update the count down every 1 second (1000 milliseconds)
+  setInterval(() => {    
+    // Get current date and time
+    const currentDate = new Date().getTime();
 
-    // Update the count down every 1 second
-    var x = setInterval(function() {
+    // Calculate the distance between current date and time and the deadline date and time
+    const distance = deadlineDate - currentDate;
 
-        // Get todays date and time
-        var now = new Date().getTime();
-        
-        // Find the distance between now an the count down date
-        var distance = countDownDate - now;
-        
-        // Time calculations for days, hours, minutes and seconds
-        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-        
-        // Output the result in an element with id="demo" "<div class='start-in'>starts in:</div>"
-        document.getElementById("timer").innerHTML = days + "<span> days  </span>: " + hours + "<span> hour</span>: "
-        + minutes + "<span>mins  </span>: " + seconds + "<span>secs  </span>";
-        
-        // If the count down is over, write some text 
-        if (distance < 0) {
-            clearInterval(x);
-            document.getElementById("timer").innerHTML = "EXPIRED";
-        }
-    }, 1000);
+    // Calculations the data for remaining days, hours, minutes and seconds
+    const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    const seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-
-
-
-
-
- });
+    // Insert the result data into individual countdown boxes
+    countdownDays.innerHTML = days;
+    countdownHours.innerHTML = hours;
+    countdownMinutes.innerHTML = minutes;
+    countdownSeconds.innerHTML = seconds;
+  }, 1000);
+})();

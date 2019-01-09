@@ -1384,6 +1384,39 @@ body {
     .event-tickets .number-of-ticket {
         margin-bottom: 0;
     }
+.countdown {
+	margin: 20px auto;
+	display: flex;
+	font-size: 28px;
+	font-weight: 500;
+	color: #fff;
+  }
+	
+   .countdown > div {
+	 flex-grow: 1;
+	}
+  
+  .countdown span {
+	position: relative;
+	display: block;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 10px;
+  }
+  
+	
+  .countdown span:before {
+	content: '';
+	position: absolute;
+	top: -2px;
+	right: 0;
+	left: 0;
+	margin-right: auto;
+	margin-left: auto;
+	width: 30px;
+	height: 1px;
+	background: #fff;
+  }
 }
 
 .tickets-page .event-tickets {
@@ -2053,4 +2086,38 @@ a.github:hover {
     background-color: rgb(51, 51, 51) !important;
 }
 
+
+.countdown {
+	margin: 50px auto;
+	display: flex;
+	font-size: 28px;
+	font-weight: 500;
+	color: #fff;
+  }
+	
+   .countdown > div {
+	 flex-grow: 1;
+	}
+  
+  .countdown span {
+	position: relative;
+	display: block;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 5px;
+  }
+  
+	
+  .countdown span:before {
+	content: '';
+	position: absolute;
+	top: -2px;
+	right: 0;
+	left: 0;
+	margin-right: auto;
+	margin-left: auto;
+	width: 30px;
+	height: 1px;
+	background: #fff;
+  }
 
