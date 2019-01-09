@@ -99,8 +99,7 @@ $sql = new sql();
                                 if($sql->isLogin()==1)
                                     {
                                       echo '<li><a href="events/checkout.php">CHECKOUT</a></li>';
-                                        echo '<li><a href="logout.php">LOGOUT</a></li>';
-                                        
+                                        echo '<li><a href="logout.php">LOGOUT</a></li>';    
                                     }
                                 ?></li>
               
@@ -111,7 +110,7 @@ $sql = new sql();
             </div><!-- container-fluid -->
         </div><!-- header-bar -->
     </header>
-    <div class="page-header" style="background-image: url('images/bg.jpg')">
+    <div class="page-header" style="background-image: url('img/quizfest.jpg')">
         <div class="container">
             <div class="row">
                 <div class="col-12">
