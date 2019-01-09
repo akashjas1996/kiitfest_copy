@@ -1,3 +1,8 @@
+<?php
+include "sql.php";
+$sql = new sql();
+?>
+
 	<!DOCTYPE html>
 	<html lang="zxx" class="no-js">
 	<head>
@@ -42,7 +47,18 @@
 				          <li><a href="https://kiitfest.org/technical.php">Technical</a></li>
 				  <li><a href="quizfest.php">QuizFest</a></li>
 					<li><a href="webteam.php">Our Team</a></li>
-					<li><a href="contact.php">Contact</a></li>	
+					<li><a href="contact.php">Contact</a></li>
+					<?php
+	 	if($sql->isLogin()==1)
+    {
+      echo '<li><a class="ticker-btn" href="events/checkout.php">CHECKOUT</a></li>';
+      echo '<li><a class="ticker-btn" href="logout.php">LOGOUT</a></li>';
+		}
+		else{
+			echo '<li><a class="ticker-btn" href="signup.php">Register</a></li>';
+			echo '<li><a class="ticker-btn" href="login.php">Log In</a></li>';
+		}
+    ?>	
 			    	</div>
 			    </div>
 			  </header><!-- #header -->

@@ -1,3 +1,7 @@
+<?php
+include "sql.php";
+$sql = new sql();
+?>
 <!DOCTYPE html>
 <html>
 
@@ -79,8 +83,19 @@ gtag('config', 'UA-66101749-2');
 					  <li class="menu-active"><a href="index.html#home">Home</a></li>
 					  <li><a href="https://kiitfest.org/cultural.php">Cultural</a></li>
 				  <li><a href="quizfest.php">QuizFest</a></li>
-					<li><a href="webteam.php"></a></li>
-					<li><a href="contact.php"> </a></li>
+					<li><a href="webteam.php">Our Team</a></li>
+					<li><a href="contact.php">Contact Us</a></li>
+					<?php
+	 	if($sql->isLogin()==1)
+    {
+      echo '<li><a class="ticker-btn" href="events/checkout.php">CHECKOUT</a></li>';
+      echo '<li><a class="ticker-btn" href="logout.php">LOGOUT</a></li>';
+		}
+		else{
+			echo '<li><a class="ticker-btn" href="signup.php">Register</a></li>';
+			echo '<li><a class="ticker-btn" href="login.php">Log In</a></li>';
+		}
+    ?>
 				</div>
 			    </div>
 			  </header><!-- #header -->

@@ -1,4 +1,9 @@
-﻿	<!DOCTYPE html>
+﻿<?php
+include "sql.php";
+$sql = new sql();
+?>
+	
+	<!DOCTYPE html>
 <html lang="zxx" class="no-js">
   <head>
     <!-- Mobile Specific Meta -->
@@ -82,8 +87,18 @@
 	 <li><a href="quizfest.php">Quiz</a></li>
 	 </ul>
 	 </li-->
-	 <li><a class="ticker-btn" href="https://kiitfest.org/signup.php">Register</a></li>
-	 <li><a class="ticker-btn" href="login.php">Log In</a></li>
+	 <?php
+	 	if($sql->isLogin()==1)
+    {
+      echo '<li><a class="ticker-btn" href="events/checkout.php">CHECKOUT</a></li>';
+      echo '<li><a class="ticker-btn" href="logout.php">LOGOUT</a></li>';
+		}
+		else{
+			echo '<li><a class="ticker-btn" href="signup.php">Register</a></li>';
+			echo '<li><a class="ticker-btn" href="login.php">Log In</a></li>';
+		}
+    ?>
+
 	    </ul>
 	  </nav><!-- #nav-menu-container -->		    		
 	</div>

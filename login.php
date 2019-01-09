@@ -30,7 +30,7 @@
                   if($result)
                   {
                      echo "<script>";
-                     echo 'setTimeout(function(){window.location.href = "https://kiitfest.org/index.html";},700)';
+                     echo 'setTimeout(function(){window.location.href = "index.php";},700)';
                      echo "</script>";
                   }
               }

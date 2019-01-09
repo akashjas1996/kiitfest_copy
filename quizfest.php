@@ -95,13 +95,17 @@ $sql = new sql();
                                 <li><a href="cultural.php">CULTURAL</a></li>
                                 <!--li><a href="webteam.php">WEB TEAM</a></li>
                                 <li><a href="contact.php">CONTACT</a></li-->
-                                <li>                                    <?php
-                                if($sql->isLogin()==1)
-                                    {
-                                      echo '<li><a href="events/checkout.php">CHECKOUT</a></li>';
-                                        echo '<li><a href="logout.php">LOGOUT</a></li>';
-                                    }
-                                ?></li>
+                                <?php
+	 	if($sql->isLogin()==1)
+    {
+      echo '<li><a class="ticker-btn" href="events/checkout.php">CHECKOUT</a></li>';
+      echo '<li><a class="ticker-btn" href="logout.php">LOGOUT</a></li>';
+		}
+		else{
+			echo '<li><a class="ticker-btn" href="signup.php">Register</a></li>';
+			echo '<li><a class="ticker-btn" href="login.php">Log In</a></li>';
+		}
+    ?>
 
                             </ul><!-- flex -->
                         </nav><!-- .site-navigation -->
@@ -110,7 +114,7 @@ $sql = new sql();
             </div><!-- container-fluid -->
         </div><!-- header-bar -->
     </header>
-    <div class="page-header" style="background-image: url('quizfest.png')">
+    <div class="page-header" style="background-image: url('quizfest.png');background-size: cover;">
         <div class="container">
             <div class="row">
                 <div class="col-12">

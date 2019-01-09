@@ -199,7 +199,7 @@ $sql = new sql();
                         }
                         $query = "select * from participants_participant where kf_id = '$kfid'";
                         $result1 = mysqli_query($GLOBALS['connect'],$query);
-                        if($result1 > 0)
+                        if($result1)
                         {
                           $row1 = mysqli_fetch_assoc($result1);
                           if($row1['payment_complete'] != 1){

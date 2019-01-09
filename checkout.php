@@ -1,9 +1,4 @@
 <?php 
-<<<<<<< HEAD
-@require_once("db_connection.php");
-=======
-
->>>>>>> 728d6bd45345ec0e9b0bcaf245e804956b3893f4
 ?>
 <!DOCTYPE html>
 <html>
@@ -24,13 +19,6 @@
                 </center>
             </div>
 			<?php
-<<<<<<< HEAD
-				$query = "SELECT * FROM event_details ORDER BY id ASC";
-				$result = mysqli_query($connect, $query);
-				if(mysqli_num_rows($result) > 0)
-				{
-					while($row = mysqli_fetch_array($result))
-=======
 				include "../sql.php";
 				$sql = new sql();
 				if($connect) {
@@ -47,7 +35,6 @@
 				if(mysqli_num_rows($result1) > 0)
 				{
 					while($row = mysqli_fetch_array($result1))
->>>>>>> 728d6bd45345ec0e9b0bcaf245e804956b3893f4
 					{
 				?>
 			<div class="col-md-4">
@@ -105,8 +92,4 @@
 	}
 	return $output;
 }*/
-<<<<<<< HEAD
 ?>
-=======
-?>
->>>>>>> 728d6bd45345ec0e9b0bcaf245e804956b3893f4

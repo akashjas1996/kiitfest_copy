@@ -1,7 +1,4 @@
-<?php
-include "sql.php";
-$sql = new sql();
-?>
+
 <!DOCTYPE html>
 <html>
 
