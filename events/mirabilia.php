@@ -44,7 +44,7 @@ $sql = new sql();
                 <div class="row align-items-center">
                     <div class="col-10 col-lg-4">
                         <h1 class="site-branding flex">
-                            <a href="../index.html">
+                            <a href="../index.php">
                                 <img src="../img/kiitfest_logo.png" alt="kiitfest logo" height="85px">
                             </a>
                         </h1>
@@ -59,7 +59,7 @@ $sql = new sql();
                                 <span></span>
                             </div><!-- .hamburger-menu -->
                             <ul>
-                                <li><a href="../index.html">HOME</a></li>
+                                <li><a href="../index.php">HOME</a></li>
                                 <li><a href="../technical.php">TECHNICAL</a></li>
                                 <li><a href="../cultural.php">CULTURAL</a></li>
                                 <li><a href="../quizfest.php">QUIZFEST</a></li>

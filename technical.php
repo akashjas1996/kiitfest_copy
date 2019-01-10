@@ -76,11 +76,11 @@ gtag('config', 'UA-66101749-2');
 			    <div class="container" >
 				<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
-					<a href="index.html"><img src="img/logo.png" alt="" style="height:100px" title="" /></a>
+					<a href="index.php"><img src="img/logo.png" alt="" style="height:100px" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
 					<ul class="nav-menu">
-					  <li class="menu-active"><a href="index.html#home">Home</a></li>
+					  <li class="menu-active"><a href="index.php#home">Home</a></li>
 					  <li><a href="https://kiitfest.org/cultural.php">Cultural</a></li>
 				  <li><a href="quizfest.php">QuizFest</a></li>
 					<li><a href="webteam.php">Our Team</a></li>
@@ -122,11 +122,11 @@ gtag('config', 'UA-66101749-2');
       <div class="container">
 	<div class="row align-items-center justify-content-between d-flex">
 	  <div id="logo">
-	    <a href="index.html"><img src="img/logo_top_left.png" alt="" title="" style="height: 80px" /></a>
+	    <a href="index.php"><img src="img/logo_top_left.png" alt="" title="" style="height: 80px" /></a>
 	  </div>
 	  <nav id="nav-menu-container">
 	    <ul class="nav-menu">
-	  <li class="menu-active"><a href="index.html">Home</a></li>
+	  <li class="menu-active"><a href="index.php">Home</a></li>
 	      <li><a href="/cultural.php">Cultural</a></li>
 	      <li><a href="/quizfest.php">QuizFest</a></li>
 	      <li><a class="ticker-btn" href="#">Register</a></li>
