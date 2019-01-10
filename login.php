@@ -24,8 +24,8 @@
               else
               {
                   $_SESSION['valid_participant'] = $row['unique_id'];
-                  echo '<script>';
-                  echo 'setTimeout(function(){swal("Congratulations!", "Sucessfuly login", "success")},50)';
+									echo '<script>';
+                  echo 'setTimeout(async function(){await swal("Congratulations!", "Sucessfuly login", "success")},50)';
                   echo '</script>';
                   if($result)
                   {

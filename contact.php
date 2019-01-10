@@ -45,41 +45,8 @@
 </head>
 
 <body class="contact-page">
-    <header class="site-header">
-        <div class="header-bar">
-            <div class="container-fluid">
-                <div class="row align-items-center">
-                    <div class="col-10 col-lg-4">
-                        <h1 class="site-branding flex">
-                           <a href="index.php">
-                                <img src="img/kiitfest_logo.png" alt="kiitfest logo" height="85px">
-                            </a>
-                        </h1>
-                    </div>
-
-                    <div class="col-2 col-lg-8">
-                        <nav class="site-navigation">
-                            <div class="hamburger-menu d-lg-none">
-                                <span></span>
-                                <span></span>
-                                <span></span>
-                                <span></span>
-                            </div><!-- .hamburger-menu -->
-                            <ul>
-                                <li><a href="https://kiitfest.org"></li>
-                                <li><a href="technical.php">TECHNICAL</a></li>
-                                <li><a href="cultural.php">CULTURAL</a></li>
-                                <li><a href="webteam.php">WEB TEAM</a></li>
-                                <!--li><a href="contact.php">CONTACT</a></li-->
-                                <li></li>
-              
-                            </ul><!-- flex -->
-                        </nav><!-- .site-navigation -->
-                    </div><!-- .col-12 -->
-                </div><!-- .row -->
-            </div><!-- container-fluid -->
-        </div><!-- header-bar -->
-    </header><!-- .site-header -->
+<!-- <link rel="stylesheet" href="css/main.css"> -->
+<?php include 'partials/main-header.php'; ?>
 
     <div class="page-header" style="background: url(images/bg.jpg); margin-top: 0%">
         <div class="container">
@@ -100,7 +67,7 @@
     <div class="container">
         <div class="main-content">
             <div class="contact-page-map">
-                <iframe id="gmap_canvas" src="https://maps.google.com/maps?q=campus 13 KIIT University&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3740.6368424592506!2d85.81673931487197!3d20.35661588636627!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a19093cc3e1974b%3A0x85a345e1f4fcce86!2sKIIT+Student+Activity+Center-KSAC!5e0!3m2!1sen!2sin!4v1547109917156" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div><!-- map -->
 
             <div class="contact-details">

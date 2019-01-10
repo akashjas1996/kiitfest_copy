@@ -35,44 +35,12 @@
     <link rel="stylesheet" href="css/swiper.min.css">
 
     <!-- Styles -->
+    
+    <!-- <link rel="stylesheet" href="css/main.css"> -->
     <link rel="stylesheet" href="style.css">
 </head>
 <body class="blog-page">
-    <header class="site-header">
-        <div class="header-bar">
-            <div class="container-fluid">
-                <div class="row align-items-center">
-                    <div class="col-10 col-lg-4">
-                        <h1 class="site-branding flex">
-                            <a href="index.php">
-                                <img src="img/kiitfest_logo.png" alt="kiitfest logo" height="85px">
-                            </a>
-                        </h1>
-                    </div>
-
-                    <div class="col-2 col-lg-8">
-                        <nav class="site-navigation">
-                            <div class="hamburger-menu d-lg-none">
-                                <span></span>
-                                <span></span>
-                                <span></span>
-                                <span></span>
-                            </div><!-- .hamburger-menu -->
-                            <ul>
-                                <li><a href="index.php">HOME</a></li>
-                                <li><a href="technical.php">TECHNICAL</a></li>
-                                <li><a href="cultural.php">CULTURAL</a></li>
-                                <li><a href="webteam.php">WEB TEAM</a></li>
-                                <li><a href="contact.php">CONTACT</a></li>
-                                <li></li>
-              
-                            </ul><!-- flex -->
-                        </nav><!-- .site-navigation -->
-                    </div><!-- .col-12 -->
-                </div><!-- .row -->
-            </div><!-- container-fluid -->
-        </div><!-- header-bar -->
-    </header>
+<?php include 'partials/main-header.php'; ?>
 
 
     <div class="page-header" style="background-image: url(images/blog-header-background.jpg)">
