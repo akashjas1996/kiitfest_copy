@@ -34,6 +34,10 @@ section {
   padding: 50px 0px;
 }
 
+.date {
+  font-size: 5em;
+} 
+
 .kiitLinkLogo {
   position: absolute;
   bottom: 0;
@@ -152,6 +156,12 @@ section {
   }
 }
 
+@media (max-width: 768px) {
+  .date {
+    font-size: 2em;
+  }
+}
+
 /*
 ----------------------------
            Header
@@ -160,7 +170,7 @@ section {
 .header {
   position: absolute;
   width: 100%;
-  transition: all .5s;
+  transition: all ease-in-out .5s;
   z-index: 100;
   font-size: 2em;
 }
@@ -186,6 +196,10 @@ section {
   transition: all .5s;
   margin-left: 0.5em;
   margin-top: 0.1em;
+}
+
+.header-scrolled {
+  background: rgba(0,0,0,0.7);
 }
 
 .header .myNav {
@@ -224,6 +238,11 @@ section {
 
 
 @media (max-width: 768px) {
+
+  .header {
+    position: fixed;
+  }
+
   .header .logo {
     height: 1.5em;
     margin: 20px;
@@ -245,7 +264,7 @@ section {
     height: 100vh !important;
     width: 100%;
     background: rgb(30, 35, 45);
-    transition: all 0.5s;
+    transition: all ease-in-out 0.5s;
   }
 
   .expanded a {
@@ -389,4 +408,15 @@ section {
 
 #home {
   height: 100vh;
+}
+
+@media (max-width: 768px) {
+  
+.gmap_canvas {
+  height: 30%;
+  width: 80%;
+  border-radius: 2px;
+  background: rgba(255,255,255, 1);
+}
+
 }

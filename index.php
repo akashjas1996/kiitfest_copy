@@ -92,7 +92,7 @@ $sql = new sql();
             <img alt="upper" class="upper" src='img/Logo/upper.png' />
           </div>
 
-          <h1> 15th Feb - 17th Feb </h1>
+          <h2 class="date"> 15th Feb - 17th Feb<br> 2019 </h2>
 
           <!-- Countdown -->
           <div class="countdown mt-auto">
@@ -132,7 +132,7 @@ $sql = new sql();
 
         <!--Intro Body-->
         <div class="mt-5 col-lg-5 col-sm-12">
-          <h1 class="heading">What is KIITFEST...</h1>
+          <h1 class="heading">About KiitFest</h1>
           <p class="body">
           KIITFEST is a “Contest of Contests” that encompasses all cultural and technical events into one forum that we are about to bring forth “KIITFEST 5.0”. KIITFEST is an ever-expanding universe of glory and greatness, where fun and games meet battles and battles become wars, where we put the sparkle in the air and glitz in the land and where we make the stars shine.
           </p>

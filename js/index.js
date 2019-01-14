@@ -37,6 +37,7 @@ window.onload = () => {
   var navbar = document.querySelector(".myNav");
   var navButtons = document.querySelectorAll(".nav-button");
   var topLeftLogo = document.querySelector(".header .logo");
+  var header = document.querySelector(".header");
   var home = document.querySelector('#home');
   var about = document.querySelector('#about');
   var aboutPos = about.getBoundingClientRect().y;
@@ -56,8 +57,15 @@ window.onload = () => {
 
   //Set topLeftLogo based on page starting location
   (() => {
-    if(aboutPos <= 50) topLeftLogo.classList.add("logo-visible");
-    navButtons.forEach(button => button.addEventListener("click", () => navbar.classList.remove("expanded")));
+    if(aboutPos <= 50) {
+      topLeftLogo.classList.add("logo-visible");
+      header.classList.add("header-scrolled");
+    };
+
+    navButtons.forEach(button => button.addEventListener("click", () => {
+      navbar.classList.remove("expanded");
+      tl.reversed() ? tl.play() : tl.reverse();
+    }));
   })();
 
   //Hamburger click event
@@ -98,10 +106,13 @@ window.onload = () => {
       topLeftLogo.classList.add('logo-visible');
       blackTint.classList.remove('black');
       blackTint.classList.add('none');
+      header.classList.add('header-scrolled');
     } else {
       topLeftLogo.classList.remove('logo-visible');
       blackTint.classList.add('black');
       blackTint.classList.remove('none');
+      header.classList.remove('header-scrolled');
+
     }
 
     //Tint based on which section is most dominant on viewport
