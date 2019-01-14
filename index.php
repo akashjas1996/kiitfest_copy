@@ -161,19 +161,19 @@ $sql = new sql();
           <h2 class="title">Technical</h2>
               <p class="body">"A small step. A giant leap for mankind."</p>
               <p class="body"> A hub for all denizens and enthusiasts of Technology who believe that they can mould this world into a better place to be a part of. A click is what matters!</p>
-          <button class="event-button" href="./technical.php">See Events</button>
+          <a href="./technical.php"><button class="event-button" >See Events</button></a>
         </div>
         <div class="col-md-3 col-sm-8 d-flex flex-column justify-content-center align-items-center event cul">
           <h2 class="title">Cultural</h2>
               <p class="body">"A small step. A giant leap for mankind."</p>
               <p class="body"> A hub for all denizens and enthusiasts of Technology who believe that they can mould this world into a better place to be a part of. A click is what matters!</p>
-          <button class="event-button" href="./cultural.php">See Events</button>
-        </div>
+          <a href="./cultural.php"><button class="event-button"> See Events</button>
+</a>        </div>
         <div class="col-md-3 col-sm-8 d-flex flex-column justify-content-center align-items-center event quiz">
           <h2 class="title">QuizFest</h2>
               <p class="body">"A small step. A giant leap for mankind."</p>
               <p class="body"> A hub for all denizens and enthusiasts of Technology who believe that they can mould this world into a better place to be a part of. A click is what matters!</p>
-          <button class="event-button" href="./quizfest.php" >See Events</button>
+          <a href="./quizfest.php"><button class="event-button">See Events</button></a>
         </div>
 
       </div>
