@@ -8,7 +8,7 @@ $sql = new sql();
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" sizes="192x192" href="img/logo.png">
 
   <meta name="description" content="">
@@ -26,6 +26,7 @@ $sql = new sql();
   <link rel="stylesheet" href="css/logo.css" />
   <link rel="stylesheet" href="css/header.css" />
   <link rel="stylesheet" href="css/footer.css" />
+  <link rel="stylesheet" href="css/fontawesome-all.min.css">
 
   <!--Local js-->
   <script src="js/TimelineLite.min.js"></script>
@@ -60,11 +61,11 @@ $sql = new sql();
         <li><a class="nav-button" href="#contactUs">Contact Us</a></li>
         <?php
             if($sql->isLogin()==1) {
-              echo '<li><a class="button" href="events/checkout.php">CHECKOUT</a></li>';
-              echo '<li><a class="button" href="logout.php">LOGOUT</a></li>';
+                echo '<li><a href="events/checkout.php">Checkout  <i class="fas fa-shopping-cart"></i></a></li>';
+                echo '<li><a href="logout.php">Logout   <i class="fas fa-sign-out-alt"></i></a></li>';
             } else {
-              echo '<li><a class="button" href="signup.php">Register</a></li>';
-              echo '<li><a class="button" href="login.php">Log In</a></li>';
+                echo '<li><a class="button" href="signup.php">Register</a></li>';
+                echo '<li><a class="button" href="login.php">Log In</a></li>';
             }
         ?>
 
@@ -77,21 +78,24 @@ $sql = new sql();
   <section id="home" >
     <div class="container h-100 d-flex flex-column justify-content-center align-items-center ">
 
-      <div class="row w-100 mt-auto d-flex flex-column justify-content-center align-items-center">
+      <div class="row w-100 d-flex justify-content-center align-items-center">
         <div class="col-lg-9 col-md-12 col-sm-12">
 
           <!-- Animated Logo -->
-            <div class="images">
-              <img alt="center" class="center" src='img/Logo/center.png' />
-              <img alt="greenText" class="greenText" src='img/Logo/greenText.png' />
-              <img alt="innertri" class="innerTri" src='img/Logo/innertri.png' />
-              <img alt="lower" class="lower" src='img/Logo/lower.png' />
-              <img alt="mainText" class="mainText" src='img/Logo/mainText.png' />
-              <img alt="middle" class="middle" src='img/Logo/middle.png' />
-              <img alt="upper" class="upper" src='img/Logo/upper.png' />
-            </div>
+          <div class="images">
+            <img alt="center" class="center" src='img/Logo/center.png' />
+            <img alt="greenText" class="greenText" src='img/Logo/greenText.png' />
+            <img alt="innertri" class="innerTri" src='img/Logo/innertri.png' />
+            <img alt="lower" class="lower" src='img/Logo/lower.png' />
+            <img alt="mainText" class="mainText" src='img/Logo/mainText.png' />
+            <img alt="middle" class="middle" src='img/Logo/middle.png' />
+            <img alt="upper" class="upper" src='img/Logo/upper.png' />
+          </div>
+
+          <h1> 15th Feb - 17th Feb </h1>
+
           <!-- Countdown -->
-          <div class="countdown">
+          <div class="countdown mt-auto">
             <div class="countdown__days">
               <div class="number"></div>
               <span class="time">Days</span>
@@ -114,10 +118,8 @@ $sql = new sql();
       </div>
 
       <!-- KIIT/KISS Logo -->
-      <div class="w-100 mt-auto d-flex justify-content-between">
-        <a href="https://kiit.ac.in"><img class="kiitLinkLogo" src="img/Logo/kiitLogo.png"></a>
-        <a href="https://kiss.ac.in"><img class="kiitLinkLogo" src="img/Logo/kissLogo.png"></a>
-      </div>
+      <a href="https://kiit.ac.in"><img class="kiitLinkLogo" src="img/Logo/kiitLogo.png"></a>
+      <a href="https://kiss.ac.in"><img class="kissLinkLogo" src="img/Logo/kissLogo.png"></a>
 
     </div>
   </section>
@@ -130,7 +132,7 @@ $sql = new sql();
 
         <!--Intro Body-->
         <div class="mt-5 col-lg-5 col-sm-12">
-          <h1 class="heading">What is KIITFEST ?</h1>
+          <h1 class="heading">What is KIITFEST...</h1>
           <p class="body">
           KIITFEST is a “Contest of Contests” that encompasses all cultural and technical events into one forum that we are about to bring forth “KIITFEST 5.0”. KIITFEST is an ever-expanding universe of glory and greatness, where fun and games meet battles and battles become wars, where we put the sparkle in the air and glitz in the land and where we make the stars shine.
           </p>

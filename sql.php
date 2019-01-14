@@ -1,4 +1,4 @@
-<?php 
+<?php
 @require_once("db_connection.php");
 class sql {
 	 function isLogin() {

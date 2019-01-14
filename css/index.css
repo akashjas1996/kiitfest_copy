@@ -35,6 +35,17 @@ section {
 }
 
 .kiitLinkLogo {
+  position: absolute;
+  bottom: 0;
+  left: 1em;
+  width: 70px;
+  padding-bottom: 30px;
+}
+
+.kissLinkLogo {
+  position: absolute;
+  bottom: 0;
+  right: 1em;
   width: 70px;
   padding-bottom: 30px;
 }
@@ -67,12 +78,13 @@ section {
 
 .event {
   border: 1px white solid;
-  margin: 2em 20px 0px 20px;
-  padding: 40px;
+  margin: 20px 20px 20px 20px;
+  padding: 20px;
 }
 
+/*
 .event * {
-  opacity: 0;
+  opacity: 1;
   visibility: hidden;
   transition: all 0.5s;
 }
@@ -82,6 +94,7 @@ section {
   visibility: visible;
   transition: all 0.5s;
 }
+*/
 
 .tech {
   background: rgba(73, 167, 255, 0.6);
@@ -145,7 +158,7 @@ section {
 ----------------------------
 */
 .header {
-  position: fixed;
+  position: absolute;
   width: 100%;
   transition: all .5s;
   z-index: 100;
@@ -165,13 +178,13 @@ section {
 }
 
 .header .logo {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   height: 2.5em;
   opacity: 0;
   transition: all .5s;
-  margin-left: 0.1em;
+  margin-left: 0.5em;
   margin-top: 0.1em;
 }
 
@@ -238,7 +251,7 @@ section {
   .expanded a {
     color: white;
     transition: all 0.5s;
-    font-size: 1.5em;
+    font-size: 1em;
   }
 
   .expanded li:not(:first-child) {
@@ -372,4 +385,8 @@ section {
 .contact-info:hover {
     box-shadow: 0 15px 30px 0 rgba(0,0,0,0.11), 0 5px 15px 0 rgba(0,0,0,0.08);
     transition: all 0.3s;
+}
+
+#home {
+  height: 100vh;
 }
