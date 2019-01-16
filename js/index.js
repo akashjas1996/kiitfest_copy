@@ -30,108 +30,64 @@ window.onload = () => {
     }, 1000);
   })();
 
-  const ham = document.querySelector('.hamburger');
-  const l1 = ham.querySelector('.l1');
-  const l2 = ham.querySelector('.l2');
-  const l3 = ham.querySelector('.l3');
-  var navbar = document.querySelector(".myNav");
-  var navButtons = document.querySelectorAll(".nav-button");
-  var topLeftLogo = document.querySelector(".header .logo");
+
   var header = document.querySelector(".header");
   var home = document.querySelector('#home');
   var about = document.querySelector('#about');
   var aboutPos = about.getBoundingClientRect().y;
   var events = document.querySelector('#events');
   var contactUs = document.querySelector('#contactUs');
-  var expandButton = document.querySelector(".expand");
+ 
   var tint = document.querySelector('#tint');
   var blackTint = document.querySelector('#blackTint');
-  const tl = new TimelineLite({paused: true, reversed: true});
 
-  tl
-    .to(l2, 0.15, {scaleX: 0, transformOrigin: "middle" })
-    .to(l1, 0.15, {y: 17},"start")
-    .to(l3, 0.15, {y: -17}, "start")
-    .to(l1, 0.2, {rotation: 45, transformOrigin: "middle",  ease: Power3.easeOut}, "rotation")
-    .to(l3, 0.2, {rotation: -45, transformOrigin: "middle",  ease: Power3.easeOut}, "rotation");
-
-  //Set topLeftLogo based on page starting location
-  (() => {
-    if(aboutPos <= 50) {
-      topLeftLogo.classList.add("logo-visible");
-      header.classList.add("header-scrolled");
-    };
-
-    navButtons.forEach(button => button.addEventListener("click", () => {
-      navbar.classList.remove("expanded");
-      tl.reversed() ? tl.play() : tl.reverse();
-    }));
-  })();
-
-  //Hamburger click event
-  expandButton.addEventListener("click", () => {
-
+  navButtons.forEach(button => button.addEventListener("click", () => {
+    navbar.classList.remove("expanded");
     tl.reversed() ? tl.play() : tl.reverse();
-
-    if(navbar.classList.contains("expanded")) {
-      navbar.classList.remove("expanded");
-      if(aboutPos > 51) topLeftLogo.classList.remove("logo-visible");
-    } else {
-      navbar.classList.add("expanded");
-      topLeftLogo.classList.add("logo-visible");
-    }
-    
-  });
-
+  }));
 
 
   window.onscroll =  () => {
-    className = tint.classList[1];
-
-    //get distance of each section from top of viewport
-    var homePos = home.getBoundingClientRect().y;
     aboutPos = about.getBoundingClientRect().y;
+
+    /*
+    var homePos = home.getBoundingClientRect().y;
     var eventsPos = events.getBoundingClientRect().y;
     var contactUsPos = contactUs.getBoundingClientRect().y;
-    // Find shortest distance section index 
-    var counts = [homePos, aboutPos, eventsPos, contactUsPos ];
-    var closest = counts.reduce(function(prev, curr) {
-      return (Math.abs(curr - 0) < Math.abs(prev - 0) ? curr : prev);
-    });
-    var index = counts.indexOf(closest);
+    */
 
-
-    //Hide logo and black tint if outside #home
+    //Toggle black tint
     if (aboutPos <= 50) {
-      topLeftLogo.classList.add('logo-visible');
       blackTint.classList.remove('black');
       blackTint.classList.add('none');
       header.classList.add('header-scrolled');
     } else {
-      topLeftLogo.classList.remove('logo-visible');
       blackTint.classList.add('black');
       blackTint.classList.remove('none');
       header.classList.remove('header-scrolled');
-
     }
 
+    /*
+    //currentTint
+    className = tint.classList[1];
     //Tint based on which section is most dominant on viewport
-    if(index == 0) {
+    if(homePos < 50 && homePos > -50 ) {
       tint.classList.remove(className);
       tint.classList.add("home");
     }
-    if(index == 1) {
+    if(aboutPos < 50 && aboutPos > -50) {
       tint.classList.remove(className);
       tint.classList.add("about");
     }
-    if(index == 2) {
+    if(eventsPos < 50 && eventsPos > -50) {
       tint.classList.remove(className);
       tint.classList.add("events");
     }
-    if(index == 3) {
+    if(contactUsPos < 50 && contactUsPos > -50) {
       tint.classList.remove(className);
       tint.classList.add("contactUs");
     }
+    */
   };
 };
 

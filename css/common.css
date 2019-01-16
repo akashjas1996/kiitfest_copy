@@ -28,36 +28,17 @@
   font-weight: bold;
   font-style: italic;
 }
+
+ul {
+  padding: 0px;
+  margin: 0px;
+  padding-inline-start: 0px !important;
+}
+
 body {
   height:100%;
   overflow-y:scroll;
   -webkit-overflow-scrolling: touch;
-}
-
-/*Animated Background*/
-.background {
-  overflow: hidden;
-  position: fixed;
-  top: 0%;
-  left: 0%;
-  height: 100%;
-  width: 100%;
-}
-  
-.sliding-bg {
-  height: 100%;
-  width: 100%;
-  background-image: url("../img/blogbg.jpg");
-  background-repeat: repeat;
-  background-attachment: fixed;
-  background-size: 1080px 1920px;
-  animation: backgroundScroll 20s linear infinite;
-  z-index: 2;
-}
-
-@keyframes backgroundScroll {
-  from {background-position: 0 0;}
-  to {background-position: 1080px -1920px;}
 }
 
 h1 {
@@ -110,23 +91,82 @@ p {
   }
 }
 
-/*
-----------------------------
-           Header
-----------------------------
-*/
-.header {
-  position: absolute;
+
+/*-------------------------
+    Animated Background
+---------------------------*/
+.background {
+  overflow: hidden;
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  height: 100%;
   width: 100%;
+  z-index: -1;
+}
+  
+.sliding-bg {
+  height: 100%;
+  width: 100%;
+  background-image: url("../img/blogbg.jpg");
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-size: 1080px 1920px;
+  animation: backgroundScroll 20s linear infinite;
+}
+
+@keyframes backgroundScroll {
+  from {background-position: 0 0;}
+  to {background-position: 1080px -1920px;}
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.8;
+  background: linear-gradient(-45deg, #3d7ff8, #6e0075, #0089ba, #009d7d);
+  background-size: 400% 400%;
+  transition: all 1s;
+}
+
+.black { background: rgba(0,0,0,0.8) !important; transition: all 1s; }
+
+
+/*----------------------------
+           Header
+----------------------------*/
+.header {
+  position: fixed;
+  width: 100%;
+  height: 50px;
   transition: all ease-in-out .5s;
   z-index: 100;
   font-size: 2em;
 }
 
+
+/* SVG */
+.hamburger {
+  height: 2em;
+  width: 2em;
+  margin-top: 20px;
+}
+
+.line {
+  stroke: white;
+  stroke-width: 7;
+  transition: stroke .5s;
+  stroke-linecap: round;
+}
+
+
 .header a {
   text-decoration: none;
   color: white;
-  font-size: 1em;
+  font-size: 25px;
   transition: all .5s;
 }
 
@@ -143,7 +183,7 @@ p {
   opacity: 0;
   transition: all .5s;
   margin-left: 0.5em;
-  margin-top: 0.1em;
+  margin-top: 0.2em;
 }
 
 .header-scrolled {
@@ -152,27 +192,25 @@ p {
 
 .header .myNav {
   display: block;
-  height: 80px;
   width: 100%;
+  height:100%;  
+}
+
+.navContainer {
+  width: 100%;
+  height: 100%;
+  margin: 0px !important;
+  display: flex;
+  justify-content: center;
   transition: all .5s;
 }
 
-.header .myNav li {
+.navContainer li {
   font-family: Bebas Neue;
   text-decoration: none;
   color: black;
   display: inline-block;
   margin: 0px 20px;
-}
-
-.header .myNav li:not(:first-child) {
-  padding: 10px
-}
-
-.navContainer {
-  width: 100%;
-  display: flex;
-  justify-content: center;
 }
 
 .logo-visible {
@@ -206,6 +244,7 @@ p {
 
   .header li:not(:first-child) {
     display: none;
+    padding: 10px;
   }
 
   .expanded {
@@ -230,7 +269,6 @@ p {
   .navContainer {
     display: flex;
     flex-direction: column;
-    height: 100%;
     justify-content: center !important;
   }
 }

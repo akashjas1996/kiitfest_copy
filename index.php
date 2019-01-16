@@ -18,14 +18,10 @@ $sql = new sql();
 
   <!--Bootstrap 4.2-->
   <link rel="stylesheet" href="css/bootstrap.min.css" />
-  <script src="js/bootstrap.bundle.min.js"></script>
 
   <!--Local css-->
   <link rel="stylesheet" href="css/common.css" />
   <link rel="stylesheet" href="css/index.css" />
-  <link rel="stylesheet" href="css/logo.css" />
-  <link rel="stylesheet" href="css/header.css" />
-  <link rel="stylesheet" href="css/footer.css" />
   <link rel="stylesheet" href="css/fontawesome-all.min.css">
 
   <!--Local js-->
@@ -44,33 +40,29 @@ $sql = new sql();
 
   <!--Header-->
   <header class="header">
-    <div class="myNav">
-      <img class="logo nav-button" href="#home" src="img/kfLogoTopLeft.png" />
-      <ul class="navContainer">
-        <li class="expand">
-          <svg class="hamburger" viewBox="0 0 100 100">
-            <line class="line l1" x1="15" y1="29" x2="85" y2="29" />
-            <line class="line l2" x1="15" y1="46" x2="85" y2="46" />
-            <line class="line l3" x1="15" y1="63" x2="85" y2="63" />
-          </svg>
-        </li>
-        <li><a class="nav-button" href="#home">Home</a></li>
-        <li><a class="nav-button" href="#about">About</a></li>
-        <li><a class="nav-button" href="#events">Events</a></li>
-        <!-- <li><a class="nav-button" href="#guests">Guests</a></li> -->
-        <li><a class="nav-button" href="#contactUs">Contact Us</a></li>
-        <?php
-            if($sql->isLogin()==1) {
-                echo '<li><a href="events/checkout.php">Checkout  <i class="fas fa-shopping-cart"></i></a></li>';
-                echo '<li><a href="logout.php">Logout   <i class="fas fa-sign-out-alt"></i></a></li>';
-            } else {
-                echo '<li><a class="button" href="signup.php">Register</a></li>';
-                echo '<li><a class="button" href="login.php">Log In</a></li>';
-            }
-        ?>
-
-      </ul>
-    </div>
+    <ul class="navContainer">
+      <li class="expand">
+        <svg class="hamburger" viewBox="0 0 100 100">
+          <line class="line l1" x1="15" y1="29" x2="85" y2="29" />
+          <line class="line l2" x1="15" y1="46" x2="85" y2="46" />
+          <line class="line l3" x1="15" y1="63" x2="85" y2="63" />
+        </svg>
+      </li>
+      <li><a class="nav-button" href="#home">Home</a></li>
+      <li><a class="nav-button" href="#about">About</a></li>
+      <li><a class="nav-button" href="#events">Events</a></li>
+      <!-- <li><a class="nav-button" href="#guests">Guests</a></li> -->
+      <li><a class="nav-button" href="#contactUs">Contact Us</a></li>
+      <?php
+          if($sql->isLogin()==1) {
+              echo '<li><a href="events/checkout.php">Checkout  <i class="fas fa-shopping-cart"></i></a></li>';
+              echo '<li><a href="logout.php">Logout   <i class="fas fa-sign-out-alt"></i></a></li>';
+          } else {
+              echo '<li><a class="button" href="signup.php">Register</a></li>';
+              echo '<li><a class="button" href="login.php">Log In</a></li>';
+          }
+      ?>
+    </ul>
   </header>
 
 
@@ -275,7 +267,7 @@ $sql = new sql();
     </div>
   </section>
 
-
+  <script src="js/common.js"></script>
   <script src="js/index.js"></script>
 </body>
 </html>

@@ -236,7 +236,7 @@ gtag('config', 'UA-66101749-2');
 			</div><!-- footer-social -->
 		    </div><!-- col -->
 		</div><!-- row -->
-	    </div><!-- container -->
+		</div><!-- container -->
 	</div><!-- footer-content-wrapper -->
     </footer><!-- site-footer -->
 

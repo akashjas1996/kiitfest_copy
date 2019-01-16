@@ -8,18 +8,6 @@ body {
   scroll-behavior: smooth;
 }
 
-.overlay {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  opacity: 0.8;
-  background: linear-gradient(-45deg, #3d7ff8, #6e0075, #0089ba, #009d7d);
-  background-size: 400% 400%;
-  transition: all 1s;
-}
-
 /*Background Colors */
 .black { background: rgba(0,0,0,0.8) !important; transition: all 1s; }
 .none { background: transparent !important; transition: all 1s; }
@@ -139,7 +127,7 @@ section {
   }
 
   section {
-    padding: 0px;
+    padding-top: 100px;
     height: 100vh;
     scroll-snap-align: start;
   }
@@ -163,27 +151,9 @@ section {
   }
 }
 
-
-/* SVG */
-.line {
-  stroke: white;
-  stroke-width: 7;
-  transition: stroke .5s;
-  stroke-linecap: round;
-}
-
-.hamburger {
-  height: 2em;
-  width: 2em;
-  margin-top: 20px;
-}
-
-
-/*
-----------------------------
+/*----------------------------
       Logo Animation
-----------------------------
-*/
+----------------------------*/
 
 .images {
     position: relative;
