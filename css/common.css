@@ -109,3 +109,128 @@ p {
     color:white;
   }
 }
+
+/*
+----------------------------
+           Header
+----------------------------
+*/
+.header {
+  position: absolute;
+  width: 100%;
+  transition: all ease-in-out .5s;
+  z-index: 100;
+  font-size: 2em;
+}
+
+.header a {
+  text-decoration: none;
+  color: white;
+  font-size: 1em;
+  transition: all .5s;
+}
+
+.header-scrolled {
+  background: rgba(0,0,0,0.8);
+  transition: all .5s;
+}
+
+.header .logo {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 2.5em;
+  opacity: 0;
+  transition: all .5s;
+  margin-left: 0.5em;
+  margin-top: 0.1em;
+}
+
+.header-scrolled {
+  background: rgba(0,0,0,0.7);
+}
+
+.header .myNav {
+  display: block;
+  height: 80px;
+  width: 100%;
+  transition: all .5s;
+}
+
+.header .myNav li {
+  font-family: Bebas Neue;
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  margin: 0px 20px;
+}
+
+.header .myNav li:not(:first-child) {
+  padding: 10px
+}
+
+.navContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.logo-visible {
+  opacity: 1 !important;
+  transition: all .5s;
+}
+
+.expand {
+  display: none !important;
+}
+
+
+@media (max-width: 768px) {
+
+  .header {
+    position: fixed;
+  }
+
+  .header .logo {
+    height: 1.5em;
+    margin: 20px;
+  }
+
+  .header .expand {
+    display: block !important;
+    position: absolute;
+    top: 0.1em;
+    right: 0.1em;
+    font-size: 0.7em;
+  }
+
+  .header li:not(:first-child) {
+    display: none;
+  }
+
+  .expanded {
+    height: 100vh !important;
+    width: 100%;
+    background: rgb(30, 35, 45);
+    transition: all ease-in-out 0.5s;
+  }
+
+  .expanded a {
+    color: white;
+    transition: all 0.5s;
+    font-size: 1em;
+  }
+
+  .expanded li:not(:first-child) {
+    display: block;
+    text-align: center;
+    font-size: 1em;
+  }
+
+  .navContainer {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center !important;
+  }
+}

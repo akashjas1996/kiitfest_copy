@@ -57,7 +57,7 @@ $sql = new sql();
         <li><a class="nav-button" href="#home">Home</a></li>
         <li><a class="nav-button" href="#about">About</a></li>
         <li><a class="nav-button" href="#events">Events</a></li>
-        <li><a class="nav-button" href="#guests">Guests</a></li>
+        <!-- <li><a class="nav-button" href="#guests">Guests</a></li> -->
         <li><a class="nav-button" href="#contactUs">Contact Us</a></li>
         <?php
             if($sql->isLogin()==1) {
@@ -134,12 +134,9 @@ $sql = new sql();
         <div class="mt-5 col-lg-5 col-sm-12">
           <h1 class="heading">About KiitFest</h1>
           <p class="body">
-          KIITFEST is a “Contest of Contests” that encompasses all cultural and technical events into one forum that we are about to bring forth “KIITFEST 5.0”. KIITFEST is an ever-expanding universe of glory and greatness, where fun and games meet battles and battles become wars, where we put the sparkle in the air and glitz in the land and where we make the stars shine.
-          </p>
+          KIITFEST is a “Contest of Contests” that encompasses all cultural and technical events into one forum that we are about to bring forth “KIITFEST 5.0”. KIITFEST is an ever-expanding universe of glory and greatness, where fun and games meet battles and battles become wars, where we put the sparkle in the air and glitz in the land and where we make the stars shine. </p>
           <p class="body">
-          This February, we aim to bring enthusiastic participation, eminent personalities and nights limed with entertainment and hysterical fun. KIITFEST has managed to attain a huge audience in the country and a participation of around 25000 students from all across the country stands a testimony to this. The techno cultural fest is packed with more than 100 events this year, with experts and dignitaries from various fields coming down to adjudicate the events.
-          </p>
-
+          This February, we aim to bring enthusiastic participation, eminent personalities and nights limed with entertainment and hysterical fun. KIITFEST has managed to attain a huge audience in the country and a participation of around 25000 students from all across the country stands a testimony to this. The techno cultural fest is packed with more than 100 events this year, with experts and dignitaries from various fields coming down to adjudicate the events. </p>
         </div>
 
         <!--Intro Video-->

@@ -50,7 +50,8 @@ gtag('config', 'UA-66101749-2');
     <link rel="stylesheet" href="css/swiper.min.css">
 
     <!-- Styles -->
-    <link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="css/common.css">
 
       <link rel="stylesheet" href="css/linearicons.css">
       <link rel="stylesheet" href="css/magnific-popup.css">
@@ -96,44 +97,8 @@ gtag('config', 'UA-66101749-2');
 			echo '<li><a class="ticker-btn" href="login.php">Log In</a></li>';
 		}
     ?>
-				</div>
-			    </div>
-			  </header><!-- #header -->
 
-			  <div class="page-header" style="background-image: url(img/technical.png)">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="entry-header">
-                        <!--<h2 class="entry-title">Cultural</h2>-->
-
-                        <ul class="breadcrumbs flex align-items-center">
-
-                        </ul><!-- .breadcrumbs -->
-                    </div><!-- entry-header -->
-                </div><!-- col-12 -->
-            </div><!-- row -->
-        </div><!-- container -->
-    </div><!-- page-header -->
-
-
-<!--
-    <header id="header" id="home">
-      <div class="container">
-	<div class="row align-items-center justify-content-between d-flex">
-	  <div id="logo">
-	    <a href="index.php"><img src="img/logo_top_left.png" alt="" title="" style="height: 80px" /></a>
-	  </div>
-	  <nav id="nav-menu-container">
-	    <ul class="nav-menu">
-	  <li class="menu-active"><a href="index.php">Home</a></li>
-	      <li><a href="/cultural.php">Cultural</a></li>
-	      <li><a href="/quizfest.php">QuizFest</a></li>
-	      <li><a class="ticker-btn" href="#">Register</a></li>
-	      <li><a class="ticker-btn" href="#">Register</a></li>
-	    </ul>
-	  </nav><!-- #nav-menu-container -->
-	</div>
+      </ul>
       </div>
     </header>
 
@@ -150,7 +115,7 @@ gtag('config', 'UA-66101749-2');
 			<div class="row the-complete-lineup-artists">
 			    <div class="col-6 col-md-4 col-lg-3 artist-single">
 				<figure class="featured-image">
-				    <a href="events/electrifyn.php"> <img src="img/kiit.jpg" alt=""> </a>
+				    <a href="events/electrifyn.php"> <img src="img/electrifyn.jpg" alt=""> </a>
 				    <a href="events/electrifyn.php" class="box-link"> <img src="" alt=""> </a>
 				</figure><!-- featured-image -->
 

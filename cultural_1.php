@@ -144,7 +144,7 @@
              if($sql->isLogin() == 1)
              {
                echo '
-                <a onClick=addToCart(901) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
+                <a onClick=addToCart(901) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
               
               }
           ?>
@@ -252,7 +252,7 @@ A. Angana Majumder        (Ph. No.-7873877305)
              if($sql->isLogin() == 1)
              {
                echo '
-                <a onClick=addToCart(902) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
+                <a onClick=addToCart(902) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
               
               }
           ?>
@@ -365,7 +365,7 @@ A. Angana Majumder        (Ph. No.-7873877305)
              if($sql->isLogin() == 1)
              {
                echo '
-                <a onClick=addToCart(903) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
+                <a onClick=addToCart(903) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
               
               }
           ?>
@@ -471,7 +471,7 @@ A. Angana Majumder        (Ph. No.-7873877305)
              if($sql->isLogin() == 1)
              {
                echo '
-                <a onClick=addToCart(904) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
+                <a onClick=addToCart(904) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
               
               }
           ?>
@@ -632,7 +632,7 @@ Peenal-9078802826 <br>
              if($sql->isLogin() == 1)
              {
                echo '
-                <a onClick=addToCart(905) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
+                <a onClick=addToCart(905) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
               
               }
           ?>
@@ -714,7 +714,7 @@ Participants would be required to frame a micro tale based on a given theme and 
 
                             <div class="entry-content">
                                 <div class="entry-header">
-                                    <h2>Khwaishein</h2>
+                                    <h2>Shabd</h2>
                                 </div><!-- entry-header -->
 
                                <div class="entry-meta">
@@ -725,7 +725,7 @@ Participants would be required to frame a micro tale based on a given theme and 
                                 </div>
 
                                 <div class="entry-description">
-                                    <p style="text-align: justify;">This event includes two events, Shabd an Open Mic and Tulika where...</p>
+                                    <p style="text-align: justify;">Competition of performing poetry or story or Shayari with some background music...</p>
                                 </div><!-- entry-description -->
                                 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal6">Know More</button>
                                 <?php 
@@ -733,7 +733,7 @@ Participants would be required to frame a micro tale based on a given theme and 
              if($sql->isLogin() == 1)
              {
                echo '
-                <a onClick=addToCart(906) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
+                <a onClick=addToCart(906) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
               
               }
           ?>
@@ -753,12 +753,11 @@ Participants would be required to frame a micro tale based on a given theme and 
 
 
                                           <center>
-                                              <h3 style="color:black;">Khwaishein</h3>
+                                              <h3 style="color:black;">Shabd</h3>
                                           </center>
                                                                 <hr style="border-color: black;">
 
                                           <p style="color: black; text-align: justify;">
-                                            <h3>Shabd (Open Mic)</h3>
                                            <b> Description of the Event:</b>
                                            Competition of performing poetry or story or Shayari with some background music or the participants can use props in order to represent their ideas.
                                           <br>
@@ -785,10 +784,73 @@ Participants would be required to frame a micro tale based on a given theme and 
                                   Coordinators: <br><br>
                                   SRIJAN PANDEY - 9438372916 <br>
                                   ATUL KONDLIYA - 7064001831 <br> <br>
+                                </p>
+                                </p>
+                                      </div>
+
+                                    </div>
+                                  </div>
+                                </div>
+
+                                </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
+
+                                <div class="col-12 col-md-4 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="images/blog-image-5.jpg" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                           
+
+                            <div class="entry-content">
+                                <div class="entry-header">
+                                    <h2>Tulika</h2>
+                                </div><!-- entry-header -->
+
+                               <div class="entry-meta">
+                                    <span class="author-name"><span>Date:</span> Coming soon</span>
+                                    <span class="space">|</span>
+                                    <span class="space"><span>Time:</span> Coming soon</span><br/>
+                                    <span class="comments-count"><span>Venue:</span> Coming soon</span>
+                                </div>
+
+                                <div class="entry-description">
+                                    <p style="text-align: justify;"> It is a Hindi writing competition to promote Hindi language and focus on social issues.</p>
+                                </div><!-- entry-description -->
+                                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal6">Know More</button>
+                                <?php 
+             
+             if($sql->isLogin() == 1)
+             {
+               echo '
+                <a onClick=addToCart(915) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
+              
+              }
+          ?>
 
 
+                                <!-- Modal -->
+                                <div class="modal fade" id="myModal15" role="dialog">
+                                  <div class="modal-dialog modal-lg">
+                                    <div class="modal-content">
+
+                                      <div class="modal-body"  style="background-color: aqua;">
+                                          <button type="button" class="close" aria-label="Close" data-dismiss="modal">
+                                <span aria-hidden="true">&times;</span>
+                              </button>
+                                        <center ><img style="size: 10px;" src="events/kiitfest_logo.PNG"></center>
+                                        <center ><h5 style="color: black;">CULTURAL<br></h5></center>
+
+
+                                          <center>
+                                              <h3 style="color:black;">Tulika</h3>
+                                          </center>
+                                                                <hr style="border-color: black;">
+
+                                          <p style="color: black; text-align: justify;">
                                                                             <p style="color: black;">
-                                                                              <h3>Tulika</h3>
                                                                              <b> Description of the Event:</b>
                                                                              It is a Hindi writing competition to promote Hindi language and focus on social issues.
 
@@ -846,7 +908,7 @@ Participants would be required to frame a micro tale based on a given theme and 
 
                             <div class="entry-content">
                                 <div class="entry-header">
-                                    <h2>KALAKAAR</h2>
+                                    <h2>SPOTLIGHT</h2>
                                 </div><!-- entry-header -->
 
                               <div class="entry-meta">
@@ -866,7 +928,7 @@ Participants would be required to frame a micro tale based on a given theme and 
              if($sql->isLogin() == 1)
              {
                echo '
-                <a onClick=addToCart(907) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
+                <a onClick=addToCart(907) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
               
               }
           ?>
@@ -877,19 +939,18 @@ Participants would be required to frame a micro tale based on a given theme and 
 
                                       <div class="modal-body"  style="background-color: aqua;">
                                           <button type="button" class="close" aria-label="Close" data-dismiss="modal">
-                                <span aria-hidden="true">&times;</span>
-                              </button>
+                                          <span aria-hidden="true">&times;</span>
+                                          </button>
                                         <center ><img style="size: 10px;" src="events/kiitfest_logo.PNG"></center>
                                         <center ><h5 style="color: black;">CULTURAL<br></h5></center>
 
 
                                           <center>
-                                              <h3 style="color:black;">KALAKAAR</h3>
+                                              <h3 style="color:black;">SPOTLIGHT</h3>
                                           </center>
                                                                 <hr style="border-color: black;">
 
                                           <p style="color: black; text-align: justify;">
-                                            <h3>SPOTLIGHT(Theatre)</h3><br><br>
                                            <b> Description of the Event:</b>
                                            Let the emotions flow from page to stage!  The colourful lights, the camera and the audience are waiting for you. <br>
                                 <br></p>
@@ -910,23 +971,83 @@ Participants would be required to frame a micro tale based on a given theme and 
                                 </p>
 
                                 <p style="color: black;">
-                                <b>PRIZE MONEY: RS 35000</b><br>
+                                    <b>PRIZE MONEY: RS 35000</b><br>
                                 </p>
 
                                 <p style="color: black;list-style-type:1;float: center;"><b>Contact with phone numbers:</b><br>
                                   Contact Details: Shubham Singh- 6370082596 <br>
-           Titly Saha- 9078802181 <br>
-           Vishal Sahu- 9630274030 <br>
+                                    Titly Saha- 9078802181 <br>
+                                    Vishal Sahu- 9630274030 <br>
+                                </p>
+                                        
+                                      </p>
+                                      </div>
+
+                                    </div>
+                                  </div>
+                                </div>
 
 
 
+                            </div><!-- entry-content -->
+                        </div>
+                    </div><!-- col-6 -->
 
-                                        </p>
-                                        <hr style="border-color: black;">
+                    <div class="col-12 col-md-4 single-blog-content">
+                        <div class="blog-content">
+                            <figure class="featured-image">
+                                <a href="#"> <img src="images/blog-image-1.jpg" alt="fesival+celebration"> </a>
+                            </figure><!-- featured-image -->
+
+                          
+
+                            <div class="entry-content">
+                                <div class="entry-header">
+                                    <h2>DEKH TAMASHA DEKH</h2>
+                                </div><!-- entry-header -->
+
+                              <div class="entry-meta">
+                                    <span class="author-name"><span>Date:</span> Coming soon</span>
+                                    <span class="space">|</span>
+                                    <span class="space"><span>Time:</span> Coming soon</span><br/>
+                                    <span class="comments-count"><span>Venue:</span> Coming soon</span>
+                                </div>
+
+                                <div class="entry-description">
+                                    <p style="text-align: justify;"> Street Theatre is the earliest form of communication and its objective is to convey a social message...</p>
+                                </div><!-- entry-description -->
+                                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal14">Know More</button>
+
+                                           <?php 
+             
+             if($sql->isLogin() == 1)
+             {
+               echo '
+                <a onClick=addToCart(914) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
+              
+              }
+          ?>
+                                <!-- Modal -->
+                                <div class="modal fade" id="myModal14" role="dialog">
+                                  <div class="modal-dialog modal-lg">
+                                    <div class="modal-content">
+
+                                      <div class="modal-body"  style="background-color: aqua;">
+                                          <button type="button" class="close" aria-label="Close" data-dismiss="modal">
+                                          <span aria-hidden="true">&times;</span>
+                                          </button>
+                                        <center ><img style="size: 10px;" src="events/kiitfest_logo.PNG"></center>
+                                        <center ><h5 style="color: black;">CULTURAL<br></h5></center>
+
+
+                                          <center>
+                                              <h3 style="color:black;">DEKH TAMASHA DEKH</h3>
+                                          </center>
+                                          <hr style="border-color: black;">
                                         <p style="color: black; text-align: justify;">
                                           <h3>DEKH TAMASHA DEKH</h3><br><br>
                                          <b> Description of the Event:</b>
-                                         Street Theatre is the earliest form of communication and its objective is to convey a social message by raising critical issues with the help of direct, intimate and effective means of dramalogy. So, we give you an opportunity to : “Break the barriers, raise your voices and reach the people directly”.  <br>
+                                         Street Theatre is the earliest form of communication and its objective is to convey a social message...direct, intimate and effective means of dramalogy. So, we give you an opportunity to : “Break the barriers, raise your voices and reach the people directly”.  <br>
                               <br></p>
 
                               <p style="color: black;">
@@ -1010,7 +1131,7 @@ However, the above criteria are completely subjected to discretion of judges.</l
              if($sql->isLogin() == 1)
              {
                echo '
-                <a onClick=addToCart(908) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
+                <a onClick=addToCart(908) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
               
               }
           ?>
@@ -1143,7 +1264,7 @@ Choreography, Beat kills, Costumes, Coordination, Innovation, originality, and O
              if($sql->isLogin() == 1)
              {
                echo '
-                <a onClick=addToCart(909) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
+                <a onClick=addToCart(909) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
               
               }
           ?>
@@ -1246,7 +1367,7 @@ artist within you.</p>
              if($sql->isLogin() == 1)
              {
                echo '
-                <a onClick=addToCart(910) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
+                <a onClick=addToCart(910) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
               
               }
           ?>
@@ -1381,7 +1502,7 @@ obey.</b>/p>
              if($sql->isLogin() == 1)
              {
                echo '
-                <a onClick=addToCart(911) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
+                <a onClick=addToCart(911) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
               
               }
           ?>
@@ -1529,7 +1650,7 @@ Sing to your heart&#39;s content and be the heartthrob you always wanted to be.<
              if($sql->isLogin() == 1)
              {
                echo '
-                <a onClick=addToCart(912) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
+                <a onClick=addToCart(912) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
               
               }
           ?>
@@ -1617,7 +1738,7 @@ the participant might be disqualified as per the jury decision.</li>
                             </div><!-- entry-content -->
                         </div>
                     </div><!-- col-6 -->
-                    <div class="col-12 col-md-12 single-blog-content">
+                    <div class="col-12 col-md-4 single-blog-content">
                         <div class="blog-content">
                             <figure class="featured-image">
                                 <a href="#"><img src="img/works/illustory.png" alt="fesival+celebration"> </a>
@@ -1646,7 +1767,7 @@ the participant might be disqualified as per the jury decision.</li>
              if($sql->isLogin() == 1)
              {
                echo '
-                <a onClick=addToCart(913) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;" href="#" data-toggle="modal" data-target="#myModal8">Add To Cart</a>';
+                <a onClick=addToCart(913) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
               
               }
           ?>
