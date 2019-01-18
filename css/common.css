@@ -37,7 +37,8 @@ ul {
 
 body {
   height:100%;
-  overflow-y:scroll;
+  margin: 0px !important;
+  overflow: hidden;
   -webkit-overflow-scrolling: touch;
 }
 

@@ -24,7 +24,8 @@ $sql = new sql();
   <!--Local js-->
   <script src="js/TimelineLite.min.js"></script>
   <script src="js/TweenMax.min.js"></script>
-  <script ssrc="js/jquery.js"></script>
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery.transit.min.js"></script>
 
     </head>
 
@@ -70,11 +71,11 @@ $sql = new sql();
           <button class="department">Electrifyn</button>
             <div class="eventContainer">
               <button id="event1" class="events">Robo Triathlon</button>
-              <button id="event1" class="events">Design 4 Energy</button>
-              <button id="event1" class="events">Circuit Design & Power Relay</button>
-              <button id="event1" class="events">S.U.I.T</button>
-              <button id="event1" class="events">Solar Spectrum</button>
-              <button id="event1" class="events">KIIT-IEEE Workshop</button>
+              <button id="event2" class="events">Design 4 Energy</button>
+              <button id="event3" class="events">Circuit Design & Power Relay</button>
+              <button id="event4" class="events">S.U.I.T</button>
+              <button id="event5" class="events">Solar Spectrum</button>
+              <button id="event6" class="events">KIIT-IEEE Workshop</button>
             </div>
 
           <button class="department">Kinesis</button>
