@@ -205,8 +205,8 @@ A pencil, a brush & few colors or sometimes may be just one of these is enough t
 </p>
 
 <p style="color: black;list-style-type:1;float: left;"><b>Contact with phone numbers:</b><br>
-A. Angana Majumder        (Ph. No.-7873877305)
- <br>  B. Pratik Sahoo                 (Ph. No.-9938868613)
+Angana Majumder        (7873877305) <br>  Sayan Sarkar (9431770604)
+ <br>   Pratik Sahoo                 (9938868613)
 
 
 
