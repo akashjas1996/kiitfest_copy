@@ -103,7 +103,7 @@
                 $actual_link = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]";
                 $url = $actual_link . "/verify-pass-token.php?token=" . $token;
                 echo $url;
-                //sendMail($url,$email);
+                sendMail($url,$email);
                 //sendMail($email,$url);
             }
 
