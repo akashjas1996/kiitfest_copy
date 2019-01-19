@@ -67,7 +67,7 @@ window.onload = () => {
       header.classList.remove('header-scrolled');
     }
 
-    /*
+
     //currentTint
     className = tint.classList[1];
     //Tint based on which section is most dominant on viewport
@@ -87,7 +87,7 @@ window.onload = () => {
       tint.classList.remove(className);
       tint.classList.add("contactUs");
     }
-    */
+
   };
 };
 
