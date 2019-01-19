@@ -1,6 +1,12 @@
 <?php
     @require_once("db_connection.php");
-    require("PHPMailer-5.2-stable/PHPMailerAutoload.php");
+    use PHPMailer\PHPMailer\PHPMailer;
+    use PHPMailer\PHPMailer\Exception;
+
+
+require 'PHPMailer/src/Exception.php';
+require 'PHPMailer/src/PHPMailer.php';
+require 'PHPMailer/src/SMTP.php';
 
     //Checking session for valid user
     if(!array_key_exists("valid_user", $_SESSION) && empty($_SESSION["valid_user"]))
@@ -178,47 +184,49 @@
 
             if($result)
             {
-
-            $mail = new PHPMailer;
-
-            $mail->isSMTP();                                      // Set mailer to use SMTP
-            $mail->Host = 'smtp.zoho.com';                       // Specify main and backup server
-            $mail->SMTPAuth = true;                               // Enable SMTP authentication
-            $mail->Username = 'info@kiitfest.org';                   // SMTP username
-            $mail->Password = '57t0n$lJ86%6';               // SMTP password
-            $mail->SMTPSecure = 'ssl';                            // Enable encryption, 'ssl' also accepted
-            $mail->Port = 465;
-            $mail->AuthType = 'LOGIN';                               //Set the SMTP port number - 587 for authenticated
-            $mail->setFrom('info@kiitfest.org', 'KIITFEST 5.0');
-            $mail->addAddress($email);     // Add a recipient
-                           // Name is optional
-            $mail->Subject = 'Verify your Email';
-            $mail->Body    = 'Greetings from KIITFEST!!
+                $mail = new PHPMailer(true);                              // Passing `true` enables exceptions
+try {
+    $mail->isSMTP();                                      // Set mailer to use SMTP
+    $mail->Host = 'smtp.zoho.com';                       // Specify main and backup server
+    $mail->SMTPAuth = true;                               // Enable SMTP authentication
+    $mail->Username = 'info@kiitfest.org';                   // SMTP username
+    $mail->Password = '57t0n$lJ86%6';               // SMTP password
+    $mail->SMTPSecure = 'ssl';                            // Enable encryption, 'ssl' also accepted
+    $mail->Port = 465;
+    $mail->AuthType = 'LOGIN';                               //Set the SMTP port number - 587 for authenticated
+    $mail->setFrom('info@kiitfest.org', 'KIITFEST 5.0');
+    $mail->addAddress($email);     // Add a recipient
+                   // Name is optional
+    $mail->Subject = 'Verify your Email';
+    $mail->Body    = 'Greetings from KIITFEST!!
 <br>You have successfully registered for KIITFEST 5.0 and now, you are a part of our very own legacy of over 4 years of jubilant celebration of arts, music, creativity. We hope to see your Undying Spirit relive the Chronicles of True Participation, Immense Zest and Pure Valediction. These are your credentials: KF ID: '.$KF_ID.' EMAIL: '.$email.'
 
 <br>The next step to be a true part of KIITFEST 5.0 and for our verification VERIFICATION LINK:'.$verifyLink . '<br><b> Your KFID : ' .$KF_ID;
-            $mail->AltBody = $verifyLink . $KF_ID;
-                // $mail->subject = "My subject";
-                // $mail->txt = "Hello world!";
-                // $mail->headers = "From: webmaster@example.com" . "\r\n" .
-                // "CC: somebodyelse@example.com";
+    $mail->AltBody = $verifyLink . $KF_ID;
+        // $mail->subject = "My subject";
+        // $mail->txt = "Hello world!";
+        // $mail->headers = "From: webmaster@example.com" . "\r\n" .
+        // "CC: somebodyelse@example.com";
 
 
-                if(!$mail->send()) {
-                echo 'Message could not be sent.';
-                echo 'Mailer Error: ' . $mail->ErrorInfo;
-                } else {
-                   echo '<script>';
-                   echo 'setTimeout(function(){swal("Congratulations!", "Mail Sent", "success")},150)';
-                   echo '</script>';
+        if(!$mail->send()) {
+        echo 'Message could not be sent.';
+        echo 'Mailer Error: ' . $mail->ErrorInfo;
+        } else {
+           echo '<script>';
+           echo 'setTimeout(function(){swal("Congratulations!", "Mail Sent", "success")},150)';
+           echo '</script>';
 
-                }
-                  echo '<script>';
-                echo 'setTimeout(function(){window.location.href = "https://kiitfest.org/index.html";},900)';
-                  echo '</script>';
-                // echo '<script>';
-                // echo 'setTimeout(function(){window.location.href = "index.php";},700)';
-                // echo '</script>';
+        }
+          /*echo '<script>';
+        echo 'setTimeout(function(){window.location.href = "https://kiitfest.org/index.php";},900)';
+          echo '</script>';*/
+        // echo '<script>';
+        // echo 'setTimeout(function(){window.location.href = "index.php";},700)';
+        // echo '</script>';
+} catch (Exception $e) {
+    echo 'Message could not be sent. Mailer Error: ', $mail->ErrorInfo;
+}
             }
         }
         else
