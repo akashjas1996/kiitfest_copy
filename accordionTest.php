@@ -27,6 +27,14 @@ $sql = new sql();
   <script src="js/jquery-3.3.1.min.js"></script>
   <script src="js/jquery.transit.min.js"></script>
 
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-66101749-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-66101749-2');
+  </script>
+
     </head>
 
     <body>
