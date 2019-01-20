@@ -46,14 +46,15 @@
     function sendMail($url,$email){
         //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
         $mail = new PHPMailer;
-        $mail->isSMTP();                                      // Set mailer to use SMTP
+        $mail->isSMTP();     
+        //$mail->SMTPDebug = 1;                                 // Set mailer to use SMTP
         $mail->Host = 'smtp.zoho.com';                       // Specify main and backup server
         $mail->SMTPAuth = true;                               // Enable SMTP authentication
         $mail->Username = 'info@kiitfest.org';                   // SMTP username
-        $mail->Password = '57t0n$IJ86%6';               // SMTP password
+        $mail->Password = '57t0n$lJ86%6';               // SMTP password
         $mail->SMTPSecure = 'ssl';                            // Enable encryption, 'ssl' also accepted
         $mail->Port = 465;
-        $mail->AuthType = 'LOGIN';                               //Set the SMTP port number - 587 for authenticated
+        //$mail->AuthType = 'LOGIN';                               //Set the SMTP port number - 587 for authenticated
         $mail->setFrom('info@kiitfest.org', 'KIITFEST 5.0');
         $mail->addAddress($email);     // Add a recipient
                        // Name is optional
