@@ -184,8 +184,10 @@ require 'PHPMailer/src/SMTP.php';
 
             if($result)
             {
-
-                $mail->isSMTP();                                      // Set mailer to use SMTP
+                //info@kiitfest.org->57t0n$lJ86%6
+                $mail = new PHPMailer;
+                $mail->isSMTP();  
+                //$mail->SMTPDebug = 1;                                      // Set mailer to use SMTP
                 $mail->Host = 'smtp.zoho.com';                       // Specify main and backup server
                 $mail->SMTPAuth = true;                               // Enable SMTP authentication
                 $mail->Username = 'info@kiitfest.org';                   // SMTP username
@@ -220,9 +222,9 @@ require 'PHPMailer/src/SMTP.php';
                       /*echo '<script>';
                     echo 'setTimeout(function(){window.location.href = "https://kiitfest.org/index.php";},900)';
                       echo '</script>';*/
-                    echo '<script>';
-                    echo 'setTimeout(function(){window.location.href = "/";},700)';
-                    echo '</script>';
+                    // echo '<script>';
+                    // echo 'setTimeout(function(){window.location.href = "/";},700)';
+                    // echo '</script>';
             }
         }
         else
