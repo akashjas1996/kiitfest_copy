@@ -3,6 +3,7 @@ include("../sql.php");
 $sql = new sql();
 ?>
 <!DOCTYPE html>
+<?php include "../trac.php"; ?>
 <html>
 <head>
   <title>Chceckout Page | KIIT Fest 5.0</title>

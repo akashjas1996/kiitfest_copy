@@ -3,6 +3,7 @@ include "../sql.php";
 $sql = new sql();
 ?>
 <!DOCTYPE html>
+<?php include "../trac.php"; ?>
 <html lang="en" dir="ltr">
 
 
