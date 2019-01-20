@@ -3,6 +3,7 @@ include "../sql.php";
 $sql = new sql();
 ?>
 <html lang="en" dir="ltr">
+<?php include "../trac.php"; ?>
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
