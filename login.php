@@ -57,6 +57,7 @@
 
 ?>
 <!DOCTYPE html>
+<?php include "trac.php"; ?>
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
