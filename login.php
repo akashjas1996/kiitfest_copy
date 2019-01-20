@@ -60,7 +60,8 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>Login Here</title>
+	<title>Login Here</title>
+	
   <link href="https://fonts.googleapis.com/css?family=Lato:400,600,700" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
@@ -350,7 +351,8 @@ form .inputGroup1.focusWithText .helper {
 		<input type="password" id="password" name="pass" class="password" />
 	</div>
 	<div class="inputGroup inputGroup3">
-		<button type="submit" name="submit" id="login">Log in</button>
+		<button type="submit" name="submit" id="login">Log in</button><br>
+		Forgot your password? <a href="/forgot.php" class="">Click here to reset</a>
 	</div>
 </form>
 
