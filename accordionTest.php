@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+<?php include "trac.php"; ?>
 <?php
 include "./sql.php";
 $sql = new sql();

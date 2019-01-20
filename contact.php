@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<?php include "trac.php"; ?>
 <html lang="en" dir="ltr">
 <head>
 <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
