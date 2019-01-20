@@ -38,7 +38,6 @@ ul {
 body {
   height:100%;
   margin: 0px !important;
-  -webkit-overflow-scrolling: touch;
 }
 
 h1 {
@@ -85,7 +84,7 @@ p {
   }
   
   p {
-    font-size: 0.8em;
+    font-size: 1em;
     font-family: Montserrat;
     color:white;
   }
@@ -121,7 +120,7 @@ p {
 }
 
 .overlay {
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 0;
   width: 100%;
@@ -130,6 +129,7 @@ p {
   background: linear-gradient(-45deg, #3d7ff8, #6e0075, #0089ba, #009d7d);
   background-size: 400% 400%;
   transition: all 1s;
+  z-index: 0;
 }
 
 .black { background: rgba(0,0,0,0.8) !important; transition: all 1s; }
@@ -224,6 +224,10 @@ p {
 
 
 @media (max-width: 768px) {
+  .header-scrolled {
+    background: transparent;
+    transition: all .5s;
+  }
 
   .header {
     position: fixed;

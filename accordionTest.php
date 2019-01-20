@@ -5,48 +5,42 @@ include "./sql.php";
 $sql = new sql();
 ?>
 
-  <html lang="en">
-    <head>
+<html lang="en">
+  <head>
     <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" sizes="192x192" href="img/logo.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" sizes="192x192" href="img/kfLogoTopLeft.png">
 
-  <meta name="description" content="">
-  <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
 
-  <title>KIITFEST 5.0</title>
+    <title>KIITFEST 5.0</title>
 
-  <!--Local css-->
-  <link rel="stylesheet" href="css/common.css" />
-  <link rel="stylesheet" href="css/accordion.css" />
-  <link rel="stylesheet" href="css/fontawesome-all.min.css" />
+    <!--Local css-->
+    <link rel="stylesheet" href="css/common.css" />
+    <link rel="stylesheet" href="css/accordion.css" />
+    <link rel="stylesheet" href="css/fontawesome-all.min.css" />
 
-  <!--Local js-->
-  <script src="js/TimelineLite.min.js"></script>
-  <script src="js/TweenMax.min.js"></script>
-  <script src="js/jquery-3.3.1.min.js"></script>
-  <script src="js/jquery.transit.min.js"></script>
+    <!--Local js-->
+    <script src="js/TimelineLite.min.js"></script>
+    <script src="js/TweenMax.min.js"></script>
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/jquery.transit.min.js"></script>
 
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-66101749-2"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-66101749-2');
-  </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-66101749-2"></script>
 
-    </head>
+  </head>
 
-    <body>
+  <body>
 
 
     <div class="background ">
       <div class="sliding-bg"></div>
-      <div id="blackTint" class="overlay black"></div>
+      <div id="blackTint" class="overlay home"></div>
     </div>
 
     <!--Header-->
-    <header class="header">
+    <header class="header header-scrolled">
       <ul class="navContainer">
         <li class="expand">
           <svg class="hamburger" viewBox="0 0 100 100">
@@ -58,7 +52,6 @@ $sql = new sql();
         <li><a class="nav-button" href="#home">Home</a></li>
         <li><a class="nav-button" href="#about">About</a></li>
         <li><a class="nav-button" href="#events">Events</a></li>
-        <!-- <li><a class="nav-button" href="#guests">Guests</a></li> -->
         <li><a class="nav-button" href="#contactUs">Contact Us</a></li>
         <?php
             if($sql->isLogin()==1) {
@@ -78,12 +71,12 @@ $sql = new sql();
         <div class="deptContainer">
           <button class="department">Electrifyn</button>
             <div class="eventContainer">
-              <button id="event1" class="events">Robo Triathlon</button>
-              <button id="event2" class="events">Design 4 Energy</button>
-              <button id="event3" class="events">Circuit Design & Power Relay</button>
-              <button id="event4" class="events">S.U.I.T</button>
-              <button id="event5" class="events">Solar Spectrum</button>
-              <button id="event6" class="events">KIIT-IEEE Workshop</button>
+              <button id="101" class="events">Robo Triathlon</button>
+              <button id="102" class="events">Design 4 Energy</button>
+              <button id="103" class="events">Circuit Design & Power Relay</button>
+              <button id="104" class="events">S.U.I.T</button>
+              <button id="105" class="events">Solar Spectrum</button>
+              <button id="106" class="events">KIIT-IEEE Workshop</button>
             </div>
 
           <button class="department">Kinesis</button>
@@ -119,14 +112,14 @@ $sql = new sql();
 
           <button class="department">Mirabilia</button>
             <div class="eventContainer">
-              <button id="event1" class="events">Braille Coding</button>
-              <button id="event1" class="events">Turncoat</button>
-              <button id="event1" class="events">3rd Eye Photography</button>
-              <button id="event1" class="events">Bring Back To Life</button>
-              <button id="event1" class="events">DataJAM</button>
-              <button id="event1" class="events">Algonigma</button>
-              <button id="event1" class="events">Appathon</button>
-              <button id="event1" class="events">Tech-Know</button>
+              <button id="501" class="events">Braille Coding</button>
+              <button id="502" class="events">Turncoat</button>
+              <button id="503" class="events">3rd Eye Photography</button>
+              <button id="504" class="events">Bring Back To Life</button>
+              <button id="505" class="events">DataJAM</button>
+              <button id="506" class="events">Algonigma</button>
+              <button id="507" class="events">Appathon</button>
+              <button id="508" class="events">Tech-Know</button>
             </div>
 
           <button class="department">Nirminite</button>
@@ -167,6 +160,7 @@ $sql = new sql();
         </div>
 
         <div class="eventDetailsContainer">
+            
           <p class="eventContent"></p>
         </div>
       </div>

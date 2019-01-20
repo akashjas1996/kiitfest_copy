@@ -1,7 +1,6 @@
 * { box-sizing: border-box; }
 body { height: 100vh; }
 p { font-family: Montserrat; }
-::-webkit-scrollbar { width: 0px; }
 *:focus {outline:none}
 
 .container {
@@ -11,7 +10,7 @@ p { font-family: Montserrat; }
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow-y: scroll;
+    overflow-y: hidden;
 }
 
 .deptContainer {
@@ -22,7 +21,7 @@ p { font-family: Montserrat; }
     height: 80%;
     overflow-y: scroll;
     overflow-x: hidden;
-    background: white;
+    background: rgba(255,255,255,0.8);
     border-radius: 10px 0px 0px 10px;
     display: flex;
     flex-direction: column;
@@ -34,9 +33,10 @@ p { font-family: Montserrat; }
     flex-grow: 1;
     padding: 20px;
     height: 80%;
-    background: black;
+    background:white;
     overflow-y: scroll;
     border-radius: 0px 10px 10px 0px;
+    srollbar-width: none;
 }
 
 .department {
@@ -83,7 +83,7 @@ p { font-family: Montserrat; }
     padding: 10px;
     font-size: 17px;
     text-align: left;
-    background: white;
+    background: transparent;
     transition: background 0.4s;
 }
 
@@ -104,4 +104,8 @@ p { font-family: Montserrat; }
     height: 0px;
     overflow: hidden;
     transition: all 0.3s;
+}
+
+.eventContent {
+    color: black !important;
 }

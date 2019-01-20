@@ -9,7 +9,7 @@ $sql = new sql();
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" sizes="192x192" href="img/logo.png">
+  <link rel="icon" sizes="192x192" href="img/kfLogoTopLeft.png">
 
   <meta name="description" content="">
   <meta name="keywords" content="">
@@ -27,15 +27,6 @@ $sql = new sql();
   <!--Local js-->
   <script src="js/TimelineLite.min.js"></script>
   <script src="js/TweenMax.min.js"></script>
-  
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-66101749-2"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-66101749-2');
-  </script>
-
 
 </head>
 <body>
@@ -59,7 +50,6 @@ $sql = new sql();
       <li><a class="nav-button" href="#home">Home</a></li>
       <li><a class="nav-button" href="#about">About</a></li>
       <li><a class="nav-button" href="#events">Events</a></li>
-      <!-- <li><a class="nav-button" href="#guests">Guests</a></li> -->
       <li><a class="nav-button" href="#contactUs">Contact Us</a></li>
       <?php
           if($sql->isLogin()==1) {
@@ -155,21 +145,24 @@ $sql = new sql();
       <div class="row justify-content-center align-items-center h-100">
 
         <div class="col-md-3 col-sm-8 d-flex flex-column justify-content-center align-items-center event tech">
+          <div id="blackTint" class="event-overlay blue"></div>
           <h2 class="title">Technical</h2>
               <p class="body">"A small step. A giant leap for mankind."</p>
               <p class="body"> A hub for all denizens and enthusiasts of Technology who believe that they can mould this world into a better place to be a part of. A click is what matters!</p>
           <a href="./technical.php"><button class="event-button" >See Events</button></a>
         </div>
         <div class="col-md-3 col-sm-8 d-flex flex-column justify-content-center align-items-center event cul">
+          <div id="blackTint" class="event-overlay pink"></div>
           <h2 class="title">Cultural</h2>
-              <p class="body">"A small step. A giant leap for mankind."</p>
-              <p class="body"> A hub for all denizens and enthusiasts of Technology who believe that they can mould this world into a better place to be a part of. A click is what matters!</p>
+              <p class="body">"Imagination and Ideas are ever-expanding and immortal."</p>
+              <p class="body"> A cue for all aspirants who are imaginative, creative and artisans to amalgamate and be a part to. So, dance and sway to the tunes of glory. We are open.</p>
           <a href="./cultural.php"><button class="event-button"> See Events</button>
 </a>        </div>
         <div class="col-md-3 col-sm-8 d-flex flex-column justify-content-center align-items-center event quiz">
+          <div id="blackTint" class="event-overlay yellow"></div>
           <h2 class="title">QuizFest</h2>
-              <p class="body">"A small step. A giant leap for mankind."</p>
-              <p class="body"> A hub for all denizens and enthusiasts of Technology who believe that they can mould this world into a better place to be a part of. A click is what matters!</p>
+              <p class="body">"My mind rebels at stagnation."</p>
+              <p class="body"> And with that witty thought in mind, your curiosity is satiated. The Quiz Carnival is back to churn your neurons with questions and answers that would determine the best. Be a part!</p>
           <a href="./quizfest.php"><button class="event-button">See Events</button></a>
         </div>
 
