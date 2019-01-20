@@ -10,15 +10,16 @@
         {
             $row = mysqli_fetch_assoc($result);
             $kf_id = $row['kf_id'];
-            $query = "INSERT INTO participants_participant_events (participant_id, event_id) VALUES ('$kf_id', $itemId)";
+            $query = "DELETE FROM participants_participant_events WHERE participant_id='$kf_id' AND event_id= $itemId";
             $result1 = mysqli_query($connect,$query);
             if($result1)
             {
-                echo 1;
+                return 1;
             }
             else
             {
-                echo mysqli_error($connect);
+                return 0;
+                //echo mysqli_error($connect);
             }
         }
     

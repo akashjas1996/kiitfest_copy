@@ -5,11 +5,13 @@ $sql = new sql();
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Shopping Cart</title>
+  <title>Chceckout Page | KIIT Fest 5.0</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"">
   <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <link rel="stylesheet" href="css/fontawesome-all.min.css">
+  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 <style>
  .shopping-cart{
   padding-bottom: 50px;
@@ -171,9 +173,30 @@ $sql = new sql();
                     $result = mysqli_query($GLOBALS['connect'],$sql);
                     if($result)
                     {
+                        $c = mysqli_num_rows($result);
+                        if($c==0)
+                            echo '<div class="product">
+                  <div class="row">
+                    <div class="col-md-3">
+                      
+                    </div>
+                    <div class="col-md-8">
+                      <div class="info">
+                        <div class="row">
+                            <center><div style="font-size:20px;"class="product-name">Your cart is empty</div><center>
+                              <div style="font-size:12px;">Looks like you have not made your list</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              
+                          ';
                         $count = 1;
                         while($row = mysqli_fetch_assoc($result))
                         {
+                          
+                        
                             echo '
                   <div class="product">
                   <div class="row">
@@ -184,11 +207,14 @@ $sql = new sql();
                       <div class="info">
                         <div class="row">
                         <div  class="col-md-2">'.$count++.'</div>
-                          <div class="col-md-6 product-name">
+                          <div class="col-md-4 product-name">
                             <div class="product-name">
                               <a href="#">'.$row['event_name'].'</a>
                             </div>
                           </div>
+                          <div class="col-md-2">
+                            <input class="btn btn-danger" onClick=removeItem('.$row['event_id'].') type="submit" value="Remove">
+                          </div> 
                         </div>
                       </div>
                     </div>
@@ -215,7 +241,7 @@ $sql = new sql();
                               <div class="summary-item"><span class="text">Discount</span><span class="price">₹ 0</span></div>
                               <!--<div class="summary-item"><span class="text">Status</span><span class="price">₹ 0</span></div>-->
                               <div class="summary-item"><span class="text">Total</span><span class="price">₹ 208</span></div>
-                              <a href="https://kiitfest.org/payment/pay.php"><button type="button" class="btn btn-primary btn-lg btn-block">Checkout</button></a>
+                              <a href="https://kiitfest.org/payment/pay.php"><button type="button" class="btn btn-primary btn-lg btn-block">Proceed to payment</button></a>
                             </div>
                           </div>';
                           else
@@ -229,7 +255,7 @@ $sql = new sql();
                             <div class="summary-item"><span class="text">Discount</span><span class="price">₹ 0</span></div>
                             <!--<div class="summary-item"><span class="text">Status</span><span class="price">₹ 0</span></div>-->
                             <div class="summary-item"><span class="text">Total</span><span class="price">₹ 515</span></div>
-                            <a href="https://kiitfest.org/payment/pay.php"><button type="button" class="btn btn-primary btn-lg btn-block">Checkout</button></a>
+                            <a href="https://kiitfest.org/payment/pay.php"><button type="button" class="btn btn-primary btn-lg btn-block">Proceed to payment</button></a>
                           </div>
                         </div>';
                               }
@@ -251,5 +277,32 @@ $sql = new sql();
 </body>
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+  function removeItem(id){
+
+    event.preventDefault();
+      var values = id;
+
+      $.ajax({
+        url: "removeItem.php",
+        type: "post",
+        data: "itemId="+ values,
+        success: function (response) {
+            
+          //swal("Congratulations!", "Sucessfuly Removed", "success");
+          swal("Congratulations!", "Sucessfuly Removed", "success");
+          setTimeout("window.location = 'checkout.php'",700);
+
+        },
+        error: function(jqXHR, textStatus, errorThrown) {
+           swal("Sorry!", "Not able to remove", "info");
+        }
+
+
+    });
+
+    
+    }
+</script>
 </body>
 </html>
