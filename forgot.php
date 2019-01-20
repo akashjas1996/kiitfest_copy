@@ -95,15 +95,19 @@
         if(isset($_POST["email"])){
             $query = "select * from participants_participant where email='$email'";
             $res = mysqli_query($GLOBALS['connect'],$query);
-            if(!$res)
-                echo "<script>alert('sorry not found');</script>";
+            if(!$res){
+                echo '<script>';
+                echo 'setTimeout(function(){swal("Erorr!", "User was not found", "error")},150)';
+                echo '</script>';
+            }
+
             else{
                 $token = generateRandomString();
                 $query = "update participants_participant set resetPassToken='$token' where email='$email'";
                 mysqli_query($GLOBALS['connect'],$query);
                 $actual_link = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]";
                 $url = $actual_link . "/verify-pass-token.php?token=" . $token;
-                echo $url;
+                //echo $url;
                 sendMail($url,$email);
                 //sendMail($email,$url);
             }

@@ -3,12 +3,14 @@
     $token = " ";
     if($_GET['token']){
         $token = $_GET['token'];
-        echo $token;
+        //echo $token;
         $sql = "select * from participants_participant where resetPassToken='$token'";
         $isTokenPresent = mysqli_query($GLOBALS['connect'],$sql);
         if(mysqli_num_rows($isTokenPresent) > 0){
            
-            echo '<script>setTimeout(function(){swal("Success", "Veification successfull", "success")},50)</script>';
+            echo '<script>';
+            echo 'setTimeout(function(){swal("Success!", "Verification successfull", "success")},150)';
+            echo '</script>';
             $url_text =  "/reset.php?token=" . $token;
             echo "<script>";
             echo "setTimeout(function(){window.location.href = '$url_text';},700)";

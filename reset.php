@@ -77,7 +77,7 @@
             $user_id = mysqli_query($GLOBALS['connect'],$sql);
             $row = $user_id->fetch_assoc();
             $user_id = $row['user_id'];
-            echo $user_id;
+            //echo $user_id;
                 if($user_id){
                 $hashedPassword = sha1($password);
                 $query_user_db = "update auth_user set password='$hashedPassword' where id='$user_id'";
@@ -85,7 +85,7 @@
                 if($update_pass_res){
                     $query = "update participants_participant set resetPassToken = NULL where user_id = '$user_id'";
                     mysqli_query($GLOBALS['connect'],$query);
-                    echo '<script>setTimeout(function(){swal("Success", "Password reset successfull", "success")},50)</script>';
+                    echo '<script>setTimeout(function(){swal("Success", "Password reset successfull", "success")},150)</script>';
                     echo "<script>";
                     echo "setTimeout(function(){window.location.href = '/login.php';},700)";
                     echo "</script>";
@@ -115,7 +115,7 @@
         if(isset($_POST['password'])&& isset($_POST['cpassword']))
            updatePassword($_GET['token'],$password);
            unset($_POST);
-           echo '<script>console.log("in submit");</script>';
+           //echo '<script>console.log("in submit");</script>';
            // header(location:$_SERVER["PHP_SELF"]);
            //header('Location: '.$_SERVER["PHP_SELF"]);
            mysqli_close($GLOBALS['connect']);
