@@ -73,7 +73,7 @@
                 echo '<script>';
                 echo 'setTimeout(function(){swal("Erorr!", "Mail not Sent. Please Retry", "error")},150)';
                 echo '</script>';
-                echo 'Mailer Error: ' . $mail->ErrorInfo;
+                //echo 'Mailer Error: ' . $mail->ErrorInfo;
             } else {
                echo '<script>';
                echo 'setTimeout(function(){swal("Congratulations!", "Mail Sent", "success")},150)';

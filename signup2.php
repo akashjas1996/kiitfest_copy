@@ -211,8 +211,11 @@ require 'PHPMailer/src/SMTP.php';
     
     
                     if(!$mail->send()) {
-                    echo 'Message could not be sent.';
-                    echo 'Mailer Error: ' . $mail->ErrorInfo;
+                    //echo 'Message could not be sent.';
+                    //echo 'Mailer Error: ' . $mail->ErrorInfo;
+                    echo '<script>';
+                    echo 'setTimeout(function(){swal("Opps! Something went wrong!", "Please try again later", "error")},150)';
+                    echo '</script>';
                     } else {
                        echo '<script>';
                        echo 'setTimeout(function(){swal("Congratulations!", "Mail Sent", "success")},150)';
