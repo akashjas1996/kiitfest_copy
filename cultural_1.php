@@ -1392,72 +1392,66 @@ artist within you.</p>
                                           <p style="color: black; text-align: justify;">
 
                                            <b> Description of the Event:</b>
-                                          <p>Fuego gives you a platform to showcase the inbuilt performer and
-artist within you. It is a band competition which comprises of 3 rounds which are online,pre-
-finals and finals.Perform your heart out and be the rockstar you&#39;ve always wanted to be.</p>
-                                           <br>
-          <br></p>
+                                          <p>Fuego gives you the platform to showcase the performer and the artist within you. Previously known as “Riff-E-Random”, this event has seen artists from the different corners of the country winning the hearts of people through some face smashing riffs as well as joyous melodies.</p>
+                                           <br></p>
 
           <p style="color: black;">
           <b>Rules and Regulations:</b>
-          <ol style="color:black;list-style-type:1;float: center;">
-          <li>There will be two rounds i.e. pre-finals and finals, before which the bands will have to send
-their entries to entries.fuego@gmail.com by &#39;date&#39;.</li>
-          <li>The subject line should mention “Fuego”, and include your contact details in the mail body.</li>
-          <li>Entries sent should either be a YouTube link. The video can be of a live performance or that of
-a jam-pad.</li>
-          <li>The selection of the bands for the pre-finals shall be on the basis of originality of music,
-overall sound of the band.</li>
-          <li>Top 10 bands will be selected on the basis of the above mentioned points and will have to
-report to the given venue for the pre-finals, after completing their Online Registration for the
-fest.</li>
-          <li>The lineup of the bands should not change throughout the course of the event or the band
-shall be disqualified. The organizing committee must be informed beforehand if there are any
-changes in the lineup.</li>
-    <b>Pre Finals</b>
-          <ol style="color:black;list-style-type:1;float: center;">
-          <li>The bands will be given a stage time of minimum 6+4 mins(inclusive of sound
-check).Exceeding the time limit will result in deduction of marks.</li>
-<li>No obscenity is allowed in the lyrics or the performance of the bands. Doing so will result in
-disqualification..</li>
-</ol>
-<b>Finals</b>
-<ol style="color:black; list-style:1; float:center;">
-<li>The bands will be given a stage time of 30 minutes(inclusive of sound check). Exceeding the
-time limit will result in deduction of marks.</li>
-<li>Bands have to play a minimum of 3 songs within the given time limit, one of which must be an
-original.</li>
-<li>No obscenity is allowed in the lyrics or the performance of the bands. Doing so will result in
-disqualification.</li>
-<li>The judges’ decision shall be final and all the bands must comply.</li>
-</ol>
+          <ol style="color:black;list-style-type:1;float: center;"></ol>
+          There will be two rounds i.e. pre-finals and finals.<br>
+            <b>Pre-finals:-</b><br>
+           The participating bands will have to send their entries to entries.fuego@gmail.com by . The entries should consist of :
+          <li>A YouTube link of the bands performance (live or jam session) preferably an own composition but covers are appreciated as well.</li>
+          <li>The mail subject should be “FUEGO”.</li>
+          <li>The mail should contain the contact detail of the participating band members.</li>
+          <li>The deadline to submit the videos would be updated in the website</li>
+          
+<br>
+The selection of the bands for the finals would be based on the video submission in the pre-final round. The criteria for the judgement will be:
+<br>
+
+         <li>Tightness of the performance </li>
+          <li>Melody</li>
+          <li>Arrangement</li>
+          <li>Originality</li>
+          
           </ol>
+          <br>
+          Top 10 bands will be selected for the final which is to be held at KIIT University, Bhubaneswar.
 
           <br>
-          <b>JUDGEMENT CRITERIA</b>
-          <ol style="color:black;list-style-type:1;float: center;">
 
-          <li>Tightness</li>
+          <b>Finals:-</b><br>
+          The selected bands from the pre-finals stage will be required to register for the event. The registration for each and every band members will be compulsory and any changes to be made in the participating members should be reported to the concerned event heads (provided below). Once the registration is done, the band should send their KFID (generated after the successful registration) of all the members to the event heads.
+          <br>
+          The bands will be given a stage time of 20mins (Amp-on to Amp-0ff) including soundcheck. Bands have to produce a minimum of 3 songs within the given time limit with minimum of one Original Composition of the band.
+          <br>
+          The given limit should not be exceeded and if exceeded would result in the deduction of marks and may lead to disqualification. No obscenity is allowed in the lyrics or the performance of the band. Doing so will result in disqualification.
+          <br>
+<br>
+          <b style="color: black;">The judges decision shall be final and all bands must comply.</b>
+          <br><br>
+          <b>JUDGEMENT CRITERIA</b>
+          <ol style="color:black;list-style-type:1;float: center;"></ol>
+
           <li>Stage Presence</li>
-          <li>Composition</li>
-          <li>On stage coordination</li>
-          <li>Time management</li>
-           </ol>
-          <p><b>Note: The organizing committee holds the right to change the rules any time and the bands must
-obey.</b>/p> 
+          <li>Tightness</li>
+          <li>Composition & Arrangement</li>
+          <li>Melody</li>
+          <li>Originality</li>
+          <p><b style="color: black;">Note: The organizing committee holds the right to change the rules any time and the bands must
+obey.</b>
 
           </p>
 
           <p style="color: black;">
-          <b>PRIZE MONEY:</b><br>
-          <b>1st Prize: 20000 INR</b><br>
-          <b>2nd Prize: 10000 INR</b>
+          <b >PRIZE MONEY WORTH:</b> Rs 25000<br>
+          
           </p>
 
           <p style="color: black;list-style-type:1;float: center;"><b>Contact with phone numbers:</b><br>
-        Ritam     (Ph. No.-7209773806)
-           <br>Anusha               (Ph. No.-9776942903)
-
+       Arjun Sen (Phone- +91 9038625339/ +91 9123089612)<br>
+Raksha Sinha (Phone- +91 9938287879)<br>
 
 
 
