@@ -26,6 +26,7 @@ $sql = new sql();
     <script src="js/TweenMax.min.js"></script>
     <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/jquery.transit.min.js"></script>
+    <script src="js/eventDetails.js"></script>
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-66101749-2"></script>
 
@@ -71,43 +72,43 @@ $sql = new sql();
         <div class="deptContainer">
           <button class="department">Electrifyn</button>
             <div class="eventContainer">
-              <button id="101" class="events">Robo Triathlon</button>
+              <button id="101" class="events">Circuit Design & Power Relay</button>
               <button id="102" class="events">Design 4 Energy</button>
-              <button id="103" class="events">Circuit Design & Power Relay</button>
-              <button id="104" class="events">S.U.I.T</button>
-              <button id="105" class="events">Solar Spectrum</button>
-              <button id="106" class="events">KIIT-IEEE Workshop</button>
+              <button id="103" class="events">KIIT-IEEE Workshop</button>
+              <button id="104" class="events">Robot Triathlon</button>
+              <button id="105" class="events">S.U.I.T</button>
+              <button id="106" class="events">Solar Spectrum</button>
             </div>
 
           <button class="department">Kinesis</button>
             <div class="eventContainer">
-              <button id="event1" class="events">Cell-Lock Holmes</button>
-              <button id="event1" class="events">Chitra-a-ghar</button>
-              <button id="event1" class="events">Hackathon 5.0</button>
-              <button id="event1" class="events">Jugaad Out of Kabaad</button>
-              <button id="event1" class="events">PainTerrific</button>
-              <button id="event1" class="events">Pixeloscope</button>
-              <button id="event1" class="events">Shabd-War</button>
+              <button id="201" class="events">Cell-Lock Holmes</button>
+              <button id="202" class="events">Chitra-a-ghar</button>
+              <button id="203" class="events">Hackathon 5.0</button>
+              <button id="e204" class="events">Jugaad Out of Kabaad</button>
+              <button id="205" class="events">PainTerrific</button>
+              <button id="206" class="events">Pixeloscope</button>
+              <button id="207" class="events">Shabd-War</button>
             </div>
 
           <button class="department">KSOM</button>
             <div class="eventContainer">
-              <button id="event1" class="events">Business Simulation</button>
-              <button id="event1" class="events">Dalal Street</button>
-              <button id="event1" class="events">Dare To Face</button>
-              <button id="event1" class="events">Ikadhikaar</button>
-              <button id="event1" class="events">Milk Run</button>
-              <button id="event1" class="events">Synergy Konflictus 5.0</button>
+              <button id="301" class="events">Business Simulation</button>
+              <button id="302" class="events">Dalal Street</button>
+              <button id="303" class="events">Dare To Face</button>
+              <button id="304" class="events">Ikadhikaar</button>
+              <button id="305" class="events">Milk Run</button>
+              <button id="306" class="events">Synergy Konflictus 5.0</button>
             </div>
 
           <button class="department">Luminaire</button>
             <div class="eventContainer">
-              <button id="event1" class="events">Brainotracking</button>
-              <button id="event1" class="events">Hackathon</button>
-              <button id="event1" class="events">Matricity</button>
-              <button id="event1" class="events">Minute-to-Win-it</button>
-              <button id="event1" class="events">Eagle's Hunt</button>
-              <button id="event1" class="events">Tech-Builder Konflictus 5.0</button>
+              <button id="401" class="events">Brainotracking</button>
+              <button id="402" class="events">Hackathon</button>
+              <button id="403" class="events">Matricity</button>
+              <button id="404" class="events">Minute-to-Win-it</button>
+              <button id="405" class="events">Eagle's Hunt</button>
+              <button id="406" class="events">Tech-Builder Konflictus 5.0</button>
             </div>
 
           <button class="department">Mirabilia</button>
@@ -124,44 +125,44 @@ $sql = new sql();
 
           <button class="department">Nirminite</button>
             <div class="eventContainer">
-            <button id="event1" class="events">Burj-Al-Paper</button>
-            <button id="event1" class="events">CAD-NOVUS</button>
-            <button id="event1" class="events">Civi Kalakaar</button>
-            <button id="event1" class="events">Cryptic Crossword</button>
-            <button id="event1" class="events">Final Destination</button>
-            <button id="event1" class="events">Frame-D-Bridge</button>
-            <button id="event1" class="events">Model-It</button>
-            <button id="event1" class="events">Twister Coaster</button>
+            <button id="601" class="events">Burj-Al-Paper</button>
+            <button id="602" class="events">CAD-NOVUS</button>
+            <button id="603" class="events">Civi Kalakaar</button>
+            <button id="604" class="events">Cryptic Crossword</button>
+            <button id="605" class="events">Final Destination</button>
+            <button id="606" class="events">Frame-D-Bridge</button>
+            <button id="607" class="events">Model-It</button>
+            <button id="608" class="events">Twister Coaster</button>
             </div>
 
           <button class="department">Vidnan</button>
             <div class="eventContainer">
-            <button id="event1" class="events">Scavanger's Quest</button>
-            <button id="event1" class="events">Innovation Challenge</button>
-            <button id="event1" class="events">The Salvage Yard</button>
-            <button id="event1" class="events">Seguidor</button>
-            <button id="event1" class="events">Roadrunner</button>
-            <button id="event1" class="events">Mirror Maze</button>
-            <button id="event1" class="events">Robo War</button>
-            <button id="event1" class="events">Kivi</button>
+            <button id="701" class="events">Scavanger's Quest</button>
+            <button id="702" class="events">Innovation Challenge</button>
+            <button id="703" class="events">The Salvage Yard</button>
+            <button id="704" class="events">Seguidor</button>
+            <button id="705" class="events">Roadrunner</button>
+            <button id="706" class="events">Mirror Maze</button>
+            <button id="707" class="events">Robo War</button>
+            <button id="708" class="events">Kivi</button>
             </div>
 
           <button class="department">Yantriki</button>
             <div class="eventContainer">
-            <button id="event1" class="events">AeroRace</button>
-            <button id="event1" class="events">Architecture of Destruction</button>
-            <button id="event1" class="events">Drone-Acharya</button>
-            <button id="event1" class="events">EDCAD</button>
-            <button id="event1" class="events">HydroBooster</button>
-            <button id="event1" class="events">Mech Ke Tech Stars</button>
-            <button id="event1" class="events">Sunder Master</button>
+            <button id="801" class="events">AeroRace</button>
+            <button id="802" class="events">Architecture of Destruction</button>
+            <button id="803" class="events">Drone-Acharya</button>
+            <button id="804" class="events">EDCAD</button>
+            <button id="805" class="events">HydroBooster</button>
+            <button id="806" class="events">Mech Ke Tech Stars</button>
+            <button id="807" class="events">Sunder Master</button>
             </div>
 
         </div>
 
         <div class="eventDetailsContainer">
             
-          <p class="eventContent"></p>
+          <div class="eventContent"></div>
         </div>
       </div>
 

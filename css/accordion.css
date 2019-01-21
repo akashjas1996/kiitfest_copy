@@ -13,7 +13,15 @@ p { font-family: Montserrat; }
     overflow-y: hidden;
 }
 
+.eventContainer {
+    width:100%;
+    height: 0px;
+    overflow-y: scroll;
+    transition: all 0.3s;
+}
+
 .deptContainer {
+    padding-top: 50px;
     flex-basis: auto;
     position: relative;
     width: 200px;
@@ -26,17 +34,13 @@ p { font-family: Montserrat; }
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin-top: 50px;
     
 }
 
-.eventDetailsContainer {
-    flex-grow: 1;
-    padding: 20px;
-    height: 80%;
-    background:white;
-    overflow-y: scroll;
-    border-radius: 0px 10px 10px 0px;
-    srollbar-width: none;
+
+.eventDetailsContainer::-webkit-scrollbar { 
+    display: none; 
 }
 
 .department {
@@ -45,7 +49,7 @@ p { font-family: Montserrat; }
     width: 100%;
     border: none;
     padding: 20px;
-    text-align: left;
+    text-align: right;
     font-size: 30px;
     font-family: Bebas Neue;
     cursor: pointer;
@@ -54,25 +58,18 @@ p { font-family: Montserrat; }
     backface-visibility: hidden;
 }
 
-.departmet:before {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 0;
-    height: 100%;
-    width: 0px;
-    background: #8affce;
-    transition: all 0.5s;
-}
-.department:hover:before {
-    width: 200px;
-    transition: all 0.5s;
+.department:hover {
+    transition: all 0.4s;
+    padding-right: 50px;
+    background: rgb(51,148,250);
+    color: white;
 }
 
 .deptActive {
     transition: all 0.4s;
-    transform: translateX(30px);
-    background: tomato;
+    padding-right: 70px;
+    background: rgb(51,148,250);
+    color: white;
 }
 
 
@@ -92,12 +89,7 @@ p { font-family: Montserrat; }
     transition: background 0.4s;
 }
 
-.eventContainer {
-    width:100%;
-    height: 0px;
-    overflow-y: scroll;
-    transition: all 0.3s;
-}
+
 
 .eventDetails {
     width: 100%;
@@ -106,6 +98,53 @@ p { font-family: Montserrat; }
     transition: all 0.3s;
 }
 
-.eventContent {
-    color: black !important;
+
+.eventDetailsContainer {
+    flex-grow: 1;
+    height: 80%;
+    background: rgba(0,0,0,0.8);
+    overflow-y: scroll;
+    border-radius: 0px 10px 10px 0px;
+    padding: 50px;
+    margin-top: 50px;
 }
+
+.eventContent * {
+    color: white;
+}
+
+.eventContent > h1 {
+    font-size: 4em;
+    letter-spacing: 3px;
+}
+
+.eventContent > ul || ol {
+    margin: 20px;
+}
+
+.eventContent > * > li {
+    margin: 10px;
+    font-family: Montserrat;
+}
+
+.eventContent > p {
+    line-height: 1.5;
+}
+
+.event-button {
+    font-family: Bebas Neue;
+    font-size: 1.5em;
+    color: white;
+    padding: 0.1em 2em;
+    border-radius: 10px;
+    border: 2px white solid;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s;
+  }
+
+  .event-button:hover {
+    background:rgb(51,148,250);
+    color: white; 
+    transition: all 0.3s;
+  }

@@ -131,7 +131,7 @@ $sql = new sql();
 
         <!--Intro Video-->
         <div class="col-lg-6 col-sm-12 embed-responsive embed-responsive-16by9 align-self-center">
-          <iframe width="100%" height="auto" src="https://www.youtube-nocookie.com/embed/Op7SHPDHwdI?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="1280" height="720" src="https://www.youtube.com/embed/Op7SHPDHwdI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div> 
 
       </div>
