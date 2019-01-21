@@ -222,9 +222,9 @@ require 'PHPMailer/src/SMTP.php';
                        echo '</script>';
     
                     }
-                      /*echo '<script>';
+                      echo '<script>';
                     echo 'setTimeout(function(){window.location.href = "https://kiitfest.org/index.php";},900)';
-                      echo '</script>';*/
+                      echo '</script>';
                     // echo '<script>';
                     // echo 'setTimeout(function(){window.location.href = "/";},700)';
                     // echo '</script>';
