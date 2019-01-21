@@ -226,7 +226,7 @@ Angana Majumder        (7873877305) <br>  Sayan Sarkar (9431770604)
                     <div class="col-12 col-md-4 single-blog-content">
                         <div class="blog-content">
                             <figure class="featured-image">
-                                <a href="#"> <img src="images/chef.jpg" alt="fesival+celebration"> </a>
+                                <a href="#"> <img src="img/works/mismatch.jpg" alt="fesival+celebration"> </a>
                             </figure><!-- featured-image -->
 
                             
@@ -445,7 +445,7 @@ Angana Majumder        (7873877305) <br>  Sayan Sarkar (9431770604)
                     <div class="col-12 col-md-4 single-blog-content">
                         <div class="blog-content">
                             <figure class="featured-image">
-                                <a href="#"> <img src="images/blog-image-1.jpg" alt="fesival+celebration"> </a>
+                                <a href="#"> <img src="img/works/nach.jpg" alt="fesival+celebration"> </a>
                             </figure><!-- featured-image -->
 
                           
@@ -707,7 +707,7 @@ Participants would be required to frame a micro tale based on a given theme and 
                     <div class="col-12 col-md-4 single-blog-content">
                         <div class="blog-content">
                             <figure class="featured-image">
-                                <a href="#"> <img src="images/blog-image-5.jpg" alt="fesival+celebration"> </a>
+                                <a href="#"> <img src="img/works/shabd.jpg" alt="fesival+celebration"> </a>
                             </figure><!-- featured-image -->
 
                            
@@ -799,7 +799,7 @@ Participants would be required to frame a micro tale based on a given theme and 
                                 <div class="col-12 col-md-4 single-blog-content">
                         <div class="blog-content">
                             <figure class="featured-image">
-                                <a href="#"> <img src="images/blog-image-5.jpg" alt="fesival+celebration"> </a>
+                                <a href="#"> <img src="img/works/tulika.jpg" alt="fesival+celebration"> </a>
                             </figure><!-- featured-image -->
 
                            
@@ -901,7 +901,7 @@ Participants would be required to frame a micro tale based on a given theme and 
                     <div class="col-12 col-md-4 single-blog-content">
                         <div class="blog-content">
                             <figure class="featured-image">
-                                <a href="#"> <img src="images/blog-image-1.jpg" alt="fesival+celebration"> </a>
+                                <a href="#"> <img src="img/works/spotlight.jpg" alt="fesival+celebration"> </a>
                             </figure><!-- featured-image -->
 
                           
@@ -996,7 +996,7 @@ Participants would be required to frame a micro tale based on a given theme and 
                     <div class="col-12 col-md-4 single-blog-content">
                         <div class="blog-content">
                             <figure class="featured-image">
-                                <a href="#"> <img src="images/blog-image-1.jpg" alt="fesival+celebration"> </a>
+                                <a href="#"> <img src="img/works/dekh.jpg" alt="fesival+celebration"> </a>
                             </figure><!-- featured-image -->
 
                           
@@ -1715,8 +1715,8 @@ the participant might be disqualified as per the jury decision.</li>
           </p>
 
           <p style="color: black;list-style-type:1;float: center;"><b>Contact with phone numbers:</b><br>
-       Anusha Tripathi      (Ph. No.- 9776942903)
-           <br>Ritam Dutta                (Ph. No.-7209773806)
+                 Ritam     (Ph. No.- 7209773806)
+           <br>Sadakat                (Ph. No.-9938369784)
 
 
 
