@@ -162,9 +162,6 @@
 
 ?>
 
-
-<html lang="en"><head>
-=======
 <html lang="en">
 <?php include "trac.php"; ?>    
 <head>

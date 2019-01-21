@@ -341,7 +341,7 @@ require 'PHPMailer/src/SMTP.php';
         <div style="color:red;"><?php echo $doberror?></div>
         <div class="form-group">
             <label for="exampleInputEmail1">Roll Number</label>
-            <input type="number" class="form-control" name="rollno" aria-describedby="emailHelp" placeholder="Roll Number">
+            <input type="text" class="form-control" name="rollno" aria-describedby="emailHelp" placeholder="Roll Number">
             <div style="color:red;"><?php echo $rollnoerror?></div>
         </div>
         <div class="form-group">

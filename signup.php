@@ -64,14 +64,15 @@
 
       //Checking the validation for cpassword
       if(empty($_POST["cpassword"])) {
-            $cpasserror = "Confirm Password Required";
-      }else {
-        if($_POST["cpassword"]!=$_POST["password"])
+        $cpasserror = "Confirm Password Required";
+        $boolen = false;
+    }else {
+    if($_POST["cpassword"]!=$_POST["password"])
         {
-             $cpasserror = "Password does not match";
-             $boolen = false;
+         $cpasserror = "Password does not match";
+         $boolen = false;
         }
-      }
+  }
 
 
     }
