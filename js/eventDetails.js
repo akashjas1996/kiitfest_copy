@@ -44,6 +44,7 @@ var eventDetails = {
     //Mirabilia
     "501":`
         <h1>Braille Coding</h1>
+        <hr>
         <p>A simple coding fest with certain twists and turns.</p>
         <p>Number of Participants: 1</p>
         <p><b>Description:</b></p>
@@ -61,6 +62,7 @@ var eventDetails = {
     `,
     "502": `
         <h1>Turncoat</h1>
+        <hr>
         <p>A blind debate in which both the sides of the coin are to be shown by the team members within the given time.</p>
         <p><b>Number of Participants:</b> 2 </p>
         <p><b>Description:</b></p>
@@ -82,6 +84,7 @@ var eventDetails = {
     `,
     "503": `
         <h1>3rd Eye Photography</h1>
+        <hr>
         <p>When life seems blurry, adjust the focus of your lens! Let’s project the talent inside you to the real world and reward it. So, pick up the camera and bring the nature's marvelous forces to a standstill. Make the world look prettier through your viewfinders. Participants will be given a theme according to Phone Photography or DSLR Photography. They will have to do the photography within KIIT campus and submit the photographs. Qualified Participants will proceed to Final event which is "Photo film" - where photographer can take a sequence of photos to narrate a story or an incident of a person or culture.</p>
         <p><b>Number of Participants:</b> 2</p>
         <p><b>Description:</b></p>
@@ -105,6 +108,7 @@ var eventDetails = {
     `,
     "504": `
         <h1>Bring Back To Life</h1>
+        <hr>
         <p>Solve puzzles to find the various system parts spread across the campus and assemble them into a fully functional system.</p>
         <p><b>Number of Participants:</b> 3</p>
         <p><b>Description:</b></p>
@@ -124,6 +128,7 @@ var eventDetails = {
     `,
     "505": `
         <h1>DataJAM</h1>
+        <hr>
         <p>Pre-processed datasets will be provided to participants and they will be have to derive it’s efficiency and effectiveness based on their own intellect. Pattern Generation. K Means. K Medoid. Prediction. Error Loss. Python.</p>
         <p><b>Number of Participants:</b> 4</p>
         <p><b>Description:</b> </p>
@@ -146,6 +151,7 @@ var eventDetails = {
     `,
     "506": `
         <h1>Algonigma</h1>
+        <hr>
         <p>The participants will have to analyse and create algorithms for real-life situations given in the form of riddles which will be in encrypted form. It’s a decryption and algorithm design contest.</p>
         <p><b>Number of Participants:</b> 4</p>
         <p><b>Description:</b></p>
@@ -167,6 +173,7 @@ var eventDetails = {
     `,
     "507": `
         <h1>Appathon </h1>
+        <hr>
         <p>A crisis situation of extinction level event will be given and the participants have to create a Cross-platform app for minimizing the collateral damage for citizens.</p>
         <p><b>Number of Participants:</b> 2</p>
         <p><b>Description:</b></p>
@@ -188,6 +195,7 @@ var eventDetails = {
     `,
     "508": `
         <h1>Tech-Know</h1>
+        <hr>
         <p>A buzzer based competition to test the participant’s knowledge on recent trends and changes in IT industry.</p>
         <p><b>Number of Participants:</b> 4</p>
         <p><b>Description:</b></p>

@@ -38,6 +38,10 @@ p { font-family: Montserrat; }
     
 }
 
+.deptContainer::-webkit-scrollbar { 
+    display: none; 
+}
+
 
 .eventDetailsContainer::-webkit-scrollbar { 
     display: none; 
