@@ -178,7 +178,7 @@ There will be a total of 3 rounds:<br>
 <b>Round 1: </b>Elimination Round<br>
 Participants have to solve the brainteaser in a period of 20 minutes. Elimination round. Time Limit: 20 minutes<br>
 <b>Round 2:</b> Hunt Round<br>
-Participants will have to run across the campus and find the missing pieces of puzzle with help of the clues and after collecting all the missing puzzle pieces, they need to return to initial position and complete the puzzle. The one who completes the puzzle correctly will qualify for the next round.<br>
+Participants will have to run in and around the campus and find the electronic components hidden.These components are to be  used in the third round to design their innovative T-shirts.<br>
 <b>Round 3:</b> Final Round<br>
 The participants need to design a wearable tech T shirt which implements the modernity of technology and the creativity of the art. A set of components will be given which the participants have to use while designing the T shirt.<br>
 </p>
@@ -332,7 +332,7 @@ A. Samriddhi (+91-7855043720) <br>  B. Shinjini(+91-9938245522)
 <p style="color: black;">
 <b>Rules and Regulations:</b>
 <ol style="color:black;">
-    <li>Participants should take full responsibility of their own work and ensure to work as a team.</li>
+    <li>Participants should take full responsibility of their own work and ensure to work as a team. The components should be of the participants to make their model. No components will be provided y the college.</li>
     <li>No participant shall engage in any malicious/illegal activities which do not adhere to general code of conduct for developers. Participants will be immediately disqualified if they found indulging in malpractice.
     <br></li>
     <li>Participant shall ensure adequate testing, debugging and review of software and related documents before submission</li>
@@ -347,7 +347,8 @@ A. Samriddhi (+91-7855043720) <br>  B. Shinjini(+91-9938245522)
 <p style="color: black;">
 <b>Team Guidelines: </b>
 A good team would have the right mix of business and technology thinkers. Since the innovation challenge is a team event, the team is expected to develop the working prototype of its proposed solution. We intend to provide necessary support to the team. A good team would be self-sufficient to create the prototype.
-
+● the team size is upto 1-5.
+● Member of the team should not necessarily to be of same college.
 
 
 </p>
@@ -374,7 +375,8 @@ The teams would be judged on the basis of the following parameters:
 <li>Quickness in completion of development of the solution (during the hackathon) would be appreciated- complexity of the prototype of the solution should be minimal
 </li>
 <li>How your product stands out among the existing products (How your product is better than its existing counterpart)</li>
-
+<li>Representation of your product via presentation is mandatory and detail
+  work of the model would be asked at that time.</li>
 </ol>
 
 </p>
@@ -444,19 +446,39 @@ A. Shreya (+91-8839912039) <br>  B. Akshat (+91-897021147)
                                                        <hr style="border-color: black;">
 <p style="color: black;">
 <b> Description of the Event:</b>
+  
+The School of Electronics Tech Fest, Vidnan, brings to you Salvage Yard, the newest addition
+to their list of amazing and interactive events. If you have what it takes to bring out the best from
+what you get, this is the perfect event for you. This event literally combines fun with learning.
+After clearing a fun and interactive quiz round, and solving riddles in the most innovative and
+knowledge-friendly way, you get to make the best of the components you acquire for yourself.
+  
 <ol style="color: black;">
-    <li>Round 1: Elimination Round<br>
+    <li>Round 1: 1st Elimination Round<br>
         <ul style="list-style-type: disc;">
-             <li>Each team will be given a circuit which will have a fault somewhere in it. The team not only has to identify the fault but also rectify it and make it work properly.</li>
-                <li>Max. Time Limit of 20 minutes.</li>
+             <li>There will be two Quiz round. The first is a buzzer round to test your general
+knowledge. This round will be held multiple times from which each time the top three
+will progress to the next quiz round.</li>
         </ul>
     </li>
     <li>
-        Round 2: Final Round<br>
+        Round 2: 2nd Elimination Round<br>
         <ul style="list-style-type: disc;">
-            <li> The team will be provided with a mystery box with 7 components and they have to choose at least 5 components from the mystery box and have to design an innovative circuit within a limited time frame of 60 minutes.</li>
-
+            <li>The second quiz round is to test your knowledge on basic principles of electronic
+circuits. One member from each of the top three teams from the previous round will pick
+a chit containing a problem statement. The member will have to enact and draw the
+answer to their remaining team member.    
         </ul>
+  </li>
+  <li>
+    Round 3: Final Round
+    <ul style="list-style-type: disc;">
+      <li>Each team will be made to stand in front of carton boxes underneath which will contain
+a mystery box. Each team will be then given a ball and will have to hit a carton box to
+get the desired mystery box.</li>
+      <li>The mystery box will contain 7 components and each team will have to choose at least 5
+components from the mystery box and have to design an innovative circuit within a
+limited time frame of 60 minutes.</li>
  </ol>
 </p>
 
@@ -472,7 +494,7 @@ A. Shreya (+91-8839912039) <br>  B. Akshat (+91-897021147)
  <li>The team which finishes the task in less time will be given priority over others.</li>
 <li>Finishing the task doesn’t guarantee selection as it is also a time-based challenge.</li>
  <li>Problem Statement and mystery box once provided will not be changed. </li>
-    <li>In Round 2:
+    <li>In Round 3:
     <br>Participants are allowed to use the Internet.
     <br>Participants can request for additional components and wires to the coordinators but it entirely depends on the coordinators whether they allow it.
     <br>All the components will be provided to them during this round.</li>
@@ -493,20 +515,32 @@ A. Shreya (+91-8839912039) <br>  B. Akshat (+91-897021147)
   Round 1:<br>
 <ol style="color:black;">
 
-
-<li>The team will be judged on the basis of their understanding of the circuit, their efficiency in identifying the fault and rectification of the fault to get the correct output.</li>
-<li>The team which would complete first will proceed to the next round. </li>
-    <li>Time Limit: 20 minutes</li>
+<li>The teams will be given three chances to pick a chit and enact the answer. Weightage
+of points decreases with each successive chance. </li>
 </ol>
+                            
 <p style="color:black;">Round 2:</p>
 <ol style="color:black;">
 
-<li>The team will be judged on the basis of their innovation, the efficiency of the circuit, explanation, how much more components of the mystery box the team uses.</li>
- <li> All teams will be evaluated after the time frame of 60 minutes and winners will be declared.</li>
- <li>Time Limit: 60 minutes</li>
+ <li>
+The team will be judged on basis of the circuit made in Tinkercad and points will be
+allotted accordingly.</li>
 
 </ol>
+                            
+<p style="color:black;">Round 3:</p> 
+<ol style="color:black;">                            
 
+  <li>The team which scored the maximum points in the previous round will be allowed to hit
+the carton boxes first. The mystery box once won cannot be exchanged will be judged
+on the basis of their understanding of the circuit, their efficiency in identifying the fault
+and rectification of the fault to get the correct</li>
+  <li>The team will be judged on the basis of their innovation, an efficiency of the
+circuit, explanation, how much more components of the mystery box the team
+uses.</li>
+  <li>All teams will be evaluated after the time frame of 60 minutes and winners will
+be declared.</li>
+  <li>Time Limit: 60 minutes</li>
 
 </p>
 
@@ -576,7 +610,7 @@ A. Anirban (+91-9973769996) <br>  B. Shubham(+91-9938283553)
                                <p style="color: black;">
 
                                  <b> Description of the Event:</b>
-Design and construct an autonomous robot which is capable of traversing the arena by following a line in a particular manner and avoid the obstacle that it might encounter. The participants are required to build a line following bot which is capable of detecting an obstacle in front of it and sense the presence of colour on the floor in front of it.
+Design and construct an autonomous robot which is capable of traversing the arena by following a line in a particular manner and avoid the obstacle that it might encounter. The participants are required to build a line following bot which is capable of detecting an obstacle in front of it and sense the presence of colour on the floor in front of it.During its operation, the bot will encounter the various obstacle which it needs to understand and take action accordingly. Performing every task smoothly will result in full point and violating it will result in penalties. 
 
 <br>
 
@@ -605,12 +639,16 @@ Traverse the area from the START point to the END point by following a white lin
 <p style="color: black;">
 <b>Key Points:</b>
 <br>
-    There are some key points of the arena that the participants need to keep in mind while programming their bot to gain maximum points and avoid deviation from the required path.<br>
+   1. There are some key points of the arena that the participants need to keep in mind while programming their bot to gain maximum points and avoid deviation from the required path.<br>
 At some point in the area, the white line will not be continuous and there will be a gap of not more than 5 centimetres. There will also be a sharp turn after some gaps. So the participants should program their bot in such a way that it does not malfunction at these given points. According to the given figure, the bot should follow the line as the blue line suggest.<br>
-As the image suggests, at some point of the arena the line shift suddenly to either the right or left by not more than 1 centimetre. The participant needs to program their bot in such a manner that it could understand the shift and traverse the path according to the blue line shown in the image.<br>
-At some points of the arena, the lines will have sharp turns but the edges of the turn will be removed as you can see in the image beside. So the participant needs to program their bot in such a way that it does not malfunction in this part.
-At some points of the arena, the path could have a turn with an angle of at most 45 degrees. So the participants will have to program their bot accordingly. If the bot leaves the path, it will have to restart from the last checkpoint and penalties will be imposed for every such action.<br>
-Some part of the arena will constitute curved dotted lines with gaps of maximum 1 centimetre. The line will not bend with a very sharp turn but will almost look like a straight line. So the contestant need not worry so much about this part as they will easily be able to traverse with a minor change in the program.<br>
+  
+2. As the image suggests, at some point of the arena the line shift suddenly to either the right or left by not more than 1 centimetre. The participant needs to program their bot in such a manner that it could understand the shift and traverse the path according to the blue line shown in the image.<br>
+  
+3. At some points of the arena, the lines will have sharp turns but the edges of the turn will be removed as you can see in the image beside. So the participant needs to program their bot in such a way that it does not malfunction in this part.<br>
+  
+4. At some points of the arena, the path could have a turn with an angle of at most 45 degrees. So the participants will have to program their bot accordingly. If the bot leaves the path, it will have to restart from the last checkpoint and penalties will be imposed for every such action.<br>
+  
+5. Some part of the arena will constitute curved dotted lines with gaps of maximum 1 centimetre. The line will not bend with a very sharp turn but will almost look like a straight line. So the contestant need not worry so much about this part as they will easily be able to traverse with a minor change in the program.<br>
 
 
 
@@ -620,13 +658,17 @@ Some part of the arena will constitute curved dotted lines with gaps of maximum 
 <p style="color: black;">
 <b>Colour Sensing:</b><br>
 
- There will be points in the arena where the line will divert into two paths at 90 degrees. At this point, there will a rectangular patch of red colour laid on the floor 3 cm ahead of the turning point as shown in the diagram. The participant needs to construct their bot and program it in such a manner that it should be able to detect this colour in front of the line and take 90 degrees turn to the left side. Taking a right turn in this point and following the path will result in negative points. If the left path is traversed, the team will gain points in their favour.<br>
-
-There will be points in the arena where the line will divert into two paths at 90 degrees. At this point, there will a rectangular patch of yellow colour laid on the floor 3 cm ahead of the turning point as shown in the diagram. The participant needs to construct their bot and program it in such a manner that it should be able to detect this colour in front of the line and take 90 degrees right turn. Taking a left turn in this point and following the path will result in negative points. If the right path is traversed, the team will gain points in their favour.<br>
-When patches of blue colour will be present on the floor in front of the line the bot should take a 180 degrees turn clockwise or anticlockwise and follow the path backwards and take another left turn to follow the right path. Skipping the blue patch and following the wrong path will result in negative marking.<br>
-According to the given figure, at some point in the arena, there will be no line to follow. Instead, there will be a wall in front. The participant will have to construct their bot in such a way that it should detect the wall in front of it and take a 90 degree turn to the right and continue to detect a line again. If the bot is not able to detect the wall in front of it or it is deviating from its required path, then it will have to take a restart and start from the last checkpoint with penalties.<br>
- The Arena will contain various checkpoints, completing which will result in addition points. After any checkpoint if the bot deviates from its path, then the bot will start its journey from the last checkpoint.<br>
-The contestant will need to program their bot so that it is capable turning clockwise or counter-clockwise at exactly at the angle required at each key points of the arena. Failing which will result in negative marking.<br>
+ 1.There will be points in the arena where the line will divert into two paths at 90 degrees. At this point, there will a rectangular patch of red colour laid on the floor 3 cm ahead of the turning point as shown in the diagram. The participant needs to construct their bot and program it in such a manner that it should be able to detect this colour in front of the line and take 90 degrees turn to the left side. Taking a right turn in this point and following the path will result in negative points. If the left path is traversed, the team will gain points in their favour.<br>
+  
+2.There will be points in the arena where the line will divert into two paths at 90 degrees. At this point, there will a rectangular patch of yellow colour laid on the floor 3 cm ahead of the turning point as shown in the diagram. The participant needs to construct their bot and program it in such a manner that it should be able to detect this colour in front of the line and take 90 degrees right turn. Taking a left turn in this point and following the path will result in negative points. If the right path is traversed, the team will gain points in their favour.<br>
+  
+3.When patches of blue colour will be present on the floor in front of the line the bot should take a 180 degrees turn clockwise or anticlockwise and follow the path backwards and take another left turn to follow the right path. Skipping the blue patch and following the wrong path will result in negative marking.<br>
+  
+4.According to the given figure, at some point in the arena, there will be no line to follow. Instead, there will be a wall in front. The participant will have to construct their bot in such a way that it should detect the wall in front of it and take a 90 degree turn to the right and continue to detect a line again. If the bot is not able to detect the wall in front of it or it is deviating from its required path, then it will have to take a restart and start from the last checkpoint with penalties.<br>
+  <b>NOTE</b><br>  
+ 1.The Arena will contain various checkpoints, completing which will result in addition points. After any checkpoint if the bot deviates from its path, then the bot will start its journey from the last checkpoint.<br>
+  
+2.The contestant will need to program their bot so that it is capable turning clockwise or counter-clockwise at exactly at the angle required at each key points of the arena. Failing which will result in negative marking.<br>
 
 <p style="color: black;">
 <b>Robot Specifications:</b><br>
@@ -833,8 +875,9 @@ A. Anirban Nag (+91-9973769996) <br>  B. Shuvam(+91-9938283553)
                                <p style="color: black;">
 
                                  <b> Description of the Event:</b>
-The Task is to build a manually controlled bot which can complete the rote by overcoming the obstacles in its Path. Thus battling with the opponents based on Marginal points and timing to finally win it. The bot can be wired or wireless. In case of wireless they maybe Bluetooth controlled or Wi-Fi controlled. There are 2 rounds, Round 1 and 2 based on the difficulty level, participants will go to the next round by only clearing the preceding round.
-
+1.The Task is to build a manually controlled bot which can complete the rote by overcoming the obstacles in its Path. Thus battling with the opponents based on Marginal points and timing to finally win it. 
+2.The bot can be wired or wireless. In case of wireless they maybe Bluetooth controlled or Wi-Fi controlled. 
+3.There are 2 rounds, Round 1 and 2 based on the difficulty level, participants will go to the next round by only clearing the preceding round.
 
 <br>
 
@@ -879,7 +922,7 @@ The bots first arrive at Checkpoint A .<br>
     <li>Bot is liable for disqualification if<br>
 -it is out of the specifications mentioned <br>
 -does any damage to the arena </li>
-    <li>❖ Maximum time limit is 6 mins for each time</li>
+    <li>❖ Maximum time limit is 10 mins for each time</li>
     <li>In case the bot gets stuck in the arena for more than 1 minute,it will be repositioned to its initial checkpoint and there is no penalty for it. </li>
     <li>The organiser’s decision is final and binding. </li>
 
@@ -929,7 +972,7 @@ Participants may skip an obstacle but will result in -10points. (Only one skip i
 
 
 <p style="color: black;"><b>Prize Money:</b><br>
-Worth Rs. 40,000/-    </p>
+Worth Rs. 30,000/-    </p>
 
 <p style="color: black;"><b>Contact Details:</b><br>
 A. Nomit (+91-8249097249) <br>  B. Vishesh(+91-9711901381)
@@ -1080,7 +1123,7 @@ There will be a maze of size 11x17 sq.ft. where the bot will traverse. The walls
 </p>
 
 
-<p style="color: black;"><b>Prize Money:</b><br>Worth Rs.35,000/-
+<p style="color: black;"><b>Prize Money:</b><br>Worth Rs.30,000/-
 
                               </p>
 
@@ -1170,8 +1213,8 @@ Design and construct a remote controlled robot capable of fighting a one on one 
 <b>Dimension and Fabrications:</b><br>
 
 <ol style="color:black;">
-    <li>The machine should fit in a box of dimension 400mm x 400mm x 400 mm (l x w x h) at any given point during the match. The external device used to control the machine or any external tank is not included in the size constraint.</li>
-    <li>The machine should not exceed 20 kg but a tolerance of 5% will be allowed.
+    <li>The machine should fit in a box of dimension 500mm x 500mm x 500 mm (l x w x h) at any given point during the match. The external device used to control the machine or any external tank is not included in the size constraint.</li>
+    <li>The machine should not exceed 23 kg but a tolerance of 5% will be allowed.
 Mobility: All robots must have easily visible and controlled mobility in order to compete. Methods of mobility include:
 .
     <br></li>
@@ -1335,7 +1378,7 @@ can be called for other reasons as well.</li>
 </p>
 
 <p style="color: black;"><b>Prize Money:</b><br>
-Worth Rs. 75,000/-    </p>
+Worth Rs. 50,000/-    </p>
 
 
 
@@ -1418,16 +1461,16 @@ A. Sandipan (+91-9804113215) <br>  B. Sourav(+91-8348518426)
 <p style="color: black;">
 <b>Rules and Regulations:</b>
 <ol style="color:black;">
-    <li>The quiz questions will be totally related to the electronics circuits and its equivalent.</li>
-    <li>The KIWI application will work only within the GEO_FENCING so no outsider away fromthe electronics department will be allowed to enter the game who hasn’t registered.</li>
-    <li>The Game will be conducted thrice a day for the 3 consecutive days.</li>
-    <li>The Prize money will be decided based on the number of registrations for this event. </li>
-    <li>In case the number of participants are more the prize money would be increased or vise-versa.</li>
-    <li>The game will be played in between the other events so to involve all the participants in this event too. </li>
-    <li>The different pages of the application involves the registration page and the each quiz question page. </li>
-    <li>The total number of questions for each game will be 12.</li>
-    <li>The total prize distribution will be based upon the number of winners in each game(totalmoney / total number of players). </li>
-    <li>The mode of cash withdrawal will be online through Paytm.</li>
+    <li>1.The KIVI game  link will  be provided to  the registered participants.</li>
+    <li>2.The KIWI application will work only within the GEO_FENCING so no outsider away fromthe electronics department will be allowed to enter the game who hasn’t registered.</li>
+    <li>3.The total number of questions for each quiz will be 12.</li>
+    <li>4.Each question is to be answered in a time span of 10 seconds by choosing the correct option after which next question will appear.</li>
+    <li>5.Any kind of cheating will lead to disqualification of the participant.</li>
+    <li>6.It is an individual event that means only a single member in a team is allowed. </li>
+    <li>7.The different pages of the application involves the registration page and the each quiz question page. </li>
+    <li>8.Sudoku puzzle consists of a grid of 9 blocks. Each block contains 9 boxes arranged in 3 rows and 3 columns.</li>
+    <li>9.In Sudoku, some blocks will be pre-filled. These numbers cannot be changed in the course of the game. </li>
+    <li>The  last round is rubik’s cube for the selected participants for final round.</li>
 
 
 
