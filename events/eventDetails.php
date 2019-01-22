@@ -237,14 +237,14 @@
 
 
         //Vidnan
-        "701": "",
-        "702": "",
-        "703": "",
-        "704": "",
-        "705": "",
-        "706": "",
-        "707": "",
-        "708": "",
+        "701": "Scavenger's Quest",
+        "702": "Innovation Challenge",
+        "703": "The Salvage Yard",
+        "704": "Seguidor",
+        "705": "Roadrunner",
+        "706": "Mirror Maze",
+        "707": "RoboWar",
+        "708": "Kivi",
 
 
         
