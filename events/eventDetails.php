@@ -306,7 +306,7 @@ Rs-20,000 </b>
         `,
         "702": "Innovation Challenge",
         "703": "The Salvage Yard",
-        "704": `<html>
+        "704": `
    <h1>SEGUIDOR</h1>
    <p> Design and construct an autonomous robot which is capable of traversing the arena by following a line in a particular manner and avoid the obstacle that it might encounter. The participants are required to build a line following bot which is capable of detecting an obstacle in front of it and sense the presence of colour on the floor in front of it. </p>
    <p> TASK: Traverse the area from the START point to the END point by following a black line laid throughout the white area. But the task is not that simple. The bot should be capable of following a particular pattern as mentioned further in this problem statement. The bot should work on the principle of advance line follower to give utmost efficiency on the arena. During its operation, the bot will encounter the various obstacle which it needs to understand and take action accordingly. Performing every task smoothly will result in full point and violating it will result in penalties.</p>
@@ -401,9 +401,122 @@ Rs-20,000 </b>
    <p> <b> CONTACT DETAILS: </b> </p>
    Anirban Nag: 9973769996 
    Shuvam: 9938283553 
+`,
+        "705": `<html>
+<h1> RoadRunner </h1>
+<p> <b> Description:- </b> </p>
+ <p>The Task is to build a manually controlled bot which can complete the route by overcoming the obstacles in its Path. Thus battling with the opponents based on Marginal points and timing to finally win it. The bot can be wired or wireless. In case of wireless they maybe Bluetooth controlled or Wi-Fi controlled. There are 2 rounds, Round 1 and 2 based on the difficulty level, participants will go to the next round by only clearing the preceding round. </p>
+<p> <b>  Round1 (Two bots will have to compete for each other in a race.) </b> </p>
+ <p> <b> Gameplay 1: </b> </p>
+ Two bots must start from the “START” mark.  
+The bots first arrive at Checkpoint A.
+ The two bots have to reach Checkpoint B after crossing the hurdles in any of the two paths. (Additional points for a difficult path.) 
+ Then the bots will move towards the Checkpoint C after crossing the typical curvature.
+  Then the bots will have to climb a special obstacle to reach Checkpoint D. 
+ Checkpoint E will be obtained after overcoming the Staircase(ie.an escalator moving in the opposite direction). Then the bots have to go through the Roller section to reach the ‘FINISH’ MARK.
+<p> <b>  Round2: </b> </p>
+ <p> <b>  Gameplay 2:- </b> </p>
+ It is a solo race; In addition to the previous Checkpoints in ROUND 1 the new Checkpoints are as follows:-
+ The bot must start from the ‘START’ mark. 
+ The bot will reach Checkpoint *A after avoiding the obstacles.
+ The bot arrives at Checkpoint *B after going through the tunnel. 
+ Checkpoint *C will be obtained after overcoming the Roller section with an additional obstacle. 
+ The bot will have to choose either of the two paths to reach the Checkpoint *D or Checkpoint *E respectively and finally reach the ‘FINISH’ MARK.
+<p> <b> Rules and Regulations:- </b> </p>
+<li> Teams can have a minimum of 2 and maximum of 4 members. 
+<li> Bots must not exceed the dimensions of 30x30x30(cms). 
+<li> The weight of the bot must not exceed 3kgs. 
+<li> The bot may or may not have an onboard power source, a 220v( ac) source will be provided, eliminators, batteries, dc motors must not exceed 12-14v(dc). 
+<li> There can be students from different colleges to form a team.
+ <li> At the most 2 members are allowed to control the bot. (including the driver).
+<li> The bot is liable for disqualification if
+<li> it is out of the specifications mentioned </li>
+<li> does any damage to the arena</li> </li>
+<li> The maximum time limit is 6 mins for each time</li>
+ <li> In case the bot gets stuck in the arena for more than 1 minute, it will be repositioned to its initial checkpoint and there is no penalty for it. </li>
+<li> The organiser’s decision is final and binding.</li>      
+
+<p> <b> Judgement Criteria:- </b> </p>
+<ul>
+<li> 10 points will be awarded for crossing ‘START MARK’ and reaching Checkpoint A. </li>
+<li> 20 points will be awarded for reaching Checkpoint B. </li>
+<li> 15 points will be awarded for reaching checkpoint C.</li>
+<li> Again 15 points will be awarded for reaching Checkpoint D. </li>
+<li> 5 points for reaching Checkpoint E.</li>
+ <li> 10 points for reaching the ‘FINISH MARK’. </li>
+<li> 5 points for reaching Checkpoint *A. </li>
+<li> 15 points for reaching Checkpoint *B. </li>
+<li> 5 points for reaching Checkpoint *C. </li>
+<li> 20 points for reaching Checkpoint *D or 10 points for reaching Checkpoint *D.</li> 
+<li> Bots may be judged for full completion and quickness of completion based on performance and development of the bot.</li>
+<li> Any change in the scoring and judgment criteria may be done by the Organizers without prior announcement if some issue arises.</li>
+</ul>
+<p> <b> Penalties:- </b> </p>
+<li> Participants may skip an obstacle but will result in -10points. (Only one skip is allowed in the entire race.) </li>
+<li> 10 points for going out of the arena. </li>
+<li> 5 points for moving the bot backwards. </li>
+
+<li>
+*Scoring is performed based on points and time taken by the organizers. </li>
+
+<p> <b> Prize Money: </b> </p>
+<p> Rs: 30,000/- </p>
+
+<p> <b> Contact Details:-  </b> </p>
+<p> Nomit: 8249097249 </p>
+<p> Vishesh: 9711901381 </p>
 </html>`,
-        "705": "Roadrunner",
-        "706": "Mirror Maze",
+        "706": `
+<h1> MIRROR MAZE 2.0 </h1>
+<p> <b> Description: </b> </p>
+<p> 
+ There will be a maze of size 11x17 sq.ft. where the bot will traverse. The walls will be made of glass and mirrors. It will be a manually controlled bot that can be wired or wireless. The goal is to gather maximum points by touching the blocks, placed randomly across the maze. A camera or a phone should be mounted over the bot, which will provide a live feed fpv from bot. The driver will have to control it through the camera screen as the arena will not be shown to the driver who is controlling the bot. Obstacles like speed breakers, bumps and fluid patches would be present in the arena. The depth of fluid patch would be 2 cm from ground level. So all electrical connections of the bot must be designed accordingly.</p>
+<p> <b> Requirements of the bot: </b> </p>
+<li> Dimensions of the bot must not exceed 20x20x20 cubic.cm. </li>
+<li> All connections of the bot must be minimum of 3-4 cm above the ground level. </li>
+<li> Max potential difference between any two points of bot must not exceed 16v. Only 220v AC would be provided. Participants would have to bring their own adapter/battery etc. </li>
+<li> No weight criteria. </li>
+<li> The camera or mobile phone must be tightly fixed in order to prevent detachment.</li>
+<p> <b> Rules and Regulations:- </b> </p>
+<li> Maze dimension will be (11x17) sq.ft. </li>
+<li> A team of max. 4 participants is allowed. </li>
+<li> The event consists of ......... rounds.</li>
+ <li> Each team can avail for only 1 technical time-out per round. 
+<li> The maze obstacles consist of speed breakers, bumps and may be fluid patches along with few other common obstacles. </li>
+<li> Each participant has to start at a fixed position to traverse the maze. </li>
+<li> Wooden blocks of certain points would be placed at random positions in the maze before a team start their turn (Red block= 5 points, Blue block= 10 points, Yellow block= 30 points, Jackpot block= 100 points).</li>
+ <li> The points will be awarded on a time basis and a total number of blocks touched by the bot.</li> 
+<li> Only one person per team will be allowed to manage the wire (only if the bot is wired) & only one would be allowed to control the bot. The other members would be sitting by the controller facing their laptops thereby seeing the live feed. The person managing the wire is strictly prohibited to convey any information regarding the layout & position of point blocks. Anyone doing the same will be disqualified from the event.</li>
+<li> The controller would be allowed 30 seconds just before the start of their turn to observe the maze & positions of the point blocks. </li>
+<li> Any damage to the arena will result in direct disqualification. </li>
+<li> Teams with maximum points qualify for the next round.</li>
+<li> Each team gets 3 skip options. It can only be applied when a bot is unable to cross any obstacle or if the controller wishes to skip the obstacle (No negative markings in such criteria). Special case: In case the controller wishes to skip the water(or non-Newtonian fluid) patch 10 points would be deducted from the total score. Any damage to the bot caused while crossing this patch is solely the team’s responsibility. </li>
+<li> However, this skip option is not available in the jackpot region.</li>
+ <li> Touching the glass wall results in a negative marking of 2 marks. </li>
+<li> Further rules of qualifying rounds would be disclosed on spot. </li>
+<li> The organiser’s decision is final and binding</li>
+
+<p> <b> Judging Criteria: </b> </p>
+<li> A trial case of 50 seconds will be allowed to individual teams to check the maze.</li>
+<li> A participant can avail maximum up to 3 skips per round, which can be opted only if the bot freezes on spot. For each skip, 5 marks would be deducted.</li>
+<li> All teams would be awarded 50 points initially only if it satisfies the dimension criteria.</li>
+<li> A tolerance of 20cm + 4cm (bot width) will be allowed for participating in the event, however, the team would lose the initial 50 points in that case.</li>
+<li> There would be a total of 3 rounds: <Round 1> Individual teams would be participating one by one & the top teams scoring the most points in the specified time for the round will get qualified for the next round. 
+
+    <p> <b> Round 2  : </b> Two bots would be participating simultaneously from 2 random extreme points in the maze. The bot securing most points in the given time span of the round qualifies for the next round. An addition of 20 points would be awarded if the bot exits the maze in the given time span. <p> <b> Round 3 :  </b> Will be disclosed on spot. </p>
+<p> <ul> <li> Ramming of the wall (by a bot or by the participant) would directly result in a deduction of 10 marks. </li>
+<li> Each team is allowed only 1 technical timeout per round and this rule is applicable only if the coordinators find the case to be relevant. </li>
+<li> All rules & marking schemes are subjected to change before the starting of competition. </li>
+<li> Detailed marking scheme would be disclosed to the participants just before the commencement of the event. </li> </ul>
+
+
+<p> <b> Prize Money: </b> </p>
+<p> Rs: 30,000/- </p>
+
+<p> <b> Contact Details: </b> </p>
+<p> Bishal: 9401476420 </p>
+<p> Saswata: 8116340242 </p>
+`,
         "707": "RoboWar",
         "708": "Kivi",
 
