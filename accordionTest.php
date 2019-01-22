@@ -112,73 +112,43 @@ $sql = new sql();
             </div>
 
           <button class="department">Mirabilia</button>
-            <div class="eventContainer">
-              <div class="events"><span
-              <div id="501" class="events">
+          <div class="eventContainer">
+            <div class="events">
+              <div id="501">
                 <span>Braille Coding</span>
-                <?php
-                  if($sql->isLogin() == 1) {
-                      echo '<button onClick=addToCart(501) class="addEvent">+</button>';
-                  }
-                ?>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(501) class="addEvent">+</button>';} ?>
               </div>
-              <span id="502" class="events">
+              <div id="502">
                 <span>Turncoat</span>
-                <?php
-                  if($sql->isLogin() == 1) {
-                      echo '<button onClick=addToCart(502) class="addEvent">+</button>';
-                  }
-                ?>
-              </span>
-              <span id="503" class="events">
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(502) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="503">
                 <span>3rd Eye Photography</span>
-                <?php
-                  if($sql->isLogin() == 1) {
-                      echo '<button onClick=addToCart(503) class="addEvent">+</button>';
-                  }
-                ?>
-              </span>
-              <span id="504" class="events">
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(503) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="504">
                 <span>Bring Back To Life</span>
-                <?php
-                  if($sql->isLogin() == 1) {
-                    echo '<button onClick=addToCart(504) class="addEvent">+</button>';
-                  }
-              ?>
-              </span>
-              <span id="505" class="events">
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(504) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="505">
                 <span>DataJAM</span>
-                <?php
-                  if($sql->isLogin() == 1) {
-                      echo '<button onClick=addToCart(505) class="addEvent">+</button>';
-                  }
-                ?>
-              </span>
-              <span id="506" class="events">
-                <span>Algonigma</span> 
-                <?php
-                  if($sql->isLogin() == 1) {
-                      echo '<button onClick=addToCart(506) class="addEvent">+</button>';
-                  }
-                ?>
-              </span>
-              <span id="507" class="events">
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(505) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="506">
+                <span>Algonigma</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(506) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="507">
                 <span>Appathon</span>
-                <?php
-                  if($sql->isLogin() == 1) {
-                      echo '<button onClick=addToCart(507) class="addEvent">+</button>';
-                  }
-                ?>
-              </span>
-              <span id="508" class="events">
-                <span>Tech-Know</span>
-                <?php
-                  if($sql->isLogin() == 1) {
-                      echo '<button onClick=addToCart(508) class="addEvent">+</button>';
-                  }
-                ?>
-              </span>
-            </span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(507) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="508">
+                <span>Techknow</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(508) class="addEvent">+</button>';} ?>
+              </div>
+            </div>
+          </div>
+              
 
           <button class="department">Nirminite</button>
             <div class="eventContainer">
