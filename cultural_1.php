@@ -1688,10 +1688,9 @@ instrumental piece can be of any genre or an original composition.</li>
             </ol>
             <b>Finals</b>
             <ol style="color:black;list-style-type:1;float: center;">
-            <li>Participants will be given a random word on spot(Hindi or English based on their preference).They are
-required to sing a song that must include the given word.They will be allowed to replace the given word
-for maximum once.</li>
-<li>Time limit for the performance is 3+1 minutes including setup after which marks will be deducted or
+            <li>Participants need to perform a single song/piece in hindi or English or both. The song or the
+instrumental piece can be of any genre or an original composition.</li>
+<li>Time limit for the performance is 4+1 minutes including setup after which marks will be deducted or
 the participant might be disqualified as per the jury decision.</li>
 <li>Performers will be disqualified on spot for misconduct, obscenity or foul language.</li>
 <li>Participants can perform with one instrument accompaniment.</li>
