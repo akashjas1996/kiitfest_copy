@@ -381,6 +381,7 @@ The teams would be judged on the basis of the following parameters:
 
 </p>
 
+<p>Submit your idea at:- <a href="https://goo.gl/tRPHGL"></a></p>         
 <p style="color: black;"><b>Prize Money:</b><br>
 Worth Rs. 1,20,000/-    </p>
 
