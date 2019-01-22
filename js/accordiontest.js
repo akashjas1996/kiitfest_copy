@@ -1,5 +1,6 @@
 departments = document.querySelectorAll('.department');
-events = $('.events > span');
+events = $('.events > div > span');
+id = $('.events > div');
 eventContent = $('.eventContent');
 
 departments.forEach( department => 
@@ -22,17 +23,26 @@ departments.forEach( department =>
 );
 
 events.each(function (index) {
-    var button = `
-    <?php
-        if($sql->isLogin() == 1) {
-            echo '<button onClick=addToCart(${events[index].id}) class="event-button"> Participate !</button>';
-        }
-    ?>`;
-
     $(this).click(() => {
         eventContent.transition({y: 40, opacity: 0}, 'slow', () => {
-            eventContent.html(eventDetails[events[index].id] + button);
+            eventContent.html(eventDetails[id[index].id]);
             eventContent.transition({y: 0, opacity: 1}, 'slow');
         })
     });
 })
+
+function addToCart(id) {
+    console.log(id);
+    var xhr = new XMLHttpRequest();
+    xhr.onreadystatechange = function() {
+        if(this.readyState == 4 && this.status == 200) {
+            console.log("Hello");
+            //changecart value
+
+        }
+    }
+    xhr.open("POST", "events/addToCart.php", true);
+    xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+    xhr.send("itemId="+id);
+    swal("Congratulations!", "Sucessfuly Add To Cart", "success");
+}

@@ -60,28 +60,37 @@ p { font-family: Montserrat; }
     backface-visibility: hidden;
 }
 
-.department::after {
-    content: '';
-    width: 50px;
-    background: rbg(51,148,250);
+.department span {
+    display: block;
+    transition: all 0.2s;
 }
 
 .department:hover {
-    transition: all 0.4s;
+    background: rgb(51,148, 250);
+}
+
+.department:hover span {
     transform: translateX(-50px);
-    background: rgb(51,148,250);
     color: white;
+    transition: all 0.2s;
 }
 
 .deptActive {
     transition: all 0.4s;
-    padding-right: 100px;
     background: rgb(51,148,250);
     color: white;
 }
 
+.deptActive span {
+    transform: translateX(-100px);
+}
 
-.events {
+.deptActive:hover span {
+    transform: translateX(-100px);
+}
+
+
+.events > div{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -94,17 +103,13 @@ p { font-family: Montserrat; }
     transition: background 0.4s;
 }
 
-.events > span {
+.events > div > span {
     font-size: 17px;
     font-family: Montserrat;
     cursor: pointer;
 }
 
-.events > span:hover {
-    background: rgb(104, 255, 210);
-}
-
-.events:hover {
+.events > div:hover {
     background: rgb(104, 255, 210);
 }
 

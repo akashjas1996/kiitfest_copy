@@ -1023,7 +1023,7 @@ Participants would be required to frame a micro tale based on a given theme and 
              if($sql->isLogin() == 1)
              {
                echo '
-                <a onClick=addToCart(914) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
+                <a onClick=addToCart(913) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
               
               }
           ?>
@@ -1760,7 +1760,7 @@ the participant might be disqualified as per the jury decision.</li>
              if($sql->isLogin() == 1)
              {
                echo '
-                <a onClick=addToCart(913) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
+                <a onClick=addToCart(916) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
               
               }
           ?>
