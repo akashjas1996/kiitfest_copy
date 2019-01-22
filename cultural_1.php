@@ -318,9 +318,9 @@ Angana Majumder        (7873877305) <br>  Sayan Sarkar (9431770604)
             </p>
 
             <p style="color: black;list-style-type:1;float: center;"><b>Contact with phone numbers:</b><br>
-          Sourav Dash      (Ph. No.-7008001984)
-             <br>Sonali Prusty                (Ph. No.-8763242043)
-
+              Braja Kishore Mishra (9438888388)<br>
+              Paulami Das (9830311058)
+            </p>
 
 
 

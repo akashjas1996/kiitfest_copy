@@ -1,5 +1,5 @@
 departments = document.querySelectorAll('.department');
-events = $('.events');
+events = $('.events > span');
 eventContent = $('.eventContent');
 
 departments.forEach( department => 
@@ -22,14 +22,16 @@ departments.forEach( department =>
 );
 
 events.each(function (index) {
+    var button = `
+    <?php
+        if($sql->isLogin() == 1) {
+            echo '<button onClick=addToCart(${events[index].id}) class="event-button"> Participate !</button>';
+        }
+    ?>`;
+
     $(this).click(() => {
         eventContent.transition({y: 40, opacity: 0}, 'slow', () => {
-            eventContent.html(eventDetails[events[index].id] + 
-                `<?php
-                    if($sql->isLogin() == 1) {
-                        echo '<button onClick=addToCart(${events[index].id}) class="event-button center"> Participate !</button>';
-                    }
-                ?>`);
+            eventContent.html(eventDetails[events[index].id] + button);
             eventContent.transition({y: 0, opacity: 1}, 'slow');
         })
     });

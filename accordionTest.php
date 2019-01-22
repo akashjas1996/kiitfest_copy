@@ -26,7 +26,7 @@ $sql = new sql();
     <script src="js/TweenMax.min.js"></script>
     <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/jquery.transit.min.js"></script>
-    <script src="js/eventDetails.js"></script>
+    <?php include "events/eventDetails.php"; ?>
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-66101749-2"></script>
 
@@ -72,90 +72,147 @@ $sql = new sql();
         <div class="deptContainer">
           <button class="department">Electrifyn</button>
             <div class="eventContainer">
-              <button id="101" class="events">Circuit Design & Power Relay</button>
-              <button id="102" class="events">Design 4 Energy</button>
-              <button id="103" class="events">KIIT-IEEE Workshop</button>
-              <button id="104" class="events">Robot Triathlon</button>
-              <button id="105" class="events">S.U.I.T</button>
-              <button id="106" class="events">Solar Spectrum</button>
+              <div class="events"><span id="101">Circuit Design & Power Relay</span></div>
+              <div class="events"><span id="102">Design 4 Energy</span></div>
+              <div class="events"><span id="103">KIIT-IEEE Workshop</span></div>
+              <div class="events"><span id="104">Robot Triathlon</span></div>
+              <div class="events"><span id="105">S.U.I.T</span></div>
+              <div class="events"><span id="106">Solar Spectrum</span></div>
             </div>
 
           <button class="department">Kinesis</button>
             <div class="eventContainer">
-              <button id="201" class="events">Cell-Lock Holmes</button>
-              <button id="202" class="events">Chitra-a-ghar</button>
-              <button id="203" class="events">Hackathon 5.0</button>
-              <button id="e204" class="events">Jugaad Out of Kabaad</button>
-              <button id="205" class="events">PainTerrific</button>
-              <button id="206" class="events">Pixeloscope</button>
-              <button id="207" class="events">Shabd-War</button>
+              <div class="events"><span id="201">Cell-Lock Holmes</span></div>
+              <div class="events"><span id="202">Chitra-a-ghar</span></div>
+              <div class="events"><span id="203">Hackathon 5.0</span></div>
+              <div class="events"><span id="204">Jugaad Out of Kabaad</span></div>
+              <div class="events"><span id="205">PainTerrific</span></div>
+              <div class="events"><span id="206">Pixeloscope</span></div>
+              <div class="events"><span id="207">Shabd-War</span></div>
             </div>
 
           <button class="department">KSOM</button>
             <div class="eventContainer">
-              <button id="301" class="events">Business Simulation</button>
-              <button id="302" class="events">Dalal Street</button>
-              <button id="303" class="events">Dare To Face</button>
-              <button id="304" class="events">Ikadhikaar</button>
-              <button id="305" class="events">Milk Run</button>
-              <button id="306" class="events">Synergy Konflictus 5.0</button>
+              <div class="events"><span id="301">Business Simulation</span></div>
+              <div class="events"><span id="302">Dalal Street</span></div>
+              <div class="events"><span id="303">Dare To Face</span></div>
+              <div class="events"><span id="304">Ikadhikaar</span></div>
+              <div class="events"><span id="305">Milk Run</span></div>
+              <div class="events"><span id="306">Synergy Konflictus 5.0</span></div>
             </div>
 
           <button class="department">Luminaire</button>
             <div class="eventContainer">
-              <button id="401" class="events">Brainotracking</button>
-              <button id="402" class="events">Hackathon</button>
-              <button id="403" class="events">Matricity</button>
-              <button id="404" class="events">Minute-to-Win-it</button>
-              <button id="405" class="events">Eagle's Hunt</button>
-              <button id="406" class="events">Tech-Builder Konflictus 5.0</button>
+              <div class="events"><span id="401">Brainotracking</span></div>
+              <div class="events"><span id="402">Hackathon</span></div>
+              <div class="events"><span id="403">Matricity</span></div>
+              <div class="events"><span id="404">Minute-to-Win-it</span></div>
+              <div class="events"><span id="405">Eagle's Hunt</span></div>
+              <div class="events"><span id="406">Tech-Builder Konflictus 5.0</span></div>
             </div>
 
           <button class="department">Mirabilia</button>
             <div class="eventContainer">
-              <button id="501" class="events">Braille Coding</button>
-              <button id="502" class="events">Turncoat</button>
-              <button id="503" class="events">3rd Eye Photography</button>
-              <button id="504" class="events">Bring Back To Life</button>
-              <button id="505" class="events">DataJAM</button>
-              <button id="506" class="events">Algonigma</button>
-              <button id="507" class="events">Appathon</button>
-              <button id="508" class="events">Tech-Know</button>
-            </div>
+              <div class="events"><span
+              <div id="501" class="events">
+                <span>Braille Coding</span>
+                <?php
+                  if($sql->isLogin() == 1) {
+                      echo '<button onClick=addToCart(501) class="addEvent">+</button>';
+                  }
+                ?>
+              </div>
+              <span id="502" class="events">
+                <span>Turncoat</span>
+                <?php
+                  if($sql->isLogin() == 1) {
+                      echo '<button onClick=addToCart(502) class="addEvent">+</button>';
+                  }
+                ?>
+              </span>
+              <span id="503" class="events">
+                <span>3rd Eye Photography</span>
+                <?php
+                  if($sql->isLogin() == 1) {
+                      echo '<button onClick=addToCart(503) class="addEvent">+</button>';
+                  }
+                ?>
+              </span>
+              <span id="504" class="events">
+                <span>Bring Back To Life</span>
+                <?php
+                  if($sql->isLogin() == 1) {
+                    echo '<button onClick=addToCart(504) class="addEvent">+</button>';
+                  }
+              ?>
+              </span>
+              <span id="505" class="events">
+                <span>DataJAM</span>
+                <?php
+                  if($sql->isLogin() == 1) {
+                      echo '<button onClick=addToCart(505) class="addEvent">+</button>';
+                  }
+                ?>
+              </span>
+              <span id="506" class="events">
+                <span>Algonigma</span> 
+                <?php
+                  if($sql->isLogin() == 1) {
+                      echo '<button onClick=addToCart(506) class="addEvent">+</button>';
+                  }
+                ?>
+              </span>
+              <span id="507" class="events">
+                <span>Appathon</span>
+                <?php
+                  if($sql->isLogin() == 1) {
+                      echo '<button onClick=addToCart(507) class="addEvent">+</button>';
+                  }
+                ?>
+              </span>
+              <span id="508" class="events">
+                <span>Tech-Know</span>
+                <?php
+                  if($sql->isLogin() == 1) {
+                      echo '<button onClick=addToCart(508) class="addEvent">+</button>';
+                  }
+                ?>
+              </span>
+            </span>
 
           <button class="department">Nirminite</button>
             <div class="eventContainer">
-            <button id="601" class="events">Burj-Al-Paper</button>
-            <button id="602" class="events">CAD-NOVUS</button>
-            <button id="603" class="events">Civi Kalakaar</button>
-            <button id="604" class="events">Cryptic Crossword</button>
-            <button id="605" class="events">Final Destination</button>
-            <button id="606" class="events">Frame-D-Bridge</button>
-            <button id="607" class="events">Model-It</button>
-            <button id="608" class="events">Twister Coaster</button>
+            <span id="601" class="events">Burj-Al-Paper</span>
+            <span id="602" class="events">CAD-NOVUS</span>
+            <span id="603" class="events">Civi Kalakaar</span>
+            <span id="604" class="events">Cryptic Crossword</span>
+            <span id="605" class="events">Final Destination</span>
+            <span id="606" class="events">Frame-D-Bridge</span>
+            <span id="607" class="events">Model-It</span>
+            <span id="608" class="events">Twister Coaster</span>
             </div>
 
           <button class="department">Vidnan</button>
             <div class="eventContainer">
-            <button id="701" class="events">Scavanger's Quest</button>
-            <button id="702" class="events">Innovation Challenge</button>
-            <button id="703" class="events">The Salvage Yard</button>
-            <button id="704" class="events">Seguidor</button>
-            <button id="705" class="events">Roadrunner</button>
-            <button id="706" class="events">Mirror Maze</button>
-            <button id="707" class="events">Robo War</button>
-            <button id="708" class="events">Kivi</button>
+            <span id="701" class="events">Scavanger's Quest</span>
+            <span id="702" class="events">Innovation Challenge</span>
+            <span id="703" class="events">The Salvage Yard</button>
+            <span id="704" class="events">Seguidor</span>
+            <span id="705" class="events">Roadrunner</span>
+            <span id="706" class="events">Mirror Maze</span>
+            <span id="707" class="events">Robo War</span>
+            <span id="708" class="events">Kivi</span>
             </div>
 
           <button class="department">Yantriki</button>
             <div class="eventContainer">
-            <button id="801" class="events">AeroRace</button>
-            <button id="802" class="events">Architecture of Destruction</button>
-            <button id="803" class="events">Drone-Acharya</button>
-            <button id="804" class="events">EDCAD</button>
-            <button id="805" class="events">HydroBooster</button>
-            <button id="806" class="events">Mech Ke Tech Stars</button>
-            <button id="807" class="events">Sunder Master</button>
+            <span id="801" class="events">AeroRace</span>
+            <span id="802" class="events">Architecture of Destruction</span>
+            <span id="803" class="events">Drone-Acharya</span>
+            <span id="804" class="events">EDCAD</span>
+            <span id="805" class="events">HydroBooster</span>
+            <span id="806" class="events">Mech Ke Tech Stars</span>
+            <span id="807" class="events">Sunder Master</span>
             </div>
 
         </div>

@@ -21,11 +21,9 @@ p { font-family: Montserrat; }
 }
 
 .deptContainer {
-    padding-top: 50px;
     flex-basis: auto;
     position: relative;
-    width: 200px;
-    min-width: 200px;
+    min-width: 250px;
     height: 80%;
     overflow-y: scroll;
     overflow-x: hidden;
@@ -62,38 +60,69 @@ p { font-family: Montserrat; }
     backface-visibility: hidden;
 }
 
+.department::after {
+    content: '';
+    width: 50px;
+    background: rbg(51,148,250);
+}
+
 .department:hover {
     transition: all 0.4s;
-    padding-right: 50px;
+    transform: translateX(-50px);
     background: rgb(51,148,250);
     color: white;
 }
 
 .deptActive {
     transition: all 0.4s;
-    padding-right: 70px;
+    padding-right: 100px;
     background: rgb(51,148,250);
     color: white;
 }
 
 
 .events {
-    display: block;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     width: 100%;
     border: none;
     padding: 10px;
-    font-size: 17px;
+    
     text-align: left;
     background: transparent;
     transition: background 0.4s;
 }
 
-.events:hover {
-    background: grey;
-    transition: background 0.4s;
+.events > span {
+    font-size: 17px;
+    font-family: Montserrat;
+    cursor: pointer;
 }
 
+.events > span:hover {
+    background: rgb(104, 255, 210);
+}
 
+.events:hover {
+    background: rgb(104, 255, 210);
+}
+
+.addEvent{
+    font-family: Bebas Neue;
+    font-size: 1.5em;
+    color: black;
+    padding: 0px 0.5em;
+    border: none;
+    border-radius: 2em;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.addEvent:hover {
+    background: rgb(255, 255, 255);
+}
 
 .eventDetails {
     width: 100%;
@@ -134,21 +163,3 @@ p { font-family: Montserrat; }
 .eventContent > p {
     line-height: 1.5;
 }
-
-.event-button {
-    font-family: Bebas Neue;
-    font-size: 1.5em;
-    color: white;
-    padding: 0.1em 2em;
-    border-radius: 10px;
-    border: 2px white solid;
-    background: transparent;
-    cursor: pointer;
-    transition: all 0.3s;
-  }
-
-  .event-button:hover {
-    background:rgb(51,148,250);
-    color: white; 
-    transition: all 0.3s;
-  }
