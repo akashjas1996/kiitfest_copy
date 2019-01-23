@@ -26,7 +26,8 @@ $sql = new sql();
     <script src="js/TweenMax.min.js"></script>
     <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/jquery.transit.min.js"></script>
-    <script src="js/eventDetails.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <?php include "events/eventDetails.php"; ?>
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-66101749-2"></script>
 
@@ -70,94 +71,277 @@ $sql = new sql();
 
       <div class="container">
         <div class="deptContainer">
-          <button class="department">Electrifyn</button>
-            <div class="eventContainer">
-              <button id="101" class="events">Circuit Design & Power Relay</button>
-              <button id="102" class="events">Design 4 Energy</button>
-              <button id="103" class="events">KIIT-IEEE Workshop</button>
-              <button id="104" class="events">Robot Triathlon</button>
-              <button id="105" class="events">S.U.I.T</button>
-              <button id="106" class="events">Solar Spectrum</button>
+          <button class="department"><span>Electrifyn</span></button>
+          <div class="eventContainer">
+            <div class="events">
+              <div id="101">
+                <span>Circuit Design & Power Relay</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(101) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="102">
+                <span>Design 4 Energy</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(102) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="103">
+                <span>KIIT-IEEE Workshop</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(103) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="104">
+                <span>Robot Triathlon</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(104) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="105">
+                <span>S.U.I.T</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(105) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="106">
+                <span>Solar Spectrum</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(106) class="addEvent">+</button>';} ?>
+              </div>
             </div>
+          </div>
 
-          <button class="department">Kinesis</button>
-            <div class="eventContainer">
-              <button id="201" class="events">Cell-Lock Holmes</button>
-              <button id="202" class="events">Chitra-a-ghar</button>
-              <button id="203" class="events">Hackathon 5.0</button>
-              <button id="e204" class="events">Jugaad Out of Kabaad</button>
-              <button id="205" class="events">PainTerrific</button>
-              <button id="206" class="events">Pixeloscope</button>
-              <button id="207" class="events">Shabd-War</button>
+          <button class="department"><span>Kinesis</span></button>
+          <div class="eventContainer">
+            <div class="events">
+              <div id="201">
+                <span>Cell-Lock Holmes</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(201) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="202">
+                <span>Chitra-a-ghar</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(202) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="203">
+                <span>Hackathon 5.0</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(203) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="204">
+                <span>Jugaad Out of Kabaad</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(204) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="205">
+                <span>PainTerrific</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(205) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="206">
+                <span>Pixeloscope</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(206) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="207">
+                <span>Shabd-War</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(207) class="addEvent">+</button>';} ?>
+              </div>
             </div>
+          </div>
 
-          <button class="department">KSOM</button>
-            <div class="eventContainer">
-              <button id="301" class="events">Business Simulation</button>
-              <button id="302" class="events">Dalal Street</button>
-              <button id="303" class="events">Dare To Face</button>
-              <button id="304" class="events">Ikadhikaar</button>
-              <button id="305" class="events">Milk Run</button>
-              <button id="306" class="events">Synergy Konflictus 5.0</button>
+          <button class="department"><span>KSOM</span></button>
+          <div class="eventContainer">
+            <div class="events">
+              <div id="301">
+                <span>Business Simulation</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(301) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="302">
+                <span>Dalal Street</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(302) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="303">
+                <span>Dare To Face</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(303) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="304">
+                <span>Ikadhikaar</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(304) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="305">
+                <span>Milk Run</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(305) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="306">
+                <span>Synergy Konflictus 5.0</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(306) class="addEvent">+</button>';} ?>
+              </div>
             </div>
+          </div>
 
-          <button class="department">Luminaire</button>
-            <div class="eventContainer">
-              <button id="401" class="events">Brainotracking</button>
-              <button id="402" class="events">Hackathon</button>
-              <button id="403" class="events">Matricity</button>
-              <button id="404" class="events">Minute-to-Win-it</button>
-              <button id="405" class="events">Eagle's Hunt</button>
-              <button id="406" class="events">Tech-Builder Konflictus 5.0</button>
+          <button class="department"><span>Luminaire</span></button>
+          <div class="eventContainer">
+            <div class="events">
+              <div id="401">
+                <span>Brainotracking</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(401) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="402">
+                <span>Hackathon</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(402) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="403">
+                <span>Matricity</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(403) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="404">
+                <span>Minute-To-Win-It</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(404) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="405">
+                <span>Eagle's Hunt</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(405) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="406">
+                <span>Tech-Builder Konflictus 5.0</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(406) class="addEvent">+</button>';} ?>
+              </div>
             </div>
+          </div>
 
-          <button class="department">Mirabilia</button>
-            <div class="eventContainer">
-              <button id="501" class="events">Braille Coding</button>
-              <button id="502" class="events">Turncoat</button>
-              <button id="503" class="events">3rd Eye Photography</button>
-              <button id="504" class="events">Bring Back To Life</button>
-              <button id="505" class="events">DataJAM</button>
-              <button id="506" class="events">Algonigma</button>
-              <button id="507" class="events">Appathon</button>
-              <button id="508" class="events">Tech-Know</button>
+          <button class="department"><span>Mirabilia</span></button>
+          <div class="eventContainer">
+            <div class="events">
+              <div id="501">
+                <span>Braille Coding</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(501) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="502">
+                <span>Turncoat</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(502) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="503">
+                <span>3rd Eye Photography</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(503) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="504">
+                <span>Bring Back To Life</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(504) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="505">
+                <span>DataJAM</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(505) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="506">
+                <span>Algonigma</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(506) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="507">
+                <span>Appathon</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(507) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="508">
+                <span>Techknow</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(508) class="addEvent">+</button>';} ?>
+              </div>
             </div>
+          </div>
 
-          <button class="department">Nirminite</button>
-            <div class="eventContainer">
-            <button id="601" class="events">Burj-Al-Paper</button>
-            <button id="602" class="events">CAD-NOVUS</button>
-            <button id="603" class="events">Civi Kalakaar</button>
-            <button id="604" class="events">Cryptic Crossword</button>
-            <button id="605" class="events">Final Destination</button>
-            <button id="606" class="events">Frame-D-Bridge</button>
-            <button id="607" class="events">Model-It</button>
-            <button id="608" class="events">Twister Coaster</button>
+          <button class="department"><span>Nirminite</span></button>
+          <div class="eventContainer">
+            <div class="events">
+              <div id="601">
+                <span>Burj-Al-Paper</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(601) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="602">
+                <span>CAD-NOVUS</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(602) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="603">
+                <span>Civi Kalakaar</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(603) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="604">
+                <span>Cryptic Crossword</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(604) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="605">
+                <span>Final Destination</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(605) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="606">
+                <span>Frame-D-Bridge</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(606) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="607">
+                <span>Model-It</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(607) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="608">
+                <span>Twister Coaster</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(608) class="addEvent">+</button>';} ?>
+              </div>
             </div>
+          </div>
 
-          <button class="department">Vidnan</button>
-            <div class="eventContainer">
-            <button id="701" class="events">Scavanger's Quest</button>
-            <button id="702" class="events">Innovation Challenge</button>
-            <button id="703" class="events">The Salvage Yard</button>
-            <button id="704" class="events">Seguidor</button>
-            <button id="705" class="events">Roadrunner</button>
-            <button id="706" class="events">Mirror Maze</button>
-            <button id="707" class="events">Robo War</button>
-            <button id="708" class="events">Kivi</button>
+          <button class="department"><span>Vidnan</span></button>
+          <div class="eventContainer">
+            <div class="events">
+              <div id="701">
+                <span>Scavenger's Quest</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(701) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="702">
+                <span>Innovation Challenge</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(702) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="703">
+                <span>The Slavage Yard</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(703) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="704">
+                <span>Seguidor</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(704) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="705">
+                <span>Roadrunner</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(705) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="706">
+                <span>Mirror Maze</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(706) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="707">
+                <span>RoboWar</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(707) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="708">
+                <span>Kivi</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(708) class="addEvent">+</button>';} ?>
+              </div>
             </div>
+          </div>
 
-          <button class="department">Yantriki</button>
-            <div class="eventContainer">
-            <button id="801" class="events">AeroRace</button>
-            <button id="802" class="events">Architecture of Destruction</button>
-            <button id="803" class="events">Drone-Acharya</button>
-            <button id="804" class="events">EDCAD</button>
-            <button id="805" class="events">HydroBooster</button>
-            <button id="806" class="events">Mech Ke Tech Stars</button>
-            <button id="807" class="events">Sunder Master</button>
+          <button class="department"><span>Yantriki</span></button>
+          <div class="eventContainer">
+            <div class="events">
+              <div id="801">
+                <span>AeroRace</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(801) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="802">
+                <span>Architecture of Destruction</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(802) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="803">
+                <span>Drone-Acharya</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(803) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="804">
+                <span>EDCAD</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(804) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="805">
+                <span>HydroBooster</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(805) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="806">
+                <span>Mech ke Tech Stars</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(806) class="addEvent">+</button>';} ?>
+              </div>
+              <div id="807">
+                <span>Sunder Master</span>
+                <?php if($sql->isLogin() == 1) { echo '<button onClick=addToCart(807) class="addEvent">+</button>';} ?>
+              </div>
             </div>
-
+          </div>
         </div>
 
         <div class="eventDetailsContainer">

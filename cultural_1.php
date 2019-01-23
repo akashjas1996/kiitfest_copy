@@ -318,9 +318,9 @@ Angana Majumder        (7873877305) <br>  Sayan Sarkar (9431770604)
             </p>
 
             <p style="color: black;list-style-type:1;float: center;"><b>Contact with phone numbers:</b><br>
-          Sourav Dash      (Ph. No.-7008001984)
-             <br>Sonali Prusty                (Ph. No.-8763242043)
-
+              Braja Kishore Mishra (9438888388)<br>
+              Paulami Das (9830311058)
+            </p>
 
 
 
@@ -1023,7 +1023,7 @@ Participants would be required to frame a micro tale based on a given theme and 
              if($sql->isLogin() == 1)
              {
                echo '
-                <a onClick=addToCart(914) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
+                <a onClick=addToCart(913) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
               
               }
           ?>
@@ -1688,10 +1688,9 @@ instrumental piece can be of any genre or an original composition.</li>
             </ol>
             <b>Finals</b>
             <ol style="color:black;list-style-type:1;float: center;">
-            <li>Participants will be given a random word on spot(Hindi or English based on their preference).They are
-required to sing a song that must include the given word.They will be allowed to replace the given word
-for maximum once.</li>
-<li>Time limit for the performance is 3+1 minutes including setup after which marks will be deducted or
+            <li>Participants need to perform a single song/piece in hindi or English or both. The song or the
+instrumental piece can be of any genre or an original composition.</li>
+<li>Time limit for the performance is 4+1 minutes including setup after which marks will be deducted or
 the participant might be disqualified as per the jury decision.</li>
 <li>Performers will be disqualified on spot for misconduct, obscenity or foul language.</li>
 <li>Participants can perform with one instrument accompaniment.</li>
@@ -1761,7 +1760,7 @@ the participant might be disqualified as per the jury decision.</li>
              if($sql->isLogin() == 1)
              {
                echo '
-                <a onClick=addToCart(913) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
+                <a onClick=addToCart(916) id="cart" style="background-color:white;color:green;border:1px solid green;margin:10px;">Add To Cart</a>';
               
               }
           ?>

@@ -151,7 +151,7 @@ $sql = new sql();
                             </figure><!-- featured-image -->
 
                             <div class="box-link-date">
-                                <a href="http://Tinyurl.com/udghosh18" target="_blank">No Registration Fee</a>
+                                <a href="http://tinyurl.com/udghosh19" target="_blank">No Registration Fee</a>
                             </div>
 
                             <div class="entry-content">
@@ -160,9 +160,9 @@ $sql = new sql();
                                 </div><!-- entry-header -->
 
                                 <div class="entry-meta">
-                                    <span class="author-name"><span>Date:</span>Coming Soon</span>
+                                    <span class="author-name"><span>Date:</span>14/02/2019</span>
                                     <span class="space">|</span>
-                                    <span class="space"><span>Time:</span>Coming Soon</span><br/>
+                                    <span class="space"><span>Time:</span>9:30AM- 05:00PM</span><br/>
                                     <span class="comments-count"><span>Venue:</span> Bhubaneswar</span>
                                 </div>
 
@@ -220,6 +220,7 @@ Certificate for every participant and abundant audience prizes including various
 <br>
 <b>Contacts:</b><br>
 Shubham Saurav (7892801818)<br>
+Alankar Devta (7381279653)<br>	
 Email - qutopia 2018@gmail.com<br>
 </p>
 </p>
@@ -248,9 +249,9 @@ Email - qutopia 2018@gmail.com<br>
                                 </div><!-- entry-header -->
 
                                 <div class="entry-meta">
-                                    <span class="author-name"><span>Date:</span>Coming Soon</span>
+                                    <span class="author-name"><span>Date:</span>15/02/2019</span>
                                     <span class="space">|</span>
-                                    <span class="space"><span>Time:</span>Coming Soon</span><br/>
+                                    <span class="space"><span>Time:</span>09:00AM - 01:00 PM</span><br/>
                                     <span class="comments-count"><span>Venue:</span> Bhubaneswar</span>
                                 </div>
 
@@ -332,9 +333,9 @@ Alankar Devta (7381279653)<br>
                                 </div><!-- entry-header -->
 
                                <div class="entry-meta">
-                                    <span class="author-name"><span>Date:</span>Coming Soon</span>
+                                    <span class="author-name"><span>Date:</span>16/02/2019</span>
                                     <span class="space">|</span>
-                                    <span class="space"><span>Time:</span> Coming Soon</span><br/>
+				       <span class="space"><span>Time:</span>09:30AM - 02:00 PM</span><br/>
                                     <span class="comments-count"><span>Venue:</span> Bhubaneswar</span>
                                 </div>
 
@@ -419,9 +420,9 @@ Alankar Devta (7381279653)
                                 </div><!-- entry-header -->
 
                                <div class="entry-meta">
-                                    <span class="author-name"><span>Date:</span> Coming Soon</span>
+				       <span class="author-name"><span>Date:</span>15/02/2019</span>
                                     <span class="space">|</span>
-                                    <span class="space"><span>Time:</span>Coming Soon</span><br/>
+                                    <span class="space"><span>Time:</span>01:30 PM - 05:00 PM</span><br/>
                                     <span class="comments-count"><span>Venue:</span> Bhubaneswar</span>
                                 </div>
 
