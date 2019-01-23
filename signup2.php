@@ -2,30 +2,22 @@
     @require_once("db_connection.php");
     use PHPMailer\PHPMailer\PHPMailer;
     use PHPMailer\PHPMailer\Exception;
-
-
 require 'PHPMailer/src/Exception.php';
 require 'PHPMailer/src/PHPMailer.php';
 require 'PHPMailer/src/SMTP.php';
-
     //Checking session for valid user
     if(!array_key_exists("valid_user", $_SESSION) && empty($_SESSION["valid_user"]))
     {
         header('location:index.php');
     }
-
-
     if(array_key_exists("id", $_GET) && !empty($_GET["id"]))
     {
         header('Location:../verify.php?id='.$_GET["id"].'');
     }
-
     $nameerror = $emailerror = $phonenumbererror = $gendererror = $doberror = $rollnoerror = $institutionerror = " ";
     $name = $email = $phonenumbererror = $gender = $dob = $rollno = $institution =" ";
     $boolen = false;
-
     if($_SERVER["REQUEST_METHOD"]=="POST") {
-
     //Checking the validation for name
     if(empty($_POST["name"])) {
       $nameerror = "Name Required...";
@@ -34,7 +26,6 @@ require 'PHPMailer/src/SMTP.php';
         $name = validate_input($_POST["name"]);
         $boolen = true;
     }
-
     //Checking the validation for email
     if(empty($_POST["email"])) {
        $emailerror = "E-mail Required...";
@@ -46,7 +37,6 @@ require 'PHPMailer/src/SMTP.php';
       $email = $_POST["email"];
       $boolen = true;
     }
-
     //Checking the validation for gender
     if(empty($_POST["gender"])) {
         $gendererror = "Gender Required...";
@@ -55,7 +45,6 @@ require 'PHPMailer/src/SMTP.php';
         $gender = $_POST["gender"];
         $boolen = true;
     }
-
     //Checking the validation for number
     if(empty($_POST["phonenumber"])) {
         $phonenumbererror = "Gender Required...";
@@ -64,7 +53,6 @@ require 'PHPMailer/src/SMTP.php';
         $phonenumber = $_POST["phonenumber"];
         $boolen = true;
     }
-
     //Checking the validation for roll number
     if(empty($_POST["dob"])) {
         $doberror = "Date Of Birth Required...";
@@ -73,7 +61,6 @@ require 'PHPMailer/src/SMTP.php';
         $dob = $_POST["dob"];
         $boolen = true;
     }
-
     //Checking the validation for institution
     if(empty($_POST["institution"])) {
         $institutionerror = "Institution Required...";
@@ -82,7 +69,6 @@ require 'PHPMailer/src/SMTP.php';
         $institution = $_POST["institution"];
         $boolen = true;
     }
-
     //Checking the validation for institution
     if(empty($_POST["rollno"])) {
         $rollnoerror = "Roll Number Required...";
@@ -91,18 +77,13 @@ require 'PHPMailer/src/SMTP.php';
         $rollno = $_POST["rollno"];
         $boolen = true;
     }
-
-
     }
-
-
     function validate_input($data) {
             $data = trim($data);
             $data = stripcslashes($data);
             $data = htmlspecialchars($data);
             return $data;
     }
-
     function generateRandomString($length = 30) {
         $characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
         $charactersLength = strlen($characters);
@@ -112,11 +93,8 @@ require 'PHPMailer/src/SMTP.php';
         }
         return $randomString;
     }
-
-
     if($boolen)
     {
-
      function AddUser() {
         $email = $_POST["email"];
         $name = $_POST["name"];
@@ -128,7 +106,6 @@ require 'PHPMailer/src/SMTP.php';
         $user_id = $_SESSION['valid_user'];
         $unique_id = generateRandomString();
         $verifyLink = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]"."/?id=".$unique_id."";
-
         //Generating the KF ID
         $id="KF".rand(1,99999);
         $query= "SELECT id FROM participants_participant  where id='$id'";
@@ -143,18 +120,13 @@ require 'PHPMailer/src/SMTP.php';
         {
         $sql = "INSERT INTO participants_participant (`name`,`email`,`phone`,`dob`,`gender`,`roll_no`,`institution`,`unique_id`,`verified`,`user_id`,`kf_id`) VALUES
             ('$name','$email','$phonenumber','$dob','$gender','$rollno','$institution','$unique_id',0,'$user_id','$KF_ID')";
-
         $result = $GLOBALS['connect']->query ($sql);
-
         if(!$result)
             echo mysqli_error($GLOBALS['connect']);
-
         if($result)
         {
-
             unset ($_SESSION["valid_user"]);
             session_destroy();
-
 // $mail->setFrom('amit@gmail.com', 'Amit Agarwal');     //Set who the message is to be sent from
 // $mail->addReplyTo('labnol@gmail.com', 'First Last');  //Set an alternative reply-to address
 // $mail->addAddress('josh@example.net', 'Josh Adams');  // Add a recipient
@@ -165,23 +137,18 @@ require 'PHPMailer/src/SMTP.php';
 // $mail->addAttachment('/usr/labnol/file.doc');         // Add attachments
 // $mail->addAttachment('/images/image.jpg', 'new.jpg'); // Optional name
 // $mail->isHTML(true);                                  // Set email format to HTML
-
 // $mail->Subject = 'Here is the subject';
 // $mail->Body    = 'This is the HTML message body <b>in bold!</b>';
 // $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
-
 // //Read an HTML message body from an external file, convert referenced images to embedded,
 // //convert HTML into a basic plain-text alternative body
 // $mail->msgHTML(file_get_contents('contents.html'), dirname(__FILE__));
-
 // if(!$mail->send()) {
 //    echo 'Message could not be sent.';
 //    echo 'Mailer Error: ' . $mail->ErrorInfo;
 //    exit;
 // }
-
 // echo 'Message has been sent';
-
             if($result)
             {
                 //info@kiitfest.org->57t0n$lJ86%6
@@ -236,7 +203,6 @@ require 'PHPMailer/src/SMTP.php';
         }
         }
     }
-
      function SignUp() {
         // $user = $_POST["username"];
         // $sql = "SELECT * FROM auth_user WHERE username = '$user'";
@@ -248,11 +214,9 @@ require 'PHPMailer/src/SMTP.php';
         // if(!$row = mysqli_fetch_assoc($result))
         // {
            AddUser();
-
         // }
         // else {
         //     echo '<script>alert("Already Registered")</script>';
-
         // }
     }
      if(isset($_POST["submit"])) {
@@ -264,7 +228,6 @@ require 'PHPMailer/src/SMTP.php';
        $boolen = false;
     }
 }
-
 ?>
 
 

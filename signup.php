@@ -245,7 +245,8 @@
             <div style="color:red;"><?php echo $cpasserror;?></div>
         </div>
         <button type="submit" name="submit" class="btn btn-primary">Submit</button>
-        <span style='float: right;'>Forgot your password? <a href="/forgot.php" class="">Click here to reset</a></span> 
+        <span style='float: right;'>Forgot your password? <a href="/forgot.php" class="">Click here to reset</a></span> <br>
+        <span style='float: right;'>Didn't recieve your KFID or verification mail? <a href="/get-verified.php" class="">Click here</a></span> 
     </form>
 </div>
 
