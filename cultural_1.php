@@ -996,7 +996,7 @@ Participants would be required to frame a micro tale based on a given theme and 
                     <div class="col-12 col-md-4 single-blog-content">
                         <div class="blog-content">
                             <figure class="featured-image">
-                                <a href="#"> <img src="img/works/dekh.jpg" alt="fesival+celebration"> </a>
+                                <a href="#"> <img src="img/works/dekh.png" alt="fesival+celebration"> </a>
                             </figure><!-- featured-image -->
 
                           
