@@ -523,11 +523,224 @@ The bots first arrive at Checkpoint A.
 
         
         //Yantriki
-        "801": "",
-        "802": "",
-        "803": "",
-        "804": "",
-        "805": "",
+        "801": `
+        <h1>AERO RACE</h1>
+        <hr>
+       <b> EVENT DESCRIPTION:- </b>
+<p>The objective of this event is to attract multi-rotors enthusiasts to provide them with immense opportunity of testing the agility of their rotary wings aircrafts and UAVs as well as to attract aero modeling enthusiasts to provide them with immense opportunity of testing the agility of their fixed aircrafts.
+</p>
+<p><b>PROBLEM STATEMENT:-</b></p>
+<p>ROUND-1: DRONE RACE</p>
+<p>Design Constraint:</p>
+<p>
+<ol>
+<li>All sorts of rotary wing aircrafts (i.e., quadcopters, helicopter, hexcopters etc.) are allowed to compete in the competition.
+<li> Size of the aircraft should be a minimum of 200mmX 200mmX150mmand maximum of 250mmX250mmX200mm.
+<li> Autopilot systems are not allowed. Flight stabilization boards may be used.
+<li>FPV Systems are allowed.
+
+</ol>
+</p>
+<p><b>SCORING</b></p>
+<p><b>1. Round 1 (7 Ripple Way)</b></p>
+<p>Participants need to cover the zigzag flag pole path in limited time by their respective multi-rotor. This round will access the flying skills of the participants. [Note: Single attempt shall be provided for completing the task]
+</p>
+<p><b>Points criteria:</b> For each successful zigzag completion, each team will get 5 points. And for completing the square box which is in the middle, they will get 10 points. And this task is to be completed in minimum time as this will be noted down and will be taken into consideration for final evaluation. These points will be added to the second round.
+</p>
+<p><b>N.B: Each round will have a penalty. Suppose, if anyone touches a pole or an obstacle, 3 points will be deducted.</b></p>
+<p><b>2. Round 2 (Ascending Descending Path)</b></p>
+<p>This round will check maneuverability of the aircraft. The contestant in this round will have to fly their aircrafts in following pattern:-</p>
+<p><b>Points criteria:</b> For successful circuit completion, each team will get 90 points each. And the summation of first and second round will be added to the third round. This task is to be completed in minimum time as this will be noted down and will be taken into consideration for final evaluation.</p>
+<p><b>The attempt will not be counted if the aircraft touches the ground during the attempt.</b></p>
+<p><b>[Note: Each team will be provided with 2 attempts.]</b></p>
+<p><b>N.B: Each round will have a penalty. Suppose, if anyone touches a pole or an obstacle, 3 points will be deducted.</b></p>
+<p><b>3. Round 3 (Race to Eternity)</b></p>
+<p>This round will be testing the racing abilities of the aircraft and controlling ability of the pilot. The contestant in this round will have to fly their aircrafts in following pattern within min time:-</p>
+<p><b>Points criteria:</b> For successful circuit completion, each team will get 100 points. And the summation of first and second round will be added to the third round respectively, and this task is to be completed in minimum time as this will be noted down and will be taken into consideration for final evaluation.</p>
+<p><b>The attempt will not be counted if the aircraft touches the ground during the attempt.</b></p>
+<p><b>[Note: Each team will be provided with 2 attempts in this task.]</b></p>
+<p><b>N.B: Each round will have a penalty. Suppose, if anyone touches a pole or an obstacle, 3 points will be deducted.</b></p>
+<p><b>FINAL EVALUATION:</b></p>
+<p>FINAL SCORE=TOTAL SCORE CALCULATED FROM ALL THREE ROUNDS/TOTAL TIME CALCULATED FROM ALL THREE ROUNDS</p>
+<p><b>ROUND-2: FIX-WING AIRCRAFT</b></p>
+<p><b>PROBLEM STATEMENT (EVENT DETAILS)</b></p>
+<p><b>Aircraft Specification:</b></p>
+<p>The aircraft is to be designed in such a way that it travels quickly in air, is easily maneuverable and can carry the maximum payload.</p>
+<p>Gearboxes in Micro Class are allowed. Multiple motors, multiple propellers, propeller shrouds, and ducted fans are allowed.</p>
+<p>Gyroscopic assist or other forms of stability augmentation are not allowed.</p>
+<p>Competing designs are limited to fixed wing aircraft only. No lighter-than-air or rotary wing aircraft such as helicopters will be allowed to compete.</p>
+<p>The payload must consist of a support assembly and payload plates. All payloads carried for score must be carried within the cargo bay(s). The support assembly must be constructed so as to retain the weights as a homogeneous mass.</p>
+<p>The payload should not provide any addition to the strength of the wings and fuselage or any other aerodynamic advantage. e.g. steel rods to strengthen the wings are not allowed.</p>
+<p>Usage of Ready-to-Fly (RTF) and Almost-Ready-to-Fly (ARF) kits is strictly prohibited.</p>
+<p>Any dimension of the aircraft should not exceed 1000 mm i.e. maximum allowed dimension is 100cm, whether it is the wingspan or the length of the aircraft. Any exception to this rule will render the participant disqualified.</p>
+<p>Metal propellers are not allowed.</p>
+<p>Anyone found not following the above rules will be disqualified.</p>
+<p><b>Launching method:</b></p>
+<p>Aircraft may be launched by firmly grasping the fuselage and using a one-step (stride) launch. Only one person may be used to hand launch the aircraft.</p>
+<p><b>Take off:</b></p>
+<p>After the signal from the respective AERIAL QUEST representative, the team will have only 2 min to prepare their respective UAV and take off. Two attempts will be given for the round.</p>
+<p><b>Landing:</b></p>
+<p>Landing is defined as occurring from initial touchdown to the point at which the aircraft stops moving. A crash-landing invalidates the landing attempt and the round. A good landing for a successful flight is defined as touching down within the designated landing zone. Rolling-out or sliding beyond the landing zone limits is allowed, provided the aircraft initial touchdown occurs within the landing zone.</p>
+<p><ol>
+<li>The participant will be considered for scoring only if his plane follows the mentioned path. Otherwise, his score stands at zero.
+<li>The competition will be held for only one. Two chances will be given for each round, only if the plane lands before the first cone or if it fails to launch. If the plane crosses the first pole, no second chance will be awarded for that round.
+<li>All parts must remain attached to the aircraft during flight and landing.
+<li>Broken propellers are allowed, and will not invalidate a flight attempt.
+<li>The payload must be secured to the airframe to ensure that the payload will not shift or come loose in flight.
+<li>The use of 2.4 GHz radio is required for all aircraft competing.    
+<li>A maximum time of 3 minutes will be given to complete the circuit.
+<li>The weight of payload and empty weight of the plane will be checked by the coordinator after every round.
+
+</ol></p>
+<p><b>Judging Criteria:</b></p>
+<p>Score = (N÷2)+1/((T∕W  )t )+LP + PF, where</p>
+<p>N = No. of rounds.</p>
+<p>T/W = Net thrust: Weight Ratio.</p>
+<p>t = Time taken to complete.</p>
+<p>LP = Landing Point.</p>
+<p>PF= Payload Fraction</p>
+
+<p><b>Prize money:-</b> Rs 40,000</p>
+<p><b>Contact Persons:-</b></p>
+<p>Ankush Singh- 7504412558</p>
+<p>Kaustav Ghosh- 7681045132</p>
+
+  ` ,
+        "802": ""`
+<h1>ARCHITECTURE OF DESTRUCTION</h1>
+<hr>
+<p><b>Description of the event:-</b></p>
+<p> Being an architect can be both fun and tough. The Architecture of Destruction has been a very popular event of KIITFEST since its inception, and this year it is ready to have fun with some "destructively creative" minds. Divided into three rounds, this event checks your ability to find the weak spots of a structure, your ability to create trouble for your opponents with your steps, and your ability to make a rock-solid structure with limited resources. Stay calm, and win it all. </p>
+<p><b>Rules and Regulations</b></p>
+<p><b>1. BREAK UP(KNOCK OUT ROUND)</b></p>
+<p>  2 teams will be pitted against each other. There will be a pile of Jenga blocks and you have to pull the blocks. Make sure to make your opponent the victim of your move.</p>
+<p><b>2. SHOW ME YOUR MOVE BABY!</b></p>
+<p>In the second round, Participants will have to make a structure of their own using the JENGA blocks. During the event, one member of the opponent will be allowed to come and pull out or add one block in their structure. </p>
+<p><b>3. THE TWIN TOWERS OF 9/11</b></p>
+<p>After 2 rounds of Jenga, the final round will involve a pack of cards. Since childhood, we are building castles of cards. Again we need to make 1.
+You'll be given a pack of cards. And you have to make a Castle out if it(make sure no card is wasted). Then, the opponent will be given 5 paper Planes and they'll throw it on your castle. It involves your precision and your opponents' aim. Time factor involved as well as strength. </p>
+
+<p><b>Judging Criteria:-</b></p>
+<p><ol>
+<li>Participant has to be a college student (any branch or year).
+
+<li> Any kind of violence (physical/verbal) is not allowed. If found guilty, the participant will be immediately disqualified. 
+
+<li> Within the event, there might be some instances when the participant will get a chance to destruct others participant's structure. That has to be done only under the eyes of coordinator and within the rules specified at that moment. 
+
+<li> Coordinators have the right to disqualify you at any moment if they find you involved in any kind of cheating or abuse of rules.
+
+<li> The decision of the judges will be final and no alterations will be made in the results. 
+
+</ol></p>
+<p><b>Prize money:-</b> Rs 20,000</p>
+<p><b>Contact with phone number</b> </p>
+<p>Sarthak Sinha- 7684854312 (Roll no: 1502057)</p>
+<p>Aaditya Agrawal- 9051469709 (Roll no: 1626013)</p>
+
+
+       ` ,
+        "803": ""`
+<h1>DRONE-ACHARYA</h1>
+<hr>
+<p><b>Event Description:</b></p>
+<p>A one-day technical workshop on UAV (Unmanned Aerial Vehicles), i.e., drones.</p>
+<p><b>Event Detail:</b></p>
+<p>Drone-Acharya is a one-day workshop technical workshop that’ll be conducted by KIIT Aeronautical Society. In the workshop, a basic idea about the drones, i.e., the working, types, and creation of UAV will be demonstrated. The workshop would be all technical and the participants are sure to learn and know the basics of drones. There will a short drone flying session in which trained pilots will fly the UAV. At the end of the workshop, there will a short quiz based on the workshop and there will be prizes for the winners in the quiz.</p>
+<p>On the whole, it will be a fun and techy workshop for the Aero enthusiasts.</p>
+<p><b>CONTACT  US:</b></p>
+<p>GOURAV DUTTA: +91-9162867942 </p>
+<p>HARSHIT SINGH: +91-7978187493</p>
+
+ `,
+        "804": ""`
+<h1>EDCAD</h1>
+<hr>
+<p><b>Description of the event</b></p>
+<p>This event has two different parts:</p>
+<p>Engineering Drawing is more than merely the drawing of pictures, it is also a language-a graphical language that communicates ideas and information from one mind to another.</p>
+<p>CAD software will be used to design and visualize a unique and non-existing concept for the world.</p>
+<p><b>Stages:</b></p>
+<p><b>Stage 1</b></p>
+<p><ol>
+<li>Geometrical Dimensions and Tolerance (GD&T) quiz.
+<li>Participants have to draw the given views(top, front, side) and have to represent the same in 3D in CAD
+</ol>
+</p>
+<p><b>Stage 2</b></p>
+<p><ol>
+<li>The idea behind the concept is to be submitted through mail prior to the competition.
+<li>Concept to be represented in 3D through any CAD software within the stipulated time during the competition.
+</ol>
+</p>
+<p><b>Rules and Regulations:</b></p>
+<p><ol>
+<li>All participants need to arrive at the venue 15 min before the starting time of the competition.
+<li>No submissions of emails will be accepted after the given period of time.
+<li>Any participant not ready with his or her model within the allotted time will be disqualified.
+<li>Participants are free to use any CAD software and/or their own laptops.
+<li>Interested participants may render out their models. However, it won’t be considered as a criterion for judging.
+<li>Judges’ decision will be final and binding to all.
+</ol>
+</p>
+
+<p><b>Judging Criteria:</b></p>
+<p><ol>
+<li>Speed, Accuracy
+<li>Quality of Model
+<li>Dimension and texting
+<li>Originality of idea
+<li>Innovation and Creativity
+<li>The probability of Real World Implementation
+</ol>
+</p>
+<p><b>Prize money:-</b> Rs 13,000 </p>
+<p><b>Contact:</b></p>
+<p>Hemant Tiwari – 8342910025 (For ED)</p>
+<p>Devashish Roy – 7873873015 (For CAD)</p>
+
+       ` ,
+        "805": ""`
+<h1>HYDRO BOOSTER</h1>
+<hr>
+<p><b> DESCRIPTION OF THE EVENT</b></p>
+<p>Take your first big step to propel yourself into the world of aerodynamics!
+Design a water rocket that is completely powered by the thrust delivered by water expelled at high pressure along with its launchpad.
+Water Rocket is a mechanical event that involves the fabrication of a rocket whose fuel/thrust for flight is obtained by the use of water that is expelled at a large air pressure. It is an example of Newton's third law of motion. The prerequisites for such an event would be a basic knowledge of fabrication, materials and physical calculations involving thrust, air pressure, etc. The event tests a couple of aspects of the Rocket’s flight. These include range, time of flight and accuracy of the launching mechanism.</p>
+<p>The event consists of two rounds. First one is eliminatory, second is the final round.</p>
+<p>• First round: Range test</p>
+<p>Here the maximum range is tested. The distance between the launch pad and the point of landing is measured and taken to be the points in that round. From this, top 5 will be shortlisted for the next round.</p>
+<p>• Second round: Accuracy test</p>
+<p>At a distance of 70m from the launch pad, a target is placed. Target contains concentric circles of radii 2m, 4m and 6m. If the rocket lands at the centre, team gets 100 points, second ring 75 points, and outer ring 50 points. If otherwise, no points are awarded. Three teams will qualify for the final round. In the case of any tie, the time of flight will be noted and the team with the least time gets into lead. </p>
+
+
+<p><b>RULES AND REGULATIONS</b></p>
+<p><ol>Max 5 participants. These Participants can be from different colleges too.
+<li> The rocket and its components must be handmade. No readymade rocket is allowed.
+<li> The rocket body should be made only with plastic bottles of aerated soft drinks of maximum capacity 2.5L and should be free of any fabrication failures or dents caused by heat exposure. More than one bottle can be used but the total volume must be less than 2.5L.
+<li>Each team MUST have their own launch pads.
+<li> The water rocket must use only compressed atmospheric air as its source of energy. Pressure compressors (foot pump) shall be provided at the venue. The pressure inside the container (rocket body) before launch should NOT exceed 60 psi for the first two rounds.
+<li> Water to be filled in the rockets will be provided by the organizers. Calculations regarding amount of water to be used is left to the choice of the team.
+<li> Two trials will be given to each team and best of two will be taken into consideration.
+<li> The rocket must be launched from a stationary position using a fixed launch pad. Slingshots, trebuchets, catapults, cannons, and all other devices that may assist launching are strictly prohibited. IN other words, the internal pressure of the rocket must be the only source of energy for the rocket.
+<li> Water rockets can have multiple stages. Parachute, gliding mechanisms are permitted.
+<li> Use of electronic components and chemical explosives are banned.
+<li> The point where the rocket hits the ground first will be taken as the point of landing and measurements will be taken considering this point.
+<li> Teams are advised to get more than one water rocket, in case of any damage to one. But the water rockets must be identical.
+<li> The participants are allowed to use variations of their water rockets in different rounds. However, only one design must be maintained throughout a single round.
+<li> The team will be disqualified/given another chance to remodel if the model is found to be dangerous in anyway. Decision of the organizers is final and binding.
+</ol> 
+</p>
+<p><b>JUDGING CRITERIA:</b></p>
+<p>The judgment is completely based on the marking scheme mentioned in the event format.
+· The organizers decide to permit the launching of the rocket after inspection of both the rocket and launch pad considering factors such as safety and permissible mechanisms mentioned in the rules. In such cases, the organizers’ decision is final and binding.</p>
+<p><b>Prize money:-</b>Rs 20,000</p>
+<p><b>CONTACT WITH PHONE NUMBER</b></p>
+<p>Tulika Satpathy: 8763185687 (Roll no: 1502317)</p>
+<p>Prachi Sinha: 7504433354 (Roll no: 1502286)</p>
+
+
+        `,
         "806": "",
         "807": "",    
     }
