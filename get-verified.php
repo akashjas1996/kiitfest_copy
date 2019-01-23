@@ -76,9 +76,6 @@ else{
   echo '<script>setTimeout(function(){swal("Error", "Verification link was not sent, as you are not registered", "error")},150)</script>';
 }
 }
-else{
-  echo '<script>setTimeout(function(){swal("Error", "Verification link was not sent, as you are not registered", "error")},150)</script>';
-}
 
 
 
