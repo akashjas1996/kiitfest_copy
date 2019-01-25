@@ -261,7 +261,7 @@ $sql = new sql();
         </div>
         <div class="col-md-4 col-xs-12 text-md-right text-xs-center">
           <h3>E-mail</h3>
-          <p class="text-dark">techsupport@kiitfest.org</p>
+          <p class="text-dark">kiit.fest@kiit.ac.in</p>
         </div>
       </div>
 
