@@ -303,15 +303,16 @@ require 'PHPMailer/src/SMTP.php';
         </div>
         <div style="color:red;"><?php echo $doberror?></div>
         <div class="form-group">
-            <label for="exampleInputEmail1">Roll Number</label>
-            <input type="text" class="form-control" name="rollno" aria-describedby="emailHelp" placeholder="Roll Number">
-            <div style="color:red;"><?php echo $rollnoerror?></div>
-        </div>
-        <div class="form-group">
             <label for="exampleInputEmail1">Institution</label>
-            <input type="text" class="form-control" name="institution" aria-describedby="emailHelp" placeholder="Institution">
+            <!-- <input type="text" class="form-control" name="institution" aria-describedby="emailHelp" placeholder="Institution"> -->
+            <select id="insName" onchange="instituteChange()" class="form-control" name="institution" aria-describedby="emailHelp" placeholder="Institution" required>
+                <option value="" selected disabled>--choose one--</option>
+                <option value="KIIT">Kalinga Institute Of Industrial Technology</option>
+                <option value="others">Others..</option>
+            </select>
             <div style="color:red;"><?php echo $institutionerror?></div>
         </div>
+        <div id="afterIns" class="form-group"> </div>
 
         <button type="submit" name="submit" class="btn btn-primary">Submit</button>
     </form>
@@ -323,7 +324,27 @@ require 'PHPMailer/src/SMTP.php';
 </div></center>
 
 
+<script>
+    function instituteChange() {
 
+        var institute = document.getElementById('insName').value;
+        var afterIns = document.getElementById('afterIns');
 
+        if (institute === "KIIT")
+            afterIns.innerHTML = `
+                <label for="exampleInputEmail1">Roll Number</label>
+                <input type="text" class="form-control" name="rollno" aria-describedby="emailHelp" placeholder="Roll Number">
+                <div style="color:red;"><?php echo $rollnoerror?></div>
+            `
+        else if (institute === "others")
+            afterIns.innerHTML = `
+                <label for="exampleInputEmail1">Institute Name</label>
+                <input type="text" class="form-control" name="rollno" aria-describedby="emailHelp" placeholder="Institution Name">
+                <div style="color:red;"><?php echo $nameerror;?></div>
+            `
+        else
+            swal("Opps! Something went wrong!", "Please try again later", "error");
+    }
+    </script>
 </body>
 </html>
