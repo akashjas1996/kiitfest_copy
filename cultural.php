@@ -4,7 +4,9 @@ $sql = new sql();
 ?>
 
 	<!DOCTYPE html>
-	<html lang="zxx" class="no-js">
+	<!--html lang="zxx" class="no-js"-->
+	<script src="js/TimelineLite.min.js"></script>
+    <script src="js/TweenMax.min.js"></script>
 	<head>
 		<!-- Mobile Specific Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -32,36 +34,34 @@ $sql = new sql();
 			<link rel="stylesheet" href="css/magnific-popup.css">
 			<link rel="stylesheet" href="css/bootstrap.css">
 			<link rel="stylesheet" href="css/main.css">
+
 		</head>
 		<body>
 
-			  <header id="header" id="home" style1="background-color: rgba(000, 0, 0, 0.6);">
-			    <div class="container" >
-			    	<div class="row align-items-center justify-content-between d-flex">
-				      <div id="logo">
-				        <a href="index.php"><img src="img/logo.png" alt="" style="height:100px" title="" /></a>
-				      </div>
-				      <nav id="nav-menu-container">
-				        <ul class="nav-menu">
-				          <li class="menu-active"><a href="index.php#home">Home</a></li>
-				          <li><a href="https://kiitfest.org/technical.php">Technical</a></li>
-				  <li><a href="quizfest.php">QuizFest</a></li>
-					<li><a href="webteam.php">Our Team</a></li>
-					<li><a href="contact.php">Contact</a></li>
-					<?php
-	 	if($sql->isLogin()==1)
-    {
-      echo '<li><a class="ticker-btn" href="events/checkout.php">CHECKOUT</a></li>';
-      echo '<li><a class="ticker-btn" href="logout.php">LOGOUT</a></li>';
-		}
-		else{
-			echo '<li><a class="ticker-btn" href="signup.php">Register</a></li>';
-			echo '<li><a class="ticker-btn" href="login.php">Log In</a></li>';
-		}
-    ?>
-			    	</div>
-			    </div>
-			  </header><!-- #header -->
+			<header class="header header-scrolled">
+      <ul class="navContainer">
+        <li class="expand">
+          <svg class="hamburger" viewBox="0 0 100 100">
+            <line class="line l1" x1="15" y1="29" x2="85" y2="29" />
+            <line class="line l2" x1="15" y1="46" x2="85" y2="46" />
+            <line class="line l3" x1="15" y1="63" x2="85" y2="63" />
+          </svg>
+        </li>
+        <li><a class="nav-button" href="#home">Home</a></li>
+        <li><a class="nav-button" href="#about">About</a></li>
+        <li><a class="nav-button" href="#events">Events</a></li>
+        <li><a class="nav-button" href="#contactUs">Contact Us</a></li>
+        <?php
+            if($sql->isLogin()==1) {
+                echo '<li><a href="events/checkout.php">Checkout  <i class="fas fa-shopping-cart"></i></a></li>';
+                echo '<li><a href="logout.php">Logout   <i class="fas fa-sign-out-alt"></i></a></li>';
+            } else {
+                echo '<li><a class="button" href="signup.php">Register</a></li>';
+                echo '<li><a class="button" href="login.php">Log In</a></li>';
+            }
+        ?>
+      </ul>
+    </header>
 
 			<section class="generic-banner relative" style="height: 300px">
 				<div class="container">
