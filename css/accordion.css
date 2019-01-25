@@ -4,7 +4,7 @@ p { font-family: Montserrat; }
 *:focus {outline:none}
 
 .container {
-    width: 1200px;
+    width: 70%;
     height: 100%;
     margin: 0px auto;
     display: flex;
@@ -20,10 +20,19 @@ p { font-family: Montserrat; }
     transition: all 0.3s;
 }
 
+.eventDetailsContainer {
+    height: 80%;
+    width: calc(100% - 300px);
+    background: rgba(0,0,0,0.8);
+    overflow-y: scroll;
+    border-radius: 0px 10px 10px 0px;
+    padding: 50px;
+    margin-top: 50px;
+}
+
 .deptContainer {
-    flex-basis: auto;
     position: relative;
-    min-width: 250px;
+    width: 300px;
     height: 80%;
     overflow-y: scroll;
     overflow-x: hidden;
@@ -50,7 +59,7 @@ p { font-family: Montserrat; }
     display: block;
     width: 100%;
     border: none;
-    padding: 20px;
+    padding: 10px;
     text-align: right;
     font-size: 30px;
     font-family: Bebas Neue;
@@ -89,7 +98,6 @@ p { font-family: Montserrat; }
     transform: translateX(-100px);
 }
 
-
 .events > div{
     display: flex;
     justify-content: space-between;
@@ -114,38 +122,18 @@ p { font-family: Montserrat; }
 }
 
 .addEvent{
-    font-family: Bebas Neue;
-    font-size: 1.5em;
     color: black;
-    padding: 0px 0.5em;
     border: none;
-    border-radius: 2em;
-    background: transparent;
     cursor: pointer;
     transition: all 0.3s;
+    background: transparent;
 }
 
 .addEvent:hover {
-    background: rgb(255, 255, 255);
-}
-
-.eventDetails {
-    width: 100%;
-    height: 0px;
-    overflow: hidden;
-    transition: all 0.3s;
+    color: white;
 }
 
 
-.eventDetailsContainer {
-    flex-grow: 1;
-    height: 80%;
-    background: rgba(0,0,0,0.8);
-    overflow-y: scroll;
-    border-radius: 0px 10px 10px 0px;
-    padding: 50px;
-    margin-top: 50px;
-}
 
 .eventContent * {
     color: white;

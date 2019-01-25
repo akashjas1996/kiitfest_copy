@@ -1,5 +1,5 @@
 departments = document.querySelectorAll('.department');
-events = $('.events > div > span');
+events = $('.events > div');
 id = $('.events > div');
 eventContent = $('.eventContent');
 
