@@ -120,9 +120,9 @@ $sql = new sql();
         <h3 class="heading"></h3>
         <div class="pricing-content">
           <ul>
-            <li><b>Venue</b> Comming soon</li>
-            <li><b>Schedule</b> Comming soon</li>
-            <li>Participation<b></b> Comming Soon</li>
+            <li><b>Venue</b> coming soon</li>
+            <li><b>Schedule</b> coming soon</li>
+            <li>Participation<b></b> coming Soon</li>
           </ul>
         </div>
         <div class="pricingTable-signup">
@@ -221,9 +221,9 @@ Ankita Kumari, Bhavya Raj, Natasha Michael, Shalini Jha <br>
         <h3 class="heading"></h3>
         <div class="pricing-content">
           <ul>
-            <li><b>Venue</b> Comming soon</li>
-            <li><b>Schedule</b> Comming soon</li>
-            <li><b>Participation</b> Comming Soon</li>
+            <li><b>Venue</b> coming soon</li>
+            <li><b>Schedule</b> coming soon</li>
+            <li><b>Participation</b> coming Soon</li>
           </ul>
         </div>
         <div class="pricingTable-signup">
@@ -257,9 +257,9 @@ Ankita Kumari, Bhavya Raj, Natasha Michael, Shalini Jha <br>
         <h3 class="heading"></h3>
         <div class="pricing-content">
           <ul>
-            <li><b>Venue</b> Comming soon</li>
-            <li><b>Schedule</b> Comming soon</li>
-            <li><b>Participation</b> Comming Soon</li>
+            <li><b>Venue</b> coming soon</li>
+            <li><b>Schedule</b> coming soon</li>
+            <li><b>Participation</b> coming Soon</li>
           </ul>
         </div>
         <div class="pricingTable-signup">
@@ -293,9 +293,9 @@ Ankita Kumari, Bhavya Raj, Natasha Michael, Shalini Jha <br>
         <h3 class="heading"></h3>
         <div class="pricing-content">
           <ul>
-            <li><b>Venue</b> Comming soon</li>
-            <li><b>Schedule</b> Comming soon</li>
-            <li><b>Participation</b> Comming Soon</li>
+            <li><b>Venue</b> coming soon</li>
+            <li><b>Schedule</b> coming soon</li>
+            <li><b>Participation</b> coming Soon</li>
           </ul>
         </div>
         <div class="pricingTable-signup">
@@ -325,9 +325,9 @@ Ankita Kumari, Bhavya Raj, Natasha Michael, Shalini Jha <br>
         <h3 class="heading"></h3>
         <div class="pricing-content">
           <ul>
-            <li><b>Venue</b> Comming soon</li>
-            <li><b>Schedule</b> Comming soon</li>
-            <li><b>Participation</b> Comming Soon</li>
+            <li><b>Venue</b> coming soon</li>
+            <li><b>Schedule</b> coming soon</li>
+            <li><b>Participation</b> coming Soon</li>
           </ul>
         </div>
         <div class="pricingTable-signup">
@@ -358,9 +358,9 @@ Ankita Kumari, Bhavya Raj, Natasha Michael, Shalini Jha <br>
         <h3 class="heading"></h3>
         <div class="pricing-content">
           <ul>
-            <li><b>Venue</b> Comming soon</li>
-            <li><b>Schedule</b> Comming soon</li>
-            <li><b>Participation</b> Comming Soon</li>
+            <li><b>Venue</b> coming soon</li>
+            <li><b>Schedule</b> coming soon</li>
+            <li><b>Participation</b> coming Soon</li>
           </ul>
         </div>
         <div class="pricingTable-signup">
