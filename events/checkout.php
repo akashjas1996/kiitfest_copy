@@ -175,24 +175,16 @@ $sql = new sql();
                     if($result)
                     {
                         $c = mysqli_num_rows($result);
-                        if($c==0)
-                            echo '<div class="product">
-                  <div class="row">
-                    <div class="col-md-3">
-                      
-                    </div>
-                    <div class="col-md-8">
-                      <div class="info">
-                        <div class="row">
-                            <center><div style="font-size:20px;"class="product-name">Your cart is empty</div><center>
-                              <div style="font-size:12px;">Looks like you have not made your list</div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              
-                          ';
+                        if($c==0){
+                          
+                          echo '<script>';
+                          echo 'setTimeout(async function(){await swal("Sorry! You can\'t checkout now", "Please select an event before checking out", "warning")},50)';
+                          echo '</script>';
+                          exit();
+                          echo '<script>';
+                          echo 'setTimeout(function(){window.location.href = "../index.php";},700)';
+                          echo '</script>';
+                        }
                         $count = 1;
                         while($row = mysqli_fetch_assoc($result))
                         {

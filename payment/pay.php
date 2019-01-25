@@ -5,6 +5,22 @@ $sql = new sql();
 
 include 'src/instamojo.php';
 
+$kfid = $sql->getKFID();
+                    
+$sql = "SELECT * FROM participants_participant_events,events WHERE participants_participant_events.participant_id = '$kfid' and participants_participant_events.event_id = events.id";
+$result = mysqli_query($GLOBALS['connect'],$sql);
+if($result)
+{
+    $c = mysqli_num_rows($result);
+    if($c==0){
+      
+      echo '<script>';
+      echo 'window.location.href = "../index.php";';
+      echo '</script>';
+      exit();
+    }
+}
+
 $api = new Instamojo\Instamojo('b99d20533b706864312305eb142c6ea8', '887515a0f019663aaf413c97904f0cca');
 if($connect && $sql->isLogin()==1 ) {
     $unique_id = $sql->retriveSessionParticipant();
