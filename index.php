@@ -246,8 +246,9 @@ $sql = new sql();
         <div class="col-md-4 col-xs-12 text-md-left text-xs-center">
           <h3 class="">Phone</h3>
           <p class="text-dark">
-            +91 8114382208<br>
-            +91 7781957003
+            General Info: +91 9123782010<br>
+            Technical Support: +91 7004909759<br>
+            Sponsorship: +91 7683979698<br>
           </p>
         </div>
         <div class="col-md-4 col-xs-12 text-md-center text-xs-center">
@@ -261,7 +262,7 @@ $sql = new sql();
         </div>
         <div class="col-md-4 col-xs-12 text-md-right text-xs-center">
           <h3>E-mail</h3>
-          <p class="text-dark">techsupport@kiitfest.org</p>
+          <p class="text-dark">kiit.fest@kiit.ac.in</p>
         </div>
       </div>
 
