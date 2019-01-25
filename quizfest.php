@@ -3,6 +3,8 @@ include "sql.php";
 $sql = new sql();
 ?>
 <!DOCTYPE html>
+<script src="js/TimelineLite.min.js"></script>
+    <script src="js/TweenMax.min.js"></script>
 <html>
 
 <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-66101749-2"></script>
@@ -70,50 +72,30 @@ $sql = new sql();
     <link rel="stylesheet" href="style.css">
 </head>
 <body class="blog-page" style="overflow-x: hidden;">
-    <header class="site-header">
-        <div class="header-bar">
-            <div class="container-fluid">
-                <div class="row align-items-center">
-                    <div class="col-10 col-lg-4">
-                        <h1 class="site-branding flex">
-                            <a href="index.php">
-                                <img src="img/kiitfest_logo.png" alt="kiitfest logo" height="85px">
-                            </a>
-                        </h1>
-                    </div>
-
-                    <div class="col-2 col-lg-8">
-                        <nav class="site-navigation">
-                            <div class="hamburger-menu d-lg-none">
-                                <span></span>
-                                <span></span>
-                                <span></span>
-                                <span></span>
-                            </div><!-- .hamburger-menu -->
-                            <ul>
-                                <li><a href="https://kiitfest.org">HOME</a></li>
-                                <li><a href="technical.php">TECHNICAL</a></li>
-                                <li><a href="cultural.php">CULTURAL</a></li>
-                                <!--li><a href="webteam.php">WEB TEAM</a></li>
-                                <li><a href="contact.php">CONTACT</a></li-->
-                                <?php
-	 	if($sql->isLogin()==1)
-    {
-      echo '<li><a class="ticker-btn" href="events/checkout.php">CHECKOUT</a></li>';
-      echo '<li><a class="ticker-btn" href="logout.php">LOGOUT</a></li>';
-		}
-		else{
-			echo '<li><a class="ticker-btn" href="signup.php">Register</a></li>';
-			echo '<li><a class="ticker-btn" href="login.php">Log In</a></li>';
-		}
-    ?>
-
-                            </ul><!-- flex -->
-                        </nav><!-- .site-navigation -->
-                    </div><!-- .col-12 -->
-                </div><!-- .row -->
-            </div><!-- container-fluid -->
-        </div><!-- header-bar -->
+    
+      <header class="header header-scrolled">
+      <ul class="navContainer">
+        <li class="expand">
+          <svg class="hamburger" viewBox="0 0 100 100">
+            <line class="line l1" x1="15" y1="29" x2="85" y2="29" />
+            <line class="line l2" x1="15" y1="46" x2="85" y2="46" />
+            <line class="line l3" x1="15" y1="63" x2="85" y2="63" />
+          </svg>
+        </li>
+        <li><a class="nav-button" href="#home">Home</a></li>
+        <li><a class="nav-button" href="#about">About</a></li>
+        <li><a class="nav-button" href="#events">Events</a></li>
+        <li><a class="nav-button" href="#contactUs">Contact Us</a></li>
+        <?php
+            if($sql->isLogin()==1) {
+                echo '<li><a href="events/checkout.php">Checkout  <i class="fas fa-shopping-cart"></i></a></li>';
+                echo '<li><a href="logout.php">Logout   <i class="fas fa-sign-out-alt"></i></a></li>';
+            } else {
+                echo '<li><a class="button" href="signup.php">Register</a></li>';
+                echo '<li><a class="button" href="login.php">Log In</a></li>';
+            }
+        ?>
+      </ul>
     </header>
     <div class="page-header" style="background-image: url('quizfest.png');background-size: cover;">
         <div class="container">
@@ -544,6 +526,8 @@ Alankar Devta (7381279653)
     <script type='text/javascript' src='js/circle-progress.min.js'></script>
     <script type='text/javascript' src='js/jquery.countTo.min.js'></script>
     <script type='text/javascript' src='js/custom.js'></script>
+    <script src="js/common.js"></script>
+      <script src="js/accordiontest.js"></script>
 
         <script>
       function addToCart(id) {
