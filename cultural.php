@@ -204,6 +204,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 			<script src="js/parallax.min.js"></script>
 			<script src="js/mail-script.js"></script>
 			<script src="js/main.js"></script>
+			<script src="js/common.js"></script>
+      <script src="js/accordiontest.js"></script>
 		</body>
 	</html>
 
