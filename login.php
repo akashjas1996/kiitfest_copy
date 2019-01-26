@@ -1,17 +1,27 @@
 <?php
 
 @require_once("db_connection.php");
+include "sql.php";
+$sql = new sql();
   if($_SERVER["REQUEST_METHOD"]=="POST")
   {
       function CheckLogin() {
       if(!empty($_POST['kf_id']) && !empty($_POST['pass']))
       {
           $kfid = $_POST['kf_id'];
-          $pass = $_POST['pass'];
-          $sql = "SELECT * FROM participants_participant,auth_user WHERE participants_participant.kf_id='$kfid' AND auth_user.password=sha1('$pass')";
+					$pass = $_POST['pass'];
+					
+					//$sql = "SELECT * FROM participants_participant,auth_user WHERE participants_participant.kf_id='$kfid' AND auth_user.password=sha1('$pass')";
+
+					$sql = "select * from participants_participant where kf_id='$kfid'";
           $result = mysqli_query($GLOBALS['connect'],$sql);
-          $row = mysqli_fetch_assoc($result);
-          if($result && $row>0)
+					$row = mysqli_fetch_assoc($result);
+
+					$sql1 = "select * from auth_user where id='$row[user_id]'";
+					$result1 = mysqli_query($GLOBALS['connect'],$sql1);
+					$row1 = mysqli_fetch_assoc($result1);
+
+          if($result1 && $row1>0)
           {
               if($row['verified']==0)
               {
@@ -21,7 +31,7 @@
                   echo '</script>';
                   
               }
-              else
+              else if($row1['password'] == sha1($pass))
               {
                   $_SESSION['valid_participant'] = $row['unique_id'];
 									echo '<script>';
@@ -33,7 +43,13 @@
                      echo 'setTimeout(function(){window.location.href = "index.php";},700)';
                      echo "</script>";
                   }
-              }
+							}
+							else
+							{
+									echo '<script>';
+									echo 'setTimeout(function(){swal("warning", "Password Or KF_ID does not match", "warning")},50)';
+									echo '</script>';
+							}
           }
           else
           {
