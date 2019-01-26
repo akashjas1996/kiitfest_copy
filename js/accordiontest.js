@@ -3,6 +3,8 @@ eventNamesSelector = $('.eventNames');
 deptNames = $('.deptNames');
 eventContent = $('.eventContent');
 
+const mq = window.matchMedia("(max-width: 768px)");
+
 
 departments.forEach( department =>
     department.addEventListener('click', () => {
@@ -13,16 +15,24 @@ departments.forEach( department =>
         eventNamesSelector.transition({x: 0, opacity: 1, delay: 125}, 300, 'ease');
 
         events = $('.eventNames > div');
-        console.log(events);
 
         events.each(function () {
-            $(this).click(() => {
-                eventContent.transition({y: 40, opacity: 0}, 'slow', () => {
-                    eventContent.html(eventDetails[$(this).attr('id')]);
-                    eventContent.transition({y: 0, opacity: 1}, 'slow');
-                })
-            });
-        })
+            if($(this).attr('id') !== '000')
+                $(this).click(() => {
+                    if(mq.matches) {
+                        content = eventDetails[$(this).attr('id')];
+                        content += `<h1 class="closeButton">Back</h1>`;
+                        eventContent.html(content);
+                        toggleModal();
+                        $('.closeButton').click(toggleModal);
+                    } else {
+                        eventContent.transition({y: 40, opacity: 0}, 300, () => {
+                            eventContent.html(eventDetails[$(this).attr('id')]);
+                            eventContent.transition({y: 0, opacity: 1}, 300);
+                        });
+                    };
+                });
+        });
 
         back = $('.backButton');
         back.click(() => {
@@ -32,7 +42,17 @@ departments.forEach( department =>
     })
 );
 
+var modal = document.querySelector(".modal");
+function toggleModal() {
+    modal.classList.toggle("show-modal");
+};
 
+function windowOnClick(event) {
+    if (event.target === modal)
+        toggleModal();
+};
+
+window.addEventListener("click", windowOnClick);
 
 
 function addToCart(id) {
