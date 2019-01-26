@@ -518,7 +518,34 @@ The bots first arrive at Checkpoint A.
 <p> Saswata: 8116340242 </p>
 `,
         "707": "RoboWar",
-        "708": "Kivi",
+        "708": `<h1> KIWI-(Electronics Trivia Quiz Game) </h1>
+<p> <b> Description: </b> </p>
+<p> It is an online quiz that is totally related to the electronics circuits and its equivalent and the participants will have ten seconds to choose the answer amongst the options provided. This event will be conducted thrice a day after some events so that the enthusiasm among the participants is maintained. The different pages of the application involve the registration page and each quiz question page. </p>
+
+<p> <b> Rules And Regulations: </b> </p>
+<ol>
+<li> The quiz questions will be totally related to the electronics circuits and its equivalent. </li>
+<li> The KIWI application will work only within the GEO_FENCING so no outsider away from  the electronics department will be allowed to enter the game who hasn’t registered. </li>
+<li> The Game will be conducted thrice a day for the 3 consecutive days. </li>
+<li> The Prize money will be decided based on the number of registrations for this event.  </li>
+<li> In case the number of participants is more the prize money would be increased or vice-versa. </li>
+<li> The game will be played in between the other events so to involve all the participants in this event too.  </li>
+<li> The different pages of the application involve the registration page and each quiz question page.  </li>
+<li> The total number of questions for each game will be 12. </li>
+
+<li> The total prize distribution will be based upon the number of winners in each game(total money / total number of players).  </li>
+ 
+<li>  The mode of cash withdrawal will be online through Paytm. </li>
+</ol>
+
+<p> <b> Judging Criteria: </b> </p>
+<p> The one who gets all the answers correct shall be the winner. </p>
+
+<p> <b> Prize Money: </b> </p> 
+<p> Rs: 20,000/- </p>
+<p> <b> Contact Details: </b> </p>
+<p> Manish: 8863848002 </p> <p>     Surabhi: 9777833256 </p>
+</p>`,
 
 
         
