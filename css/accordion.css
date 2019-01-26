@@ -1,5 +1,10 @@
 * { box-sizing: border-box; }
-body { height: 100vh; }
+body {
+    height: 100vh;
+    overflow: hidden;
+ }
+ .deptContainer::-webkit-scrollbar { display: none; }
+.eventDetailsContainer::-webkit-scrollbar { display: none; }
 p { font-family: Montserrat; }
 *:focus {outline:none}
 
@@ -11,6 +16,17 @@ p { font-family: Montserrat; }
     justify-content: center;
     align-items: center;
     overflow-y: hidden;
+}
+
+.deptContainer {
+    position: relative;
+    width: 300px;
+    height: 80%;
+    overflow: hidden;
+    background: rgba(255,255,255,0.8);
+    border-radius: 10px 0px 0px 10px;
+    margin-top: 50px;
+    
 }
 
 .eventContainer {
@@ -30,52 +46,34 @@ p { font-family: Montserrat; }
     margin-top: 50px;
 }
 
-.deptContainer {
-    position: relative;
-    width: 300px;
-    height: 80%;
-    overflow-y: scroll;
-    overflow-x: hidden;
-    background: rgba(255,255,255,0.8);
-    border-radius: 10px 0px 0px 10px;
+.deptNames {
+    height: 100%;
+    width: 100%;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    margin-top: 50px;
-    
-}
+    justify-content: space-evenly;
 
-.deptContainer::-webkit-scrollbar { 
-    display: none; 
-}
-
-
-.eventDetailsContainer::-webkit-scrollbar { 
-    display: none; 
 }
 
 .department {
-    position: relative;
-    display: block;
-    width: 100%;
-    border: none;
     padding: 10px;
+    margin: 0px;
     text-align: right;
     font-size: 30px;
     font-family: Bebas Neue;
     cursor: pointer;
-    background: transparent;
     transition: all 0.2s;
-    backface-visibility: hidden;
+    color: black;
+}
+
+.department:hover {
+    background: rgb(51,148, 250);
 }
 
 .department span {
     display: block;
     transition: all 0.2s;
-}
-
-.department:hover {
-    background: rgb(51,148, 250);
+    padding-right: 10px;
 }
 
 .department:hover span {
@@ -84,49 +82,45 @@ p { font-family: Montserrat; }
     transition: all 0.2s;
 }
 
-.deptActive {
-    transition: all 0.4s;
-    background: rgb(51,148,250);
-    color: white;
+.eventNames {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top:0;
+    left:0;
+    transform: translateX(300px);
+    opacity: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
 }
 
-.deptActive span {
-    transform: translateX(-100px);
-}
-
-.deptActive:hover span {
-    transform: translateX(-100px);
-}
-
-.events > div{
+.eventNames > div {
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 100%;
-    border: none;
     padding: 10px;
-    
-    text-align: left;
-    background: transparent;
-    transition: background 0.4s;
+    margin: 0px;
+    transition: all 0.2s;
 }
 
-.events > div > span {
-    font-size: 17px;
-    font-family: Montserrat;
+.eventNames > div > span {
+    font-size: 30px;
+    font-family: Bebas Neue;
     cursor: pointer;
-}
-
-.events > div:hover {
-    background: rgb(104, 255, 210);
-}
-
-.addEvent{
+    transition: all 0.2s;
     color: black;
-    border: none;
-    cursor: pointer;
-    transition: all 0.3s;
-    background: transparent;
+    padding-left: 20px;
+}
+
+.eventNames > div:hover {
+    background: rgb(104, 255, 210);
+    transition: all 0.2s;
+}
+
+.addEvent{ 
+    display: block;
 }
 
 .addEvent:hover {
@@ -134,7 +128,7 @@ p { font-family: Montserrat; }
 }
 
 
-
+/* Event Content */
 .eventContent * {
     color: white;
 }
@@ -156,3 +150,6 @@ p { font-family: Montserrat; }
 .eventContent > p {
     line-height: 1.5;
 }
+
+
+

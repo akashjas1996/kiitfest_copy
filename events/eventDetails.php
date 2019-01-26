@@ -1,5 +1,73 @@
 <script>
+    var eventNames = {
+        "101": "Circuit Design & Power",
+        "102": "Design 4 Energy",
+        "103": "KIIT-IEEE Workshop",
+        "104": "Robot Triathon",
+        "105": "S.U.I.T",
+        "106": "Solar Spectrum",
+
+        "201": "Cell-Lock Holmes",
+        "202": "Chitra-a-ghar",
+        "203": "Hackathon 5.0",
+        "204": "Jugaad Out of Kabaad",
+        "205": "PainTerrific",
+        "206": "Pixeloscope",
+        "207": "Shabd-War",
+
+        "301": "Business Simulation",
+        "302": "Dalal Street",
+        "303": "Dare to Face",
+        "304": "Ikadhikaar",
+        "305": "Milk Run",
+        "306": "Synergy Konflictus 5.0",
+
+        "401": "Brainotracking",
+        "402": "Hackathon",
+        "403": "Matricity",
+        "404": "Minute-To-Win-It",
+        "405": "Eagle's Hunt",
+        "406": "Tech-Builder Konflictus 5.0",
+
+        "501": "Braille Coding",
+        "502": "Turncoat",
+        "503": "3rd Eye Photography",
+        "504": "Bring Back to Life",
+        "505": "DataJAM",
+        "506": "Algonigma",
+        "507": "Appathon",
+        "508": "Techknow",
+
+        "601": "Burj-Al-Paper",
+        "602": "CAD-NOVUS",
+        "603": "Civi Kalakaar",
+        "604": "Cryptic Crossword",
+        "605": "Final Destination",
+        "606": "Frame-D-Bridge",
+        "607": "Model-It",
+        "608": "Twister Coaster",
+
+        "701": "Scavanger's Quest",
+        "702": "Innovation Challenge",
+        "703": "The Salvage Yard",
+        "704": "Seguidor",
+        "705": "Roadrunner",
+        "706": "Mirror Maze",
+        "707": "RoboWar",
+        "708": "Kivi",
+
+        "801": "AeroRace",
+        "802": "Architecture Of Destruction",
+        "803": "Drone-Acharya",
+        "804": "EDCAD",
+        "805": "HydroBooster",
+        "806": "Mech Ke Tech Stars",
+        "807": "Sunder Master"
+    }
+
     var eventDetails = {
+        "000" : "<h1>TECHNICAL</h1>",
+
         //Electrifyn
         "101": "",
         "102": "",
@@ -299,10 +367,6 @@ Rs-20,000 </b>
  <p> <b> Contact Details: </b> <p>
 <p> A. Kajol (9090561913) </p>
 <p> B. Prakhar(+91-7766932637) </p>
-
-
-
-
         `,
         "702": "Innovation Challenge",
         "703": "The Salvage Yard",
@@ -551,89 +615,83 @@ The bots first arrive at Checkpoint A.
         
         //Yantriki
         "801": `
-        <h1>AERO RACE</h1>
-        <hr>
-       <b> EVENT DESCRIPTION:- </b>
-<p>The objective of this event is to attract multi-rotors enthusiasts to provide them with immense opportunity of testing the agility of their rotary wings aircrafts and UAVs as well as to attract aero modeling enthusiasts to provide them with immense opportunity of testing the agility of their fixed aircrafts.
-</p>
-<p><b>PROBLEM STATEMENT:-</b></p>
-<p>ROUND-1: DRONE RACE</p>
-<p>Design Constraint:</p>
-<p>
-<ol>
-<li>All sorts of rotary wing aircrafts (i.e., quadcopters, helicopter, hexcopters etc.) are allowed to compete in the competition.
-<li> Size of the aircraft should be a minimum of 200mmX 200mmX150mmand maximum of 250mmX250mmX200mm.
-<li> Autopilot systems are not allowed. Flight stabilization boards may be used.
-<li>FPV Systems are allowed.
+            <h1>AERO RACE</h1>
+            <hr>
+            <b> EVENT DESCRIPTION:- </b>
+            <p>The objective of this event is to attract multi-rotors enthusiasts to provide them with immense opportunity of testing the agility of their rotary wings aircrafts and UAVs as well as to attract aero modeling enthusiasts to provide them with immense opportunity of testing the agility of their fixed aircrafts.</p>
+            <p><b>PROBLEM STATEMENT:-</b></p>
+            <p>ROUND-1: DRONE RACE</p>
+            <p>Design Constraint:</p>
+            <ol>
+                <li>All sorts of rotary wing aircrafts (i.e., quadcopters, helicopter, hexcopters etc.) are allowed to compete in the competition.
+                <li> Size of the aircraft should be a minimum of 200mmX 200mmX150mmand maximum of 250mmX250mmX200mm.
+                <li> Autopilot systems are not allowed. Flight stabilization boards may be used.
+                <li>FPV Systems are allowed.
+            </ol>
+            <p><b>SCORING</b></p>
+            <p><b>1. Round 1 (7 Ripple Way)</b></p>
+            <p>Participants need to cover the zigzag flag pole path in limited time by their respective multi-rotor. This round will access the flying skills of the participants. [Note: Single attempt shall be provided for completing the task]</p>
+            <p><b>Points criteria:</b> For each successful zigzag completion, each team will get 5 points. And for completing the square box which is in the middle, they will get 10 points. And this task is to be completed in minimum time as this will be noted down and will be taken into consideration for final evaluation. These points will be added to the second round.</p>
+            <p><b>N.B: Each round will have a penalty. Suppose, if anyone touches a pole or an obstacle, 3 points will be deducted.</b></p>
+            <p><b>2. Round 2 (Ascending Descending Path)</b></p>
+            <p>This round will check maneuverability of the aircraft. The contestant in this round will have to fly their aircrafts in following pattern:</p>
+            <p><b>Points criteria:</b> For successful circuit completion, each team will get 90 points each. And the summation of first and second round will be added to the third round. This task is to be completed in minimum time as this will be noted down and will be taken into consideration for final evaluation.</p>
+            <p><b>The attempt will not be counted if the aircraft touches the ground during the attempt.</b></p>
+            <p><b>[Note: Each team will be provided with 2 attempts.]</b></p>
+            <p><b>N.B: Each round will have a penalty. Suppose, if anyone touches a pole or an obstacle, 3 points will be deducted.</b></p>
+            <p><b>3. Round 3 (Race to Eternity)</b></p>
+            <p>This round will be testing the racing abilities of the aircraft and controlling ability of the pilot. The contestant in this round will have to fly their aircrafts in following pattern within min time:-</p>
+            <p><b>Points criteria:</b> For successful circuit completion, each team will get 100 points. And the summation of first and second round will be added to the third round respectively, and this task is to be completed in minimum time as this will be noted down and will be taken into consideration for final evaluation.</p>
+            <p><b>The attempt will not be counted if the aircraft touches the ground during the attempt.</b></p>
+            <p><b>[Note: Each team will be provided with 2 attempts in this task.]</b></p>
+            <p><b>N.B: Each round will have a penalty. Suppose, if anyone touches a pole or an obstacle, 3 points will be deducted.</b></p>
+            <p><b>FINAL EVALUATION:</b></p>
+            <p>FINAL SCORE=TOTAL SCORE CALCULATED FROM ALL THREE ROUNDS/TOTAL TIME CALCULATED FROM ALL THREE ROUNDS</p>
+            <p><b>ROUND-2: FIX-WING AIRCRAFT</b></p>
+            <p><b>PROBLEM STATEMENT (EVENT DETAILS)</b></p>
+            <p><b>Aircraft Specification:</b></p>
+            <p>The aircraft is to be designed in such a way that it travels quickly in air, is easily maneuverable and can carry the maximum payload.</p>
+            <p>Gearboxes in Micro Class are allowed. Multiple motors, multiple propellers, propeller shrouds, and ducted fans are allowed.</p>
+            <p>Gyroscopic assist or other forms of stability augmentation are not allowed.</p>
+            <p>Competing designs are limited to fixed wing aircraft only. No lighter-than-air or rotary wing aircraft such as helicopters will be allowed to compete.</p>
+            <p>The payload must consist of a support assembly and payload plates. All payloads carried for score must be carried within the cargo bay(s). The support assembly must be constructed so as to retain the weights as a homogeneous mass.</p>
+            <p>The payload should not provide any addition to the strength of the wings and fuselage or any other aerodynamic advantage. e.g. steel rods to strengthen the wings are not allowed.</p>
+            <p>Usage of Ready-to-Fly (RTF) and Almost-Ready-to-Fly (ARF) kits is strictly prohibited.</p>
+            <p>Any dimension of the aircraft should not exceed 1000 mm i.e. maximum allowed dimension is 100cm, whether it is the wingspan or the length of the aircraft. Any exception to this rule will render the participant disqualified.</p>
+            <p>Metal propellers are not allowed.</p>
+            <p>Anyone found not following the above rules will be disqualified.</p>
+            <p><b>Launching method:</b></p>
+            <p>Aircraft may be launched by firmly grasping the fuselage and using a one-step (stride) launch. Only one person may be used to hand launch the aircraft.</p>
+            <p><b>Take off:</b></p>
+            <p>After the signal from the respective AERIAL QUEST representative, the team will have only 2 min to prepare their respective UAV and take off. Two attempts will be given for the round.</p>
+            <p><b>Landing:</b></p>
+            <p>Landing is defined as occurring from initial touchdown to the point at which the aircraft stops moving. A crash-landing invalidates the landing attempt and the round. A good landing for a successful flight is defined as touching down within the designated landing zone. Rolling-out or sliding beyond the landing zone limits is allowed, provided the aircraft initial touchdown occurs within the landing zone.</p>
+            <p>
+            <ol>
+                <li>The participant will be considered for scoring only if his plane follows the mentioned path. Otherwise, his score stands at zero.
+                <li>The competition will be held for only one. Two chances will be given for each round, only if the plane lands before the first cone or if it fails to launch. If the plane crosses the first pole, no second chance will be awarded for that round.
+                <li>All parts must remain attached to the aircraft during flight and landing.
+                <li>Broken propellers are allowed, and will not invalidate a flight attempt.
+                <li>The payload must be secured to the airframe to ensure that the payload will not shift or come loose in flight.
+                <li>The use of 2.4 GHz radio is required for all aircraft competing.    
+                <li>A maximum time of 3 minutes will be given to complete the circuit.
+                <li>The weight of payload and empty weight of the plane will be checked by the coordinator after every round.
+            </ol>
+            <p><b>Judging Criteria:</b></p>
+            <p>Score = (N÷2)+1/((T∕W  )t )+LP + PF, where</p>
+            <p>N = No. of rounds.</p>
+            <p>T/W = Net thrust: Weight Ratio.</p>
+            <p>t = Time taken to complete.</p>
+            <p>LP = Landing Point.</p>
+            <p>PF= Payload Fraction</p>
 
-</ol>
-</p>
-<p><b>SCORING</b></p>
-<p><b>1. Round 1 (7 Ripple Way)</b></p>
-<p>Participants need to cover the zigzag flag pole path in limited time by their respective multi-rotor. This round will access the flying skills of the participants. [Note: Single attempt shall be provided for completing the task]
-</p>
-<p><b>Points criteria:</b> For each successful zigzag completion, each team will get 5 points. And for completing the square box which is in the middle, they will get 10 points. And this task is to be completed in minimum time as this will be noted down and will be taken into consideration for final evaluation. These points will be added to the second round.
-</p>
-<p><b>N.B: Each round will have a penalty. Suppose, if anyone touches a pole or an obstacle, 3 points will be deducted.</b></p>
-<p><b>2. Round 2 (Ascending Descending Path)</b></p>
-<p>This round will check maneuverability of the aircraft. The contestant in this round will have to fly their aircrafts in following pattern:-</p>
-<p><b>Points criteria:</b> For successful circuit completion, each team will get 90 points each. And the summation of first and second round will be added to the third round. This task is to be completed in minimum time as this will be noted down and will be taken into consideration for final evaluation.</p>
-<p><b>The attempt will not be counted if the aircraft touches the ground during the attempt.</b></p>
-<p><b>[Note: Each team will be provided with 2 attempts.]</b></p>
-<p><b>N.B: Each round will have a penalty. Suppose, if anyone touches a pole or an obstacle, 3 points will be deducted.</b></p>
-<p><b>3. Round 3 (Race to Eternity)</b></p>
-<p>This round will be testing the racing abilities of the aircraft and controlling ability of the pilot. The contestant in this round will have to fly their aircrafts in following pattern within min time:-</p>
-<p><b>Points criteria:</b> For successful circuit completion, each team will get 100 points. And the summation of first and second round will be added to the third round respectively, and this task is to be completed in minimum time as this will be noted down and will be taken into consideration for final evaluation.</p>
-<p><b>The attempt will not be counted if the aircraft touches the ground during the attempt.</b></p>
-<p><b>[Note: Each team will be provided with 2 attempts in this task.]</b></p>
-<p><b>N.B: Each round will have a penalty. Suppose, if anyone touches a pole or an obstacle, 3 points will be deducted.</b></p>
-<p><b>FINAL EVALUATION:</b></p>
-<p>FINAL SCORE=TOTAL SCORE CALCULATED FROM ALL THREE ROUNDS/TOTAL TIME CALCULATED FROM ALL THREE ROUNDS</p>
-<p><b>ROUND-2: FIX-WING AIRCRAFT</b></p>
-<p><b>PROBLEM STATEMENT (EVENT DETAILS)</b></p>
-<p><b>Aircraft Specification:</b></p>
-<p>The aircraft is to be designed in such a way that it travels quickly in air, is easily maneuverable and can carry the maximum payload.</p>
-<p>Gearboxes in Micro Class are allowed. Multiple motors, multiple propellers, propeller shrouds, and ducted fans are allowed.</p>
-<p>Gyroscopic assist or other forms of stability augmentation are not allowed.</p>
-<p>Competing designs are limited to fixed wing aircraft only. No lighter-than-air or rotary wing aircraft such as helicopters will be allowed to compete.</p>
-<p>The payload must consist of a support assembly and payload plates. All payloads carried for score must be carried within the cargo bay(s). The support assembly must be constructed so as to retain the weights as a homogeneous mass.</p>
-<p>The payload should not provide any addition to the strength of the wings and fuselage or any other aerodynamic advantage. e.g. steel rods to strengthen the wings are not allowed.</p>
-<p>Usage of Ready-to-Fly (RTF) and Almost-Ready-to-Fly (ARF) kits is strictly prohibited.</p>
-<p>Any dimension of the aircraft should not exceed 1000 mm i.e. maximum allowed dimension is 100cm, whether it is the wingspan or the length of the aircraft. Any exception to this rule will render the participant disqualified.</p>
-<p>Metal propellers are not allowed.</p>
-<p>Anyone found not following the above rules will be disqualified.</p>
-<p><b>Launching method:</b></p>
-<p>Aircraft may be launched by firmly grasping the fuselage and using a one-step (stride) launch. Only one person may be used to hand launch the aircraft.</p>
-<p><b>Take off:</b></p>
-<p>After the signal from the respective AERIAL QUEST representative, the team will have only 2 min to prepare their respective UAV and take off. Two attempts will be given for the round.</p>
-<p><b>Landing:</b></p>
-<p>Landing is defined as occurring from initial touchdown to the point at which the aircraft stops moving. A crash-landing invalidates the landing attempt and the round. A good landing for a successful flight is defined as touching down within the designated landing zone. Rolling-out or sliding beyond the landing zone limits is allowed, provided the aircraft initial touchdown occurs within the landing zone.</p>
-<p><ol>
-<li>The participant will be considered for scoring only if his plane follows the mentioned path. Otherwise, his score stands at zero.
-<li>The competition will be held for only one. Two chances will be given for each round, only if the plane lands before the first cone or if it fails to launch. If the plane crosses the first pole, no second chance will be awarded for that round.
-<li>All parts must remain attached to the aircraft during flight and landing.
-<li>Broken propellers are allowed, and will not invalidate a flight attempt.
-<li>The payload must be secured to the airframe to ensure that the payload will not shift or come loose in flight.
-<li>The use of 2.4 GHz radio is required for all aircraft competing.    
-<li>A maximum time of 3 minutes will be given to complete the circuit.
-<li>The weight of payload and empty weight of the plane will be checked by the coordinator after every round.
+            <p><b>Prize money:-</b> Rs 40,000</p>
+            <p><b>Contact Persons:-</b></p>
+            <p>Ankush Singh- 7504412558</p>
+            <p>Kaustav Ghosh- 7681045132</p>
 
-</ol></p>
-<p><b>Judging Criteria:</b></p>
-<p>Score = (N÷2)+1/((T∕W  )t )+LP + PF, where</p>
-<p>N = No. of rounds.</p>
-<p>T/W = Net thrust: Weight Ratio.</p>
-<p>t = Time taken to complete.</p>
-<p>LP = Landing Point.</p>
-<p>PF= Payload Fraction</p>
-
-<p><b>Prize money:-</b> Rs 40,000</p>
-<p><b>Contact Persons:-</b></p>
-<p>Ankush Singh- 7504412558</p>
-<p>Kaustav Ghosh- 7681045132</p>
-
-  ` ,
-        "802": ""`
+            ` ,
+        "802": `
 <h1>ARCHITECTURE OF DESTRUCTION</h1>
 <hr>
 <p><b>Description of the event:-</b></p>
@@ -667,7 +725,7 @@ You'll be given a pack of cards. And you have to make a Castle out if it(make su
 
 
        ` ,
-        "803": ""`
+        "803": `
 <h1>DRONE-ACHARYA</h1>
 <hr>
 <p><b>Event Description:</b></p>
@@ -680,7 +738,7 @@ You'll be given a pack of cards. And you have to make a Castle out if it(make su
 <p>HARSHIT SINGH: +91-7978187493</p>
 
  `,
-        "804": ""`
+        "804": `
 <h1>EDCAD</h1>
 <hr>
 <p><b>Description of the event</b></p>
@@ -727,7 +785,7 @@ You'll be given a pack of cards. And you have to make a Castle out if it(make su
 <p>Devashish Roy – 7873873015 (For CAD)</p>
 
        ` ,
-        "805": ""`
+        "805": `
 <h1>HYDRO BOOSTER</h1>
 <hr>
 <p><b> DESCRIPTION OF THE EVENT</b></p>
@@ -768,7 +826,7 @@ Water Rocket is a mechanical event that involves the fabrication of a rocket who
 
 
         `,
-        "806": "",
-        "807": "",    
+        "806": ``,
+        "807": ``,    
     }
 </script>
