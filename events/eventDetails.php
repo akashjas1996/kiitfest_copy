@@ -32,13 +32,233 @@
 
 
 
-        //Luminaire
-        "401": "",
-        "402": "",
-        "403": "",
-        "404": "",
-        "405": "",
-        "406": "",
+         //Luminaire         
+        "401": `	     
+        <h1>Brainotracking</h1>
+        <hr>
+		<p><b>Description:</b>
+		“Truth can only be found in one place : THE CODE”
+		If you think you have the 7th sense, Which people normally refer to as the Coder Sense then brush up your mind for a brain teasing snippets with the essence of cinematic universe. Let your mind relax while reading the code, but let me remind you time is important.</p>
+
+		<p><b>Rules and Regulations:</b>
+		<ol>
+			<li>Round 1:
+			<ul>
+				<li>Pair participation.</li>
+				<li>Participants will be given a code snippet.</li>
+				<li>One partner will find output of the code while the other will wait.</li>
+				<li>Output of the code will be solution to the name of a movie.</li>
+				<li>The partner who knows the name of the movie will explain the movie to the other partner and the person will have to guess the Bollywood movie.</li>
+			</li>
+
+			<li>Round 2:
+			A code snippet will be given along with its output.
+			The code snippet will be jumbled.
+			It is to be ordered correctly. 
+			</li>
+		</ol>
+
+		<p><b>Judgement Criteria:</b>
+		<ol>
+		<li>
+		Round 1: Will be a knockout round and people who’ll complete the task in minimum time will be selected.</li>
+		<li>Round 2: Winners will be selected on minimum time taken to order the code according to the output.</li>
+		</ol>
+
+		<p><b>Prize Money:</b></p>
+		<ol><li>1st :Rs.12000/-</li>
+		<li>2nd: 8000/-</li>
+		</ol>
+
+		<p><b>Contact Details:</b></p>
+		<ol>
+		<li>Ankita Kumari - 7978136032 
+		<li>Bhavya Raj - 779020901 
+		<li>Natasha Michael - 8902424688 
+		<li>Shalini Jha - 9937944625
+
+
+`,
+        
+        "402": `
+        <h1>Hackathon</h1>
+		<hr>    
+		<p><b>Description</b></p>
+		<p>Hey Coders! Isn't it time you registered already? Brush up on your favorite programming language, because LUMINAIRE presents Hackathon. Whenever a layman hears the term 'coding', a nerd with glasses and immense logical skills is pictured. Show the world, that logic is just one side of the coin. Display your artistic and innovation skills and create theme based website/app under a time pressure. Are you ready for the challenge, coz we are here waiting for you.</p>
+
+		<p><b>Rules and Regulations:</b>
+		<ol>
+		<li>Team Size: maximum 2 participants 
+
+		<li>Duration: 6 hours
+
+		<li>All ideas/codes must be original and developed specifically for the event.
+
+		<li>Please get your own laptops, mobile phones and any other devices with the necessary software. While a Wi-Fi connection would be provided, no tech support for   connecting your personal devices to the same would be available. 
+
+		<li>The teams can code the challenge in any desired programming language.
+
+		<li>You are also required to get all required software and hardware components for your project.
+
+		<li>The teams will be provided with a problem statement.
+
+		<li>The teams have to make a website or an app accomplishing the the problem statement.
+
+		</ol></p>
+
+		<p><b>Judging Criteria: </b>
+
+		Judging for the winner will be on the basis of the design and functioning of the website/app.
+		</p>
+
+		<p><b>Prize Money:</b>
+		<ol>
+		<li>1st :Rs.12000/-
+		<li>2nd: 8000/-
+		</ol></p>
+		<p><b>Contact Details:</b>
+		<ul>
+		<li>Indrashis Das (7980620325)
+		<li>Adarsh Parashar (7985235594)
+		</ul></p>
+
+        `,
+        "403": `
+        	<h1>Matricity</h1>
+        	<hr>
+			<p><b>Description:</b>
+			Each puzzle is an enigma. Everyone is a puzzle not only to himself but to others also, and the great mystery of our time is how we penetrate this puzzle. Come conjure the world of puzzle and feel the adrenaline rush down your veins for a mind teasing conquest of inexplicable world.
+			</p>
+
+			<p><b>Rules and Regulations:</b>
+			<ul>
+			<li>Individual participation.
+			<li>A puzzle will be given to solve.
+			<li>There will be 2 rounds and each round will be a knockout round.
+			</ul></p>
+
+			<p><b>Judgement Criteria:</b>
+
+			Winners will be selected on the basis of their sustainability till the final round.</p>
+
+			<p><b>Prize Money:</b>
+			<ol>
+			<li>1st : 8000*/-
+			<li>2nd: 5000*/-
+			</ol></p>
+
+			<p><b>Contact Details:</b>
+
+			Bharat Sharma(8795487676)</p>
+
+
+        `,
+        "404": `
+         <h1>Minute to win it</h1>
+         <hr>
+		<p><b>Description:</b>
+		It takes an incredibly smart person to do something incredibly fast. Do have needle sharp focus and Usain Bolt speed? Do you have what it takes to complete any given task in a minute?
+		If yes, welcome champ, to a minute to win it.</p>
+
+
+		<p><b>Rules and Regulations:</b>
+		<ol>
+		<li>2-5  participants in each team.
+		 <li>Each round will have interesting task 
+		 <li>There will be around 4-5 rounds 
+		 <li>Each round will be Knockout round.</p>
+
+		<p><b>Judgement Details:</b></p>
+
+		<p><b>Prize Money:</b>
+		<ol>
+		<li>1st :Rs.12000/-
+		<li>2nd: 8000/-
+		</ol></p>
+
+		<p><b>Contact Details : </b>
+		<ul>
+		<li>Shikher Trivedi (8765855714)
+		<li>Kaushtoov Biswas (9078802955)
+		</ul>
+		</p>
+
+
+        `,
+        "405": `
+         <h1>Eagle's Hunt</h1>
+         <hr>
+
+		<p><b>Description:</b>
+		“To date, treasure-hunters have followed up clue after clue, including a dagger-marked tree, to no avail. If there is a fortune buried in Handcart Gulch, it is still safely hidden”, so do you have what it needs to do the mind boggling search for the answers. So fasten your seatbelts for this adventurous ride.
+		</p>
+
+		<p><b>Rules And Regulations:</b>
+		<ol>
+		<li>Team Participation (2-4 members)
+		<li>Each member of the team will be given a clue about where the object is hidden.
+		<li>The team members will have to find the hidden objects.
+		<li>Each round will be a knockout round.
+		<li>There will be 2 rounds in the game.
+		<li>Second round will have the same task to complete but with a mysterious object.
+		</ol></p>
+
+
+		<p><b>Judgement Criteria:</b>
+
+		Winners will be selected on the basis of minimum time taken to find all the objects</p>
+
+		<p><b>Prize Money:
+		<ul>
+		<li>1st :Rs.12000/-
+		<li>2nd: 8000/-</ul></p>
+
+		<p><b>Contact Details:</b>
+
+		</p>
+
+
+
+
+        `,
+        "406": `
+        <h1>Tech Builder</h1>
+        <hr>
+
+		<p><b>Description:</b>
+		Living at risk is jumping off the cliff and building your wings at the way down, want to feel the same and build your solution just from raw ideas? Then you are at the right place and good to go, it will need nothing other than speedy analysis of thoughts. “Be prepared”
+		</p>
+
+		<p><b>Rules and Regulations:</b>
+		<ul>
+		<li>Pair participation.
+		<li>An analytical situation will be given whose flowchart output is to be drawn on a chart paper.
+		<li>The flowchart is to be explained to the judges..
+		<li>It’ll be a knockout round.
+		<li>Top Participants will qualify for the next round where there will another set of analytical problems.
+		</ul>
+		</p>
+
+		<p><b>Judgement Criteria:</b>
+		<ol>
+		<li>Round 1: Judges will judge the outputs of the flow chart
+		<li>Round 2: Winners will be selected on the basis of the judging panel’s decision
+		</ol>
+		</p>
+
+		<p><b>Prize Money:</b>
+		<ul>
+		<li>1st :Rs.12000/-
+		<li>2nd: 8000/-
+		</ul></p>
+
+
+		<p><b>Contact Details:</b>
+		<b>Coordinator</b>
+		Ritik (9546862541)</p>
+
+        `,
+
 
 
 
@@ -768,7 +988,143 @@ Water Rocket is a mechanical event that involves the fabrication of a rocket who
 
 
         `,
-        "806": "",
-        "807": "",    
+        "806": `
+        	<h1>Mech ke Tech Stars</h1>
+        	<hr>
+
+			<p><b>Description of the event:-</b>
+			A game of patience and technical knowledge to show your true talent and your presence of mind along with evolution of multitasking ability.</p>
+
+
+			<p><b>Rules and regulations</b>
+			<ol type="A">
+			<li>  Qualifying Round: -   Participants will have to go through a Personal Interview round.</li>
+			<li>  Finals:-
+			<p>1. ROUND 1: -
+			Earn for smile- In this event, participants will be distributed in small groups where they will be given small articles and they will be asked to sell them. The highest earner is the winner; profit will be donated.</p>
+			<p>2.   ROUND 2: -
+			There will be groups of 2 members. Some free body diagrams will be projected and the groups will have to write the name of the forces which will act on the system or we will ask them about the direction of movement of the objects in the given diagrams. The group that can give maximum number of answers will win. In case of a tie, we will consider their timings.</p>
+			<p>3.   ROUND 3: -
+			Matki fod- There will be groups of 3 members. 1 member will tie the hands of any one member of other group. Then that member will release himself and will give the direction to the 3rd member, who will be blindfolded and there will be some obstacles between him/her and matki. The 2nd member will guide him to the matki. If the 3rd member touches the obstacles, there will be some time penalty. The team who can crack the matki in least possible time will be declared the winners.</p>
+			<p>4.   ROUND 4: -
+			Assemble it, we will give the finalists some dismantled parts of a machine & the one who can assemble it first will be the winner.</p>
+
+			</li>
+			</ol>
+
+			<ol>
+			<li> All participants will arrive before the start of the competition to take their places.
+			<li> Any participant involved in indisciplinary activity will be disqualified.
+			<li>Judges decision will be final and binding to all.
+			</p>
+
+			<p><b>Prize money:-</b>
+			Prize money - 13,000/-</p>
+
+
+			<p><b>Contact with phone number:</b>
+			<ul>
+			<li>Kaushik Sharma: 8723852602 (Roll no: 1502113)
+			<li>Obed Min: 8457867206 (Roll no: 1502336)
+			</ul></p>
+
+
+
+
+        `,
+        "807": `
+        	<h1>SUNDER MUSTERM/h1>
+
+		<p><b>DESCRIPTION OF THE EVENT:</b>
+		Sunder Muster tests the participant’s mental and physical balance. This event is majorly divided into four segments consisting of a quiz, fastest fingers first, disassembly and assembly of vehicle components and then, followed by a slow bicycle race.
+		</p>
+
+		<p><b>RULES AND REGULATIONS:</b>
+		The rules for the major segments are provided below:
+		<ol>
+		<li><b>Quiz:</b>
+		<ul>
+		<li>It consists of objective type questions based on the basics of automobiles.</li>
+		<li>The whole group can participate in this round. Any team scoring 60% or above of that of the top scoring team will be eligible for next round.</li>
+		<li>The question paper consists of 30 questions with a time limit of 30 minutes.</li>
+		<li>For each correct answer, 3 points will be awarded and for each incorrect answer, 1 point will be deduced.</li>
+		</ul>
+		</li>
+
+		<li><b>Fastest Fingers First: </b>
+		<ul>
+		<li>A Rubik’s cube will be provided to teams who successfully cleared the quiz.</li>
+		<li>The cube will be dismantled and provided to the team.</li>
+		<li>Only one representative is required for this round from each team.</li>
+		<li>There will be 2 attempts for each team and the best time will be considered.</li>
+		<li>Any team scoring 40% or above of that of the best recorded time among all the teams will be eligible for next round.</li>
+		</ul>
+		</li>
+
+		<li><b>Disassembly/Assembly: </b>
+		<ul>
+		<li>The teams who qualify the previous round will be provided a Juggernaut Racing vehicle.</li>
+		<li>This will be a time restrained task and the team will be awarded on the basis of their teamwork, compatibility and speed.</li>
+		<li>In this round, the team has to disassemble all the four wheel of the buggy and then assemble the same.</li>
+		<li>The time from the beginning till the end of the task will be recorded.</li>
+		</ul>
+		</li>
+
+		<li><b>Slow Bicycle Race:</b>
+		<ul>
+		<li>This is the final milestone of this event where teams will get bicycles and they have to showcase their mental and physical balance as well as patience.</li>
+		<li>Time will be recorded for this as well.</li>
+		<li>There will be penalty for each time a participant puts a leg or both the legs down, or crosses the track.</li>
+		</ul>
+		</li>
+		</ol>
+
+		<p>
+		<b> Judging Criteria:</b>
+		<table border="2" cellspacing="30" width="100%" style="color: black;">
+		    <tr>
+		        <th> Sub Events</th>
+		        <th> Criteria</th>
+		        <th>Points</th>
+		    </tr>
+		    <tr>
+		        <td>Quiz</td>
+		        <td>Basic Technicals</td>
+		        <td>(+3) for each correct attempts<br>(-1) for each incorrect attempts</td>
+		    </tr>
+		    <tr>
+		        <td>Fastest Finger First</td>
+		        <td>Speed</td>
+		        <td>10 points for the best recorded time team, 8 points for the second best and so on by deducting 2 points from the previous best team</td>
+		    </tr>
+		    <tr>
+		        <td>Disassembly/Assembly</td>
+		        <td>
+		            Team Work<br>Capability<br>Hands On
+		            </td>
+		        <td>For each segment, points will be awarded out of 5 for each team</td>
+		    </tr>
+		    <tr>
+		        <td>Slow Bicycle Race(50 Mts)</td>
+		        <td>Time<br>Penalties</td>
+		        <td>20 points for the best recorded time team, 18 points for the second best and so on by deducting 2 points from the previous best team. For each penalty, there will be a deduction of 2 points from the total score</td>
+		    </tr>
+
+		</table>
+
+		</p>
+
+
+		<p><b>Prize money:-</b>
+		20,000/-</p>
+
+		<p><b>CONTACT WITH PHONE NUMBER</b>
+		<ul>
+		<li>TRIBHUWAN KUMAR – 7978564349 (Roll no: 1502419)
+		<li>ASHISH KUMAR – 7738801494 (Roll no: 1502420)
+		</ul>
+		</p>
+
+        `,       
     }
 </script>
