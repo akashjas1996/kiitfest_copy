@@ -112,14 +112,19 @@ require 'PHPMailer/src/SMTP.php';
         $result = mysqli_query($GLOBALS['connect'], $query);
         if ($result === true ){
             $KF_ID = $id;
-            $sql="select * from participants_participants where (email='$email');";
-            $res=mysqli_query($conn,$sql);
-            if (mysqli_num_rows($res) > 0) {
-                // output data of each row
-                $row = mysqli_fetch_assoc($res);
-                echo '<script>';
-                echo 'alert("email already exists")';
-                echo '</script>';
+            $email = $_POST["email"];
+            $sql1 = "SELECT * FROM participants_participant WHERE email = '$email'";
+            $result1 = mysqli_query($GLOBALS['connect'], $sql1);
+            if(!$result1)
+            {
+                echo mysqli_error($GLOBALS['connect']);
+            }
+            if(!$row = mysqli_fetch_assoc($result1))
+            {
+               AddUser();
+            }
+            else {
+                echo '<script>alert("Already Registered")</script>';
             }
         }
         else{
@@ -127,6 +132,15 @@ require 'PHPMailer/src/SMTP.php';
         }
         if($email && $name && $gender && $phonenumber && $dob && $institution && $unique_id && $rollno)
         {
+            $sql1 = "SELECT * FROM participants_participant WHERE email = '$email'";
+            $result1 = mysqli_query($GLOBALS['connect'], $sql1);
+            if(!$result1)
+            {
+                echo mysqli_error($GLOBALS['connect']);
+            }
+            if(!$row = mysqli_fetch_assoc($result1))
+            {
+            
         $sql = "INSERT INTO participants_participant (`name`,`email`,`phone`,`dob`,`gender`,`roll_no`,`institution`,`unique_id`,`verified`,`user_id`,`kf_id`) VALUES
             ('$name','$email','$phonenumber','$dob','$gender','$rollno','$institution','$unique_id',0,'$user_id','$KF_ID')";
         $result = $GLOBALS['connect']->query ($sql);
@@ -136,6 +150,10 @@ require 'PHPMailer/src/SMTP.php';
         {
             unset ($_SESSION["valid_user"]);
             session_destroy();
+        }
+        else {
+            echo '<script>alert("Already Registered")</script>';
+        }
 // $mail->setFrom('amit@gmail.com', 'Amit Agarwal');     //Set who the message is to be sent from
 // $mail->addReplyTo('labnol@gmail.com', 'First Last');  //Set an alternative reply-to address
 // $mail->addAddress('josh@example.net', 'Josh Adams');  // Add a recipient
@@ -216,13 +234,13 @@ require 'PHPMailer/src/SMTP.php';
      function SignUp() {
         // $user = $_POST["username"];
         $email = $_POST["email"];
-        $sql = "SELECT * FROM auth_user WHERE email = '$email'";
-        $result = mysqli_query($GLOBALS['connect'], $sql);
-        if(!$result)
+        $sql1 = "SELECT * FROM participants_participant WHERE email = '$email'";
+        $result1 = mysqli_query($GLOBALS['connect'], $sql1);
+        if(!$result1)
         {
             echo mysqli_error($GLOBALS['connect']);
         }
-        if(!$row = mysqli_fetch_assoc($result))
+        if(!$row = mysqli_fetch_assoc($result1))
         {
            AddUser();
         }
