@@ -55,7 +55,7 @@
         $mail->SMTPSecure = 'tls';                            // Enable encryption, 'ssl' also accepted
         $mail->Port = 587;
         //$mail->AuthType = 'LOGIN';                               //Set the SMTP port number - 587 for authenticated
-        $mail->setFrom('no-reply@kiitfest.org', 'Reset Password | KIITFEST 5.0');
+        $mail->setFrom('reset-pass@kiitfest.org', 'Reset Password | KIITFEST 5.0');
         $mail->addAddress($email);     // Add a recipient
                        // Name is optional
         $mail->Subject = 'Reset your Password';

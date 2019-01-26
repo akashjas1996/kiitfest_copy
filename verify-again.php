@@ -35,6 +35,7 @@
 
     function sendMail($email,$url,$KF_ID){
         //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
+        if($url && $KF_ID){
         $mail = new PHPMailer;
         $mail->isSMTP();     
         //$mail->SMTPDebug = 1;                                 // Set mailer to use SMTP
@@ -45,7 +46,7 @@
         $mail->SMTPSecure = 'tls';                            // Enable encryption, 'ssl' also accepted
         $mail->Port = 587;
         //$mail->AuthType = 'LOGIN';                               //Set the SMTP port number - 587 for authenticated
-        $mail->setFrom('no-reply@kiitfest.org', 'Verify Email | KIITFEST 5.0');
+        $mail->setFrom('email-verify@kiitfest.org', 'Verify Email | KIITFEST 5.0');
         $mail->addAddress($email);     // Add a recipient
                        // Name is optional
         $mail->Subject = 'Verify your Email';
@@ -72,6 +73,12 @@
                echo '</script>';
 
             }
+        }
+        else{
+            echo '<script>';
+            echo 'setTimeout(function(){swal("Erorr!", "Opps! Something went wrong, "error")},150)';
+            echo '</script>';
+        }
 
     }
 
