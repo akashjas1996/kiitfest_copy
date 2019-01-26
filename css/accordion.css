@@ -1,13 +1,14 @@
+/* Global Stuff */
+
 * { box-sizing: border-box; }
-body {
-    height: 100vh;
-    overflow: hidden;
- }
+body {height: 100vh;overflow: hidden;}
  .deptContainer::-webkit-scrollbar { display: none; }
 .eventDetailsContainer::-webkit-scrollbar { display: none; }
 p { font-family: Montserrat; }
 *:focus {outline:none}
 
+
+/* Containers */
 .container {
     width: 70%;
     height: 100%;
@@ -29,13 +30,6 @@ p { font-family: Montserrat; }
     
 }
 
-.eventContainer {
-    width:100%;
-    height: 0px;
-    overflow-y: scroll;
-    transition: all 0.3s;
-}
-
 .eventDetailsContainer {
     height: 80%;
     width: calc(100% - 300px);
@@ -54,6 +48,8 @@ p { font-family: Montserrat; }
     justify-content: space-evenly;
 
 }
+
+/* Individual Elements */
 
 .department {
     padding: 10px;
@@ -102,13 +98,13 @@ p { font-family: Montserrat; }
     width: 100%;
     padding: 10px;
     margin: 0px;
+    cursor: pointer;
     transition: all 0.2s;
 }
 
 .eventNames > div > span {
     font-size: 30px;
     font-family: Bebas Neue;
-    cursor: pointer;
     transition: all 0.2s;
     color: black;
     padding-left: 20px;
@@ -149,6 +145,87 @@ p { font-family: Montserrat; }
 
 .eventContent > p {
     line-height: 1.5;
+}
+
+/* Modal */
+.modal {
+    display: hidden;
+}
+
+@media (max-width: 768px) {
+    .container {
+        width: 100%;
+    }
+    
+    .deptContainer {
+        position: relative;
+        width: 100%;
+        overflow-y: scroll;
+        border-radius: 0px;  
+    }
+    
+    .eventDetailsContainer {
+        display: none;
+    }
+
+    .department {
+        text-align: center;
+    }
+    
+    .eventNames {
+        transform: translateX(100%);
+    }
+
+    .modal {
+        position: fixed;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.9);
+        opacity: 0;
+        visibility: hidden;
+        transition: visibility 0s linear 0.25s, opacity 0.25s 0s;
+    }
+    .modalContent {
+        position: absolute;
+        top: 5%;
+        left: 5%;
+        width: 90%;
+        height: 90%;
+        overflow-y: scroll;
+    }
+
+    .show-modal {
+        opacity: 1;
+        visibility: visible;
+        transform: scale(1.0);
+        transition: visibility 0s linear 0s, opacity 0.25s 0s;
+    }
+
+    /* Event Content */
+    .eventContent > h1 {
+        font-size: 3em;
+        letter-spacing: 3px;
+    }
+
+    .eventContent > ul || ol {
+        margin: 20px;
+    }
+
+    .eventContent > * > li {
+        margin: 10px;
+        font-family: Montserrat;
+    }
+
+    .eventContent > p {
+        line-height: 1.5;
+    }
+
+    .closeButton {
+        cursor: pointer;
+    }
+
 }
 
 

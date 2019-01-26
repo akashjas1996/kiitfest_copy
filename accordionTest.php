@@ -29,7 +29,7 @@ echo '<script> var isLogin = '. $isLogin. ';</script>'
     <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/jquery.transit.min.js"></script>
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-    <?php include "events/eventDetails.php"; ?>
+    <?php include "events/techEventDetails.php"; ?>
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-66101749-2"></script>
 
@@ -71,7 +71,7 @@ echo '<script> var isLogin = '. $isLogin. ';</script>'
 
     <div class="container">
       <div class="deptContainer">
-        
+
         <div class="deptNames">
           <p class="department" id="106"><span>Electrifyn</span></p>
           <p class="department" id="207"><span>Kinesis</span></p>
@@ -93,6 +93,13 @@ echo '<script> var isLogin = '. $isLogin. ';</script>'
         <div class="eventContent"></div>
           <!-- Event detailsfor each event get rendered here by js -->
       </div>
+
+    </div>
+
+    <!-- Modal for mobile view -->
+    <div class="modal">
+        <div class="eventContent modalContent"> 
+        </div>
     </div>
 
     <script src="js/common.js"></script>

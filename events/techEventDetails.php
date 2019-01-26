@@ -6,7 +6,7 @@
         "104": "Robot Triathon",
         "105": "S.U.I.T",
         "106": "Solar Spectrum",
-
+ 
         "201": "Cell-Lock Holmes",
         "202": "Chitra-a-ghar",
         "203": "Hackathon 5.0",
@@ -503,11 +503,6 @@
                 <li>Tahir Jamal (91-9674464995)</li>
                 <li>Raziur Rahman (+91-8240735593)</li>
             </ul>
-            <?php
-                if($sql->isLogin() == 1) {
-                    echo '<button onClick=addToCart(508) class="event-button center"> Participate !</button>';
-                }
-            ?>
         `,
 
 
