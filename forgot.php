@@ -48,19 +48,20 @@
         $mail = new PHPMailer;
         $mail->isSMTP();     
         //$mail->SMTPDebug = 1;                                 // Set mailer to use SMTP
-        $mail->Host = 'smtp.zoho.com';                       // Specify main and backup server
+        $mail->Host = 'smtp.sendgrid.net';                       // Specify main and backup server
         $mail->SMTPAuth = true;                               // Enable SMTP authentication
-        $mail->Username = 'info@kiitfest.org';                   // SMTP username
-        $mail->Password = '57t0n$lJ86%6';               // SMTP password
-        $mail->SMTPSecure = 'ssl';                            // Enable encryption, 'ssl' also accepted
-        $mail->Port = 465;
+        $mail->Username = 'akshat_kiitfest';                   // SMTP username
+        $mail->Password = 'a9udFHaRNrNF488';               // SMTP password
+        $mail->SMTPSecure = 'tls';                            // Enable encryption, 'ssl' also accepted
+        $mail->Port = 587;
         //$mail->AuthType = 'LOGIN';                               //Set the SMTP port number - 587 for authenticated
-        $mail->setFrom('info@kiitfest.org', 'KIITFEST 5.0');
+        $mail->setFrom('no-reply@kiitfest.org', 'Reset Password | KIITFEST 5.0');
         $mail->addAddress($email);     // Add a recipient
                        // Name is optional
         $mail->Subject = 'Reset your Password';
         $mail->Body    = "Greetings from KIITFEST!!
-        <br>We recieved a request to reset your password. If you did not make this request feel free to ignore this email. <br> Otherwise you can reset your password using this link: <br>" . $url; 
+        <br>We recieved a request to reset your password. If you did not make this request feel free to ignore this email. <br> Otherwise you can reset your password using this link: <br>" . $url .
+        '<br><br><br><small><b>**Note: </b> This is a server generated mail. Do not reply to this email.<br> For any queries contact us at <a href="mailto=\'kiit.fest@kiit.ac.in\'">kiit.fest@kiit.ac.in</a>';; 
         
         $mail->AltBody = 'Reset Link : ' . $url;
             // $mail->subject = "My subject";
