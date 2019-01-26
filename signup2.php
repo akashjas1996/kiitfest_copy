@@ -112,6 +112,15 @@ require 'PHPMailer/src/SMTP.php';
         $result = mysqli_query($GLOBALS['connect'], $query);
         if ($result === true ){
             $KF_ID = $id;
+            $sql="select * from participants_participants where (email='$email');";
+            $res=mysqli_query($conn,$sql);
+            if (mysqli_num_rows($res) > 0) {
+                // output data of each row
+                $row = mysqli_fetch_assoc($res);
+                echo '<script>';
+                echo 'alert("email already exists")';
+                echo '</script>';
+            }
         }
         else{
             $KF_ID="KF".rand(1,99999);
