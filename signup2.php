@@ -215,19 +215,20 @@ require 'PHPMailer/src/SMTP.php';
     }
      function SignUp() {
         // $user = $_POST["username"];
-        // $sql = "SELECT * FROM auth_user WHERE username = '$user'";
-        // $result = mysqli_query($GLOBALS['connect'], $sql);
-        // if(!$result)
-        // {
-        //     echo mysqli_error($GLOBALS['connect']);
-        // }
-        // if(!$row = mysqli_fetch_assoc($result))
-        // {
+        $email = $_POST["email"];
+        $sql = "SELECT * FROM auth_user WHERE email = '$email'";
+        $result = mysqli_query($GLOBALS['connect'], $sql);
+        if(!$result)
+        {
+            echo mysqli_error($GLOBALS['connect']);
+        }
+        if(!$row = mysqli_fetch_assoc($result))
+        {
            AddUser();
-        // }
-        // else {
-        //     echo '<script>alert("Already Registered")</script>';
-        // }
+        }
+        else {
+            echo '<script>alert("Already Registered")</script>';
+        }
     }
      if(isset($_POST["submit"])) {
        SignUp();
