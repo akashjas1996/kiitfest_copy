@@ -7,8 +7,8 @@ include 'src/instamojo.php';
 
 $kfid = $sql->getKFID();
                     
-$sql = "SELECT * FROM participants_participant_events,events WHERE participants_participant_events.participant_id = '$kfid' and participants_participant_events.event_id = events.id";
-$result = mysqli_query($GLOBALS['connect'],$sql);
+$sql1 = "SELECT * FROM participants_participant_events,events WHERE participants_participant_events.participant_id = '$kfid' and participants_participant_events.event_id = events.id";
+$result = mysqli_query($GLOBALS['connect'],$sql1);
 if($result)
 {
     $c = mysqli_num_rows($result);

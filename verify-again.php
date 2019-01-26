@@ -33,17 +33,7 @@
 
 
 
-    function generateRandomString($length = 30) {
-        $characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
-        $charactersLength = strlen($characters);
-        $randomString = '';
-        for ($i = 0; $i < $length; $i++) {
-            $randomString .= $characters[rand(0, $charactersLength - 1)];
-        }
-        return $randomString;
-    }
-
-    function sendMail($url,$email){
+    function sendMail($email,$url,$KF_ID){
         //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
         $mail = new PHPMailer;
         $mail->isSMTP();     
@@ -55,15 +45,16 @@
         $mail->SMTPSecure = 'tls';                            // Enable encryption, 'ssl' also accepted
         $mail->Port = 587;
         //$mail->AuthType = 'LOGIN';                               //Set the SMTP port number - 587 for authenticated
-        $mail->setFrom('no-reply@kiitfest.org', 'Reset Password | KIITFEST 5.0');
+        $mail->setFrom('no-reply@kiitfest.org', 'Verify Email | KIITFEST 5.0');
         $mail->addAddress($email);     // Add a recipient
                        // Name is optional
-        $mail->Subject = 'Reset your Password';
-        $mail->Body    = "Greetings from KIITFEST!!
-        <br>We recieved a request to reset your password. If you did not make this request feel free to ignore this email. <br> Otherwise you can reset your password using this link: <br>" . $url .
-        '<br><br><br><small><b>**Note: </b> This is a server generated mail. Do not reply to this email.<br> For any queries contact us at <a href="mailto=\'kiit.fest@kiit.ac.in\'">kiit.fest@kiit.ac.in</a>';; 
-        
-        $mail->AltBody = 'Reset Link : ' . $url;
+        $mail->Subject = 'Verify your Email';
+        $mail->Body    = 'Greetings from KIITFEST!!
+           <br>You have successfully registered for KIITFEST 5.0 and now, you are a part of our very own legacy of over 4 years of jubilant celebration of arts, music, creativity. We hope to see your Undying Spirit relive the Chronicles of True Participation, Immense Zest and Pure Valediction. These are your credentials:<br> KF ID: '.$KF_ID.' <br> EMAIL: '.$email.'
+           
+           <br>The next step to be a true part of KIITFEST 5.0 and for our verification VERIFICATION LINK:'.$url .
+           '<br><br><br><small><b>**Note: </b> This is a server generated mail. Do not reply to this email.<br> For any queries contact us at <a href="mailto=\'kiit.fest@kiit.ac.in\'">kiit.fest@kiit.ac.in</a>';
+                       $mail->AltBody = $url . $KF_ID;
             // $mail->subject = "My subject";
             // $mail->txt = "Hello world!";
             // $mail->headers = "From: webmaster@example.com" . "\r\n" .
@@ -81,12 +72,7 @@
                echo '</script>';
 
             }
-            //   echo '<script>';
-            // echo 'setTimeout(function(){window.location.href = "https://kiitfest.org/index.html";},900)';
-            //   echo '</script>';
-            // echo '<script>';
-            // echo 'setTimeout(function(){window.location.href = "index.php";},700)';
-            // echo '</script>';
+
     }
 
     if($boolen)
@@ -94,64 +80,40 @@
         
      function checkUser($email) {
         if(isset($_POST["email"])){
-            $query = "select * from participants_participant where email='$email'";
+            $query = "select * from participants_participant where email='$email' limit 1";
             $res = mysqli_query($GLOBALS['connect'],$query);
+            
             if(!$res){
                 echo '<script>';
                 echo 'setTimeout(function(){swal("Erorr!", "User was not found", "error")},150)';
                 echo '</script>';
-            }
-
-            else{
-                $token = generateRandomString();
-                $query = "update participants_participant set resetPassToken='$token' where email='$email'";
-                mysqli_query($GLOBALS['connect'],$query);
+            } else {
+                $row = $res->fetch_assoc();
+                //$token = generateRandomString();
+                if($row['verified'] == 0){
+                // $query = "update participants_participant set resetPassToken='$token' where email='$email'";
+                // mysqli_query($GLOBALS['connect'],$query);
                 $actual_link = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]";
-                $url = $actual_link . "/verify-pass-token.php?token=" . $token;
+                $url = $actual_link . "/verify.php?id=" . $row["unique_id"];
                 //echo $url;
-                sendMail($url,$email);
+                sendMail($email,$url,$row["kf_id"]);
                 //sendMail($email,$url);
+                }
+                else{
+                    echo '<script>';
+                    echo 'setTimeout(function(){swal("Erorr!", "Looks like you have done that already.", "error")},150)';
+                    echo '</script>'; 
+                }
             }
 
         }
 
     }
 
-     /*function SignUp() {
-        // echo '<script>console.log("in signup");</script>';
-        $user = $_POST["username"];
-        $sql = "SELECT * FROM auth_user WHERE username = '$user'";
-        $result = mysqli_query($GLOBALS['connect'], $sql);
-        //         $sql = "SELECT * FROM auth_user WHERE username = 'techieCool'";
-        // $result = mysqli_query($GLOBALS['connect'], $sql);
 
-        // if (mysqli_num_rows($result) > 0) {
-        //    $row = mysqli_fetch_assoc($result);
-        //       echo "Name: " . $row["username"]. "<br>";
-        // } else {
-        //    echo "0 results";
-        // }
-        if(!$result)
-        {   
-            // echo '<script>console.log("in error result");</script>';
-            echo mysqli_error($GLOBALS['connect']);
-        }
-        if(!$row = mysqli_fetch_assoc($result))
-        {
-            AddUser();
-
-        }
-        else {
-            echo '<script>alert("Already Registered")</script>';
-
-        }
-    }*/
      if(isset($_POST["submit"])) {
        checkUser($email);
        unset($_POST);
-    //    echo '<script>console.log("in submit");</script>';
-       // header(location:$_SERVER["PHP_SELF"]);
-       //header('Location: '.$_SERVER["PHP_SELF"]);
        mysqli_close($GLOBALS['connect']);
        $boolen = false;
     }
@@ -193,7 +155,7 @@
 <img src="kf.png" height="150px" style="padding-bottom: 10px"><br>
 <font style="font-family: 'Open Sans', sans-serif;font-size: 22px;color: #292929;">KIIT FEST 5.0</font><br><br>
 <font style="font-family: 'Open Sans', sans-serif;font-size: 12px;color: #a09f9f;">
-  Welcome to KIITFEST 5.0 Password Reset
+  Welcome to KIITFEST 5.0 Resend Verfication Email
 </font>
 </center>
  </div>
@@ -202,8 +164,8 @@
     <form enctype="multipart/form-data" method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
         <div class="form-group" style="margin-top: 20vh;">
             <label for="exampleInputEmail1">Email</label>
-                <input type="email" class="form-control" name="email" aria-describedby="emailHelp" placeholder="Enter email">
-                <small id="emailHelp" class="form-text text-muted">Don't worry we will reset your password within no time!</small>
+                <input type="email" class="form-control" name="email" aria-describedby="emailHelp" placeholder="Enter email" required>
+                <small id="emailHelp" class="form-text text-muted">Please enter your registered email-id</small>
                 <div style="color:red;"><?php echo $usererror?></div>
                
         </div>

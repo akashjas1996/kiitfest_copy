@@ -155,21 +155,22 @@ require 'PHPMailer/src/SMTP.php';
                 $mail = new PHPMailer;
                 $mail->isSMTP();  
                 //$mail->SMTPDebug = 1;                                      // Set mailer to use SMTP
-                $mail->Host = 'smtp.zoho.com';                       // Specify main and backup server
+                $mail->Host = 'smtp.sendgrid.net';                       // Specify main and backup server
                 $mail->SMTPAuth = true;                               // Enable SMTP authentication
-                $mail->Username = 'info@kiitfest.org';                   // SMTP username
-                $mail->Password = '57t0n$lJ86%6';               // SMTP password
-                $mail->SMTPSecure = 'ssl';                            // Enable encryption, 'ssl' also accepted
-                $mail->Port = 465;
-                $mail->AuthType = 'LOGIN';                               //Set the SMTP port number - 587 for authenticated
-                $mail->setFrom('info@kiitfest.org', 'KIITFEST 5.0');
+                $mail->Username = 'akshat_kiitfest';                   // SMTP username
+                $mail->Password = 'a9udFHaRNrNF488';               // SMTP password
+                $mail->SMTPSecure = 'tls';                            // Enable encryption, 'ssl' also accepted
+                $mail->Port = 587;
+                //$mail->AuthType = 'LOGIN';                               //Set the SMTP port number - 587 for authenticated
+                $mail->setFrom('no-reply@kiitfest.org', 'Verify Email | KIITFEST 5.0');
                 $mail->addAddress($email);     // Add a recipient
                                // Name is optional
                 $mail->Subject = 'Verify your Email';
                 $mail->Body    = 'Greetings from KIITFEST!!
-    <br>You have successfully registered for KIITFEST 5.0 and now, you are a part of our very own legacy of over 4 years of jubilant celebration of arts, music, creativity. We hope to see your Undying Spirit relive the Chronicles of True Participation, Immense Zest and Pure Valediction. These are your credentials: KF ID: '.$KF_ID.' EMAIL: '.$email.'
+    <br>You have successfully registered for KIITFEST 5.0 and now, you are a part of our very own legacy of over 4 years of jubilant celebration of arts, music, creativity. We hope to see your Undying Spirit relive the Chronicles of True Participation, Immense Zest and Pure Valediction. These are your credentials:<br> KF ID: '.$KF_ID.' <br> EMAIL: '.$email.'
     
-    <br>The next step to be a true part of KIITFEST 5.0 and for our verification VERIFICATION LINK:'.$verifyLink . '<br><b> Your KFID : ' .$KF_ID;
+    <br>The next step to be a true part of KIITFEST 5.0 and for our verification VERIFICATION LINK:'.$verifyLink .
+    '<br><br><br><small><b>**Note: </b> This is a server generated mail. Do not reply to this email.<br> For any queries contact us at <a href="mailto=\'kiit.fest@kiit.ac.in\'">kiit.fest@kiit.ac.in</a>';
                 $mail->AltBody = $verifyLink . $KF_ID;
                     // $mail->subject = "My subject";
                     // $mail->txt = "Hello world!";
