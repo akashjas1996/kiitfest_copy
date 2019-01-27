@@ -175,7 +175,7 @@ $sql = new sql();
                     if($result)
                     {
                         $c = mysqli_num_rows($result);
-                        if($c==1){
+                        if($c<=1){
                           
                           echo '<script>';
                           echo 'setTimeout(async function(){await swal("Sorry! You can\'t checkout now", "Please select minimum two events before checking out", "warning")},50)';
