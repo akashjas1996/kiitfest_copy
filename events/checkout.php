@@ -180,6 +180,7 @@ $sql = new sql();
                           echo '<script>';
                           echo 'setTimeout(async function(){await swal("Sorry! You can\'t checkout now", "Please select minimum two events before checking out", "warning")},50)';
                           echo '</script>';
+                          exit();
                           echo '<script>';
                           echo 'setTimeout(function(){window.location.href = "../index.php";},700)';
                           echo '</script>';
