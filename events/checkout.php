@@ -175,12 +175,11 @@ $sql = new sql();
                     if($result)
                     {
                         $c = mysqli_num_rows($result);
-                        if($c==0){
+                        if($c==1){
                           
                           echo '<script>';
-                          echo 'setTimeout(async function(){await swal("Sorry! You can\'t checkout now", "Please select an event before checking out", "warning")},50)';
+                          echo 'setTimeout(async function(){await swal("Sorry! You can\'t checkout now", "Please select minimum two events before checking out", "warning")},50)';
                           echo '</script>';
-                          exit();
                           echo '<script>';
                           echo 'setTimeout(function(){window.location.href = "../index.php";},700)';
                           echo '</script>';
@@ -284,7 +283,7 @@ $sql = new sql();
             
           //swal("Congratulations!", "Sucessfuly Removed", "success");
           swal("Congratulations!", "Sucessfuly Removed", "success");
-          setTimeout("window.location = 'checkout.php'",700);
+          setTimeout("window.location = 'checkout.php'");
 
         },
         error: function(jqXHR, textStatus, errorThrown) {

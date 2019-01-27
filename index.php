@@ -23,6 +23,7 @@ $sql = new sql();
   <link rel="stylesheet" href="css/common.css" />
   <link rel="stylesheet" href="css/index.css" />
   <link rel="stylesheet" href="css/fontawesome-all.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 
   <!--Local js-->
   <script src="js/TimelineLite.min.js"></script>
@@ -56,8 +57,8 @@ $sql = new sql();
               echo '<li><a href="events/checkout.php">Checkout  <i class="fas fa-shopping-cart"></i></a></li>';
               echo '<li><a href="logout.php">Logout   <i class="fas fa-sign-out-alt"></i></a></li>';
           } else {
-              echo '<li><a class="button" href="signup.php">Register</a></li>';
-              echo '<li><a class="button" href="login.php">Log In</a></li>';
+              echo '<li><a class="button" href="signup.php">Register  <i class="fas fa-user-plus"></i></a></li>';
+              echo '<li><a class="button" href="login.php">Log In   <i class="fas fa-sign-in-alt"></i></a></li>';
           }
       ?>
     </ul>

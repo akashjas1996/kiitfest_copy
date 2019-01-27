@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
-
+    
     <title>Thank You | KIIT Fest 5.0</title>
 
 <!-- Latest compiled and minified CSS -->
@@ -19,6 +19,8 @@
 
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
   </head>
 
   <body>
@@ -43,7 +45,7 @@ $api = new Instamojo\Instamojo('b99d20533b706864312305eb142c6ea8', '887515a0f019
 
 $payid = $_GET["payment_request_id"];
 
-
+if($payid){
 try {
     $response = $api->paymentRequestStatus($payid);
 
@@ -89,7 +91,9 @@ try {
   }
   else{
      // Payment was unsuccessful, mark it as failed in your database
-     echo "not paid";
+     echo '<script>';
+     echo 'setTimeout(async function(){await swal("Error!", "Payment was not successfull, contatc us at kiit.fest@kiit.ac.in", "error")},50)';
+     echo '</script>';
   }
 
 //   echo "<pre>";
@@ -104,7 +108,12 @@ catch (Exception $e) {
     print('Error: ' . $e->getMessage());
 }
 
+} else {
 
+  echo '<script>';
+  echo 'window.location.href = "../index.php";';
+  echo '</script>';
+}
 
   ?>
 
