@@ -128,22 +128,23 @@
 
 		<p><b>Judgement Criteria:</b>
 		<ol>
-		<li>
-		Round 1: Will be a knockout round and people who’ll complete the task in minimum time will be selected.</li>
-		<li>Round 2: Winners will be selected on minimum time taken to order the code according to the output.</li>
+            <li>Round 1: Will be a knockout round and people who’ll complete the task in minimum time will be selected.</li>
+            <li>Round 2: Winners will be selected on minimum time taken to order the code according to the output.</li>
 		</ol>
 
 		<p><b>Prize Money:</b></p>
-		<ol><li>1st :Rs.12000/-</li>
-		<li>2nd: 8000/-</li>
+        <ol>
+            <li>1st :Rs.12000/-</li>
+            <li>2nd: 8000/-</li>
 		</ol>
 
 		<p><b>Contact Details:</b></p>
 		<ol>
-		<li>Ankita Kumari - 7978136032 
-		<li>Bhavya Raj - 779020901 
-		<li>Natasha Michael - 8902424688 
-		<li>Shalini Jha - 9937944625
+            <li>Ankita Kumari - 7978136032 
+            <li>Bhavya Raj - 779020901 
+            <li>Natasha Michael - 8902424688 
+            <li>Shalini Jha - 9937944625
+        </ol>
 
 
 `,
