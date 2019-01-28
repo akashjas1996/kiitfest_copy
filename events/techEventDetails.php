@@ -1222,7 +1222,56 @@ Rs-20,000 </b>
 <p> A. Kajol (9090561913) </p>
 <p> B. Prakhar(+91-7766932637) </p>
         `,
-        "702": "Innovation Challenge",
+        "702": `
+    <h1> Innovation Challenge </h1>
+ <p> Vidnan (School of Electronics Engineering) under the banner of KIIT FEST is committed towards a competitive and transparent ecosystem for the innovative minds and thinkers across the nation. Innovation challenge participants are encouraged to put on their young minds and provide suitable solutions for the existing problem across six themes. All the teams will be evaluated on two phases depending upon their proposed solution. </p>
+ <ul>
+<li>Water, Waste and Energy Management </li>
+<li>Health Care and Education </li>
+<li>Urban Mobility, Public Transport and Citizen Safety </li>
+<li>Agriculture, Climate Change and Disaster Management</li>
+ <li>Security (Banking, Insurance and different data transfer platforms) </li>
+<li>Tourism</li>
+</ul>
+
+<p> <b> Ideation: </b> </p>
+ <p> <b> Phase 1: </b> </p>
+ <p> The ideal participating team would be a solution provider. The team would be expected to provide and develop an idea which would solve the real-life problem related to the six themes. </p>
+<p> <b> Phase 2: </b> </p>
+ <p> Coders, developers and designers will have a prodigious platform to use their out-of-the-box idea on these six themes using Embedded Systems, Artificial Intelligence, Machine Learning, IoT, AR/VR, Blockchain, Data Analytics or whatever they want to use. The team would be expected to come up with an innovative idea of the problem. After that, they have to design the solution in a 20-hr hackathon which will be held during the 3 days of KIIT FEST. </p>
+<p> <b> Rules and Regulations: </b> </p>
+ <p> Following are the rules and guidelines for innovation challenge which need to be followed by every participant. </p>
+ <ul>
+<li> Participants should take full responsibility for their own work and ensure to work as a team.</li>
+ <li> No participant shall engage in any malicious/illegal activities which do not adhere to the general code of conduct for developers. Participants will be immediately disqualified if they found indulging in malpractice.</li>
+ <li> Participant shall ensure adequate testing, debugging and review of software and related documents before submission. </li>
+<li> Participants shall not knowingly use software that is obtained or retained either illegally or unethically includes using TeamViewer or similar software. Participants will be disqualified if they are found using it. </li>
+<li> In case of any emergency or medical assistance, please reach out to the Organizers.</li>
+</ul>
+<p> <b>
+Team Guidelines:  </b> </p>
+ <p> A good team would have the right mix of business and technology thinkers. Since the innovation challenge is a team event, the team is expected to develop the working prototype of its proposed solution. We intend to provide the necessary support to the team. A good team would be self-sufficient to create the prototype. </p>
+<p> <b>  Judging Criteria: </b> </p> 
+<p> The teams would be judged on the basis of the following parameters: </p>
+<ul>
+<li> Out of the box thinking (Already existing vs new solution). </li>
+<li> Completeness of the solution (Idea, Development, Prototype, Deployment)</li>
+<li> The practicality of the proposed solution</li>
+ <li> Cost-effectiveness of the solution.</li>
+ <li> Ease of scalability</li>
+ <li> Sustainability of the solution</li> 
+<li> Quickness in the completion of development of the solution (during the hackathon) would be appreciated- the complexity of the prototype of the solution should be minimal </li>
+<li> How your product stands out among the existing products (How your product is better than its existing counterpart)</li>
+</ul>
+
+<p> <b> Prize Money:</b> </p>
+<p> Rs: 1,20,000/- </p>
+
+<p> <b> Contact Details: </b> </p>
+<p> Shreya: 8839912039 </p> 
+<p> Akshat: 897021147 </p>
+
+`,
         "703": "The Salvage Yard",
         "704": `
    <h1>SEGUIDOR</h1>

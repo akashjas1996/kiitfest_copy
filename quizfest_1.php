@@ -56,7 +56,7 @@ echo '<script> var isLogin = '. $isLogin. ';</script>'
         </li>
         <li><a class="nav-button" href="index.php">Home</a></li>
         <li><a class="nav-button" href="technical.php">Technical</a></li>
-        <li><a class="nav-button" href="quizfest.php">QuizFest</a></li>
+        <li><a class="nav-button" href="cultural.php">Cultural</a></li>
         <?php
             if($sql->isLogin()==1) {
                 echo '<li><a href="events/checkout.php">Checkout  <i class="fas fa-shopping-cart"></i></a></li>';
