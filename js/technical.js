@@ -11,7 +11,7 @@ departments.forEach( department =>
         innerHTML = eventNamesHTML(department);
         eventNamesSelector.html(innerHTML);
 
-        deptNames.transition({x: -300, opacity: 0}, 300, 'ease');
+        deptNames.transition({x: "-100%", opacity: 0}, 300, 'ease');
         eventNamesSelector.transition({x: 0, opacity: 1, delay: 125}, 300, 'ease');
 
         events = $('.eventNames > div');
@@ -36,7 +36,7 @@ departments.forEach( department =>
 
         back = $('.backButton');
         back.click(() => {
-            eventNamesSelector.transition({x: 300, opacity: 0}, 300, 'ease');
+            eventNamesSelector.transition({x: "100%", opacity: 0}, 300, 'ease');
             deptNames.transition({x: 0, opacity: 1, delay: 125}, 300, 'ease')
         });
     })
@@ -56,7 +56,6 @@ window.addEventListener("click", windowOnClick);
 
 
 function addToCart(id) {
-    console.log(id);
     var xhr = new XMLHttpRequest();
     xhr.onreadystatechange = function() {
         if(this.readyState == 4 && this.status == 200) {

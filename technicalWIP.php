@@ -20,7 +20,7 @@ echo '<script> var isLogin = '. $isLogin. ';</script>'
 
     <!--Local css-->
     <link rel="stylesheet" href="css/common.css" />
-    <link rel="stylesheet" href="css/accordion.css" />
+    <link rel="stylesheet" href="css/technical.css" />
     <link rel="stylesheet" href="css/fontawesome-all.min.css" />
 
     <!--Local js-->
@@ -53,10 +53,9 @@ echo '<script> var isLogin = '. $isLogin. ';</script>'
             <line class="line l3" x1="15" y1="63" x2="85" y2="63" />
           </svg>
         </li>
-        <li><a class="nav-button" href="#home">Home</a></li>
-        <li><a class="nav-button" href="#about">About</a></li>
-        <li><a class="nav-button" href="#events">Events</a></li>
-        <li><a class="nav-button" href="#contactUs">Contact Us</a></li>
+        <li><a class="nav-button" href="index.php">Home</a></li>
+        <li><a class="nav-button" href="cultural.php">Cultural</a></li>
+        <li><a class="nav-button" href="quizfest.php">QuizFest</a></li>
         <?php
             if($sql->isLogin()==1) {
                 echo '<li><a href="events/checkout.php">Checkout  <i class="fas fa-shopping-cart"></i></a></li>';
@@ -103,6 +102,6 @@ echo '<script> var isLogin = '. $isLogin. ';</script>'
     </div>
 
     <script src="js/common.js"></script>
-    <script src="js/accordiontest.js"></script>
+    <script src="js/technical.js"></script>
   </body>
 </html>
