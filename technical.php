@@ -90,6 +90,7 @@ echo '<script> var isLogin = '. $isLogin. ';</script>'
 
       <div class="eventDetailsContainer">
         <div class="eventContent"></div>
+        <p style="color:white"> Choose even to see details. </p>
           <!-- Event detailsfor each event get rendered here by js -->
       </div>
 
