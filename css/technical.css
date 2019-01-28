@@ -8,6 +8,11 @@ p { font-family: Montserrat; }
 *:focus {outline:none}
 
 
+/* Header Hotfix */
+.navContainer > li {
+    padding-top: 5px;
+}
+
 /* Containers */
 .container {
     width: 70%;
@@ -138,9 +143,11 @@ p { font-family: Montserrat; }
     margin: 20px;
 }
 
-.eventContent > * > li {
+.eventContent li {
     margin: 10px;
     font-family: Montserrat;
+    line-height: 1.2em;
+    padding-left: 10px;
 }
 
 .eventContent > p {

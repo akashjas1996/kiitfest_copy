@@ -1,0 +1,26 @@
+
+.eventNames {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    transform: translateX(0px);
+    opacity: 1;
+    display: block;
+    overflow-y: scroll;
+
+}
+
+.eventNames > div {
+    padding: 20px 10px;
+}
+
+.about { background-position: 50% 75%; }
+
+@media (max-width: 768px) {   
+    .eventNames {
+        transform: translateX(0px);
+    }
+}
+
+
+

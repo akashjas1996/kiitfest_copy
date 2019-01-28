@@ -20,7 +20,8 @@ echo '<script> var isLogin = '. $isLogin. ';</script>'
 
     <!--Local css-->
     <link rel="stylesheet" href="css/common.css" />
-    <link rel="stylesheet" href="css/accordion.css" />
+    <link rel="stylesheet" href="css/technical.css" />
+    <link rel="stylesheet" href="css/cultural.css" />
     <link rel="stylesheet" href="css/fontawesome-all.min.css" />
 
     <!--Local js-->
@@ -29,7 +30,7 @@ echo '<script> var isLogin = '. $isLogin. ';</script>'
     <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/jquery.transit.min.js"></script>
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-    <?php include "events/techEventDetails.php"; ?>
+    <?php include "events/quizfestEventDetails.php"; ?>
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-66101749-2"></script>
 
@@ -40,7 +41,7 @@ echo '<script> var isLogin = '. $isLogin. ';</script>'
 
     <div class="background ">
       <div class="sliding-bg"></div>
-      <div id="blackTint" class="overlay home"></div>
+      <div id="blackTint" class="overlay about"></div>
     </div>
 
     <!--Header-->
@@ -53,10 +54,9 @@ echo '<script> var isLogin = '. $isLogin. ';</script>'
             <line class="line l3" x1="15" y1="63" x2="85" y2="63" />
           </svg>
         </li>
-        <li><a class="nav-button" href="#home">Home</a></li>
-        <li><a class="nav-button" href="#about">About</a></li>
-        <li><a class="nav-button" href="#events">Events</a></li>
-        <li><a class="nav-button" href="#contactUs">Contact Us</a></li>
+        <li><a class="nav-button" href="index.php">Home</a></li>
+        <li><a class="nav-button" href="technical.php">Technical</a></li>
+        <li><a class="nav-button" href="cultural.php">Cultural</a></li>
         <?php
             if($sql->isLogin()==1) {
                 echo '<li><a href="events/checkout.php">Checkout  <i class="fas fa-shopping-cart"></i></a></li>';
@@ -71,17 +71,6 @@ echo '<script> var isLogin = '. $isLogin. ';</script>'
 
     <div class="container">
       <div class="deptContainer">
-
-        <div class="deptNames">
-          <p class="department" id="106"><span>Electrifyn</span></p>
-          <p class="department" id="207"><span>Kinesis</span></p>
-          <p class="department" id="306"><span>KSOM</span></p>
-          <p class="department" id="406"><span>Luminaire</span></p>
-          <p class="department" id="508"><span>Mirabilia</span></p>
-          <p class="department" id="608"><span>Nirminite</span></p>
-          <p class="department" id="708"><span>Vidnan</span></p>
-          <p class="department" id="807"><span>Yantriki</span></p>
-        </div>
 
         <div id="eventNames" class="eventNames">
           <!-- Event Names for each department get rendered here by js -->
@@ -103,6 +92,6 @@ echo '<script> var isLogin = '. $isLogin. ';</script>'
     </div>
 
     <script src="js/common.js"></script>
-    <script src="js/accordiontest.js"></script>
+    <script src="js/cultural.js"></script>
   </body>
 </html>
