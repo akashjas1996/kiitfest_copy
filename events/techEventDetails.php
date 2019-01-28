@@ -1272,7 +1272,65 @@ Team Guidelines:  </b> </p>
 <p> Akshat: 897021147 </p>
 
 `,
-        "703": "The Salvage Yard",
+        "703": `<h1> THE SALVAGE YARD </h1>
+<p> <b> Round 1: Elimination Round </p> </b> 
+<ul> 
+<li> Each team will be given a circuit which will have a fault somewhere in it. The team not only has to identify the fault but also rectify it and make it work properly. </li>
+<li>  Max. Time Limit of 20 minutes. </li>
+</ul>
+<p> <b> Round 2: Final Round</p> </b> 
+<ul> 
+<li> The team will be provided with a mystery box with 7 components and they have to choose at least 5 components from the mystery box and have to design an innovative circuit within a limited time frame of 60 minutes. </li>
+</ul>
+<p> <b> Rules & Regulations: </p> </b> 
+<ol> 
+<li> A team can have a minimum of 2 members and a maximum of 4 members.</li>
+
+<li>The team which finishes the task in less time will be given priority over others. </li>
+
+<li>Finishing the task doesn’t guarantee selection as it is also a time-based challenge.</li>
+
+ <li>Problem Statement and mystery box once provided will not be changed. </li>
+
+<li> In Round 2: </li>
+</ol>
+<ul>
+<li> Participants are allowed to use the Internet. </li>
+<li>  Participants can request for additional components and wires to the coordinators but it entirely depends on the coordinators whether they allow it. </li>
+<li> All the components will be provided to them during this round. </li>
+ <li> Students are not allowed to use Mobile, Laptop, Calculator or any kind of electronic media in first Round.  </li>
+
+ <li> College Id Card is Mandatory.</li>
+
+ <li> The decision of the judges and students are final.</li>
+
+ <li> All rights are reserved with the coordinators. They may or may not disclose any information depending upon the information asked. They can change any rule at any time according to the situation. </li>
+
+<li> Any misconduct or violation of rules will lead to immediate elimination. </li>
+</ul>
+<p> <b> Judging Criteria: </p> </b> 
+<p> <b> Round 1: </p> </b> 
+<ol>
+<li> The team will be judged on the basis of their understanding of the circuit, their efficiency in identifying the fault and rectification of the fault to get the correct output. </li><li> The team which would complete first will proceed to the next round. </li>
+
+<li> Time Limit: 20 minutes</li>
+
+</ol>
+<p> <b> Round 2: </b> </p>
+
+<ol>
+<li> The team will be judged on the basis of their innovation, the efficiency of the circuit, explanation, how much more components of the mystery box the team uses. </li>
+ <li> All teams will be evaluated after the time frame of 60 minutes and winners will be declared. </li>
+ <li> Time Limit: 60 minutes </li>
+</ol>
+
+<p> <b> Prize Money: </b> </p>
+<p> Rs-20,000 </p>
+
+<p> <b> Contact Details: </b> </p>
+<p> A. Kajol (9090561913) </p>
+<p> B. Prakhar(+91-7766932637)  </p>
+`,
         "704": `
    <h1>SEGUIDOR</h1>
    <p> Design and construct an autonomous robot which is capable of traversing the arena by following a line in a particular manner and avoid the obstacle that it might encounter. The participants are required to build a line following bot which is capable of detecting an obstacle in front of it and sense the presence of colour on the floor in front of it. </p>
