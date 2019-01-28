@@ -673,11 +673,13 @@
 			<li>A picture will be shown to them on the projector. </li>
 			<li>The event consists of only 1 round. </li>
 			<li>Trophies and certificates will be rewarded to the winners and participants.</li>
-			<li>Participants will be judged on the basis of</li>
-			<ol><li>Content</li>
-				<li>Hindi vocabulary skills</li>
-				<li>Presentation.</li>
-			</ol>
+			<li>Participants will be judged on the basis of
+				<ol>
+					<li>Content</li>
+					<li>Hindi vocabulary skills</li>
+					<li>Presentation.</li>
+				</ol>
+			</li>
 		</ul>
 		 
 		<p><b>Coordinators:</b>

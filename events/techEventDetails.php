@@ -1,6 +1,6 @@
 <script>
     var eventNames = {
-        "101": "Circuit Design & Power",
+        "101": "Circuit Design & Power Relay",
         "102": "Design 4 Energy",
         "103": "KIIT-IEEE Workshop",
         "104": "Robot Triathon",
@@ -69,18 +69,244 @@
         "000" : "<h1>TECHNICAL</h1>",
 
         //Electrifyn
-        "101": "",
-        "102": "",
-        "103": "",
-        "104": "",
-        "105": "",
-        "106": "",
-        "107": "",
+        "101": `
+            <h1>Circuit Design & Power Relay</h1>
+            <hr>
+            <p>Power relay as well as circuit design is about having knowledge about basic electrical components. Showcase your skills with your ideas about electrical things. Design the best circuit you do with least time. What matters is knowledge and speed with accurate result. So, Think and design how fast and how accurate you can be.</p>
+
+            <p><b>TEAM CRITERIA:</b> Group participation, maximum 3 members are allowed. Solo participation is allowed.</p>
+
+            <p><b>JUDGING CRITERIA:</b></p>
+            <ul>
+                <li>Stage-1 :- Set of Multiple choice questions, qualifying participants goes for the second stage.
+                <li>Stage-2:- In this round, a wrong circuit will be provided to all the teams. Teams able to correct the circuit in minimum time or identify the faulty portion (depending upon the circuit) will be selected for next final round.
+                <li>Stage 3:- Find the fault in the circuit and rectify it within the time limit. Depending upon situation hardware implementation may also have to be dealt with.
+                <li>The Prize money will be decided on the number of registrations for this event.
+            </ul>
+            <p><b>PRIZE:</b> Rs 20,000</p>
+
+            <p><b>Contact:</b></p>
+            <ul>
+                <li>Shobhan Banerjee (7355433380)
+                <li>Anamika Das (7978498536)
+                <li>Niranjan Chakrobarty (9735840684)
+            </ul>
+         `,
+         
+        "102": `
+            <h1>Design 4 EngergyM</h1>
+            <hr>
+
+            <p><b>Objective:</b></p>
+            <p>The best way to predict the future is to design it.</p>
+            <p>Innovation begins at home…</p>
+            <p>The prime motive of this event is to grab out the innovative ideas from the scholars regarding the maximum utilization of Power through renewable sources of energy. So that the most acceptable outcome would be recognized and can become a tool for its implementation.</p>
+            <p>Let’s go green!</p>
+
+            <p><b>Number of Participants:</b>​ Maximum 4 members in each group.</p>
+
+
+            <p><b>Event Details</b></p>
+            <ul>
+                <li>Round 1:-​    Quiz test MCQ type .
+                <li>Round 2:- Power-point Presentation on their view of green building with a hypothetical design of a green building(Visual).
+                <li>Round 3:- ​ Last round will be judged on best feasible idea and best model of operation presented.
+                <li>The Prize money will be decided on the number of registrations for this event.
+            </ul>
+
+            <p><b>Judging Criteria:</b></p>
+            <ul>
+                <li>Round 1: one member from each team.
+                <li>Round 2 and 3: All the members of the selected teams.
+            </ul>
+
+
+            <p><b>Prizes:</b> Rs 20,000</p>
+            <p><b>Contact : </b>
+            <ul>
+                <li>Yashwant Kumar Sahu (8463886801)
+                <li>Shubhra Debnath (8131037040) 
+                <li>Sneha Sinha (81143 31835)
+            </ul>
+
+        `,
+        "103": `
+            <h1>KIITEEE Workshop</h1>
+            <hr>
+            <p><b>Description of Event:</b></p>
+            <p>Since it’s inception in 2016, KIIT-IEEE student branch council has been organising seminar workshop and seminar on various trending domain in the fields of technology. This year is no different. KIIT-IEEE Student branch council invites all enthusiastic techno-geeks to come broaden their horizon on the wide field of science this KIITFEST 2018.</p>
+            <p>The world is quickly adopting to electric vehicles and in the next couple of decades, EVs are going to be more mainstream than internal combustion vehicles. More automotive manufacturers are now devoting a rather large chunk of their resources towards the research and development of electric vehicles. This begs a question though! Where does India fit in the overall scheme of electric vehicles globally? The government of India had a plan of converting the entire fleet of vehicles to fully electric by 2030, which is barely 12 years away. But in January, 2018, it was sort of scrapped. If this actually happens, then India will be one of the largest markets for electric vehicles in the world, possibly only behind China.</p>
+            <p>This year we welcome you all for a 3-day workshop on electric vehicle and it’s future proposition.</p>
+            <p>A certificate from the KIIT-IEEE student branch chapter would be awarded to all the attendees. </p>
+
+            <p><b>Contact:</b></p>
+            <ul>
+                <li>Anubhav Mohanty (7011639373)
+                <li>Saikat Gupta (7978780265)
+                <li>Narottam Das (7980185395)
+            </ul>
+        `,
+        "104": `
+            <h1>Robo Triathlon</h1>
+            <hr>
+            <p><b>Objective :</b> It’s time that robots take over. Design a manually controlled bot, which can push or shoot(shooting mechanism) a medium sized ball, and is durable enough to survive highly challenging obstacle course and also would be strong and agile enough for a sumo-style wrestling. The prime move is to built a robot which is brisk as well as strong enough to overcome all the hurdles. Let the game begin…</p>
+            <p><b>Bot Specification :</b></p>
+            <p>The Bot can undergo changes according to each event requirement but the weight and dimensions cant change through out all the events once participated. The changes in the bot (if made any) are to be informed to the co-ordinator .</p>
+            <ul>
+                <li>Height- 30 cm.
+                <li>Length- 30 cm.
+                <li>Width- 30 cm.
+                <li>Weight- 3 kg.
+                <li>Battery Rating – 12V/5A
+                <li>No. of motors – 4(additional 1 can be used for shooting purpose)
+            </ul>
+            <p>All the above dimensions are maximum, failure to which disqualifications shall be taken into effect.</p>
+
+            <hr>
+
+            <h2>Robo Soccer (Round 1)</h2>
+            <p>This is the qualifier round. The bot will have to shoot a medium sized ball towards a goal. The bot can also push the ball to exert a certain force for the ball to reach the goal.</p>  
+            <p><b>Rules :</b></p>
+            <ul>
+                <li>Each team will get 5 points from which the bot has to shoot the ball or push to score the goal.
+                <li>Each team can have a maximum of 4 members. Maximum 2 members shall be allowed close to the field for operating the bot.
+                <li>Each team will be given a time interval of 5 minutes to shoot from each point, excluding which penalty will be incurred.
+                <li>Bots that will be using pushing mechanism can take a maximum run up of 40 cm. And the bots which will be using shooting mechanism will get a smaller distance to shoot from, comparatively.
+                <li>There should not be any loop to hold the ball tight and the front hand like extensions (if having) should have a gap of minimum 10 cm. So that the ball can easily move.
+                <li>Any act of misbehavior or misconduct will lead to immediate disqualification of the team.
+                <li>In case of any discrepancy, the final decision rests in the hands of co-ordinators.
+                <li>Any battery or eliminator will not be provided. Members are required to bring their own battery or power source.
+                <li>If any damage is incurred on the arena by the bot , the team will be disqualified .
+                <li>This round is similar to penalty shoot outs.
+                <li>If any Technical problem arises, time compensation shall be given.
+            </ul>
+
+            <hr>
+
+            <h2>Robo Hurdle Sprint(Round 2)</h2>
+            <p>This is the elimination round. The bot needs to do some tasks while racing against time on a rugged terrain.</p>
+
+            <p><b>Rules :</b></p>
+            <ul>
+                <li>The team qualified Round 1 will be playing this round.
+                <li>The bot will have to perform some tasks like pushing a cube to the given colour code.
+                <li>The bot will have to go through uneven surfaces like inclined planes , zig-zag paths, etc.
+                <li>The whole path needs to be completed for qualifying to the next level.
+                <li>The scoring will be based on the time taken to complete the path.
+                <li>If the bot crosses the given path, penalty will be held. If the bot goes completely out of the arena the team will be disqualified.
+                <li>In case, if there is any technical problem, a technical break will be provided , it will be given only once for each team.
+                <li>Depending on the score in the last round, a bonus time out can be awarded, though the final decision will be of the co-ordinators.
+                <li>Only two members of the team will be allowed close to the arena for controlling the bot.
+                <li>Each hurdle will provide points, lesser the time consumed to complete the tasks more will be the bonus points.
+                <li>If the arena gets damaged by the bot, the team will be disqualified.
+                <li>Arena will be disclosed only few moments before the round.
+            </ul>
+
+            <hr>
+
+            <h2>Robo Sumo(Final Round)</h2>
+            <p>This is the final round of the event. Two bots will face each other for a sumo type wrestling.</p>
+
+            <p><b>Rules :</b></p>
+            <ul>
+                <li>Two teams who have qualified round 2 will face each other for a sumo wrestling.
+                <li>Points will be scored on pushing the opponent bot out of the arena.
+                <li>The teams need to score their points with in 5 minutes , if there is no scoring within 5 minutes then a new gameplay will come into the picture, this part of the game and its rules will be disclosed in final only.
+                <li>If the bots get stuck to each other and are not able to move, then there will be a new start .
+                <li>If any major part of the bot gets broken, a technical timeout will be provided (only once).
+                <li>Small timeout will be provided on other technical issues.
+                <li>Two members from each team will be allowed close to the arena for controlling the bot.
+                <li>At any point of the game, if there is any discrepancy the decision taken by the co-ordinators will be final.
+                <li>Every other details about the event will be provided before the final event starts.
+                <li>There should not be any parts attached to the bot for making intentional damage to the opponent bot, this is not robo war.
+                <li>Arena should not be damaged by the bot or else the team will be disqualified.
+                <li>The Prize money will be decided on the number of registrations for this event.
+            </ul>
+
+            <hr>
+
+            <p><b>Judging Criteria :</b></p>
+            <ul>
+                <li>1st Round :- Robo Soccer : (Qualification round) Each goal scored will award points, teams having scored more than 3 goals will be qualified for the next round.
+                <li>2nd Round :- Robo Hurdle Sprint : (Elimination round) An obstacle sprint race for robots where they need to do some tasks, marking will be done on that basis. The winners will progress to final round. Each successful task will award points.
+                <li>3rd Round :- Robo Sumo : (Final Round) A one on one tackle between two bots to find their toughness and agility. The bot that will push its opponent out of the arena more times in the given 5 minutes will win.
+            </ul>
+
+            <p><b>Contact : </b></p>
+            <ul>
+                <li>Akash Roy Choudhary (8794616221 / 8837269929)
+                <li>Abhishek Kushary (8876546411 / 8327707064)
+            </ul>
+        `,
+        "105": `
+            <h1>Smart Utilisation of Innovation and technology (S.U.I.T)</h1>
+            <hr>
+
+            <p><b>Objective</b></p> 
+            <p>Ideate​ and propose innovative applications of electrical engineering in day-to-day life. Applications can be (but not limited to) related to the field of Medical sciences, traffic control, pollution monitoring, agriculture, water/irrigation, home automation, smart grid, vehicular electronics, etc.
+
+            <p><b>Judging Criteria:</b></p>
+                <li>Round 1:-Set of Multiple choice questions, qualifying participants goes for the second stage. For groups only 1 member can appear for qualifying test.
+                <li>Round 2:- Power-point Presentation on their innovation and their field of use. The PowerPoint presentation must contain the present scenario and after effects of the proposed innovation.
+                <li>Round 3:- Basic model demonstration and explanation of the proposed Idea and small report. Some basic equipments will be given.
+
+                <p><b>Team criteria-</b></p>
+                <ul>
+                    <li>Group participation (max 4) and solo participation allowed.
+                    <li>The Prize money will be decided on the number of registrations for this event.
+                </ul>
+                <p><b>Prize:</b> Rs. 20,000 </p>
+
+                <p><b>Contact: </b></p>
+                <ul>
+                    <li>Ashutosh Nayak (7999205175)
+                    <li>Tanisha Das (9937460081)
+                    <li>Vishwam Jaiswal(72059 97466)
+                </ul>
+        `,
+        "106": `
+            <h1>Solar Spectrum</h1>
+            <hr>
+
+            <p><b>Description:</b></p>
+            <p>Solar spectrum is about designing solar based car models with creativity. It’s about unleashing your racing spirit in toy cars. Clean and green is our motto as solar cars are the next big thing! We have absolutely no constraints to your creativity or your will to innovate and design solar based car modules. Vroooommm your way to the top with style!</p>
+
+            <p><b>Team Criteria : </b></p>
+            <ul>
+                <li>Group participation, maximum member allowed is 3.
+                <li>Solo participation is allowed.
+            </ul>
+
+            <p><b>Judging Criteria:</b></p>
+            <ul>
+                <li>ROUND 1(SPEED TEST): In this round, a plain arena will be setup where solar based cars will be competing against each other testing their speed capability. Fastest cars will be selected for the next round.
+                <li>ROUND 2 (TORQUE TEST): In this final round, hurdles like inclination, water pod etc will be setup, testing the torque capability in the solar cars.
+            </ul>
+
+            <p><b>Design Specification:</b></p>
+            <ul>
+                <li>Should fit inside a standard shoe box.
+                <li>1st round will be judged on aesthetics, rules and specifications followed, creativeness, skills
+                <li>shown, presentation, and speed capability. Fastest teams will be further selected for final round.
+                <li>2​nd round will be based on torque testing skills, adherence to spirit, successful completion of the hurdles will bag the Top 3 spots.
+                <li>The Prize money will be decided on the number of registrations for this event.
+            </ul>
+
+            <p><b>Prizes: </b> Rs. 20,000 </p>
+
+            <p><b>Contact: </b></p>
+            <ul>
+                <li>Dibyalochan Samantaray (7539833703)
+                <li>Shreya Sinha (9078641075)
+                <li>Soumya Raj (8984970743) 
+            </ul>
+        `,
 
 
 //Kinesis
         "201": `
         <h1>Cell-Lock Holmes</h1>
+        <hr>
         <p><b>Description:</b> “Absence of evidence is not evidence of absence.” Ever pictured the Sherlock Holmes or the Byomkesh Bakshi in you? Grab the opportunity to unleash your detective brains and solve the brainstorming puzzles!
         </p>
 
@@ -112,6 +338,7 @@
         `,
         "202": `
         <h1>Chitra-a-gha</h1>
+        <hr>
         <p><b>Description:</b>Ever wondered how amazing it would have been if you got to paint with a form of life! We unveil the most exciting event which lets you draw your imaginations out on plates. The single celled life form will eat up the food on the plate and it’s pattern of growth would be your pattern of art.</p>
 
         <p><b>Rules and regulations:</b>
@@ -144,6 +371,7 @@
         
         "203": `
         <h1>Hackathon 5.0</h1>
+        <hr>
         <p><b>Description:</b>Bring your out-of-the-box ideas in this low-risk environment. Showcase the clever hacker that dwells in you and the one who has the highest endurance wins.</p>
         
         <p><b>Rules and regulations:</b>
@@ -177,6 +405,7 @@
         `,
         "204": `
         <h1>Jugaad Out of Kabaad</h1>
+        <hr>
         <p><b>Description:</b> “Use it up, wear it out; Make it do or do without.”  In this event, let your creative hands and imaginative minds come together in sync and we’ll witness a burst of energies.
          </p>
 
@@ -211,6 +440,7 @@
         
         "205": `
          <h1>PainTerrific</h1>
+         <hr>
 
         <p><b>Description:</b> Anyone, if provided a pencil, brush, and colors, can create a piece of abstract art. But what happens when you take away the former two? We’ll find out in this event where you have to discover alternatives of the same. (Hint-Rummage through the kitchen drawers, or take or nature walks.)</p>
 
@@ -219,7 +449,7 @@
                 <li>Participants will have to bring their own unconventional painting materials and start right away.
                 <li>A total time period of 90 minutes shall be provided.
                 </ul>
-        Note: You are allowed to use fabric color, artistic color, watercolor. You can use color from any kind of possible source.</p>
+        <p><b>Note:</b> You are allowed to use fabric color, artistic color, watercolor. You can use color from any kind of possible source.</p>
 
         <p><b>Judging Criteria:</b>
                 <ul>
@@ -241,6 +471,7 @@
         `,
         "206": `
         <h1>Pixeloscope</h1>
+        <hr>
         <p><b>Description:</b> Art and thus, photography can exist in any form. Presenting to you Pixeloscope- the event where you do Microscope photography to create MICROGRAPHS.</p>
 
         <p><b>Rules and regulations:</b>
@@ -276,6 +507,7 @@
         `,
         "207": `
         <h1>Shabd-War</h1>
+        <hr>
         <p><b>Description:</b> “Prove me wrong, prove me right; it’s the fight of words and thus, I shall strive.” A general event to involve the views of students from each and every field with topics pertaining to Life Sciences background. Tighten your belts, mates! This ride will be worth the take.</p>
 
         <p><b>Rules and regulations:</b>
@@ -317,6 +549,7 @@
         //KSOM
         "301": `
         <h1>Business Simulation</h1>
+        <hr>
         <p><b>Description:</b>A scenario and numeric based game that tests the overall business acumen of teams in a competitive scenario.
         </p>
          
@@ -347,7 +580,8 @@
         `,
         "302": `
         <h1>Dalal Street</h1>
-        <p style="color: black;"><b>Description:</b> Dalal Street is a game of virtual stock market where you build your portfolio and react to the market volatility. Make more investment to get more returns.
+        <hr>
+        <p><b>Description:</b> Dalal Street is a game of virtual stock market where you build your portfolio and react to the market volatility. Make more investment to get more returns.
          </p>
        
 
@@ -377,6 +611,7 @@
 
         "303": `
         <h1>Dare to Face</h1>
+        <hr>
         <p><b>Description:</b> A press conference scenario where the company's CEO, Product Manager and the Brand Manager come together to save the face of the Company for a product that has created havoc in the market. Only this time it's Do or Die.
          </p>
         
@@ -405,6 +640,7 @@
         `,
         "304": `
         <h1>Ikadhikaar</h1>
+        <hr>
         <p><b>Description:</b> The strategic business game this will be a monopoly team based game with riddles and puzzles. Judgement will be based on the property valuation at the ends of both the rounds.</p>
 
         
@@ -446,6 +682,7 @@
 
         "305": `
         <h1>Milk Run</h1>
+        <hr>
         <p><b>Description:</b>Have you ever thought about how a milk man strategies his distribution. If not, then start thinking, register and participate.
         Event Based on Supply Chain Management. There will be five teams working as distributors with limited funds. They will be buying materials from warehouse and selling them to retailers by overcoming challenges of logistics.
         Participants will be learning about logistics, dead stock, limited working capital and supply chain</p>
@@ -474,6 +711,7 @@
 
         "306": `
         <h1>Synergy Konflictus 5.0</h1>
+        <hr>
  
         <p><b>Description:</b>Managing Human Capital is a key business function. Happy employees results in better productivity & greater growth. This game will give participants a firsthand feel of managing employees.</p>
         
@@ -506,96 +744,94 @@
 
          //Luminaire         
         "401": `	     
-        <h1>Brainotracking</h1>
-        <hr>
-		<p><b>Description:</b>
-		“Truth can only be found in one place : THE CODE”
-		If you think you have the 7th sense, Which people normally refer to as the Coder Sense then brush up your mind for a brain teasing snippets with the essence of cinematic universe. Let your mind relax while reading the code, but let me remind you time is important.</p>
+            <h1>Brainotracking</h1>
+            <hr>
+            <p><b>Description:</b>
+            “Truth can only be found in one place : THE CODE”
+            If you think you have the 7th sense, Which people normally refer to as the Coder Sense then brush up your mind for a brain teasing snippets with the essence of cinematic universe. Let your mind relax while reading the code, but let me remind you time is important.</p>
 
-		<p><b>Rules and Regulations:</b>
-		<ol>
-			<li>Round 1:
-			<ul>
-				<li>Pair participation.</li>
-				<li>Participants will be given a code snippet.</li>
-				<li>One partner will find output of the code while the other will wait.</li>
-				<li>Output of the code will be solution to the name of a movie.</li>
-				<li>The partner who knows the name of the movie will explain the movie to the other partner and the person will have to guess the Bollywood movie.</li>
-			</li>
+            <p><b>Rules and Regulations:</b>
+            <ol>
+                <li>Round 1:
+                <ul>
+                    <li>Pair participation.</li>
+                    <li>Participants will be given a code snippet.</li>
+                    <li>One partner will find output of the code while the other will wait.</li>
+                    <li>Output of the code will be solution to the name of a movie.</li>
+                    <li>The partner who knows the name of the movie will explain the movie to the other partner and the person will have to guess the Bollywood movie.</li>
+                </li>
 
-			<li>Round 2:
-			A code snippet will be given along with its output.
-			The code snippet will be jumbled.
-			It is to be ordered correctly. 
-			</li>
-		</ol>
+                <li>Round 2:
+                A code snippet will be given along with its output.
+                The code snippet will be jumbled.
+                It is to be ordered correctly. 
+                </li>
+            </ol>
 
-		<p><b>Judgement Criteria:</b>
-		<ol>
-            <li>Round 1: Will be a knockout round and people who’ll complete the task in minimum time will be selected.</li>
-            <li>Round 2: Winners will be selected on minimum time taken to order the code according to the output.</li>
-		</ol>
+            <p><b>Judgement Criteria:</b>
+            <ol>
+                <li>Round 1: Will be a knockout round and people who’ll complete the task in minimum time will be selected.</li>
+                <li>Round 2: Winners will be selected on minimum time taken to order the code according to the output.</li>
+            </ol>
 
-		<p><b>Prize Money:</b></p>
-        <ol>
-            <li>1st :Rs.12000/-</li>
-            <li>2nd: 8000/-</li>
-		</ol>
+            <p><b>Prize Money:</b></p>
+            <ol>
+                <li>1st :Rs.12000/-</li>
+                <li>2nd: 8000/-</li>
+            </ol>
 
-		<p><b>Contact Details:</b></p>
-		<ol>
-            <li>Ankita Kumari - 7978136032 
-            <li>Bhavya Raj - 779020901 
-            <li>Natasha Michael - 8902424688 
-            <li>Shalini Jha - 9937944625
-        </ol>
-
-
+            <p><b>Contact Details:</b></p>
+            <ol>
+                <li>Ankita Kumari - 7978136032 
+                <li>Bhavya Raj - 779020901 
+                <li>Natasha Michael - 8902424688 
+                <li>Shalini Jha - 9937944625
+            </ol>
 `,
         
         "402": `
-        <h1>Hackathon</h1>
-		<hr>    
-		<p><b>Description</b></p>
-		<p>Hey Coders! Isn't it time you registered already? Brush up on your favorite programming language, because LUMINAIRE presents Hackathon. Whenever a layman hears the term 'coding', a nerd with glasses and immense logical skills is pictured. Show the world, that logic is just one side of the coin. Display your artistic and innovation skills and create theme based website/app under a time pressure. Are you ready for the challenge, coz we are here waiting for you.</p>
+            <h1>Hackathon</h1>
+            <hr>    
+            <p><b>Description</b></p>
+            <p>Hey Coders! Isn't it time you registered already? Brush up on your favorite programming language, because LUMINAIRE presents Hackathon. Whenever a layman hears the term 'coding', a nerd with glasses and immense logical skills is pictured. Show the world, that logic is just one side of the coin. Display your artistic and innovation skills and create theme based website/app under a time pressure. Are you ready for the challenge, coz we are here waiting for you.</p>
 
-		<p><b>Rules and Regulations:</b>
-		<ol>
-		<li>Team Size: maximum 2 participants 
+            <p><b>Rules and Regulations:</b>
+            <ol>
+            <li>Team Size: maximum 2 participants 
 
-		<li>Duration: 6 hours
+            <li>Duration: 6 hours
 
-		<li>All ideas/codes must be original and developed specifically for the event.
+            <li>All ideas/codes must be original and developed specifically for the event.
 
-		<li>Please get your own laptops, mobile phones and any other devices with the necessary software. While a Wi-Fi connection would be provided, no tech support for   connecting your personal devices to the same would be available. 
+            <li>Please get your own laptops, mobile phones and any other devices with the necessary software. While a Wi-Fi connection would be provided, no tech support for   connecting your personal devices to the same would be available. 
 
-		<li>The teams can code the challenge in any desired programming language.
+            <li>The teams can code the challenge in any desired programming language.
 
-		<li>You are also required to get all required software and hardware components for your project.
+            <li>You are also required to get all required software and hardware components for your project.
 
-		<li>The teams will be provided with a problem statement.
+            <li>The teams will be provided with a problem statement.
 
-		<li>The teams have to make a website or an app accomplishing the the problem statement.
+            <li>The teams have to make a website or an app accomplishing the the problem statement.
 
-		</ol></p>
+            </ol></p>
 
-		<p><b>Judging Criteria: </b>
+            <p><b>Judging Criteria: </b>
 
-		Judging for the winner will be on the basis of the design and functioning of the website/app.
-		</p>
+            Judging for the winner will be on the basis of the design and functioning of the website/app.
+            </p>
 
-		<p><b>Prize Money:</b>
-		<ol>
-		<li>1st :Rs.12000/-
-		<li>2nd: 8000/-
-		</ol></p>
-		<p><b>Contact Details:</b>
-		<ul>
-		<li>Indrashis Das (7980620325)
-		<li>Adarsh Parashar (7985235594)
-		</ul></p>
-
+            <p><b>Prize Money:</b>
+            <ol>
+            <li>1st :Rs.12000/-
+            <li>2nd: 8000/-
+            </ol></p>
+            <p><b>Contact Details:</b>
+            <ul>
+            <li>Indrashis Das (7980620325)
+            <li>Adarsh Parashar (7985235594)
+            </ul></p>
         `,
+
         "403": `
         	<h1>Matricity</h1>
         	<hr>
@@ -626,6 +862,7 @@
 
 
         `,
+
         "404": `
          <h1>Minute to win it</h1>
          <hr>
@@ -689,11 +926,8 @@
 		<p><b>Contact Details:</b>
 
 		</p>
+         `,
 
-
-
-
-        `,
         "406": `
         <h1>Tech Builder</h1>
         <hr>
@@ -1230,6 +1464,8 @@ The bots first arrive at Checkpoint A.
 <p> <b> Contact Details: </b> </p>
 <p> Manish: 8863848002 </p> <p>     Surabhi: 9777833256 </p>
 </p>`,
+
+
 
 
         
