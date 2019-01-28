@@ -306,6 +306,7 @@
 //Kinesis
         "201": `
         <h1>Cell-Lock Holmes</h1>
+        <hr>
         <p><b>Description:</b> “Absence of evidence is not evidence of absence.” Ever pictured the Sherlock Holmes or the Byomkesh Bakshi in you? Grab the opportunity to unleash your detective brains and solve the brainstorming puzzles!
         </p>
 
@@ -337,6 +338,7 @@
         `,
         "202": `
         <h1>Chitra-a-gha</h1>
+        <hr>
         <p><b>Description:</b>Ever wondered how amazing it would have been if you got to paint with a form of life! We unveil the most exciting event which lets you draw your imaginations out on plates. The single celled life form will eat up the food on the plate and it’s pattern of growth would be your pattern of art.</p>
 
         <p><b>Rules and regulations:</b>
@@ -369,6 +371,7 @@
         
         "203": `
         <h1>Hackathon 5.0</h1>
+        <hr>
         <p><b>Description:</b>Bring your out-of-the-box ideas in this low-risk environment. Showcase the clever hacker that dwells in you and the one who has the highest endurance wins.</p>
         
         <p><b>Rules and regulations:</b>
@@ -402,6 +405,7 @@
         `,
         "204": `
         <h1>Jugaad Out of Kabaad</h1>
+        <hr>
         <p><b>Description:</b> “Use it up, wear it out; Make it do or do without.”  In this event, let your creative hands and imaginative minds come together in sync and we’ll witness a burst of energies.
          </p>
 
@@ -436,6 +440,7 @@
         
         "205": `
          <h1>PainTerrific</h1>
+         <hr>
 
         <p><b>Description:</b> Anyone, if provided a pencil, brush, and colors, can create a piece of abstract art. But what happens when you take away the former two? We’ll find out in this event where you have to discover alternatives of the same. (Hint-Rummage through the kitchen drawers, or take or nature walks.)</p>
 
@@ -444,7 +449,7 @@
                 <li>Participants will have to bring their own unconventional painting materials and start right away.
                 <li>A total time period of 90 minutes shall be provided.
                 </ul>
-        Note: You are allowed to use fabric color, artistic color, watercolor. You can use color from any kind of possible source.</p>
+        <p><b>Note:</b> You are allowed to use fabric color, artistic color, watercolor. You can use color from any kind of possible source.</p>
 
         <p><b>Judging Criteria:</b>
                 <ul>
@@ -466,6 +471,7 @@
         `,
         "206": `
         <h1>Pixeloscope</h1>
+        <hr>
         <p><b>Description:</b> Art and thus, photography can exist in any form. Presenting to you Pixeloscope- the event where you do Microscope photography to create MICROGRAPHS.</p>
 
         <p><b>Rules and regulations:</b>
@@ -501,6 +507,7 @@
         `,
         "207": `
         <h1>Shabd-War</h1>
+        <hr>
         <p><b>Description:</b> “Prove me wrong, prove me right; it’s the fight of words and thus, I shall strive.” A general event to involve the views of students from each and every field with topics pertaining to Life Sciences background. Tighten your belts, mates! This ride will be worth the take.</p>
 
         <p><b>Rules and regulations:</b>
@@ -542,6 +549,7 @@
         //KSOM
         "301": `
         <h1>Business Simulation</h1>
+        <hr>
         <p><b>Description:</b>A scenario and numeric based game that tests the overall business acumen of teams in a competitive scenario.
         </p>
          
@@ -572,7 +580,8 @@
         `,
         "302": `
         <h1>Dalal Street</h1>
-        <p style="color: black;"><b>Description:</b> Dalal Street is a game of virtual stock market where you build your portfolio and react to the market volatility. Make more investment to get more returns.
+        <hr>
+        <p><b>Description:</b> Dalal Street is a game of virtual stock market where you build your portfolio and react to the market volatility. Make more investment to get more returns.
          </p>
        
 
@@ -602,6 +611,7 @@
 
         "303": `
         <h1>Dare to Face</h1>
+        <hr>
         <p><b>Description:</b> A press conference scenario where the company's CEO, Product Manager and the Brand Manager come together to save the face of the Company for a product that has created havoc in the market. Only this time it's Do or Die.
          </p>
         
@@ -630,6 +640,7 @@
         `,
         "304": `
         <h1>Ikadhikaar</h1>
+        <hr>
         <p><b>Description:</b> The strategic business game this will be a monopoly team based game with riddles and puzzles. Judgement will be based on the property valuation at the ends of both the rounds.</p>
 
         
@@ -671,6 +682,7 @@
 
         "305": `
         <h1>Milk Run</h1>
+        <hr>
         <p><b>Description:</b>Have you ever thought about how a milk man strategies his distribution. If not, then start thinking, register and participate.
         Event Based on Supply Chain Management. There will be five teams working as distributors with limited funds. They will be buying materials from warehouse and selling them to retailers by overcoming challenges of logistics.
         Participants will be learning about logistics, dead stock, limited working capital and supply chain</p>
@@ -699,6 +711,7 @@
 
         "306": `
         <h1>Synergy Konflictus 5.0</h1>
+        <hr>
  
         <p><b>Description:</b>Managing Human Capital is a key business function. Happy employees results in better productivity & greater growth. This game will give participants a firsthand feel of managing employees.</p>
         
