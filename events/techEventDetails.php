@@ -303,25 +303,429 @@
         `,
 
 
+//Kinesis
+        "201": `
+        <h1>Cell-Lock Holmes</h1>
+        <p><b>Description:</b> “Absence of evidence is not evidence of absence.” Ever pictured the Sherlock Holmes or the Byomkesh Bakshi in you? Grab the opportunity to unleash your detective brains and solve the brainstorming puzzles!
+        </p>
 
-        //Kinesis
-        "201": "",
-        "202": "",
-        "203": "",
-        "204": "",
-        "205": "",
-        "206": "",
-        "207": "",
+        <p><b>Rules and regulation:</b>
+        This event shall comprise of two rounds:</p>
+        <p>
+        <b>Round 1 –</b> Each of the participants will be given a meme which would have names of basic biochemical compounds hidden in them. They need to solve the meme and submit their responses.</p>
+        <p>
+        <b>Round 2 –</b> Participants will be given case studies. The most suited analysis of the case takes away the prize.
+        </p>
+
+        <p><b>Judging Criteria:</b>
+        <ul>
+        <li>Maximum compound names cracked from meme.
+        <li>Least time taken to analyze the meme.
+        <li>The maximum number of hints cracked for reaching the final answer.
+        <li>Closeness to the exact answer.
+        <li>The minimum time taken to reach the final answer.</ul></p>
+
+        <p><b>Prize Money worth: </b> &nbsp;Rs. 13,000</p>
+
+                                
+        <p><b>Contacts:</b>
+        <ol>    
+        <li>Pamela Chanda Roy (9875487809)
+        <li>Soumitra Pathak (9674455405)
+        </ol>
+        </p>
+        `,
+        "202": `
+        <h1>Chitra-a-gha</h1>
+        <p><b>Description:</b>Ever wondered how amazing it would have been if you got to paint with a form of life! We unveil the most exciting event which lets you draw your imaginations out on plates. The single celled life form will eat up the food on the plate and it’s pattern of growth would be your pattern of art.</p>
+
+        <p><b>Rules and regulations:</b>
+        <ul>
+                <li>The registered participants have to streak, pour or spread the organism provided to them agar plates and draw designs on it.
+        <li>After an incubation period of one day, the best-resulted art pattern sans-contamination shall be awarded.
+        </ul>
+        </p>
+
+
+        <p><b>Judging Criteria:</b>
+        <ul>
+        <li>Creativity/originality in technique, organism(s) used, and agar(s) used
+        <li>The overall artistry of design
+         <li>Presentation
+        <li>The scientific accuracy of description
+        <li>Appropriateness/accessibility of description for a general audience</ul></p>
+
+        <p><b>Prize money worth:</b>&nbsp Rs. 13,000</p>
+
+                              
+        <p><b>Contacts:</b>
+                <ol>
+        <li>Debanajana Maiti (8777586692)
+        <li>Soumitra Pathak (9674455405)
+        </ol>
+        </p>
+
+        `,
+        
+        "203": `
+        <h1>Hackathon 5.0</h1>
+        <p><b>Description:</b>Bring your out-of-the-box ideas in this low-risk environment. Showcase the clever hacker that dwells in you and the one who has the highest endurance wins.</p>
+        
+        <p><b>Rules and regulations:</b>
+        <ul>
+        <li>During registration, the participants will be given any problem or issue pertaining to the field of Biotechnology.
+        <li>This event which will last for 30hours which begins with each student pitching their unique solutions.
+        <li>The ones with similar ideas may or may not chose to team up.
+        <li>They will be given a duration of 24hours in which they need to work on their ideas which shall be followed by the participants having to showcase their work in the form of a model or poster and a presentation (compulsory).
+        </ul>
+        </p>
+
+        <p><b>Judging Criteria:</b>
+        <ul>
+        <li>The problem statement and its relevance to the theme.
+        <li>The innovativeness and practical applicability of the proposed hack.
+         <li>Utility of the hack be it a process or a product.
+        <li>The commercialization potential and its scalability.
+        <li>Presentation of the overall idea.</ul></p>
+
+        <p><b>Prize money worth:</b> &nbsp; Rs. 21,000</p>
+        
+        <p><b>Contacts:</b>
+                <ol>
+                        <li>Nilotpal Majumdar (8250869594)
+                        <li>Soumitra Pathak (9674455405)
+                </ol>
+        
+
+        </p>
+
+        `,
+        "204": `
+        <h1>Jugaad Out of Kabaad</h1>
+        <p><b>Description:</b> “Use it up, wear it out; Make it do or do without.”  In this event, let your creative hands and imaginative minds come together in sync and we’ll witness a burst of energies.
+         </p>
+
+        <p><b>Rules and regulations:</b>
+        <ul>
+        <li>Participants will be provided with any trash material that may range from straws to pencil shaves.
+        <li>The materials shall be provided on a lucky draw basis which will form the primary raw materials for the making of final product.
+        <li>After a time period of 24hours, the participants are required to present a useful product. The one who makes the best will be declared the JUGADOO OF THE YEAR.
+        <li>They can use extra materials for beautification and decoration of the products.
+
+        </ul>
+        </p>
+
+        <p><b>Judging Criteria:</b>
+        <ul>
+        <li>The model/ thing should be able to give an insight and clarity of the theme to the viewer.
+        <li>The participants should create something with their own imagination and creativity.
+         <li>The model/ thing should have an overall impression and should stand on its own as a complete and outstanding work of art.
+
+         </ul></p>
+
+        <p><b>Prize money worth:</b> &nbsp; Rs. 21,000</p>
+        
+        <p><b>Contacts:</b>
+        <ol>
+                <li>Soumya Sristi Mahapatra (9937482817)
+                <li>Soumitra Pathak (9674455405)
+        </ol>
+
+        </p>
+        `,
+        
+        "205": `
+         <h1>PainTerrific</h1>
+
+        <p><b>Description:</b> Anyone, if provided a pencil, brush, and colors, can create a piece of abstract art. But what happens when you take away the former two? We’ll find out in this event where you have to discover alternatives of the same. (Hint-Rummage through the kitchen drawers, or take or nature walks.)</p>
+
+        <p><b>Rules and regulations:</b>
+                <ul>
+                <li>Participants will have to bring their own unconventional painting materials and start right away.
+                <li>A total time period of 90 minutes shall be provided.
+                </ul>
+        Note: You are allowed to use fabric color, artistic color, watercolor. You can use color from any kind of possible source.</p>
+
+        <p><b>Judging Criteria:</b>
+                <ul>
+        <li>Innovativeness in the method of painting.
+        <li>Use of diverse tools/methods for painting.
+        <li>The whole painting should be made without using any contemporary tools, such as brushes, pencil colors or crayons.
+        </ul></p>
+        
+        <p><b>Prize money:</b>
+                          <ol><li>    First Prize- Rs. 8,000
+                              <li>Second prize- Rs. 5,000</ol></p>
+        
+        <p><b>Contacts:</b>
+                <ol>
+        <li>Abhinandan Das (9078803066)
+        <li>Soumitra Pathak (9674455405)
+        </ol></p>
+
+        `,
+        "206": `
+        <h1>Pixeloscope</h1>
+        <p><b>Description:</b> Art and thus, photography can exist in any form. Presenting to you Pixeloscope- the event where you do Microscope photography to create MICROGRAPHS.</p>
+
+        <p><b>Rules and regulations:</b>
+        <ul>
+        <li>Individual Submissions. Each entrant may submit up to three images in each contest for judging.
+        <li>Photos at least 8" x 10" at 300 dpi.
+        <li>Photographed safely in the appropriate Bio Safety Level environment for the organism(s) used. For more information, please consult LABORATORY GUIDELINES FOR BIOSAFETY IN TEACHING LABORATORIES and the APPENDIX TO THE GUIDELINES.
+        <li> New and original, not seen/posted on the internet before or previously published or displayed elsewhere.
+        <li>Digitally untouched or minimally edited to improve clarity of the photo. No other artificial enhancements or manipulations (e.g. false coloring) are permitted.
+        <li> Macro photography is not permitted.
+        <li> ALL THE PHOTOS MUST BE EMAILED BY DEADLINE (to be updated)
+
+        </ul>
+        </p>
+
+        <p><b>Judging Criteria:</b>
+        <ul>
+        <li>Originality
+        <li>Informational Content
+         <li>Technical Proficiency
+         <li>Artistic and Visual Impact.
+
+         </ul></p>
+
+        <p><b>Prize money worth:</b> Rs. 13,000</p>
+        
+        <p><b>Contacts:</b>
+                <ol><li>Ishita Ghosh (8777482453)
+                        <li>Soumitra Pathak (9674455405)
+                </ol>
+        </p>
+
+        `,
+        "207": `
+        <h1>Shabd-War</h1>
+        <p><b>Description:</b> “Prove me wrong, prove me right; it’s the fight of words and thus, I shall strive.” A general event to involve the views of students from each and every field with topics pertaining to Life Sciences background. Tighten your belts, mates! This ride will be worth the take.</p>
+
+        <p><b>Rules and regulations:</b>
+        <ul>
+        <li><b>Round 1:</b><br>
+        Turncoat round: each speaker gets 60 seconds for speaking for the motion and 60 seconds for against the motion.
+        Preparation time 10 mins.
+        <li><b>Round 2:</b><br>
+        Classical debate.
+        Participants will be paired with a random opponent and each have to speak either for or against the motion. Preparation time 15min. Each participant will be given 5 minutes to speak on it.
+        </ul>
+        </p>
+        
+        <p><b>Judging Criteria:</b>
+        <ul>
+        <li>Time utilisation
+        <li>Relevance to topic
+        <li>Content (structure, points, facts/statistics, recent studies etc.)
+        <li>Response to rebuttals
+        <li>Bonus: opponent rebuttal
+        <li>Penalty: exceeding time limit
+
+
+         </ul></p>
+
+        <p><b>Prize money worth:</b> &nbsp; Rs. 13,000</p>
+
+        <p><b>Contacts:</b>
+                <ol>
+                <li>Anuttama Pal (9073360613)
+                <li> Soumitra Pathak (9674455405)<br>
+                </ol>
+        </p>
+
+        `,
 
 
         
         //KSOM
-        "301": "",
-        "302": "",
-        "303": "",
-        "304": "",
-        "305": "",
-        "306": "",
+        "301": `
+        <h1>Business Simulation</h1>
+        <p><b>Description:</b>A scenario and numeric based game that tests the overall business acumen of teams in a competitive scenario.
+        </p>
+         
+
+         <p>
+        <b>Rules and regulations:</b>
+        <ul>
+        <li>Team should consist of minimum 2 members and maximum 3 members.
+
+        <li>There is no limit to the number of teams participating from an institute.
+
+        <li>A student cannot be part of more than one team.
+
+        <li>The members of teams cannot be from different institutes.
+
+        </ul>
+        </p>
+
+        <p><b>Prize money worth:</b> &nbsp; Rs. 40,000</p>
+        
+        <p><b>Contacts:</b>
+        <ol>    
+        <li>Rittik Sarkar-+918017126802-7202039@ksom.ac.in
+        <li>Pras Khanna-+919776922104-18202034@ksom.ac.in 
+        </ol>
+
+        </p>
+        `,
+        "302": `
+        <h1>Dalal Street</h1>
+        <p style="color: black;"><b>Description:</b> Dalal Street is a game of virtual stock market where you build your portfolio and react to the market volatility. Make more investment to get more returns.
+         </p>
+       
+
+         <p>
+        <b>Rules and regulations:</b>
+        <ul>
+        <li> Participants participate individually.
+        <li> Participants would be provided with a laptop where there would be an online platform for virtual stock market trading.
+        <li> A virtual ID would be created of Rs.2500000 portfolio.
+        <li> Participants are required to buy or sell stocks according to their judgement.
+        <li> At the end of the trading, the one with a portfolio of Rs.2500000 or more wins.
+
+
+        </ul></p>
+
+        <p><b>Prize money worth:</b> &nbsp; Rs. 20,000</p>
+
+        <p><b>Contacts:</b>
+        <ol><li>S Sonali Prusty-+918763242043-17202248@ksom.ac.in
+                <li>Nishan Agarwalla-+918338075558-18202033@ksom.ac.in
+        </ol>
+
+        
+
+        </p>
+        `,
+
+        "303": `
+        <h1>Dare to Face</h1>
+        <p><b>Description:</b> A press conference scenario where the company's CEO, Product Manager and the Brand Manager come together to save the face of the Company for a product that has created havoc in the market. Only this time it's Do or Die.
+         </p>
+        
+         <p>
+        <b>Rules and regulations:</b>
+        <ul>
+        <li> It will be a group event (3 members only).
+        <li> Cases will be given at time of the event.
+        <li> 15 minutes will be given to each team to prepare their strategies.
+        <li> The conference will be for a total of 30 minutes(excluding initial 15 minutes).
+        <li> Once the press conference starts teams will be given an initial 10 minutes to give their opening statements.
+        <li> This will be followed by 15 minutes of confrontation with the press.
+        <li> The conference will end with the closing statement made by the CEO for which an additional 5 minutes will be given.
+
+
+        </ul></p>
+
+        <p><b>Prize money worth:</b> &nbsp; Rs. 20,000</p>
+        
+        <p>
+        <b >Contacts:</b>
+        <ol><li>Rittik Sarkar-+918017126802-17202039@ksom.ac.in
+        <li>Pras Khanna-+919776922104-18202034@ksom.ac.in 
+        </ol>
+       </p>
+        `,
+        "304": `
+        <h1>Ikadhikaar</h1>
+        <p><b>Description:</b> The strategic business game this will be a monopoly team based game with riddles and puzzles. Judgement will be based on the property valuation at the ends of both the rounds.</p>
+
+        
+
+         <p>
+        <b>Rules and regulations:</b>
+
+        Team of 4 members are allowed. One will throw the dice and others will strategize the move and game rules.
+        Price of all properties will be hidden and can only be known after they solve a riddle provided.
+        There will be a limit on amount that can be spent by the teams in one round.
+        Chance slot will have pick up chit system that will constitute of negative and positive task.
+        Round 1:
+        <ul>
+        <li> One team need to decide based on the amount whether to purchase the property or not.
+        <li> On the purchased property of any team, the other teams had to pay rent.
+        <li> Until the last team reaches the starting point the game goes on.
+        <li> The puzzles provided will be based on mind logics and reasoning.
+        </ul>
+        </p>
+
+        <p>Round 2:
+        There will be a hidden growth percentage associated in all the properties.
+        If a team wants to purchase any other property and they fall in scarce of the amount, then they need to auction their property. The winner in both the rounds will solely be decided based on the end of the entire round on the basis of the highest amount spent by the team in generating the properties + the earning of the team from their properties in terms of rent, mortgage.
+        </p>
+
+
+
+
+        <p><b>Prize money worth:</b> &nbsp; Rs. 20,000</p>
+
+        <p><b>Contacts:</b>
+                <ol><li>Aditya Mitra-8339840067-17202072@ksom.ac.in
+        <li>        Ujjwal Mahato-9668219321-18202070@ksom.ac.in<
+
+        </ol>
+
+        </p>
+        `,
+
+        "305": `
+        <h1>Milk Run</h1>
+        <p><b>Description:</b>Have you ever thought about how a milk man strategies his distribution. If not, then start thinking, register and participate.
+        Event Based on Supply Chain Management. There will be five teams working as distributors with limited funds. They will be buying materials from warehouse and selling them to retailers by overcoming challenges of logistics.
+        Participants will be learning about logistics, dead stock, limited working capital and supply chain</p>
+         
+         <p>
+        <b>Rules and regulations:</b>
+        <ul>
+        <li> Total team members: 4
+        <li> Each Team from all the participating team gets a lump sum and equal amount of money, which they will use to place order for raw materials.
+        <li> The vendor manages the order of the customers, notes the raw material requirement of customers and is assisted by the Material manager who keeps the stock in hand details and helps in receiving convenient orders as per availability of stock in warehouse.
+        <li>  Other two members of the team will be managing the flow of goods and cash in and out of warehouse.
+
+
+        </ul></p>
+
+        <p><b>Prize money worth:</b> &nbsp; Rs. 20,000</p>
+
+        <p><b>Contacts:</b>
+        <ol><li>Akriti Raj-7504429751-17202073@ksom.ac.in
+        <li>Shashi Sekhar Ray-7980357048-18202055@ksom.ac.in
+        </ol>
+        </p>
+        `,
+
+
+
+        "306": `
+        <h1>Synergy Konflictus 5.0</h1>
+ 
+        <p><b>Description:</b>Managing Human Capital is a key business function. Happy employees results in better productivity & greater growth. This game will give participants a firsthand feel of managing employees.</p>
+        
+
+         <p>
+        <b>Rules and regulations:</b>
+        </p>
+        <p>The Activity will be completed in 3 individual levels divided in level 1,2,3 respectively:
+        <ol >
+
+        <li>The first level will be focusing on identifying and understanding the various situations presented in form of audio visual clipping that people are familiar with & usually came across in organization or with friends and family.
+        <li>The second level will focus on communication an integral part in anyone’s life, creative thinking and time management.
+        <li>The third level will be focusing on decision making and their approaches to situation to the situations observed in level 1 & 2 along with synergy with team members.
+        <li>Each level will be scored on various parameters and the team scoring maximum points win.
+        </ol></p>
+
+        <p><b>Prize money worth:</b> &nbsp; Rs. 20,000</p>
+
+        <p>
+        <b>Contacts:</b>
+        <ol><li>Puja Singh-7209248102-17202177@ksom.ac.in
+        <li>Ashrita Das-7330747346-18202016@ksom.ac.in
+
+        </ol>
+
+        </p>
+        `,
 
 
 
