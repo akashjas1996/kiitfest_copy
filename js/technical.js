@@ -128,6 +128,8 @@ function eventNamesHTML(department) {
     var active = "";
     id -= eventNo;
 
+    console.log(eventList);
+
     for(let i = 1; i <= eventNo; i++) {
         if(eventList.includes(String(id + i)))
             active = "class='active' ";

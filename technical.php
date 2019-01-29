@@ -8,7 +8,12 @@
   $event_list = $sql->getEventList($sql->getKFID());
   $js = json_encode($event_list);
 
-  echo "<script>var eventList = ". $js. ";\n";
+  if($isLogin) {
+    echo "<script>var eventList = ". $js. ";\n";
+  }
+  else {
+    echo "<script>var eventList = [];\n";
+  }
   echo 'var isLogin = '. $isLogin. ';</script>';
 ?>
 
