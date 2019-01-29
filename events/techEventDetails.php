@@ -782,10 +782,7 @@
 
             <p><b>Contact Details:</b></p>
             <ol>
-                <li>Ankita Kumari - 7978136032 
-                <li>Bhavya Raj - 779020901 
-                <li>Natasha Michael - 8902424688 
-                <li>Shalini Jha - 9937944625
+                <li>Indrashis Das - 9874565228 
             </ol>
 `,
         
@@ -827,7 +824,6 @@
             </ol></p>
             <p><b>Contact Details:</b>
             <ul>
-            <li>Indrashis Das (7980620325)
             <li>Adarsh Parashar (7985235594)
             </ul></p>
         `,
@@ -889,7 +885,6 @@
 		<p><b>Contact Details : </b>
 		<ul>
 		<li>Shikher Trivedi (8765855714)
-		<li>Kaushtoov Biswas (9078802955)
 		</ul>
 		</p>
 
@@ -924,7 +919,8 @@
 		<li>2nd: 8000/-</ul></p>
 
 		<p><b>Contact Details:</b>
-
+        <ol>
+            <li> Ankita Kumari - 7978136032
 		</p>
          `,
 
