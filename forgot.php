@@ -1,8 +1,4 @@
 <?php
-include "sql.php";
-$sql = new sql();
-?>
-<?php
     @require_once("db_connection.php");
     use PHPMailer\PHPMailer\PHPMailer;
     use PHPMailer\PHPMailer\Exception;
