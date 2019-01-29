@@ -165,7 +165,7 @@ p { font-family: Montserrat; }
 
 /* Modal */
 .modal {
-    display: hidden;
+    display: none;
 }
 
 @media (max-width: 768px) {
@@ -203,6 +203,7 @@ p { font-family: Montserrat; }
         visibility: hidden;
         transition: visibility 0s linear 0.25s, opacity 0.25s 0s;
     }
+
     .modalContent {
         position: absolute;
         top: 5%;
@@ -245,4 +246,48 @@ p { font-family: Montserrat; }
 }
 
 
+.gears {
+    display: block;
+    margin: auto;
+    height: 240px;
+    fill: rgba(255,255,255, 0.8);
+    animation: upDown 3s infinite cubic-bezier(0.445, 0.05, 0.55, 0.95);
+}
+
+.gear1, .gear3 {
+    animation: rotateCW 3s infinite linear;
+}
+
+.gear1 {
+    transform-origin: 29.5% 29.5%;
+    fill: rgb(85, 178, 255);
+}
+
+.gear2 {
+    animation: rotateCCW 2.8s infinite linear;
+    transform-origin: 75.6% 54.9%;
+    fill: rgb(85, 215, 255);
+}
+
+.gear3 {
+    transform-origin: 39.33% 80.33%;
+    animation-duration: 2.4s;
+    fill: rgb(58, 255, 222);
+}
+
+@keyframes upDown {
+    0% { transform: translateY(0)}
+    50% { transform: translateY(30px)}
+    100% { transform: translateY(0)}
+}
+
+@keyframes rotateCW {
+    0% { transform: rotate(0)}
+    100%{ transform: rotate(360deg)}
+}
+
+@keyframes rotateCCW {
+    0% { transform: rotate(0)}
+    100%{ transform: rotate(-360deg)}
+}
 
