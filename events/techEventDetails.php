@@ -1542,7 +1542,112 @@ The bots first arrive at Checkpoint A.
 <p> Bishal: 9401476420 </p>
 <p> Saswata: 8116340242 </p>
 `,
-        "707": "RoboWar",
+        "707": `<h1> ROBOWAR </h1> 
+ <p> <b> Task: Design and construct a remote-controlled robot capable of fighting a one on one tournament.  </p> </b> 
+ <p> <b>  Dimensions and Fabrications: </p> </b> 
+<ul> 
+<li>  The machine should fit in a box of dimension 400mm x 400mm x 400 mm (lx w x h) at any given point during the match. The external device used to control the machine or any external tank is not included in the size constraint. </li>
+<li> The machine should not exceed 20 kg but tolerance of 5% will be allowed.</li>
+<li> Mobility: All robots must have easily visible and controlled mobility in order to compete. Methods of mobility include:</li>
+ <li> Rolling (wheels, tracks or the whole robot). </li>
+ <li> Non-wheeled robots having no rolling elements in contact with the floor and any continuous rolling or cam operated motion in contact with the floor, either directly or via a linkage. Motion is "continuous" if the continuous operation of the drive motor(s) produces continuous motion of the robot. Linear-actuated legs and novel non-wheeled drive systems come under this category. </li>
+ Jumping and hopping are not allowed. Flying (using airfoil, helium balloons etc.) is not allowed.
+</ul>
+<p> <b> Rules and Regulations :</p> </b> 
+<ul> 
+<li> The machine can be controlled through wired or wireless remote. In case of wireless remote Power supply should be on board only. Refer below for further details on battery and power. </li>
+
+<li> There should be binding capability between transmitters and receivers and they must connect between polycarbonate (6mm), metal bars barriers. The remotes with such facility will only be allowed. </li>
+
+<li> Nonstandard or self-made remote control systems must first be approved by the organizers. </li>
+
+<li> The team should pair up the wireless remote with the machine before putting it into the arena.</li>
+
+<p> <b>Battery and Power: </p> </b> 
+<ul> 
+<li>
+ The machine can be powered electrically only. Use of an IC engine in any form is not allowed. Onboard batteries must be sealed, immobilized-electrolyte types (such as gel cells, lithium, NiCad, NiMH, or dry cells). </li>
+<li>
+ The electric voltage between 2 points anywhere in the machine should not be more than 36V DC at any point in time. </li>
+<li>
+All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause direct disqualification.</li>
+<li>
+ Use of damaged, non-leak proof batteries may lead to disqualification. </li>
+<li>
+Special care should be taken to protect the onboard batteries. If judges found that the battery is not properly protected, then the team will be disqualified immediately. </li>
+<li>
+ Change of battery will not be allowed during the match. </li>
+<li>
+ It is suggested to have an extra battery ready and charged up during the competition so that on advancing to next level, you don’t have to wait or suffer due to an uncharged battery. If teams don’t show up on the allotted slot, they will be disqualified. Hydraulics:</li>
+<li>
+ A Robot can use non-inflammable liquid to actuate hydraulic devices e.g. cylinders. </li>
+<li>
+ All hydraulic components onboard must be securely mounted. Special care must be taken while mounting pump, accumulator and armour to ensure that if ruptured direct fluid streams will not escape the robot. </li>
+<li>
+ All hydraulic liquids are required to be non-corrosive and your device should be leak proof. </li>
+<li>
+ Maximum allowed pressure is 12 bars. </li>
+<li>
+ Participant must be able to indicate the used pressure with integrated or temporarily fitted pressure gauge.</li>
+ <li>
+ Entire hydraulic setup should be on board, no external input (from outside the arena) can be given to the robot for functioning of its hydraulic system </li> </ul>
+<p> <b>Weapons Systems: </p> </b> 
+<ul>
+<li> Robots can have any kind of cutters, flippers, saws, lifting devices, spinning hammers etc. as weapons with following exceptions and limitations: 
+<li> Liquid projectiles.</li>
+ <li> Any kind of inflammable liquid. </li>
+<li> Flame-based weapons. </li>
+</ul>
+<p> <b>Judging Criteria: </p> </b> 
+<ul>
+<li> A robot is declared victorious if its opponent is immobilized. </li>
+<li> A robot will be declared immobile if it cannot display linear motion of at least one inch in a time period of 30 seconds. A bot with one side of its drivetrain disabled will not be counted out if it can demonstrate some degree of controlled movement. In case both the robots remain mobile after the end of the round then the winner will be decided subjectively. </li>
+<li> A robot that is deemed unsafe by the judges after the match has begun will be disqualified and therefore declared the loser. The match will be immediately halted and the opponent will be awarded a win.</li>
+ <li> If a robot is thrown out of the arena the match will stop immediately, and the robot still inside the arena will automatically be declared as the winner. </li>
+<li> Robots cannot win by pinning or lifting their opponents. Organizers will allow pinning or lifting for a maximum of 20 seconds per pin/lift then the attacker robot will be instructed to release the opponent. If, after being instructed to do so, the attacker is able to release but does not, their robot may be disqualified. If two or more robots become entangled or a crushing or gripping weapon is employed and becomes trapped within another robot, then the competitors should make the timekeeper aware, the fight should be stopped and the robots separated by the safest means.</li>
+<li> Points will be given on the basis of aggression, damage, control and strategy. </li>
+<li> Aggression – Aggression is judged by the frequency, severity, boldness and effectiveness of attacks deliberately initiated by the robot against its opponent. If a robot appears to have accidentally attacked an opponent, that act will not be considered Aggression.</li>
+ <li> Control – Control means a robot is able to attack an opponent at its weakest point, use its Weapons in the most effective way, and minimize the damage caused by the opponent or its weapons. </li>
+<li> Damage – Through deliberate action, a robot either directly or indirectly reduces the functionality, effectiveness or defensibility of an opponent. Damage is not considered relevant if a robot inadvertently harms itself. Also, if a pressure vessel or a rapidly spinning device on a robot fragments, any damage to the opponent will not be considered "deliberate". </li>
+<li> Strategy – The robot exhibits a combat plan that exploits the robot's strengths against the
+weaknesses of its opponent. The strategy is also defined as a robot exhibiting a deliberate defence plan that guards its weaknesses against the strengths of the opponent. (NOTE: Qualification of a robot to the next level be subjective and totally on the decision of the judges. A robot winning in a round against its opponent doesn’t guarantee its entrance into the next round. If the judges found the winner robot incompetent to enter into the next round, it may get disqualified. Judges can disqualify both the robots of a match from advancing to the next round. All the decisions taken by the judge will be final and binding to all. Any queries afterwards will not be entertained.) 
+
+<p> <b>Team Specification: </p> </b> 
+<ul>
+<li> Any team can participate in Robowars, KIITfest. A team may consist of a maximum of 5 participants. These participants can be from the same institute. 
+<li> Team Name: Every team must have a name which must be unique. KIITfest reserves the right to reject entries from any Team whose name it deems inappropriate, offensive or conflicting. Organizers must be notified during if a Team's name has been changed. 
+<li> Team Representative: Each team must specify their Team Representative (Leader) at the time of registration. All-important communications between KIIT FEST team members and the registered teams will be done through their Team Representative. The Team representatives must submit valid contact details (phone no., email ID etc.) at the time of registration. (NOTE: During any kind of conversation, registration, communication, mails or submissions the team must identify themselves by their Team ID only provided at the time of registration and not by your team name. Please do not use your team name as your identification in any kind of communication with us. Follow this rule very strictly.)
+</ul>
+<p> <b>Event Specific Terminologies: </p> </b> 
+<ul>
+<li> Disabled – A robot is not functioning correctly due to either an internal malfunction or contact with the opposing robot or Arena Hazard. </li>
+<li> Disqualification – A Robot is no longer permitted to compete in the current Robowars
+Tournament. </li>
+<li> Immobilized – In Judge's opinion, a robot is not responsive for a specified period of time. </li>
+<li>Knockout – Occurs when the attack or deliberate actions of one robot causes its opponent to
+become immobilized. </li>
+<li> Lifting – Occurs when one robot controls an opponent's translational motion by lifting the drive mechanism of the opponent off of the Arena floor. </li>
+<li> No Contact – Occurs when neither robot makes contact with each other for a specified period of time. </li>
+<li> Pinning – Occurs when one robot, through sheer force, holds an opponent stationary in order to immobilize it. </li>
+<li> Radio Interference – Refers to the situation where at least one robot becomes non-Responsive or non-controllable due to the effect of the other robot's remote-control signal. </li>
+<li> Non-Responsive – In a Referee's opinion, the robot cannot display some kind of controlled translational movement along the Arena floor.</li>
+ <li> Restart – Occurs after a Fault or a Timeout has been declared and the competing robots are ready to continue. </li>
+<li> Stuck – A robot is hung-up on a part of the Arena, an Arena Hazard or an opponent, such that it is effectively non-responsive. </li>
+<li> Tap-Out – Occurs when a Robot's Operators decide that they no longer want to continue the
+Match, and concede the win to the opposing Team. </li>
+<li> Technical Knockout – Occurs when a robot wins due to immobilization of its opponent even
+though, in the Judges' opinion, no action of the winning robot caused the opponent's immobilization. </li>
+<li>  Timeout – A temporary halting of a Match. Timeouts are usually called to separate robots but
+can be called for other reasons as well. </li>
+</ul>
+<p> <b>Prize Money: </p> </b> 
+
+Rs: 75,000/-
+<p> <b>Contact Details: </p> </b> 
+
+<p> Sandipan: 9804113215 </p>
+<p> Sourav: 8348518426 </p>
+`,
         "708": `<h1> KIWI-(Electronics Trivia Quiz Game) </h1>
 <p> <b> Description: </b> </p>
 <p> It is an online quiz that is totally related to the electronics circuits and its equivalent and the participants will have ten seconds to choose the answer amongst the options provided. This event will be conducted thrice a day after some events so that the enthusiasm among the participants is maintained. The different pages of the application involve the registration page and each quiz question page. </p>
