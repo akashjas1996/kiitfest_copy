@@ -15,8 +15,8 @@
         "206": "Pixeloscope",
         "207": "Shabd-War",
 
-        "301": "Stock Challenge",
-        "302": "Kraack the Story",
+        "301": "Business Simulation",
+        "302": "Dalal Street",
         "303": "Dare to Face",
         "304": "Ikadhikaar",
         "305": "Milk Run",
@@ -546,70 +546,62 @@
 
 
         
-        //VYAPAAR(KSOM)
+        //KSOM
         "301": `
-        <h1>Stock Challenge</h1>
+        <h1>Business Simulation</h1>
         <hr>
-        <p><b>Description:</b> Stock challenge is a game of virtual stock market where you build your portfolio and react to the market volatility. Make more investments and get more returns. With this event, you get an experience similar to that of the original trading platform without even spending a single real buck.
+        <p><b>Description:</b>A scenario and numeric based game that tests the overall business acumen of teams in a competitive scenario.
         </p>
          
 
          <p>
         <b>Rules and regulations:</b>
         <ul>
-        <li>1. Participants participate individually.
+        <li>Team should consist of minimum 2 members and maximum 3 members.
 
-        <li>2. Participants would be provided with a laptop where there would be an online platform for virtual stock market trading. 
+        <li>There is no limit to the number of teams participating from an institute.
 
-        <li>3. A virtual ID would be created of Rs.2500000 portfolio.
+        <li>A student cannot be part of more than one team.
 
-        <li>4. Participants are required to buy or sell stocks according to their judgement.
-
-	<li>5. At the end of the trading, the one with a portfolio of Rs.2500000 or more wins. 
+        <li>The members of teams cannot be from different institutes.
 
         </ul>
         </p>
 
-        <p><b>Prize Money:</b>
-	<li>Winner - Rs. 40,000</li><br>
-	<li>1st Runner up - Rs. 10,000</li><br>
-	<li>2nd Runner up - Rs. 10,000</li><br>
-	</p>
-
-	<p>ICICI Centre of Financial Learning (ICFL) will provide scholarships to the winners.</p>
+        <p><b>Prize money worth:</b> &nbsp; Rs. 40,000</p>
         
         <p><b>Contacts:</b>
         <ol>    
-        <li>S Sonali Prusty-+918763242043-17202248@ksom.ac.in
-        <li>Nishan Agarwalla-+918338075558-18202033@ksom.ac.in
+        <li>Rittik Sarkar-+918017126802-7202039@ksom.ac.in
+        <li>Pras Khanna-+919776922104-18202034@ksom.ac.in 
         </ol>
 
         </p>
         `,
         "302": `
-        <h1>Kraack the Story</h1>
+        <h1>Dalal Street</h1>
         <hr>
-        <p><b>Description:</b>An analytical game that tests the overall business acumen of teams in a competitive scenario.
+        <p><b>Description:</b> Dalal Street is a game of virtual stock market where you build your portfolio and react to the market volatility. Make more investment to get more returns.
          </p>
        
 
          <p>
-        <b>Rules and Regulations:</b>
+        <b>Rules and regulations:</b>
         <ul>
-        <li> Team should consist of minimum 2 members and maximum 3 members.
-        <li> A student cannot be part of more than one team.
-        <li> The members of teams cannot be from different institutes.
+        <li> Participants participate individually.
+        <li> Participants would be provided with a laptop where there would be an online platform for virtual stock market trading.
+        <li> A virtual ID would be created of Rs.2500000 portfolio.
+        <li> Participants are required to buy or sell stocks according to their judgement.
+        <li> At the end of the trading, the one with a portfolio of Rs.2500000 or more wins.
+
 
         </ul></p>
 
-        <p><b>Prize money worth:</b>
-	<li>1st Prize - Rs. 25,000</li><br>
-	<li>2nd Prize - Rs. 15,000</li><br>
-	</p>
+        <p><b>Prize money worth:</b> &nbsp; Rs. 20,000</p>
 
         <p><b>Contacts:</b>
-        <ol><li>Rittik Sarkar-+918017126802-17202039@ksom.ac.in
-                <li>Pras Khanna-+919776922104-18202034@ksom.ac.in
+        <ol><li>S Sonali Prusty-+918763242043-17202248@ksom.ac.in
+                <li>Nishan Agarwalla-+918338075558-18202033@ksom.ac.in
         </ol>
 
         
@@ -637,53 +629,47 @@
 
         </ul></p>
 
-        <p>
-	<b>Prize money worth:</b>
-	<li>1st - Rs. 20,000</li><br>
-	<li>2nd - Rs. 8,000</li><br>
-	</p>
+        <p><b>Prize money worth:</b> &nbsp; Rs. 20,000</p>
         
         <p>
-        <b>Contacts:</b>
+        <b >Contacts:</b>
         <ol><li>Rittik Sarkar-+918017126802-17202039@ksom.ac.in
-        <li>Paras Khanna-+919776922104-18202034@ksom.ac.in 
+        <li>Pras Khanna-+919776922104-18202034@ksom.ac.in 
         </ol>
        </p>
         `,
         "304": `
         <h1>Ikadhikaar</h1>
         <hr>
-        <p><b>Description:</b> This strategic business game, quite similar to monopoly, will be a team based game with riddles and puzzles. The victor will be crowned based on the property valuation at the conclusion of both the rounds.</p>
+        <p><b>Description:</b> The strategic business game this will be a monopoly team based game with riddles and puzzles. Judgement will be based on the property valuation at the ends of both the rounds.</p>
 
         
 
          <p>
-        <b>Rules and Regulations:</b>
+        <b>Rules and regulations:</b>
 
-       	Each team shall consist of 4 members.One member has to roll the dice and move the game forward.
-	Every team will be given a specific event.
-	There will be a limit on the amount spent by the teams for each round. No team can spend higher than that amount.
+        Team of 4 members are allowed. One will throw the dice and others will strategize the move and game rules.
+        Price of all properties will be hidden and can only be known after they solve a riddle provided.
+        There will be a limit on amount that can be spent by the teams in one round.
+        Chance slot will have pick up chit system that will constitute of negative and positive task.
         Round 1:
         <ul>
-        <li> A team need to decide based on the amount provided to them whether to purchase the property or not.
-        <li> On the purchased property of any team if other team lands, the other team has to pay the rent.
-        <li> The game will go on till the last team reaches the starting point. 
-        <li> The puzzles provided will be based on logic and reasoning.
+        <li> One team need to decide based on the amount whether to purchase the property or not.
+        <li> On the purchased property of any team, the other teams had to pay rent.
+        <li> Until the last team reaches the starting point the game goes on.
+        <li> The puzzles provided will be based on mind logics and reasoning.
         </ul>
         </p>
 
         <p>Round 2:
-        There will be a hidden growth percentage associated to all the properties. 
-       	If a team wants to purchase any other property and they do not have the necessary amount, they have to auction their property. The winner of both the rounds will be decided based on the amount spent by the team in generating the properties in addition to the earnings of the team from their properties in terms of rent and  mortgages.
+        There will be a hidden growth percentage associated in all the properties.
+        If a team wants to purchase any other property and they fall in scarce of the amount, then they need to auction their property. The winner in both the rounds will solely be decided based on the end of the entire round on the basis of the highest amount spent by the team in generating the properties + the earning of the team from their properties in terms of rent, mortgage.
         </p>
 
 
 
 
-        <p><b>Prize money worth:</b>
-	<li>1st Prize - Rs. 20,000</li><br>
-	<li>2nd Prize - Rs. 8,000</li><br>
-	</p>
+        <p><b>Prize money worth:</b> &nbsp; Rs. 20,000</p>
 
         <p><b>Contacts:</b>
                 <ol><li>Aditya Mitra-8339840067-17202072@ksom.ac.in
@@ -697,25 +683,22 @@
         "305": `
         <h1>Milk Run</h1>
         <hr>
-        <p><b>Description:</b>Based on Supply Chain Management, there will be five teams working as distributors with limited funds. They will be buying materials from the warehouse and selling them to the retailers by overcoming the challenges commonly seen in logistics.</p>
-	<p>Participants will be learning about logistics, dead stock, limited working capital and supply chain.</p>
+        <p><b>Description:</b>Have you ever thought about how a milk man strategies his distribution. If not, then start thinking, register and participate.
+        Event Based on Supply Chain Management. There will be five teams working as distributors with limited funds. They will be buying materials from warehouse and selling them to retailers by overcoming challenges of logistics.
+        Participants will be learning about logistics, dead stock, limited working capital and supply chain</p>
          
          <p>
-        <b>Rules and Regulations:</b>
+        <b>Rules and regulations:</b>
         <ul>
-        <li> Total members in a team: 4
-        <li> Each team gets an equal amount of money which they will use to place orders for raw materials.
-        <li> The vendor manages the order of the customers, notes the raw material requirements of the customers and is assisted by the Material Manager who keeps the stock in hand details and receives orders as per the availability of stock in the warehouse.
-        <li> Other two members of the team will be managing the flow of goods and cash in and out of warehouse.
+        <li> Total team members: 4
+        <li> Each Team from all the participating team gets a lump sum and equal amount of money, which they will use to place order for raw materials.
+        <li> The vendor manages the order of the customers, notes the raw material requirement of customers and is assisted by the Material manager who keeps the stock in hand details and helps in receiving convenient orders as per availability of stock in warehouse.
+        <li>  Other two members of the team will be managing the flow of goods and cash in and out of warehouse.
 
 
         </ul></p>
 
-        <p>
-	<b>Prize money worth:</b>
-	<li>1st Prize - Rs. 20,000</li><br>
-	<li>2nd Prize - Rs. 8,000</li><br>
-	</p>
+        <p><b>Prize money worth:</b> &nbsp; Rs. 20,000</p>
 
         <p><b>Contacts:</b>
         <ol><li>Akriti Raj-7504429751-17202073@ksom.ac.in
@@ -730,33 +713,22 @@
         <h1>Synergy Konflictus 5.0</h1>
         <hr>
  
-        <p><b>Description:</b>Managing Human Capital is a key business function. Happy employees results in better productivity & greater growth. To help the participants understand that conflict is a natural occurrence and that everyone has a different approach in dealing with the conflict situations, situations will be created for the participants to learn about the various approaches to dealing with conflicts.</p>
+        <p><b>Description:</b>Managing Human Capital is a key business function. Happy employees results in better productivity & greater growth. This game will give participants a firsthand feel of managing employees.</p>
         
 
          <p>
-        <b>Rules and Regulations:</b>
+        <b>Rules and regulations:</b>
         </p>
-        <p>The Activity will be conducted in different levels.
+        <p>The Activity will be completed in 3 individual levels divided in level 1,2,3 respectively:
         <ol >
 
-        <li>There will be an elimination round based on a business quiz.
-        <li>The first level will be audio visual round where one of the team member has to guess the word or sentence in the audio visual clipping.
-        <li>In the second level, one of the members will use non-verbal gestures to explain the other two members the word or sentence of the audio visual clipping. 
-	</ol></p>
-
-	<p>
-	<b>Rules:</b>
-	</p>
-	<ol>
-        <li>Each level is a time based one.
-	<li>Hints may be used but after deduction of 50% of the points.
-	<li>The team securing the maximum points wins the game.
+        <li>The first level will be focusing on identifying and understanding the various situations presented in form of audio visual clipping that people are familiar with & usually came across in organization or with friends and family.
+        <li>The second level will focus on communication an integral part in anyone’s life, creative thinking and time management.
+        <li>The third level will be focusing on decision making and their approaches to situation to the situations observed in level 1 & 2 along with synergy with team members.
+        <li>Each level will be scored on various parameters and the team scoring maximum points win.
         </ol></p>
 
-        <p><b>Prize money worth:</b> 
-	<li>1st Prize - Rs. 20,000</li>
-	<li>2nd Prize - Rs. 8,000</li>
-	</p>
+        <p><b>Prize money worth:</b> &nbsp; Rs. 20,000</p>
 
         <p>
         <b>Contacts:</b>
@@ -1175,14 +1147,438 @@
 
 
         //Nirminite
-        "601": "",
-        "602": "",
-        "603": "",
-        "604": "",
-        "605": "",
-        "606": "",
-        "607": "",
-        "608": "",
+        "601": `
+              <h1>Burj-Al-Paper</h1>
+        <hr>
+        <p><b>Description:</b> 
+	</p>
+             Burj-Al-Paper is an event in which participating teams need to build free standing frame by news-papers and tape only.
+        <p>
+        <b>Rules and regulations:</b>
+        <ul>
+        <li>The event is open to all.</li>
+        <li>Teams must consist of a minimum of 3 and maximum of 5 participants.</li>
+        <li>No two teams must have any common member.</li>
+        <li>The time limit for the completion is 3 hrs.</li>
+        <li>The task of each team is to design a free standing frame made of newspaper & tape only (any other material like glue is not allowed).</li>
+        <li>Only the base & tape will be given. No part of the structure may extend outside the perimeter of the base. </li>
+        <li>Material like stick is not allow to stable the structure.</li>
+        <li>Teams must have to carry newspaper & scissors.</li>
+        </ul></p>
+        <p><b>Judgement:</b></p>
+            <ul>
+                <li>The final decision will be made on the basis of aesthetic view, height & stability of the structure.</li>
+            </ul>
+        <p><b>Prize Money:</b>
+	<ul>
+	    <li>1st : Rs 8000/-
+	    <li>2nd: Rs 5000/-
+	</ul></p>
+        <b >Contacts Details:</b>
+        <ol>
+         <li>Rishabh Shukla-9984816911</li>
+         <li>Trisha Bej-7873877211</li>
+         <li>Nilanjana Saha-8256928203</li>
+        </ol>
+        </p>
+         `,
+        "602": `
+         <h1>CAD-NOVUS</h1>
+         <hr>
+	 <p><b>Guidelines:</b>
+	   <ul>
+            <li>Problem Statement – Design an innovative plan and sectional view for a G+1 residential building with all necessary amenities.</li>
+            <li>The plot area must be equal to 1750sqft (35’x50’) .</li>
+            <li>Location – Bhubaneswar, Odisha, India.</li>
+            <li>Client Requirements – Lawn, Car Parking, 2 No’s Bedroom, Kitchen, Washroom, Living Area for Ground Floor and Open Terrace, 3 No’s Bedroom, Kitchen, Washroom, Living Area for First Floor. 
+            </li>
+           </ul>
+	 </p>
+
+	 <p><b>Rules and Regulations:</b>
+	 <ul>
+	    <li>Single Participation (Can use a rough paper for sketching).</li>
+	    <li>Time Allotted – 2 Hours</li>
+	    <li>Software to be used – AutoCAD 2016 and above </li>
+	 </ul>
+	 </p> 
+
+	 <p><b>Judgement Criteria:</b>
+	 <ol>
+	     <li>Most Innovative Plan, Energy Efficient Plan and New Design i.e. not copied from Google.</li>
+	     <li>Economical from Structural Point of View.</li>
+	 </ol>
+	 </p> 
+	 <p><b>Prize Money:</b>
+	 <ul>
+	 <li>1st : Rs 8000/-
+	 <li>2nd:  Rs 5000/-
+	 </ul></p> 
+	 <p><b>Contact Details:</b>
+          <ul>
+	    <li>Linita George (9475529615)</li>
+            <li>Mohit Sharma (9460852198)</li>
+            <li>Debarshee Das(9078802266)</li>
+          </ul>
+         </p>
+         `,
+        "603": `
+           <h1>Civi Kalakaar</h1>
+         <hr>
+	 <p><b>Description:</b>
+	   <ul>
+              <li>
+                 As the world is progressing with its full velocity, so are the young engineering minds with their innovations and 
+                 sketching skills. Introducing a world of creativity where you can transfer your virtual world into the real world 
+                 as well as real world into more innovative world. Sketching is the best way to express your feelings and emotions, 
+                 thus we bring forward you this event where you can display your innovative talent, creative skills and discover the 
+                 “Real Artist” with in you. Students will be provided with certain materials and themes, and they need to showcase the 
+                 thoughts through their sketch related to Civil Engineering Structures and monuments.
+	      </li>
+           </ul>
+	 </p>
+         
+        <p><b>Theme:</b>
+          <ul>
+             <li>Smart Building Environment.</li>
+             <li>Monuments(including wondrous structures around the world, real life structures etc.)</li>
+             <li>Structures including Airports, Bridges and Dams.</li>
+             <li>Civil engineering innovations.</li>
+             <li>Architectural interior Design Sketch.</li>
+             <li>Smart Traffic Control Design.</li>
+             <li>Sketch including concepts of Smart City.</li>
+             <li>Rapid Transit System- including metro , bullet trains and BRTS.</li>
+             <li>Smart waste Management System.</li>
+          </ul>
+	</p>
+
+	 <p><b>Rules and Regulations:</b>
+	 <ul>
+	    <li>Open only for individual participation.</li>
+	    <li>Time is restricted to 3 hours.</li>
+	    <li>This is an on-spot event.</li>
+            <li>Participants are required to bring their own colours/pencils/crayons etc.that best suits their sketch</li>
+            <li>Participants are required to submit a small write up describing their sketch.</li>
+            <li>Drawing sheets will be provided by the coordinators.</li>
+	 </ul>
+	 </p> 
+
+	 <p><b>Judgement Criteria:</b>
+	 <ol>
+	     <li>Judgement will be based according to the theme. The participant producing the most innovative sketch according to the theme will be declared as the winner .</li>
+	     <li>The result will be announced by the jury members.</li>
+	 </ol>
+	 </p> 
+	
+	 <p><b>Contact Details:</b>
+          <ul>
+	    <li>Shouvik Bhattacharya- 9830816227</li>
+            <li>Pratik Pegu- 7606926969</li>
+          </ul>
+         </p>
+         `,
+        "604": `
+            <h1>Cryptic Crossword</h1>
+         <hr>
+	 <p><b>Description:</b>
+	   <ul>
+              <li>
+                 A cryptic crossword is a fun event in which a team is given a jumbled crossword puzzle which they have to solve.  
+                 After solving that puzzle, team members have to convey the hidden message to the other teammates. This event aims 
+                 for providing some refreshment to all participants. It involves both the physical exertion and the mental activity 
+                 of developing strategies to solve and clear the various stages of the puzzle. It is an event where everyone competes 
+                 equally, and age is not dominated by youth and learn about teamwork, gain self-confidence and develop leadership abilities 
+                 while having fun and getting welcome stress-relief.
+	      </li>
+           </ul>
+	 </p>
+         
+        <p><b>Details:</b>
+          <ul>
+             <li>Initially 1 member of the team will be given puzzles to solve.</li>
+             <li>The puzzle will make up a name of any famous monument or structures.</li>
+             <li>The 1st member will have to make 2nd member understand the name of the structure using hand or body gestures.</li>
+             <li>The 2nd member will have to guess the correct name and write it on 3rd member’s shoulder.</li>
+             <li>The 3rd member will have to guess and write the name on the board.</li>
+             <li>Teams who complete this task in less time will be the winners.</li>
+          </ul>
+	</p>
+
+	 <p><b>Rules and Regulations:</b>
+	 <ul>
+	    <li>Teams must consist of three members.</li>
+	    <li>No verbal communications are allowed. </li>
+	    <li>This is an on-spot event.</li>
+            <li>The 1st member can use the alphabetical hand gesture to make 2nd member guess the name maximum 6 times.</li>
+            <li>Coordinators' decision will be final and binding in case of any issues.</li>
+            <li>All the rules apart from these will be clearly communicated on-spot.</li>
+	 </ul>
+	 </p> 
+
+	 <p><b>Judgement Criteria:</b>
+	 <ol>
+	     <li>Top two teams solving the puzzle with minimum time will be awarded.</li>
+	 </ol>
+	 </p> 
+	  
+         <p><b>Prize Money:</b>
+	 <ul>
+	 <li>1st : Rs 8000/-
+	 <li>2nd:  Rs 3000/-
+	 </ul></p>        
+
+	 <p><b>Contact Details:</b>
+          <ul>
+	    <li>Melissa Dutta 8906219807</li>
+            <li>Vaibhav Rathore (+91 7064443343)</li>
+            <li>Swagato Saha (+91 7873688258)</li>
+          </ul>
+         </p>
+         `,
+        "605": `
+         
+         <h1>Final Destination</h1>
+         <hr>
+	 <p><b>Description:</b>
+	   <ul>
+              <li>
+                 Final Destination is a game of hunting treasures in the given steps.
+                 The team members solve the riddles & follow the clues all the way to the treasure. 
+	      </li>
+              <li>
+                 <b>PRELIMINARY SELECTION ROUND-</b>
+                 A limited number of teams will be selected via jenga challenge based on the height of the structures they create using Jenga blocks & the rules apart from this will be described on-spot. 
+	      </li>
+              <li>
+                 <b>MAIN ROUND : SEARCH THE TREASURE</b>
+                 The participants would be asked to search the treasure with the help of a clue that shall be provided at each step.
+              </li>
+           </ul>
+	 </p>
+
+	 <p><b>Rules and Regulations:</b>
+	 <ul>
+	    <li>All teams must have at least 3 members and not more than 5 members.</li>
+	    <li>Teams will have to collect treasure from that final point and reach to initial point before time limit runs out.</li>
+	    <li>Teams must stay together during the hunting and are encouraged to work together to solve the clues.</li>
+            <li>The treasure is hidden in a limited radius from the starting point.</li>
+            <li>Participating teams will have to give their team names on the day of the event.</li>
+	 </ul>
+	 </p> 
+
+	 <p><b>Judgement Criteria:</b>
+	 <ol>
+	     <li>Coordinators' decision will be final and binding in case of any issues.</li>
+             <li>All the rules apart from these will be clearly communicated in the on-spot event.</li>
+             <li>Decorum should be positively maintained.</li>
+             <li>No taking or hiding clues of the other team. Involving in malpractices of any form may result in disqualification of the team. </li>
+             <li>Prizes with authorized certificate will be given to the winners.</li>
+	 </ol>
+	 </p> 
+	  
+         <p><b>Prize Money:</b>
+	 <ul>
+	 <li>1st : Rs 12000/-
+	 <li>2nd:  Rs 8000/-
+	 </ul></p>        
+
+	 <p><b>Contact Details:</b>
+          <ul>
+	    <li>Aditya Patel- 8435822225</li>
+            <li>Sudeshna Chakraborty- 943485981</li>
+            <li>Bhaskar Bezboruah 9508461348</li>
+          </ul>
+         </p>
+         `,
+        "606": `
+            <h1>Frame-D-Bridge</h1>
+         <hr>
+	 <p><b>Description:</b>
+	   <ul>
+              <li>
+                 Bridges are an integral part of Civil Engineering. The responsibility of a Civil Engineer is to not only design 
+                 strong structure but also keep it economical and aesthetically pleasing. This event tests the mettle of participants
+                 by challenging them to design a truss bridge by using popsicle sticks, catch being that the balance between weight of
+                 materials used and load carried by the bridge is maintained i.e. the efficiency is maximised. 
+	      </li>
+           </ul>
+	 </p>
+
+         <p><b><Event Format:/b>
+               There will be only one round in which bridges will be tested. Participants have to come with their bridges. 
+               <ul>
+                 <li>
+                    Material to be Used: 
+                    <ul>
+                        <li>Popsicle sticks with dimensions (11 cm X 1.2cm 0.2cm).</li>
+                        <li>Only Fevicol can be used as adhesive, use of other adhesives will lead to disqualification.</li>
+                        <li>Use of thread is not allowed.</li>
+                    </ul>
+                 <li>
+                 <li>
+                    Dimensions of Bridge: 
+                    <ul>
+                        <li>Length: 75 cm, Width: 10-13 cm, Height: 30 cm.</li>
+                        <li>Clearance: A minimum clearance of 8 cm high and 5 cm wide should be provided for the passage of a small toy car.</li>
+                        <li>Weight: Not More than 350gm.</li>
+                    </ul>
+                 </li>
+               </ul>
+	 </p>
+
+
+	 <p><b>Rules and Regulations:</b>
+	 <ul>
+	    <li>Truss action should be ensured.</li>
+	    <li>Team size could be of 3-5 members.</li>
+	    <li>All sticks must be visible to inspection and may not be painted or stained in anyway.</li>
+            <li>All members of the team should be enrolled as students in an educational institute.</li>
+            <li>No person can be a part  of more than one team.</li>
+            <li>No other reinforcement material (like steel wires, wire mesh) will be allowed.</li>
+            <li>Bridges not meeting the requirements listed in these rules will be subject to Disqualification.</li>
+            <li>Each bridge must be able to hold the weight of the testing equipment which is about 4 kg.</li>
+            <li>Loading will be done at the Centre of Bridge. </li>
+            <li>Arch Bridge is not allowed.</li>
+            <li>Popsicle sticks should not overlap more than 1/4th of its length. </li>
+            <li>Decision of Judges will be final and binding.</li>
+	 </ul>
+	 </p> 
+
+	 <p><b>Judgement Criteria:</b>
+	 <ol>
+	     <li>
+               Each bridge will be scored in accordance to an Efficiency Rating (ER) which will be Calculated by the following Equation: 
+               <br>
+               <b>ER = (Load carried by bridge at failure) / (Weight of Bridge)</b> 
+	     </li>
+	 </ol>
+	 </p> 
+	  
+         <p><b>Prize Money:</b>
+	 <ul>
+	 <li>1st : Rs 12000/-
+	 <li>2nd:  Rs 8000/-
+	 </ul></p>        
+
+	 <p><b>Contact Details:</b>
+          <ul>
+	    <li>Nayan Gupta: 9012317476</li>
+            <li>Rajdeep Dasgupta: 9078802415</li>
+            <li>Aditi Chakraborty: 9434048742</li>
+          </ul>
+         </p>
+         `,
+        "607": `
+          
+         <h1>Model-It</h1>
+         <hr>
+	 <p><b>Description:</b>
+	   <ul>
+              <li>
+                 Models encapsulate various engineering wonders. A model is a miniature representation of any structure,
+                 both natural and man-made, that depicts its form, style, and pattern. Models revive our imagination. 
+                 So, elicit the artist hidden inside you! 
+	      </li>
+              <li>
+                 Participants are expected to build a model of a ‘’Self Sustaining Colony’’ which will produce its own electricity,
+                 reuse the waste generated from the colony, etc. The model must address the social and development concerns of a city.
+              </li>
+              <li>
+                  With a population of 1.2 billion and limited resources depleting exponentially, it is the need of the hour to 
+                  “become smart and create smart” to transform a developing country like India into a developed country. Now, the 
+                  time has come for the civil engineers to create self-sustaining and economically feasible structures. 
+                  “If not now, then never”
+	      </li>
+           </ul>
+	 </p>
+
+	 <p><b>Rules and Regulations:</b>
+	 <ul>
+	    <li>The event is open to all. </li>
+	    <li>Teams must consist of a minimum of 2 and maximum of 5 members.</li>
+	    <li>The model should be handmade with household and stationery items.</li>
+            <li>Readymade or factory model will not be accepted.</li>
+            <li>Teams have to present the detailed idea behind all features of the model within 10 minutes and there will be a query session of 5 minutes at the end of the presentation. </li>
+            <li>The decision of judges shall be final and binding.</li>
+           
+	 </ul>
+	 </p> 
+
+	 <p><b>Judgement Criteria:</b>
+	 <ol>
+	     <li>Contribution in making a city self-sustaining : 20% </li>
+             <li>Innovation : 20% </li>
+             <li>Economic feasibility : 15%</li>
+             <li>Technical accuracy and Detailing : 25%</li>
+             <li>Aesthetics : 20%</li>
+	 </ol>
+	 </p> 
+	  
+         <p><b>Prize Money:</b>
+	 <ul>
+	 <li>1st : Rs 12000/-
+	 <li>2nd:  Rs 8000/-
+	 </ul></p>        
+
+	 <p><b>Contact Details:</b>
+          <ul>
+	    <li>Sourav Paul - 8972697471</li>
+            <li>Sani Panda - 9776665193</li>
+            <li>Subhajit Das – 7735662500</li>
+          </ul>
+         </p>
+         `,
+        "608": `
+         <h1>Twister Coaster</h1>
+         <hr>
+	 <p><b>Description:</b>
+	   <ul>
+               <li>
+                   Twister Coaster is an astonishing structure which provides exciting rides without using any external power. 
+                   The event aims to provide an opportunity to the participants for acquiring such ecstatic feeling through 
+                   analysing the creativity of building a twister coaster within provided specifications.
+	        </li>
+                <li>
+                   <b>PROBLEM STATEMENT:</b><br>
+                    In this event participants will be required to make twister coaster.A marble ball will be dropped from the 
+                    starting point of the twister coaster to see distance covered by the ball and the time taken to reach the end point.
+                    The twister coaster will be made of chart paper.For pasting the paper- fevicol, sello tape and stapler pins may be used.
+                </li>
+           </ul>
+	 </p>
+
+	 <p><b>Rules and Regulations:</b>
+	 <ul>
+	    <li>It is an on Spot event.</li>
+	    <li>A single team will comprise of maximum 5 members.</li>
+	    <li>Magnets,electricity,springs and other forms of energy are not allowed to use.</li>
+            <li>The START position must be marked and the marble must END in a designated area.</li>
+	 </ul>
+	 </p> 
+
+	 <p><b>Judgement Criteria:</b>
+	 <ol>
+	     <li>Aesthetic view and Height of the structure.</li>
+             <li>Complexity of the structure.</li>
+             <li>Time taken by the marble ball to reach END point.</li>
+             <li>Efficiency.</li>
+	 </ol>
+	 </p> 
+	  
+         <p><b>Prize Money:</b>
+	 <ul>
+	 <li>1st : Rs 5000/-
+	 <li>2nd:  Rs 3000/-
+	 </ul></p>        
+
+	 <p><b>Contact Details:</b>
+          <ul>
+	    <li>Sharmili Paul - 9774812960</li>
+            <li>Shreyan S. Sharma - 8984851097</li>
+            <li>Parth Shukla - 7077885390</li>
+          </ul>
+         </p>
+         `,
 
 
 
