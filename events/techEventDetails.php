@@ -1433,20 +1433,20 @@ Team Guidelines:  </b> </p>
  <p>The Task is to build a manually controlled bot which can complete the route by overcoming the obstacles in its Path. Thus battling with the opponents based on Marginal points and timing to finally win it. The bot can be wired or wireless. In case of wireless they maybe Bluetooth controlled or Wi-Fi controlled. There are 2 rounds, Round 1 and 2 based on the difficulty level, participants will go to the next round by only clearing the preceding round. </p>
 <p> <b>  Round1 (Two bots will have to compete for each other in a race.) </b> </p>
  <p> <b> Gameplay 1: </b> </p>
- Two bots must start from the “START” mark.  
+ <p>Two bots must start from the “START” mark.  
 The bots first arrive at Checkpoint A.
  The two bots have to reach Checkpoint B after crossing the hurdles in any of the two paths. (Additional points for a difficult path.) 
  Then the bots will move towards the Checkpoint C after crossing the typical curvature.
   Then the bots will have to climb a special obstacle to reach Checkpoint D. 
- Checkpoint E will be obtained after overcoming the Staircase(ie.an escalator moving in the opposite direction). Then the bots have to go through the Roller section to reach the ‘FINISH’ MARK.
+ Checkpoint E will be obtained after overcoming the Staircase(ie.an escalator moving in the opposite direction). Then the bots have to go through the Roller section to reach the ‘FINISH’ MARK.</p>
 <p> <b>  Round2: </b> </p>
  <p> <b>  Gameplay 2:- </b> </p>
- It is a solo race; In addition to the previous Checkpoints in ROUND 1 the new Checkpoints are as follows:-
+ <p>It is a solo race; In addition to the previous Checkpoints in ROUND 1 the new Checkpoints are as follows:-
  The bot must start from the ‘START’ mark. 
  The bot will reach Checkpoint *A after avoiding the obstacles.
  The bot arrives at Checkpoint *B after going through the tunnel. 
  Checkpoint *C will be obtained after overcoming the Roller section with an additional obstacle. 
- The bot will have to choose either of the two paths to reach the Checkpoint *D or Checkpoint *E respectively and finally reach the ‘FINISH’ MARK.
+ The bot will have to choose either of the two paths to reach the Checkpoint *D or Checkpoint *E respectively and finally reach the ‘FINISH’ MARK.</p>
 <p> <b> Rules and Regulations:- </b> </p>
 <li> Teams can have a minimum of 2 and maximum of 4 members. 
 <li> Bots must not exceed the dimensions of 30x30x30(cms). 
@@ -1834,7 +1834,7 @@ Water Rocket is a mechanical event that involves the fabrication of a rocket who
 
         `,
         "807": `
-        	<h1>SUNDER MUSTERM/h1>
+        	<h1>SUNDER MUSTERM</h1>
 
 		<p><b>DESCRIPTION OF THE EVENT:</b>
 		Sunder Muster tests the participant’s mental and physical balance. This event is majorly divided into four segments consisting of a quiz, fastest fingers first, disassembly and assembly of vehicle components and then, followed by a slow bicycle race.
