@@ -15,8 +15,8 @@
         "206": "Pixeloscope",
         "207": "Shabd-War",
 
-        "301": "Business Simulation",
-        "302": "Dalal Street",
+        "301": "Stock Challenge",
+        "302": "Kraack the Story",
         "303": "Dare to Face",
         "304": "Ikadhikaar",
         "305": "Milk Run",
@@ -546,62 +546,70 @@
 
 
         
-        //KSOM
+        //VYAPAAR(KSOM)
         "301": `
-        <h1>Business Simulation</h1>
+        <h1>Stock Challenge</h1>
         <hr>
-        <p><b>Description:</b>A scenario and numeric based game that tests the overall business acumen of teams in a competitive scenario.
+        <p><b>Description:</b> Stock challenge is a game of virtual stock market where you build your portfolio and react to the market volatility. Make more investments and get more returns. With this event, you get an experience similar to that of the original trading platform without even spending a single real buck.
         </p>
          
 
          <p>
         <b>Rules and regulations:</b>
         <ul>
-        <li>Team should consist of minimum 2 members and maximum 3 members.
+        <li>1. Participants participate individually.
 
-        <li>There is no limit to the number of teams participating from an institute.
+        <li>2. Participants would be provided with a laptop where there would be an online platform for virtual stock market trading. 
 
-        <li>A student cannot be part of more than one team.
+        <li>3. A virtual ID would be created of Rs.2500000 portfolio.
 
-        <li>The members of teams cannot be from different institutes.
+        <li>4. Participants are required to buy or sell stocks according to their judgement.
+
+	<li>5. At the end of the trading, the one with a portfolio of Rs.2500000 or more wins. 
 
         </ul>
         </p>
 
-        <p><b>Prize money worth:</b> &nbsp; Rs. 40,000</p>
+        <p><b>Prize Money:</b>
+	<li>Winner - Rs. 40,000</li><br>
+	<li>1st Runner up - Rs. 10,000</li><br>
+	<li>2nd Runner up - Rs. 10,000</li><br>
+	</p>
+
+	<p>ICICI Centre of Financial Learning (ICFL) will provide scholarships to the winners.</p>
         
         <p><b>Contacts:</b>
         <ol>    
-        <li>Rittik Sarkar-+918017126802-7202039@ksom.ac.in
-        <li>Pras Khanna-+919776922104-18202034@ksom.ac.in 
+        <li>S Sonali Prusty-+918763242043-17202248@ksom.ac.in
+        <li>Nishan Agarwalla-+918338075558-18202033@ksom.ac.in
         </ol>
 
         </p>
         `,
         "302": `
-        <h1>Dalal Street</h1>
+        <h1>Kraack the Story</h1>
         <hr>
-        <p><b>Description:</b> Dalal Street is a game of virtual stock market where you build your portfolio and react to the market volatility. Make more investment to get more returns.
+        <p><b>Description:</b>An analytical game that tests the overall business acumen of teams in a competitive scenario.
          </p>
        
 
          <p>
-        <b>Rules and regulations:</b>
+        <b>Rules and Regulations:</b>
         <ul>
-        <li> Participants participate individually.
-        <li> Participants would be provided with a laptop where there would be an online platform for virtual stock market trading.
-        <li> A virtual ID would be created of Rs.2500000 portfolio.
-        <li> Participants are required to buy or sell stocks according to their judgement.
-        <li> At the end of the trading, the one with a portfolio of Rs.2500000 or more wins.
-
+        <li> Team should consist of minimum 2 members and maximum 3 members.
+        <li> A student cannot be part of more than one team.
+        <li> The members of teams cannot be from different institutes.
 
         </ul></p>
 
-        <p><b>Prize money worth:</b> &nbsp; Rs. 20,000</p>
+        <p><b>Prize money worth:</b>
+	<li>1st Prize - Rs. 25,000</li><br>
+	<li>2nd Prize - Rs. 15,000</li><br>
+	</p>
 
         <p><b>Contacts:</b>
-        <ol><li>S Sonali Prusty-+918763242043-17202248@ksom.ac.in
-                <li>Nishan Agarwalla-+918338075558-18202033@ksom.ac.in
+        <ol><li>Rittik Sarkar-+918017126802-17202039@ksom.ac.in
+                <li>Pras Khanna-+919776922104-18202034@ksom.ac.in
         </ol>
 
         
@@ -629,47 +637,53 @@
 
         </ul></p>
 
-        <p><b>Prize money worth:</b> &nbsp; Rs. 20,000</p>
+        <p>
+	<b>Prize money worth:</b>
+	<li>1st - Rs. 20,000</li><br>
+	<li>2nd - Rs. 8,000</li><br>
+	</p>
         
         <p>
-        <b >Contacts:</b>
+        <b>Contacts:</b>
         <ol><li>Rittik Sarkar-+918017126802-17202039@ksom.ac.in
-        <li>Pras Khanna-+919776922104-18202034@ksom.ac.in 
+        <li>Paras Khanna-+919776922104-18202034@ksom.ac.in 
         </ol>
        </p>
         `,
         "304": `
         <h1>Ikadhikaar</h1>
         <hr>
-        <p><b>Description:</b> The strategic business game this will be a monopoly team based game with riddles and puzzles. Judgement will be based on the property valuation at the ends of both the rounds.</p>
+        <p><b>Description:</b> This strategic business game, quite similar to monopoly, will be a team based game with riddles and puzzles. The victor will be crowned based on the property valuation at the conclusion of both the rounds.</p>
 
         
 
          <p>
-        <b>Rules and regulations:</b>
+        <b>Rules and Regulations:</b>
 
-        Team of 4 members are allowed. One will throw the dice and others will strategize the move and game rules.
-        Price of all properties will be hidden and can only be known after they solve a riddle provided.
-        There will be a limit on amount that can be spent by the teams in one round.
-        Chance slot will have pick up chit system that will constitute of negative and positive task.
+       	Each team shall consist of 4 members.One member has to roll the dice and move the game forward.
+	Every team will be given a specific event.
+	There will be a limit on the amount spent by the teams for each round. No team can spend higher than that amount.
         Round 1:
         <ul>
-        <li> One team need to decide based on the amount whether to purchase the property or not.
-        <li> On the purchased property of any team, the other teams had to pay rent.
-        <li> Until the last team reaches the starting point the game goes on.
-        <li> The puzzles provided will be based on mind logics and reasoning.
+        <li> A team need to decide based on the amount provided to them whether to purchase the property or not.
+        <li> On the purchased property of any team if other team lands, the other team has to pay the rent.
+        <li> The game will go on till the last team reaches the starting point. 
+        <li> The puzzles provided will be based on logic and reasoning.
         </ul>
         </p>
 
         <p>Round 2:
-        There will be a hidden growth percentage associated in all the properties.
-        If a team wants to purchase any other property and they fall in scarce of the amount, then they need to auction their property. The winner in both the rounds will solely be decided based on the end of the entire round on the basis of the highest amount spent by the team in generating the properties + the earning of the team from their properties in terms of rent, mortgage.
+        There will be a hidden growth percentage associated to all the properties. 
+       	If a team wants to purchase any other property and they do not have the necessary amount, they have to auction their property. The winner of both the rounds will be decided based on the amount spent by the team in generating the properties in addition to the earnings of the team from their properties in terms of rent and  mortgages.
         </p>
 
 
 
 
-        <p><b>Prize money worth:</b> &nbsp; Rs. 20,000</p>
+        <p><b>Prize money worth:</b>
+	<li>1st Prize - Rs. 20,000</li><br>
+	<li>2nd Prize - Rs. 8,000</li><br>
+	</p>
 
         <p><b>Contacts:</b>
                 <ol><li>Aditya Mitra-8339840067-17202072@ksom.ac.in
@@ -683,22 +697,25 @@
         "305": `
         <h1>Milk Run</h1>
         <hr>
-        <p><b>Description:</b>Have you ever thought about how a milk man strategies his distribution. If not, then start thinking, register and participate.
-        Event Based on Supply Chain Management. There will be five teams working as distributors with limited funds. They will be buying materials from warehouse and selling them to retailers by overcoming challenges of logistics.
-        Participants will be learning about logistics, dead stock, limited working capital and supply chain</p>
+        <p><b>Description:</b>Based on Supply Chain Management, there will be five teams working as distributors with limited funds. They will be buying materials from the warehouse and selling them to the retailers by overcoming the challenges commonly seen in logistics.</p>
+	<p>Participants will be learning about logistics, dead stock, limited working capital and supply chain.</p>
          
          <p>
-        <b>Rules and regulations:</b>
+        <b>Rules and Regulations:</b>
         <ul>
-        <li> Total team members: 4
-        <li> Each Team from all the participating team gets a lump sum and equal amount of money, which they will use to place order for raw materials.
-        <li> The vendor manages the order of the customers, notes the raw material requirement of customers and is assisted by the Material manager who keeps the stock in hand details and helps in receiving convenient orders as per availability of stock in warehouse.
-        <li>  Other two members of the team will be managing the flow of goods and cash in and out of warehouse.
+        <li> Total members in a team: 4
+        <li> Each team gets an equal amount of money which they will use to place orders for raw materials.
+        <li> The vendor manages the order of the customers, notes the raw material requirements of the customers and is assisted by the Material Manager who keeps the stock in hand details and receives orders as per the availability of stock in the warehouse.
+        <li> Other two members of the team will be managing the flow of goods and cash in and out of warehouse.
 
 
         </ul></p>
 
-        <p><b>Prize money worth:</b> &nbsp; Rs. 20,000</p>
+        <p>
+	<b>Prize money worth:</b>
+	<li>1st Prize - Rs. 20,000</li><br>
+	<li>2nd Prize - Rs. 8,000</li><br>
+	</p>
 
         <p><b>Contacts:</b>
         <ol><li>Akriti Raj-7504429751-17202073@ksom.ac.in
@@ -713,22 +730,33 @@
         <h1>Synergy Konflictus 5.0</h1>
         <hr>
  
-        <p><b>Description:</b>Managing Human Capital is a key business function. Happy employees results in better productivity & greater growth. This game will give participants a firsthand feel of managing employees.</p>
+        <p><b>Description:</b>Managing Human Capital is a key business function. Happy employees results in better productivity & greater growth. To help the participants understand that conflict is a natural occurrence and that everyone has a different approach in dealing with the conflict situations, situations will be created for the participants to learn about the various approaches to dealing with conflicts.</p>
         
 
          <p>
-        <b>Rules and regulations:</b>
+        <b>Rules and Regulations:</b>
         </p>
-        <p>The Activity will be completed in 3 individual levels divided in level 1,2,3 respectively:
+        <p>The Activity will be conducted in different levels.
         <ol >
 
-        <li>The first level will be focusing on identifying and understanding the various situations presented in form of audio visual clipping that people are familiar with & usually came across in organization or with friends and family.
-        <li>The second level will focus on communication an integral part in anyone’s life, creative thinking and time management.
-        <li>The third level will be focusing on decision making and their approaches to situation to the situations observed in level 1 & 2 along with synergy with team members.
-        <li>Each level will be scored on various parameters and the team scoring maximum points win.
+        <li>There will be an elimination round based on a business quiz.
+        <li>The first level will be audio visual round where one of the team member has to guess the word or sentence in the audio visual clipping.
+        <li>In the second level, one of the members will use non-verbal gestures to explain the other two members the word or sentence of the audio visual clipping. 
+	</ol></p>
+
+	<p>
+	<b>Rules:</b>
+	</p>
+	<ol>
+        <li>Each level is a time based one.
+	<li>Hints may be used but after deduction of 50% of the points.
+	<li>The team securing the maximum points wins the game.
         </ol></p>
 
-        <p><b>Prize money worth:</b> &nbsp; Rs. 20,000</p>
+        <p><b>Prize money worth:</b> 
+	<li>1st Prize - Rs. 20,000</li>
+	<li>2nd Prize - Rs. 8,000</li>
+	</p>
 
         <p>
         <b>Contacts:</b>
