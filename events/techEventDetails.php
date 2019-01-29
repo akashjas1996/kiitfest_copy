@@ -957,7 +957,7 @@
 
 
 		<p><b>Contact Details:</b>
-		<b>Coordinator</b> </p>
+    
 		<p> Ritik (9546862541)</p>
 
         `,
