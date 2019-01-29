@@ -1,4 +1,8 @@
 <?php
+include "sql.php";
+$sql = new sql();
+?>
+<?php
     @require_once("db_connection.php");
     use PHPMailer\PHPMailer\PHPMailer;
     use PHPMailer\PHPMailer\Exception;
@@ -400,7 +404,15 @@
 }
 
 
+/**
+ * 
+ * This is the implementation of getEventList()
+ * 
+ */
 
+// $event_list = $sql->getEventList($sql->getKFID());
+// for($i = 0; $i< count($event_list);$i++)
+// echo "\n" . $event_list[$i];
 
 
 ?>

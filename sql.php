@@ -51,5 +51,24 @@ class sql {
         }
     }
 
+
+    function getEventList($kfid){
+        if(!$kfid)
+            return 0;
+        else{
+            $i =0;
+            $query = "select event_id from participants_participant_events where participant_id = '$kfid'";
+            $result = mysqli_query($GLOBALS['connect'],$query);
+            foreach ( $result as $var ) {
+                $event_array[$i] = $var['event_id'];
+                $i++;
+            }
+            if(count($event_array) > 0)
+                return $event_array;
+            else
+                return 0;
+        }
+    }
+
 }
 ?>
