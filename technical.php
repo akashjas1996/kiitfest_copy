@@ -84,7 +84,7 @@
         <div class="deptNames">
           <p class="department" id="106"><span>Electrifyn</span></p>
           <p class="department" id="207"><span>Kinesis</span></p>
-          <p class="department" id="306"><span>KSOM</span></p>
+          <p class="department" id="306"><span>Vyapaar</span></p>
           <p class="department" id="406"><span>Luminaire</span></p>
           <p class="department" id="508"><span>Mirabilia</span></p>
           <p class="department" id="608"><span>Nirminite</span></p>
