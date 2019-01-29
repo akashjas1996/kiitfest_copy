@@ -202,6 +202,7 @@ p { font-family: Montserrat; }
         opacity: 0;
         visibility: hidden;
         transition: visibility 0s linear 0.25s, opacity 0.25s 0s;
+        display:block;
     }
 
     .modalContent {

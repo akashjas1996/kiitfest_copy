@@ -68,8 +68,9 @@ departments.forEach( department =>
                     } else {
                         eventContent.transition({y: 40, opacity: 0}, duration, () => {
                             eventContent.html(eventDetails[$(this).attr('id')]).promise().done(() => {
+                                $('.eventDetailsContainer').scrollTop(0);
                                 eventContent.transition({y: 0, opacity: 1}, duration);
-                                eventContent.scrollTop(0);
+                                
                             });
                         });
                     };
@@ -81,7 +82,7 @@ departments.forEach( department =>
             eventContent.transition({y: 40, opacity: 0}, duration, () => {
                 eventContent.html(defaultContent).promise().done(() => {
                     eventContent.transition({y: 0, opacity: 1}, duration);
-                    eventContent.scrollTop(0);
+                    $('.eventDetailsContainer').scrollTop(0);
                 });
             });
             eventNamesSelector.transition({x: "100%", opacity: 0}, 300, 'ease');
