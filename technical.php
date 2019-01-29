@@ -1,10 +1,15 @@
 <!DOCTYPE html>
-<?php include "trac.php"; ?>
-<?php
-include "./sql.php";
-$sql = new sql();
-$isLogin = $sql->isLogin();
-echo '<script> var isLogin = '. $isLogin. ';</script>' 
+<?php 
+  include "trac.php";
+  include "./sql.php";
+
+  $sql = new sql();
+  $isLogin = $sql->isLogin();
+  $event_list = $sql->getEventList($sql->getKFID());
+  $js = json_encode($event_list);
+
+  echo "<script>var eventList = ". $js. ";\n";
+  echo 'var isLogin = '. $isLogin. ';</script>';
 ?>
 
 <html lang="en">
@@ -90,8 +95,7 @@ echo '<script> var isLogin = '. $isLogin. ';</script>'
 
       <div class="eventDetailsContainer">
         <div class="eventContent"></div>
-        <p style="color:white"> Choose an event to see the details. </p>
-          <!-- Event detailsfor each event get rendered here by js -->
+          <!-- Event details for each event get rendered here by js -->
       </div>
 
     </div>

@@ -154,6 +154,15 @@ p { font-family: Montserrat; }
     line-height: 1.5;
 }
 
+.active {
+    background: rgb(51,148, 250);
+}
+
+.active > span {
+    color: rgb(255,255,255) !important;
+}
+
+
 /* Modal */
 .modal {
     display: hidden;

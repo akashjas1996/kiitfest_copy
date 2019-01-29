@@ -62,7 +62,7 @@
         "804": "EDCAD",
         "805": "HydroBooster",
         "806": "Mech Ke Tech Stars",
-        "807": "Sunder Master"
+        "807": "Sunder Muster"
     }
 
     var eventDetails = {
@@ -1685,8 +1685,9 @@ Rs: 75,000/-
         "801": `
             <h1>AERO RACE</h1>
             <hr>
-            <b> EVENT DESCRIPTION:- </b>
+            <p><b> EVENT DESCRIPTION:- </b></p>
             <p>The objective of this event is to attract multi-rotors enthusiasts to provide them with immense opportunity of testing the agility of their rotary wings aircrafts and UAVs as well as to attract aero modeling enthusiasts to provide them with immense opportunity of testing the agility of their fixed aircrafts.</p>
+            
             <p><b>PROBLEM STATEMENT:-</b></p>
             <p>ROUND-1: DRONE RACE</p>
             <p>Design Constraint:</p>
@@ -1939,7 +1940,7 @@ Water Rocket is a mechanical event that involves the fabrication of a rocket who
 
         `,
         "807": `
-        	<h1>SUNDER MUSTERM</h1>
+        	<h1>SUNDER MUSTER</h1>
 
 		<p><b>DESCRIPTION OF THE EVENT:</b>
 		Sunder Muster tests the participant’s mental and physical balance. This event is majorly divided into four segments consisting of a quiz, fastest fingers first, disassembly and assembly of vehicle components and then, followed by a slow bicycle race.

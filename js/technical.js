@@ -5,6 +5,8 @@ eventContent = $('.eventContent');
 
 const mq = window.matchMedia("(max-width: 768px)");
 
+eventContent.html("<p>Choose a department to see details");
+
 
 departments.forEach( department =>
     department.addEventListener('click', () => {
@@ -29,6 +31,7 @@ departments.forEach( department =>
                         eventContent.transition({y: 40, opacity: 0}, 300, () => {
                             eventContent.html(eventDetails[$(this).attr('id')]);
                             eventContent.transition({y: 0, opacity: 1}, 300);
+                            eventContent.scrollTop(0);
                         });
                     };
                 });
@@ -45,6 +48,7 @@ departments.forEach( department =>
 var modal = document.querySelector(".modal");
 function toggleModal() {
     modal.classList.toggle("show-modal");
+    $('.modalContent').scrollTop(0);
 };
 
 function windowOnClick(event) {
@@ -67,6 +71,8 @@ function addToCart(id) {
     xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
     xhr.send("itemId="+id);
     swal("Congratulations!", "Sucessfuly Add To Cart", "success");
+    var id = "#" + id;
+    $(id).addClass("active");
 }
 
 
@@ -74,12 +80,19 @@ function eventNamesHTML(department) {
     var eventNamesString = "";
     var id = Number(department.id);
     var eventNo = id % 10;
+    var active = "";
     id -= eventNo;
 
     for(let i = 1; i <= eventNo; i++) {
-        eventNamesString += `<div id="${id + i}"><span>${eventNames[id + i]}</span>`;
+        if(eventList.includes(String(id + i)))
+            active = "class='active' ";
+        else
+            active = "";
+
+        eventNamesString += `<div id="${id + i}" ${active}><span>${eventNames[id + i]}</span>`;
+        console.log(eventNamesString);
         if(isLogin == 1) 
-            eventNamesString += `<span onClick=addToCart(${id + i}) class="addEvent"><i class="fas fa-plus-circle fa-xs"></i></span>`;
+            eventNamesString += `<span onClick=addToCart(${id + i}) class="addEvent"><i class="fas fa-plus fa-xs"></i></span>`;
         eventNamesString += "</div>";
     }
 
