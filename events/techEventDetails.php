@@ -852,9 +852,9 @@
 			<li>2nd: 5000*/-
 			</ol></p>
 
-			<p><b>Contact Details:</b>
+			<p><b>Contact Details:</b> </p>
 
-			Bharat Sharma(8795487676)</p>
+			<p> Bharat Sharma(8795487676)</p>
 
 
         `,
@@ -957,8 +957,8 @@
 
 
 		<p><b>Contact Details:</b>
-		<b>Coordinator</b>
-		Ritik (9546862541)</p>
+    
+		<p> Ritik (9546862541)</p>
 
         `,
 
