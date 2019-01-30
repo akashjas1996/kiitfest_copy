@@ -678,9 +678,11 @@ Other two members of the team will be managing the flow of goods and cash in and
         <h1> Kraack the Story- Online Case Study </h1>
 <p> An analytical game that tests the overall business acumen of teams in a competitive scenario. </p>
 <p> Rules & Regulations: </p>
-Team should consist of minimum 2 members and maximum 3 members.
-A student cannot be part of more than one team.
-The members of teams cannot be from different institutes.
+<ol>
+<li>  Team should consist of minimum 2 members and maximum 3 members. 
+<li> A student cannot be part of more than one team. </
+<li> The members of teams cannot be from different institutes.
+</ol>
 <p> Prize Money: </p>
 <p> 1st Prize - Rs. 25000
 <p> 2nd Prize - Rs. 15000
