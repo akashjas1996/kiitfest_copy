@@ -1176,6 +1176,8 @@ Rs-20,000 </b>
         `,
         "702": `
     <h1> Innovation Challenge </h1>
+    <p><h2>NEXT GENERATION CITY</h2></p>
+    <p><h3>15th TO 17th FEBRUARY</h3></p>
  <p> Vidnan (School of Electronics Engineering) under the banner of KIIT FEST is committed towards a competitive and transparent ecosystem for the innovative minds and thinkers across the nation. Innovation challenge participants are encouraged to put on their young minds and provide suitable solutions for the existing problem across six themes. All the teams will be evaluated on two phases depending upon their proposed solution. </p>
  <ul>
 <li>Water, Waste and Energy Management </li>
@@ -1194,15 +1196,18 @@ Rs-20,000 </b>
 <p> <b> Rules and Regulations: </b> </p>
  <p> Following are the rules and guidelines for innovation challenge which need to be followed by every participant. </p>
  <ul>
+ <li>Identity card is mandatory to participate.</li>
 <li> Participants should take full responsibility for their own work and ensure to work as a team.</li>
- <li> No participant shall engage in any malicious/illegal activities which do not adhere to the general code of conduct for developers. Participants will be immediately disqualified if they found indulging in malpractice.</li>
+<li>The components should be of the participants to make their model.</li>
+<li> The model is to be built on spot in a 20 hour hackathon which will be held during the 3 days of event.</li>
+<li> No participant shall engage in any malicious/illegal activities which do not adhere to the general code of conduct for developers. Participants will be immediately disqualified if they found indulging in malpractice.</li>
  <li> Participant shall ensure adequate testing, debugging and review of software and related documents before submission. </li>
 <li> Participants shall not knowingly use software that is obtained or retained either illegally or unethically includes using TeamViewer or similar software. Participants will be disqualified if they are found using it. </li>
 <li> In case of any emergency or medical assistance, please reach out to the Organizers.</li>
 </ul>
 <p> <b>
 Team Guidelines:  </b> </p>
- <p> A good team would have the right mix of business and technology thinkers. Since the innovation challenge is a team event, the team is expected to develop the working prototype of its proposed solution. We intend to provide the necessary support to the team. A good team would be self-sufficient to create the prototype. </p>
+ <p> The team size is upto 1-5. Member of the team should not necessarily to be of same college. Since the innovation challenge is a team event, the team is expected to develop the working prototype of its proposed solution. We intend to provide the necessary support to the team. A good team would be self-sufficient to create the prototype. </p>
 <p> <b>  Judging Criteria: </b> </p> 
 <p> The teams would be judged on the basis of the following parameters: </p>
 <ul>
@@ -1214,14 +1219,17 @@ Team Guidelines:  </b> </p>
  <li> Sustainability of the solution</li> 
 <li> Quickness in the completion of development of the solution (during the hackathon) would be appreciated- the complexity of the prototype of the solution should be minimal </li>
 <li> How your product stands out among the existing products (How your product is better than its existing counterpart)</li>
+<li>Representation of your product via presentation is mandatory and detail
+work of the model would be asked at that time.
+</li>
 </ul>
 
 <p> <b> Prize Money:</b> </p>
 <p> Rs: 1,20,000/- </p>
-
+<p><b>Submit your idea at:- </b>https://goo.gl/tRPHGL</p>
 <p> <b> Contact Details: </b> </p>
 <p> Shreya: 8839912039 </p> 
-<p> Akshat: 897021147 </p>
+<p> Akshat: 8979021147 </p>
 
 `,
         "703": `<h1> THE SALVAGE YARD </h1>
@@ -1447,7 +1455,7 @@ The bots first arrive at Checkpoint A.
 <h1> MIRROR MAZE 2.0 </h1>
 <p> <b> Description: </b> </p>
 <p> 
- There will be a maze of size 11x17 sq.ft. where the bot will traverse. The walls will be made of glass and mirrors. It will be a manually controlled bot that can be wired or wireless. The goal is to gather maximum points by touching the blocks, placed randomly across the maze. A camera or a phone should be mounted over the bot, which will provide a live feed fpv from bot. The driver will have to control it through the camera screen as the arena will not be shown to the driver who is controlling the bot. Obstacles like speed breakers, bumps and fluid patches would be present in the arena. The depth of fluid patch would be 2 cm from ground level. So all electrical connections of the bot must be designed accordingly.</p>
+ There will be a maze of size 11x17 sq.ft. where the bot will traverse. The walls will be made of glass and mirrors. It will be a manually controlled bot that can be wired or wireless. The goal is to gather maximum points by touching the blocks, placed randomly across the maze. A camera or a phone should be mounted over the bot, which will provide a live feed fpv from bot. The driver will have to control it through the camera screen as the arena will not be shown to the driver who is controlling the bot. Obstacles like speed breakers, bumps and muddy area would be present in the arena. The muddy area would be 2 cm from ground level. So all electrical connections of the bot must be designed accordingly.</p>
 <p> <b> Requirements of the bot: </b> </p>
 <li> Dimensions of the bot must not exceed 20x20x20 cubic.cm. </li>
 <li> All connections of the bot must be minimum of 3-4 cm above the ground level. </li>
@@ -1459,7 +1467,7 @@ The bots first arrive at Checkpoint A.
 <li> A team of max. 4 participants is allowed. </li>
 <li> The event consists of ......... rounds.</li>
  <li> Each team can avail for only 1 technical time-out per round. 
-<li> The maze obstacles consist of speed breakers, bumps and may be fluid patches along with few other common obstacles. </li>
+<li> The maze obstacles consist of speed breakers, bumps and may be muddy area along with few other common obstacles. </li>
 <li> Each participant has to start at a fixed position to traverse the maze. </li>
 <li> Wooden blocks of certain points would be placed at random positions in the maze before a team start their turn (Red block= 5 points, Blue block= 10 points, Yellow block= 30 points, Jackpot block= 100 points).</li>
  <li> The points will be awarded on a time basis and a total number of blocks touched by the bot.</li> 
@@ -1467,7 +1475,7 @@ The bots first arrive at Checkpoint A.
 <li> The controller would be allowed 30 seconds just before the start of their turn to observe the maze & positions of the point blocks. </li>
 <li> Any damage to the arena will result in direct disqualification. </li>
 <li> Teams with maximum points qualify for the next round.</li>
-<li> Each team gets 3 skip options. It can only be applied when a bot is unable to cross any obstacle or if the controller wishes to skip the obstacle (No negative markings in such criteria). Special case: In case the controller wishes to skip the water(or non-Newtonian fluid) patch 10 points would be deducted from the total score. Any damage to the bot caused while crossing this patch is solely the team’s responsibility. </li>
+<li> Each team gets 3 skip options. It can only be applied when a bot is unable to cross any obstacle or if the controller wishes to skip the obstacle (No negative markings in such criteria). Special case: In case the controller wishes to skip the muddy area 10 points would be deducted from the total score. Any damage to the bot caused while crossing this area is solely the team’s responsibility. </li>
 <li> However, this skip option is not available in the jackpot region.</li>
  <li> Touching the glass wall results in a negative marking of 2 marks. </li>
 <li> Further rules of qualifying rounds would be disclosed on spot. </li>
