@@ -646,24 +646,31 @@ Other two members of the team will be managing the flow of goods and cash in and
 
         `,
 
-        "305": `<h1>MILK RUN - OPERATIONS</h1>
-<p> Based on Supply Chain Management, there will be five teams working as distributors with limited funds. They will be buying materials from the warehouse and selling them to the retailers by overcoming the challenges commonly seen in logistics. </p>
-<p> Participants will be learning about logistics, dead stock, limited working capital and supply chain </p>
-<p> <b>Rules and Regulations: </b> </p>
-<p> Total members in a team: 4 </p>
-<p> Each team gets an equal amount of money which they will use to place orders for raw materials.
-The vendor manages the order of the customers, notes the raw material requirements of the customers and is assisted by the Material Manager who keeps the stock in hand details and receives orders as per the availability of stock in the warehouse. </p>
-<p> Other two members of the team will be managing the flow of goods and cash in and out of warehouse. </p>
-<p> <b>Prize Money: </b> </p> 
-<p>1st Prize - Rs. 12000 </p> 
-<p>2nd Prize - Rs. 8000 </p> 
-<P> Contact: </p>
-<p> Akriti Raj </p>
-<p> 7504429751 </p>
-<p> 17202073@ksom.ac.in </p>
-<p>Shashi Sekhar Ray </p>
-<p>7980357048 </p>
-<p>18202055@ksom.ac.in </p>
+        "305": `<h1> IKADHIKAAR - BUSINESS STRATEGY </h1>
+<p>This strategic business game, quite similar to monopoly, will be a team based game with riddles and puzzles. The victor will be crowned based on the property valuation at the conclusion of both the rounds.</p>
+<p>Rules & Regulations:</p>
+<p>Each team shall consist of 4 members.One member has to roll the dice and move the game forward.</p>
+<p>Every team will be given a specific event.</p>
+<p>There will be a limit on the amount spent by the teams for each round. No team can spend higher than that amount.</p>
+<p> <b>  Round 1: </b> </p>
+<p>A team need to decide based on the amount provided to them whether to purchase the property or not. </p>
+<p>On the purchased property of any team if other team lands, the other team has to pay the rent.</p>
+<p>The game will go on till the last team reaches the starting point. </p>
+<p>The puzzles provided will be based on logic and reasoning.</p>
+<p> <b> Round 2: </b> </p>
+<p>There will be a hidden growth percentage associated to all the properties. </p>
+<p>If a team wants to purchase any other property and they do not have the necessary amount, they have to auction their property. The winner of both the rounds will be decided based on the amount spent by the team in generating the properties in addition to the earnings of the team from their properties in terms of rent and  mortgages.</p>
+<p> <b> Prize Money: </b> </p>
+<p>1st Prize - Rs. 12000</p>
+<p>2nd Prize - Rs. 8000</p>
+<p>Contact:</p>
+<p>Aditya Mitra</p>
+<p>8339840067</p>
+<p>17202072@ksom.ac.in</p>
+<p>Ujjwal Mahato</p>
+<p>9668219321</p>
+<p>18202070@ksom.ac.in</p>
+
 
         `,
 
