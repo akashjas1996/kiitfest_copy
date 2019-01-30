@@ -548,8 +548,8 @@
         
         //KSOM
         "301": `<h1> DARE TO FACE - MARKETING </h1>
-A press conference scenario in which the company's CEO, Product Manager and the Brand Manager come together to save the face of the company for a product that has created havoc in the market.
- Only this time it's Do or Die.
+<p> A press conference scenario in which the company's CEO, Product Manager and the Brand Manager come together to save the face of the company for a product that has created havoc in the market.
+ Only this time it's Do or Die. </p>
 <p> <b>Rules and Regulations:
 It will be a group event (3 members only).
 Cases will be given at the time of the event.
@@ -579,8 +579,8 @@ Paras Khanna
 The vendor manages the order of the customers, notes the raw material requirements of the customers and is assisted by the Material Manager who keeps the stock in hand details and receives orders as per the availability of stock in the warehouse. 
 Other two members of the team will be managing the flow of goods and cash in and out of warehouse. </p>
 <p> <b>Prize Money: </b> </p> 
-1st Prize - Rs. 12000
-2nd Prize - Rs. 8000
+<p> 1st Prize - Rs. 12000 </p>
+<p> 2nd Prize - Rs. 8000 </p>
 <P> Contact: </p>
 <p> Akriti Raj </p>
 <p> 7504429751 </p>
@@ -618,45 +618,32 @@ Other two members of the team will be managing the flow of goods and cash in and
 
         `,
         "304": `
-        <h1>Ikadhikaar</h1>
-        <hr>
-        <p><b>Description:</b> The strategic business game this will be a monopoly team based game with riddles and puzzles. Judgement will be based on the property valuation at the ends of both the rounds.</p>
+        <h1> SYNERGY KONFLICTUS 5.0 - HUMAN RESOURCE MANAGEMENT </h1>
+<p> Managing Human Capital is a key business function. Happy employees results in better productivity & greater growth. To help the participants understand that conflict is a natural occurrence and that everyone has a different approach in dealing with the conflict situations, situations will be created for the participants to learn about the various approaches to dealing with conflicts. </p>
+<p> <b> Rules & Regulations: <b> </p>
+<p> The Activity will be conducted in different levels. </p>
+<p>There will be an elimination round based on a business quiz.  </p>
 
-        
+<p>The first level will be audio visual round where one of the team member has to guess the word or sentence in the audio visual clipping. </p>
 
-         <p>
-        <b>Rules and regulations:</b>
+<p>In the second level, one of the members will use non-verbal gestures to explain the other two members the word or sentence of the audio visual clipping.  </p>
 
-        Team of 4 members are allowed. One will throw the dice and others will strategize the move and game rules.
-        Price of all properties will be hidden and can only be known after they solve a riddle provided.
-        There will be a limit on amount that can be spent by the teams in one round.
-        Chance slot will have pick up chit system that will constitute of negative and positive task.
-        Round 1:
-        <ul>
-        <li> One team need to decide based on the amount whether to purchase the property or not.
-        <li> On the purchased property of any team, the other teams had to pay rent.
-        <li> Until the last team reaches the starting point the game goes on.
-        <li> The puzzles provided will be based on mind logics and reasoning.
-        </ul>
-        </p>
+<p> <b>Rules:<b> </p>
 
-        <p>Round 2:
-        There will be a hidden growth percentage associated in all the properties.
-        If a team wants to purchase any other property and they fall in scarce of the amount, then they need to auction their property. The winner in both the rounds will solely be decided based on the end of the entire round on the basis of the highest amount spent by the team in generating the properties + the earning of the team from their properties in terms of rent, mortgage.
-        </p>
+<p> Each level is a time based one. </p>
+<p> Hints may be used but after deduction of 50% of the points. </p>
+<p> The team securing the maximum points wins the game. </p>
+ <p> <b> Prize Money: </b> </p>
+ <p>1st Prize - Rs. 12000  </p>
+ <p>2nd Prize - Rs. 8000 </p>
+<p> <b> Contact: </b> </p>
+<p>Puja Singh </p>
+<p>7209248102</p>
+<p>17202177@ksom.ac.in</p>
+<p>Ashrita Das</p>
+<p>7330747346</p>
+<p>18202016@ksom.ac.in</p>
 
-
-
-
-        <p><b>Prize money worth:</b> &nbsp; Rs. 20,000</p>
-
-        <p><b>Contacts:</b>
-                <ol><li>Aditya Mitra-8339840067-17202072@ksom.ac.in
-        <li>        Ujjwal Mahato-9668219321-18202070@ksom.ac.in<
-
-        </ol>
-
-        </p>
         `,
 
         "305": `<h1>MILK RUN - OPERATIONS</h1>
