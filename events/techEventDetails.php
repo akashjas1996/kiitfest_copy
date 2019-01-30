@@ -614,34 +614,27 @@ Other two members of the team will be managing the flow of goods and cash in and
 
         `,
 
-        "303": `
-        <h1>Dare to Face</h1>
-        <hr>
-        <p><b>Description:</b> A press conference scenario where the company's CEO, Product Manager and the Brand Manager come together to save the face of the Company for a product that has created havoc in the market. Only this time it's Do or Die.
-         </p>
-        
-         <p>
-        <b>Rules and regulations:</b>
-        <ul>
-        <li> It will be a group event (3 members only).
-        <li> Cases will be given at time of the event.
-        <li> 15 minutes will be given to each team to prepare their strategies.
-        <li> The conference will be for a total of 30 minutes(excluding initial 15 minutes).
-        <li> Once the press conference starts teams will be given an initial 10 minutes to give their opening statements.
-        <li> This will be followed by 15 minutes of confrontation with the press.
-        <li> The conference will end with the closing statement made by the CEO for which an additional 5 minutes will be given.
-
-
-        </ul></p>
-
-        <p><b>Prize money worth:</b> &nbsp; Rs. 20,000</p>
-        
-        <p>
-        <b >Contacts:</b>
-        <ol><li>Rittik Sarkar-+918017126802-17202039@ksom.ac.in
-        <li>Pras Khanna-+919776922104-18202034@ksom.ac.in 
-        </ol>
-       </p>
+        "303": `<h1> DARE TO FACE - MARKETING </h1>
+A press conference scenario in which the company's CEO, Product Manager and the Brand Manager come together to save the face of the company for a product that has created havoc in the market.
+ Only this time it's Do or Die.
+<p> <b>Rules and Regulations: </p> </b>
+<li>It will be a group event (3 members only).
+<li>Cases will be given at the time of the event.
+<li>15 minutes will be given to each team to prepare their strategies.
+<li>The conference will be held for 30 minutes(excluding initial 15 minutes).
+<li>Once the press conference starts, teams will be given an initial 10 minutes to give their opening statements.
+<li>This will be followed by 15 minutes of confrontation with the press.
+<li>The conference will end with the closing statement made by the CEO for which an additional 5 minutes will be given.
+<p> <b>Prize Money: </p> </b>
+1st Prize - Rs. 12000
+2nd Prize - Rs. 8000
+<p> <b>Contact: </p> </b>
+<p>Rittik Sarkar</p>
+<p>8017126802</p>
+<p>17202039@ksom.ac.in</p>
+<p>Paras Khanna</p>
+<p>9776922104</p>
+<p>18202034@ksom.ac.in</p>
         `,
         "304": `
         <h1>Ikadhikaar</h1>
@@ -685,31 +678,25 @@ Other two members of the team will be managing the flow of goods and cash in and
         </p>
         `,
 
-        "305": `
-        <h1>Milk Run</h1>
-        <hr>
-        <p><b>Description:</b>Have you ever thought about how a milk man strategies his distribution. If not, then start thinking, register and participate.
-        Event Based on Supply Chain Management. There will be five teams working as distributors with limited funds. They will be buying materials from warehouse and selling them to retailers by overcoming challenges of logistics.
-        Participants will be learning about logistics, dead stock, limited working capital and supply chain</p>
-         
-         <p>
-        <b>Rules and regulations:</b>
-        <ul>
-        <li> Total team members: 4
-        <li> Each Team from all the participating team gets a lump sum and equal amount of money, which they will use to place order for raw materials.
-        <li> The vendor manages the order of the customers, notes the raw material requirement of customers and is assisted by the Material manager who keeps the stock in hand details and helps in receiving convenient orders as per availability of stock in warehouse.
-        <li>  Other two members of the team will be managing the flow of goods and cash in and out of warehouse.
+        "305": `<h1>MILK RUN - OPERATIONS</h1>
+Based on Supply Chain Management, there will be five teams working as distributors with limited funds. They will be buying materials from the warehouse and selling them to the retailers by overcoming the challenges commonly seen in logistics.
+Participants will be learning about logistics, dead stock, limited working capital and supply chain
+<p> <b>Rules and Regulations: </b> </p>
+Total members in a team: 4
+Each team gets an equal amount of money which they will use to place orders for raw materials.
+The vendor manages the order of the customers, notes the raw material requirements of the customers and is assisted by the Material Manager who keeps the stock in hand details and receives orders as per the availability of stock in the warehouse.
+Other two members of the team will be managing the flow of goods and cash in and out of warehouse.
+<p> <b>Prize Money: </b> </p> 
+1st Prize - Rs. 12000
+2nd Prize - Rs. 8000
+<P> Contact: </p>
+<p> Akriti Raj </p>
+<p> 7504429751 </p>
+<p> 17202073@ksom.ac.in </p>
+<p>Shashi Sekhar Ray </p>
+<p>7980357048 </p>
+<p>18202055@ksom.ac.in </p>
 
-
-        </ul></p>
-
-        <p><b>Prize money worth:</b> &nbsp; Rs. 20,000</p>
-
-        <p><b>Contacts:</b>
-        <ol><li>Akriti Raj-7504429751-17202073@ksom.ac.in
-        <li>Shashi Sekhar Ray-7980357048-18202055@ksom.ac.in
-        </ol>
-        </p>
         `,
 
 
