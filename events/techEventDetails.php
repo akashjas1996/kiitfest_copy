@@ -15,12 +15,12 @@
         "206": "Pixeloscope",
         "207": "Shabd-War",
 
-        "301": "DARE TO FACE - MARKETING",
-        "302": "MILK RUN - OPERATIONS",
-        "303": "STOCK CHALLENGE - FINANCE ",
-        "304": "SYNERGY KONFLICTUS 5.0 - HUMAN RESOURCE MANAGEMENT",
-        "305": "IKADHIKAAR - BUSINESS STRATEGY",
-        "306": "Kraack the Story- Online Case Study",
+        "301": "SYNERGY KONFLICTUS 5.0",
+        "302": "MILK RUN",
+        "303": "STOCK CHALLENGE",
+        "304": "Kraack The Story!",
+        "305": "DARE TO FACE",
+        "306": "IKADHIKAAR",
 
         "401": "Brainotracking",
         "402": "Hackathon",
@@ -547,123 +547,223 @@
 
         
         //KSOM
-        "301": `<h1> DARE TO FACE - MARKETING </h1>
-<p> A press conference scenario in which the company's CEO, Product Manager and the Brand Manager come together to save the face of the company for a product that has created havoc in the market.
- Only this time it's Do or Die. </p>
-<p> <b>Rules and Regulations:
-It will be a group event (3 members only).
-Cases will be given at the time of the event.
-15 minutes will be given to each team to prepare their strategies.
-The conference will be held for 30 minutes(excluding initial 15 minutes).
-Once the press conference starts, teams will be given an initial 10 minutes to give their opening statements.
-This will be followed by 15 minutes of confrontation with the press.
-The conference will end with the closing statement made by the CEO for which an additional 5 minutes will be given.
-<p> <b>Prize Money: 
-1st Prize - Rs. 12000
-2nd Prize - Rs. 8000
-<p> <b>Contact:
-Rittik Sarkar
-8017126802
-17202039@ksom.ac.in
-Paras Khanna
-9776922104
-18202034@ksom.ac.in
+        "301": `<h1> SYNERGY KONFLICTUS 5.0 </h1>
+<p> <b> Overview </p> </b>
+<p> To help participants understand that conflict is a natural occurrence, and that everyone has a different approach in dealing with the conflict situations. Participants will have an opportunity to learn about approaches in general and their own in particular to see how synergy function between the team members.
+<p> <b>Event Duration </p> </b>
+<p>Usually 8-10 minutes per team is required also it depends on number of teams come forward for participation.</p>
+<p> <b>Learning </p> </b>
+<ul>
+<li>The exercise will allow teams to appreciate the value of synergy in activity, team works and communication.</li>
+<li>Time management in the continuous activity-process of planning and exercising conscious control over the amount of time spent on specific activities, especially to increase effectiveness, efficiency or productivity. </li>
+<li>There are many approaches to conflict management such as </li>
+<ul>
+<li>Avoidance: (I lose, you lose),  
+<li>Competition :( I win, you lose), 
+<li>Cooperation: (I win, you win), 
+<li>Adaptation: (I lose, you win).
+</ul>
+</ul>
+<p>What is important is to be aware of your own approach and able to understand & recognize the approach other people take.</p>
+<p> <b>Procedure </p> </b>
+<p>The Activity will be conducted in different levels.</p>
+<ul>
+<li>There will be an elimination round where the teams will be eliminated based on business quiz. (If the team numbers exceeds 10)
+<li>The first level will be audio visual round where one of the team member has to guess the word or sentence in the audio visual clipping and tell the volunteer. If right then scores full point, if not hint will be provided.
+<li>Then in the second level one of the member will use the white board and non-verbal gestures to explain the other two members the word or sentence of the audio visual clipping. If correct then they return to their booth and solve the given case/situation in jumbled format in a given time of 2 minutes.
+<li>If the members answer matches with the given word/sentence then they score full points.
+<li>The team with the highest score wins the game.
+</ul>
+<p> <b>Rules </p> </b>
+<ol>
+<li>Each level is a time based and scoring will be done according to that. 
+<li>Usage of hints will deduct half the score.
+<li>No use of number representation or writing of words directly on board.
+<li>The team securing the maximum points wins the game.
+<li>Any use of other malpractices will lead to the disqualification of the entire team.
+</ol>
+
+
+<p> <b>CONTACT:</p> </b>
+<p>PUJA SINGH : 8210129354 </p>
+<p>ASHRITA DAS : 7330747346 </p>
 `,
         "302": `
-        <h1>MILK RUN - OPERATIONS</h1>
-<p>Based on Supply Chain Management, there will be five teams working as distributors with limited funds. They will be buying materials from the warehouse and selling them to the retailers by overcoming the challenges commonly seen in logistics.</p>
-<p>Participants will be learning about logistics, dead stock, limited working capital and supply chain</p>
-<p> <b>Rules and Regulations: </b> </p>
-<p> Total members in a team: 4 </p>
-<p> Each team gets an equal amount of money which they will use to place orders for raw materials.
-The vendor manages the order of the customers, notes the raw material requirements of the customers and is assisted by the Material Manager who keeps the stock in hand details and receives orders as per the availability of stock in the warehouse. 
-Other two members of the team will be managing the flow of goods and cash in and out of warehouse. </p>
-<p> <b>Prize Money: </b> </p> 
-<p> 1st Prize - Rs. 12000 </p>
-<p> 2nd Prize - Rs. 8000 </p>
-<P> Contact: </p>
-<p> Akriti Raj </p>
-<p> 7504429751 </p>
-<p> 17202073@ksom.ac.in </p>
-<p>Shashi Sekhar Ray </p>
-<p>7980357048 </p>
-<p>18202055@ksom.ac.in </p>
-
-        `,
-
-        "303": `<h1> STOCK CHALLENGE - FINANCE </h1>
- <p> Stock challenge is a game of virtual stock market where you build your portfolio and react to the market volatility. Make more investments and get more returns. With this event, you get an experience similar to that of the original trading platform without even spending a single real buck. </p>
-<p>Game Duration – 11th Feb – 15th Feb </p>
-<p>Market time – 9:00 a.m. to 3:15 p.m. </p>
-<p>Rules & Regulations: </p>
+        <h1> MILK RUN </h1>
+<p> <b> ROUND 1</p> </b>
+ 
+<p> <b>Description:</p> </b>
+<p>This game is an elimination round. Out of “N” no. of registered teams we will cut short the participants to 10 Teams.
+<p>In this round participants will get A questionnaire, in which 7 Question would be there related to Supply Chain, Logistics & Technology, Ex: Which company started using Lean Manufacturing process first .So the answer would be Toyota but instead of the company’s name they have to identify the logo from the 4 options provided to them and submit it to as soon as possible. Top 10 TEAM will qualify for the 2nd ROUND.
+ 
+<p> <b>Steps and Rules of the game</p> </b>
 <ol> 
-<li> Participants participate individually.
-<li> Participants would be provided with a laptop where there would be an online platform for virtual stock market trading. 
-<li>A virtual ID would be created of Rs.2500000 portfolio.
-<li>Participants are required to buy or sell stocks according to their judgement. 
-<li>At the end of the trading, the one with a portfolio of Rs.2500000 or more wins.  
+<li> Each team will be required to nominate one of their member who will play the 1st round.
+<li> A questionnaire will be prepared having multiple questions with logos as the options. 
+<li> Each team will be provided with a login id and password to give the quiz in PLM Lab, 7 questions per team.
 </ol>
-<p> <b> Prize Money: </b> </p>
-<p> Winner – 20 k</p> 
-<p> 1st Runner up – 10k </p> 
-<p> 2nd Runner Up – 10k </p> 
-<p> ICICI Centre of Financial Learning (ICFL) will provide scholarships to the winners. </p> 
-<p> <b> Contact: </b> </p>
-<p>S Sonali Prusty </p> 
-<p>+918763242043</p> 
-<p>17202248@ksom.ac.in</p> 
-<p>Nishan Agarwalla</p>
-<p>+918338075558</p>
-<p>18202033@ksom.ac.in</p>
+
+<p> <b>MILK RUN: ROUND 2</p> </b>
+<p> <b>Description:</p> </b>
+<ul>
+<li> This game will give a real time experience of how supply chain works and what the complications and decisions one has to make while getting orders. They will also get a flavor of how multiple distributors compete with each other for getting order of the retailers along with making profit.
+<li> The teams will have to play the role of strategic decision maker who needs to finalize the location of its warehouse and the vehicle to be used by them to deliver the products to the retailers.
+<li> The teams will be provided with a certain amount as initial capital and then they will have to bid for the location of their warehouse and then the vehicle to be used. These bids will be open to make the teams more engaged in the game.
+<li> After the vehicle and locations are allotted to the teams they need to calculate their operating cost and declare the cost. (This operating cost will be calculated on the basis of their warehouse distance to retailer and fuel cost of the vehicle).
+<li> They will be required to keep in mind that the left out amount (i.e. vehicle and location cost with addition to the operating cost) will be required to purchase the products from us. These products will further be required to be sold to a single retailer. The teams will be required to fill out a tender as per the requirements of the retailer.
+<li> The team with minimum tender bid and highest profit will get the opportunity to sell their products to the retailer and hence win the game.
+<ul>
+<p> <b>Steps and Rules of the game</p> </b>
+<ol>
+<li>Each team will contain 3 members.
+<li> They will have to play the role of a distributor.
+<li> No mobile phones or any other gadgets are to be used.
+<li> This game will be fully based on MS Excel.
+</ol>
+
+<p> <b>CONTACT</p> </b>
+<p> AKRITI RAJ : 7504429751 </p>
+<p> SHASHI SEKHAR RAI: 7980357048 </p>
+
+`,
+
+        "303": `<h1> STOCK CHALLENGE </h1>
+<p> <b>Game Duration – 11th Feb – 15th Feb </p> </b>
+<p> <b>Market time – 9:00 a.m. to 3:15 p.m.</p> </b>
+ 
+<p> <b>Registration process of the game:</p> </b>
+<ul>
+<li> College code- GAGD  
+<li> SMS 'ICFL <college code> <email id>' to 9215676766. Put one space in between. Do not use any brackets. 
+<li> The email ID you send through SMS will be your user ID
+<li> Your password will be sent to your registered email ID
+<li> Visit virtualstocks.icicidirect.com and login with your User ID and Password
+<li> Fill in your details
+<li> Start trading
+</ul>
+
+<p> <b>Terms & Conditions for Virtual Stock Trading Platform Users</p> </b>
+<ul>
+<li>   The account shall be active for all trading days during market hours (09:15 am - 03:30 pm). A trading day is defined as a day when both NSE and BSE are open for trading
+ <li>          At the time of registration, Rs. 15 Lakh of virtual money will be allocated to each participant
+ <li>          Top BSE & NSE stocks will be available for trading. For more details visit stock list section
+ <li>      None of the accidental or unintentional trades will be reversed by ICICI Securities Ltd
+ <li>          ICICI Securities Ltd. will not be responsible for the technical issues and non-availability of the trading platform
+ <li>         Participants will be solely responsible for the trading hours / days lost for non-availability of a trading platform due to the User ID being locked, unlocking of User ID / Password or any other such activity
+ <li>          ICICI Securities Ltd. and its associates can call, SMS or email participants, even if they are registered under DNC
+ <li>          Photographs, videos or films of participants taken during the programme can be used for any legitimate purposes by ICICI Securities Ltd
+ <li>          You hereby agree and understand to trade on the Virtual Stocks platform. The amount allocated to the participant will be purely Virtual and cannot be liquidated into real money.
+</ul>
+ 
+<p> <b>Daily Turnover Restrictions:</p> </b>
+<p> System is designed in such a way that participants can place trades only upto a trading turnover of Rs. 3 Crore per day. Turnover means the sum total of all the transactions executed on a particular trading day. This includes shares bought and sold on the same day or shares sold today while they were purchased on some other trading day. If a participant exceeds turnover of Rs. 3 Crore on any day of the contest, system will disable the trading of that participant.</p>
+
+<p> <b>Prizes –</p> </b>
+<p> ICICI Centre of Financial Learning (ICFL) will provide scholarships to the winners.  </p>
+<p> Winner – 20 k </p>
+<p> 1<sup>st </sup>Runner up – 10k </p>
+<p> 2<sup>nd</sup> Runner Up – 10k </p>
+
+<p> <b>CONTACT: </p> </b>
+<p> KUMARI YAMINEE : 9767774864 </p>
+<p> NISHAN AGARWALLA: 8338075558 </p>
+
 
         `,
         "304": `
-        <h1> SYNERGY KONFLICTUS 5.0 - HUMAN RESOURCE MANAGEMENT </h1>
-<p> Managing Human Capital is a key business function. Happy employees results in better productivity & greater growth. To help the participants understand that conflict is a natural occurrence and that everyone has a different approach in dealing with the conflict situations, situations will be created for the participants to learn about the various approaches to dealing with conflicts. </p>
-<p> <b> Rules & Regulations: <b> </p>
-<p> The Activity will be conducted in different levels. </p>
-<p>There will be an elimination round based on a business quiz.  </p>
+        <h1> Kraack The Story! </h1>
+<p> This event puts into tests your analytical skill, how you come up with solutions to the real life business problems. Strategize your moves and join the road to victory.  </p>
 
-<p>The first level will be audio visual round where one of the team member has to guess the word or sentence in the audio visual clipping. </p>
-
-<p>In the second level, one of the members will use non-verbal gestures to explain the other two members the word or sentence of the audio visual clipping.  </p>
-
-<p> <b>Rules:<b> </p>
-
-<p> Each level is a time based one. </p>
-<p> Hints may be used but after deduction of 50% of the points. </p>
-<p> The team securing the maximum points wins the game. </p>
- <p> <b> Prize Money: </b> </p>
- <p>1st Prize - Rs. 12000  </p>
- <p>2nd Prize - Rs. 8000 </p>
-<p> <b> Contact: </b> </p>
-<p>Puja Singh </p>
-<p>7209248102</p>
-<p>17202177@ksom.ac.in</p>
-<p>Ashrita Das</p>
-<p>7330747346</p>
-<p>18202016@ksom.ac.in</p>
+<p> <b>ABOUT THE EVENT:</p> </b>
+<ul>
+<li> It will be an online event.
+ 
+<li>We'll provide the case study by 12th Feb 10 AM
+ 
+<li>Participants have 2 days of time( 13th and 14th Feb 2019)
+ 
+<li>They have to submit the responses by 15th by 2 PM 
+ 
+<li>The number of members in a team- one or two. 
+ 
+<li>Results will be out by 16th at 10 PM 
+ 
+<li>(It's the management's decision to bring any further changes in the rules and regulations)
+</ul>
+ 
+<p> <b>Prize money-  upto 40,000
+ 
+<p> <b>Contact:</p> </b>
+<p>Rittik Sarkar</p>
+<p>8017126802</p>
+<p>17202039@ksom.ac.in</p>
+ 
+<p>Paras Khanna</p>
+<p>9776922104</p>
+<p>18202034@ksom.ac.in</p>
 
         `,
 
-        "305": `<h1> IKADHIKAAR - BUSINESS STRATEGY </h1>
-<p>This strategic business game, quite similar to monopoly, will be a team based game with riddles and puzzles. The victor will be crowned based on the property valuation at the conclusion of both the rounds.</p>
-<p>Rules & Regulations:</p>
-<p>Each team shall consist of 4 members.One member has to roll the dice and move the game forward.</p>
-<p>Every team will be given a specific event.</p>
-<p>There will be a limit on the amount spent by the teams for each round. No team can spend higher than that amount.</p>
-<p> <b>  Round 1: </b> </p>
-<p>A team need to decide based on the amount provided to them whether to purchase the property or not. </p>
-<p>On the purchased property of any team if other team lands, the other team has to pay the rent.</p>
-<p>The game will go on till the last team reaches the starting point. </p>
-<p>The puzzles provided will be based on logic and reasoning.</p>
-<p> <b> Round 2: </b> </p>
+        "305": `<h1> DARE TO FACE </h1>
+ 
+<p> <b>Duration- 2PM TO 8PM</p> </b>
+ 
+<p> <b>Description</p> </b>
+<p>A press conference scenario where the company's CEO, Product Manager and the Brand Manager come together to save the face of the Company for a product that has created havoc in the market. Only this time it's Do or Die.</p>
+<p> <b>DARE TO FACE - MARKETING</p> </b>
+<p> A press conference scenario where the company's CEO, Product Manager and the Brand Manager come together to save the face of the Company for a product that has created havoc in the market. Only this time it's Do or Die.</p>
+<p> <b>Rules and Regulation:</p> </b>
+<ul>
+<li>It will be a group event (3 members only).
+<li>Cases will be given at time of the event.
+<li>15 minutes will be given to each team to prepare their strategies.
+<li>The conference will be for a total of 30 minutes(excluding initial 15 minutes).
+<li>Once the press conference starts teams will be given an initial 10 minutes to give their opening statements.
+<li>This will be followed by 15 minutes of confrontation with the press.
+<li>The conference will end with the closing statement made by the CEO for which an additional 5 minutes will be given.
+</ul>
+<p> <b>Prize Money: </p> </b>
+<p> 1st Prize - Rs. 12000 </p>
+<p> 2nd Prize - Rs. 8000 </p>
+<p> <b>Contact:</p> </b>
+<p>Rittik Sarkar</p>
+<p>8017126802</p>
+<p>17202039@ksom.ac.in</p>
+ 
+<p>Paras Khanna</p>
+<p>9776922104</p>
+<p>18202034@ksom.ac.in</p>
+
+
+        `,
+
+        "306": `
+        <h1> IKADHIKAAR </h1>
+<p>Strategy and Chance are two terms which rarely intercept with each other. We present you the ultimate puzzles and riddles which will lead you to a new adventure of real estate market. Your passion, vision and grit will make you the new kings and queens of the game of chances and strategies.
+.
+<p> <b>Rules & Regulations:</p> </b>
+<p>Team consists of 4 members.One member has to roll the dice and the others have to strategically play the game.
+<p>Every team will be given a specific event to play the game.
+<p>Prices of the properties will be hidden and will be known after the contestants solve a riddle.
+<p>There will be a cap on the amount spent by the teams for each round.No team can spend higher than that amount.
+<p>There will be a slot which is named as “chance slot” . When contestants reach the slot they have to pick the chits, as it is the game of chances, contestants will be having chances of winning rewards or losing their assets in a equal manner .
+<p> <b>Round 1:</p> </b>
+<ul>
+<li>A team need to decide based on the amount provided to them whether to purchase the property or not.
+<li>On the purchased property of any team if other team lands, the other team has to pay the rent.
+<li>The game will go on till the last team reaches the starting point. 
+<li>The puzzles provided will be based on logic and reasoning.
+</ul>
+<p> <b>Round 2:</p> </b>
 <p>There will be a hidden growth percentage associated to all the properties. </p>
-<p>If a team wants to purchase any other property and they do not have the necessary amount, they have to auction their property. The winner of both the rounds will be decided based on the amount spent by the team in generating the properties in addition to the earnings of the team from their properties in terms of rent and  mortgages.</p>
-<p> <b> Prize Money: </b> </p>
+<p>If a team wants to purchase any other property and they fall scarce of the amount, then they need to auction their property. The winner of both the rounds will solely be decided based on the end of the entire round on the basis of the highest amount spent by the team in generating the properties in addition to the earnings of the team from their properties in terms of rent and mortgages.</p>
+
+
+<p> <b>Prize Money:</p> </b>
 <p>1st Prize - Rs. 12000</p>
 <p>2nd Prize - Rs. 8000</p>
-<p>Contact:</p>
+
+<p> <b>Contact:</p> </b>
 <p>Aditya Mitra</p>
 <p>8339840067</p>
 <p>17202072@ksom.ac.in</p>
@@ -671,28 +771,6 @@ Other two members of the team will be managing the flow of goods and cash in and
 <p>9668219321</p>
 <p>18202070@ksom.ac.in</p>
 
-
-        `,
-
-        "306": `
-        <h1> Kraack the Story- Online Case Study </h1>
-<p> An analytical game that tests the overall business acumen of teams in a competitive scenario. </p>
-<p> Rules & Regulations: </p>
-<ol>
-<li>  Team should consist of minimum 2 members and maximum 3 members. 
-<li> A student cannot be part of more than one team. </
-<li> The members of teams cannot be from different institutes.
-</ol>
-<p> Prize Money: </p>
-<p> 1st Prize - Rs. 25000
-<p> 2nd Prize - Rs. 15000
-<p> Contact: </p>
-<p> Rittik Sarkar</p>
-<p> +918017126802</p>
-<p> 17202039@ksom.ac.in</p>
-<p>Pras Khanna</p>
-<p>+919776922104</p>
-<p>18202034@ksom.ac.in</p>
 
         `,
 
@@ -780,7 +858,7 @@ Other two members of the team will be managing the flow of goods and cash in and
             </ol></p>
             <p><b>Contact Details:</b>
             <ul>
-            <li>Adarsh Parashar (7985235594)
+            <li>Adarsh Parashar (9455862178)
             </ul></p>
         `,
 
@@ -1176,6 +1254,8 @@ Rs-20,000 </b>
         `,
         "702": `
     <h1> Innovation Challenge </h1>
+    <p><h2>NEXT GENERATION CITY</h2></p>
+    <p><h3>15th TO 17th FEBRUARY</h3></p>
  <p> Vidnan (School of Electronics Engineering) under the banner of KIIT FEST is committed towards a competitive and transparent ecosystem for the innovative minds and thinkers across the nation. Innovation challenge participants are encouraged to put on their young minds and provide suitable solutions for the existing problem across six themes. All the teams will be evaluated on two phases depending upon their proposed solution. </p>
  <ul>
 <li>Water, Waste and Energy Management </li>
@@ -1194,15 +1274,18 @@ Rs-20,000 </b>
 <p> <b> Rules and Regulations: </b> </p>
  <p> Following are the rules and guidelines for innovation challenge which need to be followed by every participant. </p>
  <ul>
+ <li>Identity card is mandatory to participate.</li>
 <li> Participants should take full responsibility for their own work and ensure to work as a team.</li>
- <li> No participant shall engage in any malicious/illegal activities which do not adhere to the general code of conduct for developers. Participants will be immediately disqualified if they found indulging in malpractice.</li>
+<li>The components should be of the participants to make their model.</li>
+<li> The model is to be built on spot in a 20 hour hackathon which will be held during the 3 days of event.</li>
+<li> No participant shall engage in any malicious/illegal activities which do not adhere to the general code of conduct for developers. Participants will be immediately disqualified if they found indulging in malpractice.</li>
  <li> Participant shall ensure adequate testing, debugging and review of software and related documents before submission. </li>
 <li> Participants shall not knowingly use software that is obtained or retained either illegally or unethically includes using TeamViewer or similar software. Participants will be disqualified if they are found using it. </li>
 <li> In case of any emergency or medical assistance, please reach out to the Organizers.</li>
 </ul>
 <p> <b>
 Team Guidelines:  </b> </p>
- <p> A good team would have the right mix of business and technology thinkers. Since the innovation challenge is a team event, the team is expected to develop the working prototype of its proposed solution. We intend to provide the necessary support to the team. A good team would be self-sufficient to create the prototype. </p>
+ <p> The team size is upto 1-5. Member of the team should not necessarily to be of same college. Since the innovation challenge is a team event, the team is expected to develop the working prototype of its proposed solution. We intend to provide the necessary support to the team. A good team would be self-sufficient to create the prototype. </p>
 <p> <b>  Judging Criteria: </b> </p> 
 <p> The teams would be judged on the basis of the following parameters: </p>
 <ul>
@@ -1214,14 +1297,17 @@ Team Guidelines:  </b> </p>
  <li> Sustainability of the solution</li> 
 <li> Quickness in the completion of development of the solution (during the hackathon) would be appreciated- the complexity of the prototype of the solution should be minimal </li>
 <li> How your product stands out among the existing products (How your product is better than its existing counterpart)</li>
+<li>Representation of your product via presentation is mandatory and detail
+work of the model would be asked at that time.
+</li>
 </ul>
 
 <p> <b> Prize Money:</b> </p>
 <p> Rs: 1,20,000/- </p>
-
+<p><b>Submit your idea at:- </b>https://goo.gl/tRPHGL</p>
 <p> <b> Contact Details: </b> </p>
 <p> Shreya: 8839912039 </p> 
-<p> Akshat: 897021147 </p>
+<p> Akshat: 8979021147 </p>
 
 `,
         "703": `<h1> THE SALVAGE YARD </h1>
@@ -1447,7 +1533,7 @@ The bots first arrive at Checkpoint A.
 <h1> MIRROR MAZE 2.0 </h1>
 <p> <b> Description: </b> </p>
 <p> 
- There will be a maze of size 11x17 sq.ft. where the bot will traverse. The walls will be made of glass and mirrors. It will be a manually controlled bot that can be wired or wireless. The goal is to gather maximum points by touching the blocks, placed randomly across the maze. A camera or a phone should be mounted over the bot, which will provide a live feed fpv from bot. The driver will have to control it through the camera screen as the arena will not be shown to the driver who is controlling the bot. Obstacles like speed breakers, bumps and fluid patches would be present in the arena. The depth of fluid patch would be 2 cm from ground level. So all electrical connections of the bot must be designed accordingly.</p>
+ There will be a maze of size 11x17 sq.ft. where the bot will traverse. The walls will be made of glass and mirrors. It will be a manually controlled bot that can be wired or wireless. The goal is to gather maximum points by touching the blocks, placed randomly across the maze. A camera or a phone should be mounted over the bot, which will provide a live feed fpv from bot. The driver will have to control it through the camera screen as the arena will not be shown to the driver who is controlling the bot. Obstacles like speed breakers, bumps and muddy area would be present in the arena. The muddy area would be 2 cm from ground level. So all electrical connections of the bot must be designed accordingly.</p>
 <p> <b> Requirements of the bot: </b> </p>
 <li> Dimensions of the bot must not exceed 20x20x20 cubic.cm. </li>
 <li> All connections of the bot must be minimum of 3-4 cm above the ground level. </li>
@@ -1459,7 +1545,7 @@ The bots first arrive at Checkpoint A.
 <li> A team of max. 4 participants is allowed. </li>
 <li> The event consists of ......... rounds.</li>
  <li> Each team can avail for only 1 technical time-out per round. 
-<li> The maze obstacles consist of speed breakers, bumps and may be fluid patches along with few other common obstacles. </li>
+<li> The maze obstacles consist of speed breakers, bumps and may be muddy area along with few other common obstacles. </li>
 <li> Each participant has to start at a fixed position to traverse the maze. </li>
 <li> Wooden blocks of certain points would be placed at random positions in the maze before a team start their turn (Red block= 5 points, Blue block= 10 points, Yellow block= 30 points, Jackpot block= 100 points).</li>
  <li> The points will be awarded on a time basis and a total number of blocks touched by the bot.</li> 
@@ -1467,7 +1553,7 @@ The bots first arrive at Checkpoint A.
 <li> The controller would be allowed 30 seconds just before the start of their turn to observe the maze & positions of the point blocks. </li>
 <li> Any damage to the arena will result in direct disqualification. </li>
 <li> Teams with maximum points qualify for the next round.</li>
-<li> Each team gets 3 skip options. It can only be applied when a bot is unable to cross any obstacle or if the controller wishes to skip the obstacle (No negative markings in such criteria). Special case: In case the controller wishes to skip the water(or non-Newtonian fluid) patch 10 points would be deducted from the total score. Any damage to the bot caused while crossing this patch is solely the team’s responsibility. </li>
+<li> Each team gets 3 skip options. It can only be applied when a bot is unable to cross any obstacle or if the controller wishes to skip the obstacle (No negative markings in such criteria). Special case: In case the controller wishes to skip the muddy area 10 points would be deducted from the total score. Any damage to the bot caused while crossing this area is solely the team’s responsibility. </li>
 <li> However, this skip option is not available in the jackpot region.</li>
  <li> Touching the glass wall results in a negative marking of 2 marks. </li>
 <li> Further rules of qualifying rounds would be disclosed on spot. </li>
