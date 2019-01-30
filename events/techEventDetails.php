@@ -589,26 +589,43 @@
 <p>ASHRITA DAS : 7330747346 </p>
 `,
         "302": `
-        <h1>MILK RUN - OPERATIONS</h1>
-<p>Based on Supply Chain Management, there will be five teams working as distributors with limited funds. They will be buying materials from the warehouse and selling them to the retailers by overcoming the challenges commonly seen in logistics.</p>
-<p>Participants will be learning about logistics, dead stock, limited working capital and supply chain</p>
-<p> <b>Rules and Regulations: </b> </p>
-<p> Total members in a team: 4 </p>
-<p> Each team gets an equal amount of money which they will use to place orders for raw materials.
-The vendor manages the order of the customers, notes the raw material requirements of the customers and is assisted by the Material Manager who keeps the stock in hand details and receives orders as per the availability of stock in the warehouse. 
-Other two members of the team will be managing the flow of goods and cash in and out of warehouse. </p>
-<p> <b>Prize Money: </b> </p> 
-<p> 1st Prize - Rs. 12000 </p>
-<p> 2nd Prize - Rs. 8000 </p>
-<P> Contact: </p>
-<p> Akriti Raj </p>
-<p> 7504429751 </p>
-<p> 17202073@ksom.ac.in </p>
-<p>Shashi Sekhar Ray </p>
-<p>7980357048 </p>
-<p>18202055@ksom.ac.in </p>
+        <h1> MILK RUN </h1>
+<p> <b> ROUND 1</p> </b>
+ 
+<p> <b>Description:</p> </b>
+<p>This game is an elimination round. Out of “N” no. of registered teams we will cut short the participants to 10 Teams.
+<p>In this round participants will get A questionnaire, in which 7 Question would be there related to Supply Chain, Logistics & Technology, Ex: Which company started using Lean Manufacturing process first .So the answer would be Toyota but instead of the company’s name they have to identify the logo from the 4 options provided to them and submit it to as soon as possible. Top 10 TEAM will qualify for the 2nd ROUND.
+ 
+<p> <b>Steps and Rules of the game</p> </b>
+<ol> 
+<li> Each team will be required to nominate one of their member who will play the 1st round.
+<li> A questionnaire will be prepared having multiple questions with logos as the options. 
+<li> Each team will be provided with a login id and password to give the quiz in PLM Lab, 7 questions per team.
+</ol>
 
-        `,
+<p> <b>MILK RUN: ROUND 2</p> </b>
+<p> <b>Description:</p> </b>
+<ul>
+<li> This game will give a real time experience of how supply chain works and what the complications and decisions one has to make while getting orders. They will also get a flavor of how multiple distributors compete with each other for getting order of the retailers along with making profit.
+<li> The teams will have to play the role of strategic decision maker who needs to finalize the location of its warehouse and the vehicle to be used by them to deliver the products to the retailers.
+<li> The teams will be provided with a certain amount as initial capital and then they will have to bid for the location of their warehouse and then the vehicle to be used. These bids will be open to make the teams more engaged in the game.
+<li> After the vehicle and locations are allotted to the teams they need to calculate their operating cost and declare the cost. (This operating cost will be calculated on the basis of their warehouse distance to retailer and fuel cost of the vehicle).
+<li> They will be required to keep in mind that the left out amount (i.e. vehicle and location cost with addition to the operating cost) will be required to purchase the products from us. These products will further be required to be sold to a single retailer. The teams will be required to fill out a tender as per the requirements of the retailer.
+<li> The team with minimum tender bid and highest profit will get the opportunity to sell their products to the retailer and hence win the game.
+<ul>
+<p> <b>Steps and Rules of the game</p> </b>
+<ol>
+<li>Each team will contain 3 members.
+<li> They will have to play the role of a distributor.
+<li> No mobile phones or any other gadgets are to be used.
+<li> This game will be fully based on MS Excel.
+</ol>
+
+<p> <b>CONTACT</p> </b>
+<p> AKRITI RAJ : 7504429751 </p>
+<p> SHASHI SEKHAR RAI: 7980357048 </p>
+
+`,
 
         "303": `<h1> STOCK CHALLENGE - FINANCE </h1>
  <p> Stock challenge is a game of virtual stock market where you build your portfolio and react to the market volatility. Make more investments and get more returns. With this event, you get an experience similar to that of the original trading platform without even spending a single real buck. </p>
