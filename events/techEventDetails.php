@@ -780,7 +780,7 @@ Other two members of the team will be managing the flow of goods and cash in and
             </ol></p>
             <p><b>Contact Details:</b>
             <ul>
-            <li>Adarsh Parashar (7985235594)
+            <li>Adarsh Parashar (9455862178)
             </ul></p>
         `,
 
