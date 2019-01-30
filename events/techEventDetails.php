@@ -568,24 +568,7 @@ Rittik Sarkar
 Paras Khanna
 9776922104
 18202034@ksom.ac.in
-<h1>MILK RUN - OPERATIONS</h1>
-Based on Supply Chain Management, there will be five teams working as distributors with limited funds. They will be buying materials from the warehouse and selling them to the retailers by overcoming the challenges commonly seen in logistics.
-Participants will be learning about logistics, dead stock, limited working capital and supply chain
-<p> <b>Rules and Regulations: </b> </p>
-Total members in a team: 4
-Each team gets an equal amount of money which they will use to place orders for raw materials.
-The vendor manages the order of the customers, notes the raw material requirements of the customers and is assisted by the Material Manager who keeps the stock in hand details and receives orders as per the availability of stock in the warehouse.
-Other two members of the team will be managing the flow of goods and cash in and out of warehouse.
-<p> <b>Prize Money: </b> </p> 
-1st Prize - Rs. 12000
-2nd Prize - Rs. 8000
-<P> Contact: </p>
-<p> Akriti Raj </p>
-<p> 7504429751 </p>
-<p> 17202073@ksom.ac.in </p>
-<p>Shashi Sekhar Ray </p>
-<p>7980357048 </p>
-<p>18202055@ksom.ac.in </p>`,
+`,
         "302": `
         <h1> STOCK CHALLENGE - FINANCE </h1>
  <p> Stock challenge is a game of virtual stock market where you build your portfolio and react to the market volatility. Make more investments and get more returns. With this event, you get an experience similar to that of the original trading platform without even spending a single real buck. </p>
@@ -679,16 +662,16 @@ A press conference scenario in which the company's CEO, Product Manager and the 
         `,
 
         "305": `<h1>MILK RUN - OPERATIONS</h1>
-Based on Supply Chain Management, there will be five teams working as distributors with limited funds. They will be buying materials from the warehouse and selling them to the retailers by overcoming the challenges commonly seen in logistics.
-Participants will be learning about logistics, dead stock, limited working capital and supply chain
+<p> Based on Supply Chain Management, there will be five teams working as distributors with limited funds. They will be buying materials from the warehouse and selling them to the retailers by overcoming the challenges commonly seen in logistics.
+Participants will be learning about logistics, dead stock, limited working capital and supply chain </p>
 <p> <b>Rules and Regulations: </b> </p>
-Total members in a team: 4
-Each team gets an equal amount of money which they will use to place orders for raw materials.
-The vendor manages the order of the customers, notes the raw material requirements of the customers and is assisted by the Material Manager who keeps the stock in hand details and receives orders as per the availability of stock in the warehouse.
-Other two members of the team will be managing the flow of goods and cash in and out of warehouse.
+<p> Total members in a team: 4 </p>
+<p> Each team gets an equal amount of money which they will use to place orders for raw materials.
+The vendor manages the order of the customers, notes the raw material requirements of the customers and is assisted by the Material Manager who keeps the stock in hand details and receives orders as per the availability of stock in the warehouse. </p>
+<p> Other two members of the team will be managing the flow of goods and cash in and out of warehouse. </p>
 <p> <b>Prize Money: </b> </p> 
-1st Prize - Rs. 12000
-2nd Prize - Rs. 8000
+<p>1st Prize - Rs. 12000 </p> 
+<p>2nd Prize - Rs. 8000 </p> 
 <P> Contact: </p>
 <p> Akriti Raj </p>
 <p> 7504429751 </p>
