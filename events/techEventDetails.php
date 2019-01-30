@@ -708,10 +708,10 @@
  
 <p> <b>Duration- 2PM TO 8PM</p> </b>
  
-<p> <b>Description-</p> </b>
+<p> <b>Description</p> </b>
 <p>A press conference scenario where the company's CEO, Product Manager and the Brand Manager come together to save the face of the Company for a product that has created havoc in the market. Only this time it's Do or Die.</p>
 <p> <b>DARE TO FACE - MARKETING</p> </b>
-A press conference scenario where the company's CEO, Product Manager and the Brand Manager come together to save the face of the Company for a product that has created havoc in the market. Only this time it's Do or Die.
+<p> A press conference scenario where the company's CEO, Product Manager and the Brand Manager come together to save the face of the Company for a product that has created havoc in the market. Only this time it's Do or Die.</p>
 <p> <b>Rules and Regulation:</p> </b>
 <ul>
 <li>It will be a group event (3 members only).
