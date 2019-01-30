@@ -15,12 +15,12 @@
         "206": "Pixeloscope",
         "207": "Shabd-War",
 
-        "301": "DARE TO FACE - MARKETING",
-        "302": "MILK RUN - OPERATIONS",
-        "303": "STOCK CHALLENGE - FINANCE ",
-        "304": "SYNERGY KONFLICTUS 5.0 - HUMAN RESOURCE MANAGEMENT",
-        "305": "IKADHIKAAR - BUSINESS STRATEGY",
-        "306": "Kraack the Story- Online Case Study",
+        "301": "SYNERGY KONFLICTUS 5.0",
+        "302": "MILK RUN",
+        "303": "STOCK CHALLENGE",
+        "304": "Kraack The Story!",
+        "305": "DARE TO FACE",
+        "306": "IKADHIKAAR",
 
         "401": "Brainotracking",
         "402": "Hackathon",
@@ -547,27 +547,46 @@
 
         
         //KSOM
-        "301": `<h1> DARE TO FACE - MARKETING </h1>
-<p> A press conference scenario in which the company's CEO, Product Manager and the Brand Manager come together to save the face of the company for a product that has created havoc in the market.
- Only this time it's Do or Die. </p>
-<p> <b>Rules and Regulations:
-It will be a group event (3 members only).
-Cases will be given at the time of the event.
-15 minutes will be given to each team to prepare their strategies.
-The conference will be held for 30 minutes(excluding initial 15 minutes).
-Once the press conference starts, teams will be given an initial 10 minutes to give their opening statements.
-This will be followed by 15 minutes of confrontation with the press.
-The conference will end with the closing statement made by the CEO for which an additional 5 minutes will be given.
-<p> <b>Prize Money: 
-1st Prize - Rs. 12000
-2nd Prize - Rs. 8000
-<p> <b>Contact:
-Rittik Sarkar
-8017126802
-17202039@ksom.ac.in
-Paras Khanna
-9776922104
-18202034@ksom.ac.in
+        "301": `<h1> SYNERGY KONFLICTUS 5.0 </h1>
+<p> <b> Overview </p> </b>
+<p> To help participants understand that conflict is a natural occurrence, and that everyone has a different approach in dealing with the conflict situations. Participants will have an opportunity to learn about approaches in general and their own in particular to see how synergy function between the team members.
+<p> <b>Event Duration </p> </b>
+<p>Usually 8-10 minutes per team is required also it depends on number of teams come forward for participation.</p>
+<p> <b>Learning </p> </b>
+<ul>
+<li>The exercise will allow teams to appreciate the value of synergy in activity, team works and communication.</li>
+<li>Time management in the continuous activity-process of planning and exercising conscious control over the amount of time spent on specific activities, especially to increase effectiveness, efficiency or productivity. </li>
+<li>There are many approaches to conflict management such as </li>
+<ul>
+<li>Avoidance: (I lose, you lose),  
+<li>Competition :( I win, you lose), 
+<li>Cooperation: (I win, you win), 
+<li>Adaptation: (I lose, you win).
+</ul>
+</ul>
+<p>What is important is to be aware of your own approach and able to understand & recognize the approach other people take.</p>
+<p> <b>Procedure </p> </b>
+<p>The Activity will be conducted in different levels.</p>
+<ul>
+<li>There will be an elimination round where the teams will be eliminated based on business quiz. (If the team numbers exceeds 10)
+<li>The first level will be audio visual round where one of the team member has to guess the word or sentence in the audio visual clipping and tell the volunteer. If right then scores full point, if not hint will be provided.
+<li>Then in the second level one of the member will use the white board and non-verbal gestures to explain the other two members the word or sentence of the audio visual clipping. If correct then they return to their booth and solve the given case/situation in jumbled format in a given time of 2 minutes.
+<li>If the members answer matches with the given word/sentence then they score full points.
+<li>The team with the highest score wins the game.
+</ul>
+<p> <b>Rules </p> </b>
+<ol>
+<li>Each level is a time based and scoring will be done according to that. 
+<li>Usage of hints will deduct half the score.
+<li>No use of number representation or writing of words directly on board.
+<li>The team securing the maximum points wins the game.
+<li>Any use of other malpractices will lead to the disqualification of the entire team.
+</ol>
+
+
+<p> <b>CONTACT:</p> </b>
+<p>PUJA SINGH : 8210129354 </p>
+<p>ASHRITA DAS : 7330747346 </p>
 `,
         "302": `
         <h1>MILK RUN - OPERATIONS</h1>
