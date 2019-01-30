@@ -547,66 +547,71 @@
 
         
         //KSOM
-        "301": `
-        <h1>Business Simulation</h1>
-        <hr>
-        <p><b>Description:</b>A scenario and numeric based game that tests the overall business acumen of teams in a competitive scenario.
-        </p>
-         
-
-         <p>
-        <b>Rules and regulations:</b>
-        <ul>
-        <li>Team should consist of minimum 2 members and maximum 3 members.
-
-        <li>There is no limit to the number of teams participating from an institute.
-
-        <li>A student cannot be part of more than one team.
-
-        <li>The members of teams cannot be from different institutes.
-
-        </ul>
-        </p>
-
-        <p><b>Prize money worth:</b> &nbsp; Rs. 40,000</p>
-        
-        <p><b>Contacts:</b>
-        <ol>    
-        <li>Rittik Sarkar-+918017126802-7202039@ksom.ac.in
-        <li>Pras Khanna-+919776922104-18202034@ksom.ac.in 
-        </ol>
-
-        </p>
-        `,
+        "301": `<h1> DARE TO FACE - MARKETING </h1>
+A press conference scenario in which the company's CEO, Product Manager and the Brand Manager come together to save the face of the company for a product that has created havoc in the market.
+ Only this time it's Do or Die.
+<p> <b>Rules and Regulations:
+It will be a group event (3 members only).
+Cases will be given at the time of the event.
+15 minutes will be given to each team to prepare their strategies.
+The conference will be held for 30 minutes(excluding initial 15 minutes).
+Once the press conference starts, teams will be given an initial 10 minutes to give their opening statements.
+This will be followed by 15 minutes of confrontation with the press.
+The conference will end with the closing statement made by the CEO for which an additional 5 minutes will be given.
+<p> <b>Prize Money: 
+1st Prize - Rs. 12000
+2nd Prize - Rs. 8000
+<p> <b>Contact:
+Rittik Sarkar
+8017126802
+17202039@ksom.ac.in
+Paras Khanna
+9776922104
+18202034@ksom.ac.in
+<h1>MILK RUN - OPERATIONS</h1>
+Based on Supply Chain Management, there will be five teams working as distributors with limited funds. They will be buying materials from the warehouse and selling them to the retailers by overcoming the challenges commonly seen in logistics.
+Participants will be learning about logistics, dead stock, limited working capital and supply chain
+<p> <b>Rules and Regulations: </b> </p>
+Total members in a team: 4
+Each team gets an equal amount of money which they will use to place orders for raw materials.
+The vendor manages the order of the customers, notes the raw material requirements of the customers and is assisted by the Material Manager who keeps the stock in hand details and receives orders as per the availability of stock in the warehouse.
+Other two members of the team will be managing the flow of goods and cash in and out of warehouse.
+<p> <b>Prize Money: </b> </p> 
+1st Prize - Rs. 12000
+2nd Prize - Rs. 8000
+<P> Contact: </p>
+<p> Akriti Raj </p>
+<p> 7504429751 </p>
+<p> 17202073@ksom.ac.in </p>
+<p>Shashi Sekhar Ray </p>
+<p>7980357048 </p>
+<p>18202055@ksom.ac.in </p>`,
         "302": `
-        <h1>Dalal Street</h1>
-        <hr>
-        <p><b>Description:</b> Dalal Street is a game of virtual stock market where you build your portfolio and react to the market volatility. Make more investment to get more returns.
-         </p>
-       
+        <h1> STOCK CHALLENGE - FINANCE </h1>
+ <p> Stock challenge is a game of virtual stock market where you build your portfolio and react to the market volatility. Make more investments and get more returns. With this event, you get an experience similar to that of the original trading platform without even spending a single real buck. </p>
+<p>Game Duration – 11th Feb – 15th Feb </p>
+<p>Market time – 9:00 a.m. to 3:15 p.m. </p>
+<p>Rules & Regulations: </p>
+<ol> 
+<li> Participants participate individually.
+<li> Participants would be provided with a laptop where there would be an online platform for virtual stock market trading. 
+<li>A virtual ID would be created of Rs.2500000 portfolio.
+<li>Participants are required to buy or sell stocks according to their judgement. 
+<li>At the end of the trading, the one with a portfolio of Rs.2500000 or more wins.  
+</ol>
+<p> <b> Prize Money: </b> </p>
+<p> Winner – 20 k</p> 
+<p> 1st Runner up – 10k </p> 
+<p> 2nd Runner Up – 10k </p> 
+<p> ICICI Centre of Financial Learning (ICFL) will provide scholarships to the winners. </p> 
+<p> <b> Contact: </b> </p>
+<p>S Sonali Prusty </p> 
+<p>+918763242043</p> 
+<p>17202248@ksom.ac.in</p> 
+<p>Nishan Agarwalla</p>
+<p>+918338075558</p>
+<p>18202033@ksom.ac.in</p>
 
-         <p>
-        <b>Rules and regulations:</b>
-        <ul>
-        <li> Participants participate individually.
-        <li> Participants would be provided with a laptop where there would be an online platform for virtual stock market trading.
-        <li> A virtual ID would be created of Rs.2500000 portfolio.
-        <li> Participants are required to buy or sell stocks according to their judgement.
-        <li> At the end of the trading, the one with a portfolio of Rs.2500000 or more wins.
-
-
-        </ul></p>
-
-        <p><b>Prize money worth:</b> &nbsp; Rs. 20,000</p>
-
-        <p><b>Contacts:</b>
-        <ol><li>S Sonali Prusty-+918763242043-17202248@ksom.ac.in
-                <li>Nishan Agarwalla-+918338075558-18202033@ksom.ac.in
-        </ol>
-
-        
-
-        </p>
         `,
 
         "303": `
