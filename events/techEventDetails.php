@@ -937,7 +937,7 @@ Other two members of the team will be managing the flow of goods and cash in and
             <p><b>Coordinators:</b></p>
             <ul>
                 <li>Pratik Das (+91-7681994369)</li>
-                <li>Priyatesh Shah (+91-7978411690) </li>
+                <li>Priytesh Shah (+91-7978411690) </li>
             </ul>
         `,
         "502": `
