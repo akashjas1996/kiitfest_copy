@@ -627,30 +627,47 @@
 
 `,
 
-        "303": `<h1> STOCK CHALLENGE - FINANCE </h1>
- <p> Stock challenge is a game of virtual stock market where you build your portfolio and react to the market volatility. Make more investments and get more returns. With this event, you get an experience similar to that of the original trading platform without even spending a single real buck. </p>
-<p>Game Duration – 11th Feb – 15th Feb </p>
-<p>Market time – 9:00 a.m. to 3:15 p.m. </p>
-<p>Rules & Regulations: </p>
-<ol> 
-<li> Participants participate individually.
-<li> Participants would be provided with a laptop where there would be an online platform for virtual stock market trading. 
-<li>A virtual ID would be created of Rs.2500000 portfolio.
-<li>Participants are required to buy or sell stocks according to their judgement. 
-<li>At the end of the trading, the one with a portfolio of Rs.2500000 or more wins.  
-</ol>
-<p> <b> Prize Money: </b> </p>
-<p> Winner – 20 k</p> 
-<p> 1st Runner up – 10k </p> 
-<p> 2nd Runner Up – 10k </p> 
-<p> ICICI Centre of Financial Learning (ICFL) will provide scholarships to the winners. </p> 
-<p> <b> Contact: </b> </p>
-<p>S Sonali Prusty </p> 
-<p>+918763242043</p> 
-<p>17202248@ksom.ac.in</p> 
-<p>Nishan Agarwalla</p>
-<p>+918338075558</p>
-<p>18202033@ksom.ac.in</p>
+        "303": `<h1> STOCK CHALLENGE </h1>
+<p> <b>Game Duration – 11th Feb – 15th Feb </p> </b>
+<p> <b>Market time – 9:00 a.m. to 3:15 p.m.</p> </b>
+ 
+<p> <b>Registration process of the game:</p> </b>
+<ul>
+<li> College code- GAGD  
+<li> SMS 'ICFL <college code> <email id>' to 9215676766. Put one space in between. Do not use any brackets. 
+<li> The email ID you send through SMS will be your user ID
+<li> Your password will be sent to your registered email ID
+<li> Visit virtualstocks.icicidirect.com and login with your User ID and Password
+<li> Fill in your details
+<li> Start trading
+</ul>
+
+<p> <b>Terms & Conditions for Virtual Stock Trading Platform Users</p> </b>
+<ul>
+<li>   The account shall be active for all trading days during market hours (09:15 am - 03:30 pm). A trading day is defined as a day when both NSE and BSE are open for trading
+ <li>          At the time of registration, Rs. 15 Lakh of virtual money will be allocated to each participant
+ <li>          Top BSE & NSE stocks will be available for trading. For more details visit stock list section
+ <li>      None of the accidental or unintentional trades will be reversed by ICICI Securities Ltd
+ <li>          ICICI Securities Ltd. will not be responsible for the technical issues and non-availability of the trading platform
+ <li>         Participants will be solely responsible for the trading hours / days lost for non-availability of a trading platform due to the User ID being locked, unlocking of User ID / Password or any other such activity
+ <li>          ICICI Securities Ltd. and its associates can call, SMS or email participants, even if they are registered under DNC
+ <li>          Photographs, videos or films of participants taken during the programme can be used for any legitimate purposes by ICICI Securities Ltd
+ <li>          You hereby agree and understand to trade on the Virtual Stocks platform. The amount allocated to the participant will be purely Virtual and cannot be liquidated into real money.
+</ul>
+ 
+<p> <b>Daily Turnover Restrictions:</p> </b>
+<p> System is designed in such a way that participants can place trades only upto a trading turnover of Rs. 3 Crore per day. Turnover means the sum total of all the transactions executed on a particular trading day. This includes shares bought and sold on the same day or shares sold today while they were purchased on some other trading day. If a participant exceeds turnover of Rs. 3 Crore on any day of the contest, system will disable the trading of that participant.</p>
+
+<p> <b>Prizes –</p> </b>
+<p> ICICI Centre of Financial Learning (ICFL) will provide scholarships to the winners.  </p>
+<p> Winner – 20 k </p>
+<p> 1<sup>st </sup>Runner up – 10k </p>
+<p> 2<sup>nd</sup> Runner Up – 10k </p>
+
+<p> <b>CONTACT: </p> </b>
+<p> KUMARI YAMINEE : 9767774864 </p>
+<p> NISHAN AGARWALLA: 8338075558 </p>
+
 
         `,
         "304": `
