@@ -15,12 +15,12 @@
         "206": "Pixeloscope",
         "207": "Shabd-War",
 
-        "301": "Business Simulation",
-        "302": "Dalal Street",
-        "303": "Dare to Face",
-        "304": "Ikadhikaar",
-        "305": "Milk Run",
-        "306": "Synergy Konflictus 5.0",
+        "301": "DARE TO FACE - MARKETING",
+        "302": "MILK RUN - OPERATIONS",
+        "303": "STOCK CHALLENGE - FINANCE ",
+        "304": "SYNERGY KONFLICTUS 5.0 - HUMAN RESOURCE MANAGEMENT",
+        "305": "IKADHIKAAR - BUSINESS STRATEGY",
+        "306": "Kraack the Story- Online Case Study",
 
         "401": "Brainotracking",
         "402": "Hackathon",
@@ -570,7 +570,28 @@ Paras Khanna
 18202034@ksom.ac.in
 `,
         "302": `
-        <h1> STOCK CHALLENGE - FINANCE </h1>
+        <h1>MILK RUN - OPERATIONS</h1>
+Based on Supply Chain Management, there will be five teams working as distributors with limited funds. They will be buying materials from the warehouse and selling them to the retailers by overcoming the challenges commonly seen in logistics.
+Participants will be learning about logistics, dead stock, limited working capital and supply chain
+<p> <b>Rules and Regulations: </b> </p>
+Total members in a team: 4
+Each team gets an equal amount of money which they will use to place orders for raw materials.
+The vendor manages the order of the customers, notes the raw material requirements of the customers and is assisted by the Material Manager who keeps the stock in hand details and receives orders as per the availability of stock in the warehouse.
+Other two members of the team will be managing the flow of goods and cash in and out of warehouse.
+<p> <b>Prize Money: </b> </p> 
+1st Prize - Rs. 12000
+2nd Prize - Rs. 8000
+<P> Contact: </p>
+<p> Akriti Raj </p>
+<p> 7504429751 </p>
+<p> 17202073@ksom.ac.in </p>
+<p>Shashi Sekhar Ray </p>
+<p>7980357048 </p>
+<p>18202055@ksom.ac.in </p>
+
+        `,
+
+        "303": `<h1> STOCK CHALLENGE - FINANCE </h1>
  <p> Stock challenge is a game of virtual stock market where you build your portfolio and react to the market volatility. Make more investments and get more returns. With this event, you get an experience similar to that of the original trading platform without even spending a single real buck. </p>
 <p>Game Duration – 11th Feb – 15th Feb </p>
 <p>Market time – 9:00 a.m. to 3:15 p.m. </p>
@@ -595,29 +616,6 @@ Paras Khanna
 <p>+918338075558</p>
 <p>18202033@ksom.ac.in</p>
 
-        `,
-
-        "303": `<h1> DARE TO FACE - MARKETING </h1>
-A press conference scenario in which the company's CEO, Product Manager and the Brand Manager come together to save the face of the company for a product that has created havoc in the market.
- Only this time it's Do or Die.
-<p> <b>Rules and Regulations: </p> </b>
-<li>It will be a group event (3 members only).
-<li>Cases will be given at the time of the event.
-<li>15 minutes will be given to each team to prepare their strategies.
-<li>The conference will be held for 30 minutes(excluding initial 15 minutes).
-<li>Once the press conference starts, teams will be given an initial 10 minutes to give their opening statements.
-<li>This will be followed by 15 minutes of confrontation with the press.
-<li>The conference will end with the closing statement made by the CEO for which an additional 5 minutes will be given.
-<p> <b>Prize Money: </p> </b>
-1st Prize - Rs. 12000
-2nd Prize - Rs. 8000
-<p> <b>Contact: </p> </b>
-<p>Rittik Sarkar</p>
-<p>8017126802</p>
-<p>17202039@ksom.ac.in</p>
-<p>Paras Khanna</p>
-<p>9776922104</p>
-<p>18202034@ksom.ac.in</p>
         `,
         "304": `
         <h1>Ikadhikaar</h1>
