@@ -178,7 +178,7 @@ $sql = new sql();
                         if($c<1){
                           
                           echo '<script>';
-                          echo 'setTimeout(async function(){await swal("Sorry! You can\'t checkout now", "Please select minimum two events before checking out", "warning")},50)';
+                          echo 'setTimeout(async function(){await swal("Sorry! Your Cart is Empty", "Please select an event to checkout", "warning")},50)';
                           echo '</script>';
                           exit();
                           echo '<script>';
