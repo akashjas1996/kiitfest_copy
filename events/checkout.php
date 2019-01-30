@@ -158,7 +158,7 @@ $sql = new sql();
                 <img src="../kf.png" height="150px" style="padding-bottom:0px"><br>
                 <font style="font-family: 'Open Sans', sans-serif;font-size: 22px;color: #292929;">KIIT FEST 5.0</font><br><br>
                 <font style="font-family: 'Open Sans', sans-serif;font-size: 12px;color: #a09f9f;">
-                Check Out Page For KIIT FEST 
+                Checkout Page For KIIT FEST <br>Note: You cannot remove events after paying...
                 </font>
             </center>
       </div>
@@ -175,7 +175,7 @@ $sql = new sql();
                     if($result)
                     {
                         $c = mysqli_num_rows($result);
-                        if($c<=1){
+                        if($c<1){
                           
                           echo '<script>';
                           echo 'setTimeout(async function(){await swal("Sorry! You can\'t checkout now", "Please select minimum two events before checking out", "warning")},50)';
@@ -188,32 +188,63 @@ $sql = new sql();
                         $count = 1;
                         while($row = mysqli_fetch_assoc($result))
                         {
-                          
-                        
+                          $sql1 = "select payment_complete from participants_participant where kf_id = '$kfid'";
+                          $result1 = mysqli_query($GLOBALS['connect'],$sql1);
+                          if($result1){
+                            $row1 = mysqli_fetch_assoc($result1);
+                            if($row1['payment_complete'] != 1){
+  
                             echo '
-                  <div class="product">
-                  <div class="row">
-                    <div class="col-md-3">
-                      
-                    </div>
-                    <div class="col-md-8">
-                      <div class="info">
-                        <div class="row">
-                        <div  class="col-md-2">'.$count++.'</div>
-                          <div class="col-md-4 product-name">
-                            <div class="product-name">
-                              <a href="#">'.$row['event_name'].'</a>
+                            <div class="product">
+                            <div class="row">
+                              <div class="col-md-3">
+                                
+                              </div>
+                              <div class="col-md-8">
+                                <div class="info">
+                                  <div class="row">
+                                  <div  class="col-md-2">'.$count++.'</div>
+                                    <div class="col-md-4 product-name">
+                                      <div class="product-name">
+                                        <a href="#">'.$row['event_name'].'</a>
+                                      </div>
+                                    </div>
+                                    <div class="col-md-2">
+                                      <input class="btn btn-danger" onClick=removeItem('.$row['event_id'].') type="submit" value="Remove">
+                                    </div> 
+                                  </div>
+                                </div>
+                              </div>
                             </div>
                           </div>
-                          <div class="col-md-2">
-                            <input class="btn btn-danger" onClick=removeItem('.$row['event_id'].') type="submit" value="Remove">
-                          </div> 
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                            ';
+                                      ';
+                          }
+                          else{
+                            echo '
+                            <div class="product">
+                            <div class="row">
+                              <div class="col-md-3">
+                                
+                              </div>
+                              <div class="col-md-8">
+                                <div class="info">
+                                  <div class="row">
+                                  <div  class="col-md-2">'.$count++.'</div>
+                                    <div class="col-md-4 product-name">
+                                      <div class="product-name">
+                                        <a href="#">'.$row['event_name'].'</a>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                                      ';
+                          }
+                          }
+
+
 
                         }
                         $query = "select * from participants_participant where kf_id = '$kfid'";
@@ -252,6 +283,17 @@ $sql = new sql();
                           </div>
                         </div>';
                               }
+                          else{
+                            echo ' 
+                            </div>
+                            </div>
+                            <div class="col-md-12 col-lg-4">
+                            <div class="summary">
+                              <h3>Payment Successful</h3>
+                             
+                            </div>
+                          </div>';
+                          }
                         }
 
                     }
