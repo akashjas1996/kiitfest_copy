@@ -671,58 +671,68 @@
 
         `,
         "304": `
-        <h1> SYNERGY KONFLICTUS 5.0 - HUMAN RESOURCE MANAGEMENT </h1>
-<p> Managing Human Capital is a key business function. Happy employees results in better productivity & greater growth. To help the participants understand that conflict is a natural occurrence and that everyone has a different approach in dealing with the conflict situations, situations will be created for the participants to learn about the various approaches to dealing with conflicts. </p>
-<p> <b> Rules & Regulations: <b> </p>
-<p> The Activity will be conducted in different levels. </p>
-<p>There will be an elimination round based on a business quiz.  </p>
+        <h1> Kraack The Story! </h1>
+<p> This event puts into tests your analytical skill, how you come up with solutions to the real life business problems. Strategize your moves and join the road to victory.  </p>
 
-<p>The first level will be audio visual round where one of the team member has to guess the word or sentence in the audio visual clipping. </p>
-
-<p>In the second level, one of the members will use non-verbal gestures to explain the other two members the word or sentence of the audio visual clipping.  </p>
-
-<p> <b>Rules:<b> </p>
-
-<p> Each level is a time based one. </p>
-<p> Hints may be used but after deduction of 50% of the points. </p>
-<p> The team securing the maximum points wins the game. </p>
- <p> <b> Prize Money: </b> </p>
- <p>1st Prize - Rs. 12000  </p>
- <p>2nd Prize - Rs. 8000 </p>
-<p> <b> Contact: </b> </p>
-<p>Puja Singh </p>
-<p>7209248102</p>
-<p>17202177@ksom.ac.in</p>
-<p>Ashrita Das</p>
-<p>7330747346</p>
-<p>18202016@ksom.ac.in</p>
+<p> <b>ABOUT THE EVENT:</p> </b>
+<ul>
+<li> It will be an online event.
+ 
+<li>We'll provide the case study by 12th Feb 10 AM
+ 
+<li>Participants have 2 days of time( 13th and 14th Feb 2019)
+ 
+<li>They have to submit the responses by 15th by 2 PM 
+ 
+<li>The number of members in a team- one or two. 
+ 
+<li>Results will be out by 16th at 10 PM 
+ 
+<li>(It's the management's decision to bring any further changes in the rules and regulations)
+</ul>
+ 
+<p> <b>Prize money-  upto 40,000
+ 
+<p> <b>Contact:</p> </b>
+<p>Rittik Sarkar</p>
+<p>8017126802</p>
+<p>17202039@ksom.ac.in</p>
+ 
+<p>Paras Khanna</p>
+<p>9776922104</p>
+<p>18202034@ksom.ac.in</p>
 
         `,
 
-        "305": `<h1> IKADHIKAAR - BUSINESS STRATEGY </h1>
-<p>This strategic business game, quite similar to monopoly, will be a team based game with riddles and puzzles. The victor will be crowned based on the property valuation at the conclusion of both the rounds.</p>
-<p>Rules & Regulations:</p>
-<p>Each team shall consist of 4 members.One member has to roll the dice and move the game forward.</p>
-<p>Every team will be given a specific event.</p>
-<p>There will be a limit on the amount spent by the teams for each round. No team can spend higher than that amount.</p>
-<p> <b>  Round 1: </b> </p>
-<p>A team need to decide based on the amount provided to them whether to purchase the property or not. </p>
-<p>On the purchased property of any team if other team lands, the other team has to pay the rent.</p>
-<p>The game will go on till the last team reaches the starting point. </p>
-<p>The puzzles provided will be based on logic and reasoning.</p>
-<p> <b> Round 2: </b> </p>
-<p>There will be a hidden growth percentage associated to all the properties. </p>
-<p>If a team wants to purchase any other property and they do not have the necessary amount, they have to auction their property. The winner of both the rounds will be decided based on the amount spent by the team in generating the properties in addition to the earnings of the team from their properties in terms of rent and  mortgages.</p>
-<p> <b> Prize Money: </b> </p>
-<p>1st Prize - Rs. 12000</p>
-<p>2nd Prize - Rs. 8000</p>
-<p>Contact:</p>
-<p>Aditya Mitra</p>
-<p>8339840067</p>
-<p>17202072@ksom.ac.in</p>
-<p>Ujjwal Mahato</p>
-<p>9668219321</p>
-<p>18202070@ksom.ac.in</p>
+        "305": `<h1> DARE TO FACE </h1>
+ 
+<p> <b>Duration- 2PM TO 8PM</p> </b>
+ 
+<p> <b>Description-</p> </b>
+<p>A press conference scenario where the company's CEO, Product Manager and the Brand Manager come together to save the face of the Company for a product that has created havoc in the market. Only this time it's Do or Die.</p>
+<p> <b>DARE TO FACE - MARKETING</p> </b>
+A press conference scenario where the company's CEO, Product Manager and the Brand Manager come together to save the face of the Company for a product that has created havoc in the market. Only this time it's Do or Die.
+<p> <b>Rules and Regulation:</p> </b>
+<ul>
+<li>It will be a group event (3 members only).
+<li>Cases will be given at time of the event.
+<li>15 minutes will be given to each team to prepare their strategies.
+<li>The conference will be for a total of 30 minutes(excluding initial 15 minutes).
+<li>Once the press conference starts teams will be given an initial 10 minutes to give their opening statements.
+<li>This will be followed by 15 minutes of confrontation with the press.
+<li>The conference will end with the closing statement made by the CEO for which an additional 5 minutes will be given.
+</ul>
+<p> <b>Prize Money: </p> </b>
+<p> 1st Prize - Rs. 12000 </p>
+<p> 2nd Prize - Rs. 8000 </p>
+<p> <b>Contact:</p> </b>
+<p>Rittik Sarkar</p>
+<p>8017126802</p>
+<p>17202039@ksom.ac.in</p>
+ 
+<p>Paras Khanna</p>
+<p>9776922104</p>
+<p>18202034@ksom.ac.in</p>
 
 
         `,
