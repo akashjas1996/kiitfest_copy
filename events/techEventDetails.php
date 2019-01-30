@@ -674,37 +674,24 @@ Other two members of the team will be managing the flow of goods and cash in and
 
         `,
 
-
-
         "306": `
-        <h1>Synergy Konflictus 5.0</h1>
-        <hr>
- 
-        <p><b>Description:</b>Managing Human Capital is a key business function. Happy employees results in better productivity & greater growth. This game will give participants a firsthand feel of managing employees.</p>
-        
+        <h1> Kraack the Story- Online Case Study </h1>
+<p> An analytical game that tests the overall business acumen of teams in a competitive scenario. </p>
+<p> Rules & Regulations: </p>
+Team should consist of minimum 2 members and maximum 3 members.
+A student cannot be part of more than one team.
+The members of teams cannot be from different institutes.
+<p> Prize Money: </p>
+<p> 1st Prize - Rs. 25000
+<p> 2nd Prize - Rs. 15000
+<p> Contact: </p>
+<p> Rittik Sarkar</p>
+<p> +918017126802</p>
+<p> 17202039@ksom.ac.in</p>
+<p>Pras Khanna</p>
+<p>+919776922104</p>
+<p>18202034@ksom.ac.in</p>
 
-         <p>
-        <b>Rules and regulations:</b>
-        </p>
-        <p>The Activity will be completed in 3 individual levels divided in level 1,2,3 respectively:
-        <ol >
-
-        <li>The first level will be focusing on identifying and understanding the various situations presented in form of audio visual clipping that people are familiar with & usually came across in organization or with friends and family.
-        <li>The second level will focus on communication an integral part in anyone’s life, creative thinking and time management.
-        <li>The third level will be focusing on decision making and their approaches to situation to the situations observed in level 1 & 2 along with synergy with team members.
-        <li>Each level will be scored on various parameters and the team scoring maximum points win.
-        </ol></p>
-
-        <p><b>Prize money worth:</b> &nbsp; Rs. 20,000</p>
-
-        <p>
-        <b>Contacts:</b>
-        <ol><li>Puja Singh-7209248102-17202177@ksom.ac.in
-        <li>Ashrita Das-7330747346-18202016@ksom.ac.in
-
-        </ol>
-
-        </p>
         `,
 
 
