@@ -95,6 +95,8 @@ function addToCart(id) {
     xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
     xhr.send("itemId="+id);
     swal("Congratulations!", "Sucessfuly Add To Cart", "success");
+    var id = "#" + id;
+    $(id).addClass("active");
 }
 
 
@@ -102,8 +104,15 @@ function eventNamesHTML(department) {
     var eventNo = department;
     var id = 900;
     var eventNamesString = "";
+    var active = "";
     for(let i = 1; i <= eventNo; i++) {
-        eventNamesString += `<div id="${id + i}"><span>${eventNames[id + i]}</span>`;
+        if(eventList != 0)
+            if(eventList.includes(String(id + i)))
+                active = "class='active' ";
+        else
+            active = "";
+
+        eventNamesString += `<div id="${id + i}" ${active}><span>${eventNames[id + i]}</span>`;
         if(isLogin == 1) 
             eventNamesString += `<span onClick=addToCart(${id + i}) class="addEvent"><i class="fas fa-plus-circle fa-xs"></i></span>`;
         eventNamesString += "</div>";

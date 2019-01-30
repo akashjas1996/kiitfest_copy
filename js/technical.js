@@ -82,7 +82,6 @@ departments.forEach( department =>
             eventContent.transition({y: 40, opacity: 0}, duration, () => {
                 eventContent.html(defaultContent).promise().done(() => {
                     eventContent.transition({y: 0, opacity: 1}, duration);
-                    $('.eventDetailsContainer').scrollTop(0);
                 });
             });
             eventNamesSelector.transition({x: "100%", opacity: 0}, 300, 'ease');
@@ -129,16 +128,14 @@ function eventNamesHTML(department) {
     var active = "";
     id -= eventNo;
 
-    console.log(eventList);
-
     for(let i = 1; i <= eventNo; i++) {
-        if(eventList.includes(String(id + i)))
-            active = "class='active' ";
+        if(eventList != 0)
+            if(eventList.includes(String(id + i)))
+                active = "class='active' ";
         else
             active = "";
 
         eventNamesString += `<div id="${id + i}" ${active}><span>${eventNames[id + i]}</span>`;
-        console.log(eventNamesString);
         if(isLogin == 1) 
             eventNamesString += `<span onClick=addToCart(${id + i}) class="addEvent"><i class="fas fa-plus fa-xs"></i></span>`;
         eventNamesString += "</div>";

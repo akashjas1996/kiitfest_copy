@@ -4,7 +4,16 @@
 include "./sql.php";
 $sql = new sql();
 $isLogin = $sql->isLogin();
-echo '<script> var isLogin = '. $isLogin. ';</script>' 
+$event_list = $sql->getEventList($sql->getKFID());
+$js = json_encode($event_list);
+
+if($isLogin) {
+  echo "<script>var eventList = ". $js. ";\n";
+}
+else {
+  echo "<script>var eventList = [];\n";
+}
+echo 'var isLogin = '. $isLogin. ';</script>';
 ?>
 
 <html lang="en">

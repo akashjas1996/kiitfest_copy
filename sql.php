@@ -57,6 +57,7 @@ class sql {
             return 0;
         else{
             $i =0;
+            $event_array = [];
             $query = "select event_id from participants_participant_events where participant_id = '$kfid'";
             $result = mysqli_query($GLOBALS['connect'],$query);
             foreach ( $result as $var ) {
@@ -66,7 +67,7 @@ class sql {
             if(count($event_array) > 0)
                 return $event_array;
             else
-                return 0;
+                return $event_array;
         }
     }
 
