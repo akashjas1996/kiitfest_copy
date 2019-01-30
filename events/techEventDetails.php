@@ -738,24 +738,39 @@ A press conference scenario where the company's CEO, Product Manager and the Bra
         `,
 
         "306": `
-        <h1> Kraack the Story- Online Case Study </h1>
-<p> An analytical game that tests the overall business acumen of teams in a competitive scenario. </p>
-<p> Rules & Regulations: </p>
-<ol>
-<li>  Team should consist of minimum 2 members and maximum 3 members. 
-<li> A student cannot be part of more than one team. </
-<li> The members of teams cannot be from different institutes.
-</ol>
-<p> Prize Money: </p>
-<p> 1st Prize - Rs. 25000
-<p> 2nd Prize - Rs. 15000
-<p> Contact: </p>
-<p> Rittik Sarkar</p>
-<p> +918017126802</p>
-<p> 17202039@ksom.ac.in</p>
-<p>Pras Khanna</p>
-<p>+919776922104</p>
-<p>18202034@ksom.ac.in</p>
+        <h1> IKADHIKAAR </h1>
+<p>Strategy and Chance are two terms which rarely intercept with each other. We present you the ultimate puzzles and riddles which will lead you to a new adventure of real estate market. Your passion, vision and grit will make you the new kings and queens of the game of chances and strategies.
+.
+<p> <b>Rules & Regulations:</p> </b>
+<p>Team consists of 4 members.One member has to roll the dice and the others have to strategically play the game.
+<p>Every team will be given a specific event to play the game.
+<p>Prices of the properties will be hidden and will be known after the contestants solve a riddle.
+<p>There will be a cap on the amount spent by the teams for each round.No team can spend higher than that amount.
+<p>There will be a slot which is named as “chance slot” . When contestants reach the slot they have to pick the chits, as it is the game of chances, contestants will be having chances of winning rewards or losing their assets in a equal manner .
+<p> <b>Round 1:</p> </b>
+<ul>
+<li>A team need to decide based on the amount provided to them whether to purchase the property or not.
+<li>On the purchased property of any team if other team lands, the other team has to pay the rent.
+<li>The game will go on till the last team reaches the starting point. 
+<li>The puzzles provided will be based on logic and reasoning.
+</ul>
+<p> <b>Round 2:</p> </b>
+<p>There will be a hidden growth percentage associated to all the properties. </p>
+<p>If a team wants to purchase any other property and they fall scarce of the amount, then they need to auction their property. The winner of both the rounds will solely be decided based on the end of the entire round on the basis of the highest amount spent by the team in generating the properties in addition to the earnings of the team from their properties in terms of rent and mortgages.</p>
+
+
+<p> <b>Prize Money:</p> </b>
+<p>1st Prize - Rs. 12000</p>
+<p>2nd Prize - Rs. 8000</p>
+
+<p> <b>Contact:</p> </b>
+<p>Aditya Mitra</p>
+<p>8339840067</p>
+<p>17202072@ksom.ac.in</p>
+<p>Ujjwal Mahato</p>
+<p>9668219321</p>
+<p>18202070@ksom.ac.in</p>
+
 
         `,
 
