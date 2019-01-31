@@ -1859,7 +1859,8 @@ The bots first arrive at Checkpoint A.
 <p> Bishal: 9401476420 </p>
 <p> Saswata: 8116340242 </p>
 `,
-        "707": `<h1> ROBOWAR </h1> <hr>
+        "707": `<h1> ROBOWAR </h1> 
+        <hr>
  <p> <b> Task: Design and construct a remote-controlled robot capable of fighting a one on one tournament.  </p> </b> 
  <p> <b>  Dimensions and Fabrications: </p> </b> 
 <ul> 
