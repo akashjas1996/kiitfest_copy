@@ -1403,7 +1403,7 @@ So, elicit the artist hidden inside you! </p>
 
         //Vidnan
         "701": `
-        	<h1>Scavenger's quest</h1>
+        	<h1>Scavenger's quest</h1><hr>
         	<p><h4>Hunt to survive</h4></p>
 
         	<p><b>Description:</b>The event deals with the hunt to survive on the new planet Fenotis. Here the participants would not only hunt for their needs to survive but also design a wearable tech which they would use to continue to live and exist in the planet. They would have to design their T-shirts in a unique manner distinct from each other and finally the one with the most idiosyncratic idea will be the conqueror and the best survivor of the planet Fenotis. </p>
@@ -1466,7 +1466,7 @@ Rs-20,000 </b>
         `,
 
         "702": `
-    <h1> Innovation Challenge </h1>
+    <h1> Innovation Challenge </h1> <hr>
     <p><h2>NEXT GENERATION CITY</h2></p>
     <p><h3>15th TO 17th FEBRUARY</h3></p>
  <p> <b>Themes:</b>Vidnan (School of Electronics Engineering) under the banner of KIIT FEST is committed towards a competitive and transparent ecosystem for the innovative minds and thinkers across the nation. Innovation challenge participants are encouraged to put on their young minds and provide suitable solutions for the existing problem across six themes. All the teams will be evaluated on two phases depending upon their proposed solution. </p>
@@ -1527,14 +1527,14 @@ work of the model would be asked at that time.
 <p> Akshat: 8979021147 </p>
 
 `,
-        "703": `<h1> THE SALVAGE YARD </h1>
+        "703": `<h1> THE SALVAGE YARD </h1> <hr>
         <p><b>Brief Description:</b>
 
-The School of Electronics Tech Fest, Vidnan, brings to you Salvage Yard, the newest addition
+<p> The School of Electronics Tech Fest, Vidnan, brings to you Salvage Yard, the newest addition
 to their list of amazing and interactive events. If you have what it takes to bring out the best from
 what you get, this is the perfect event for you. This event literally combines fun with learning.
 After clearing a fun and interactive quiz round, and solving riddles in the most innovative and
-knowledge-friendly way, you get to make the best of the components you acquire for yourself.
+knowledge-friendly way, you get to make the best of the components you acquire for yourself. </p>
 
 </p>
 
@@ -1649,7 +1649,7 @@ be declared.
 <p> B. Prakhar(+91-7766932637)  </p>
 `,
         "704": `
-   <h1>SEGUIDOR</h1>
+   <h1>SEGUIDOR</h1> <hr>
    <p> Design and construct an autonomous robot which is capable of traversing the arena by following a line in a particular manner and avoid the obstacle that it might encounter. The participants are required to build a line following bot which is capable of detecting an obstacle in front of it and sense the presence of colour on the floor in front of it. </p>
    <p> TASK: Traverse the area from the START point to the END point by following a black line laid throughout the white area. But the task is not that simple. The bot should be capable of following a particular pattern as mentioned further in this problem statement. The bot should work on the principle of advance line follower to give utmost efficiency on the arena. During its operation, the bot will encounter the various obstacle which it needs to understand and take action accordingly. Performing every task smoothly will result in full point and violating it will result in penalties.</p>
    <p> <b> ARENA DESIGN & SPECIFICATION: </b> </p>
@@ -1744,8 +1744,8 @@ be declared.
    Anirban Nag: 9973769996 
    Shuvam: 9938283553 
 `,
-        "705": `<html>
-<h1> RoadRunner </h1>
+        "705": `
+<h1> RoadRunner </h1> <hr>
 <p> <b> Description:- </b> </p>
  <p>The Task is to build a manually controlled bot which can complete the route by overcoming the obstacles in its Path. Thus battling with the opponents based on Marginal points and timing to finally win it. The bot can be wired or wireless. In case of wireless they maybe Bluetooth controlled or Wi-Fi controlled. There are 2 rounds, Round 1 and 2 based on the difficulty level, participants will go to the next round by only clearing the preceding round. </p>
 <p> <b>  Round1 (Two bots will have to compete for each other in a race.) </b> </p>
@@ -1809,7 +1809,7 @@ The bots first arrive at Checkpoint A.
 <p> Vishesh: 9711901381 </p>
 </html>`,
         "706": `
-<h1> MIRROR MAZE 2.0 </h1>
+<h1> MIRROR MAZE 2.0 </h1> <hr>
 <p> <b> Description: </b> </p>
 <p> 
  There will be a maze of size 11x17 sq.ft. where the bot will traverse. The walls will be made of glass and mirrors. It will be a manually controlled bot that can be wired or wireless. The goal is to gather maximum points by touching the blocks, placed randomly across the maze. A camera or a phone should be mounted over the bot, which will provide a live feed fpv from bot. The driver will have to control it through the camera screen as the arena will not be shown to the driver who is controlling the bot. Obstacles like speed breakers, bumps and muddy area would be present in the arena. The muddy area would be 2 cm from ground level. So all electrical connections of the bot must be designed accordingly.</p>
@@ -1859,7 +1859,7 @@ The bots first arrive at Checkpoint A.
 <p> Bishal: 9401476420 </p>
 <p> Saswata: 8116340242 </p>
 `,
-        "707": `<h1> ROBOWAR </h1> 
+        "707": `<h1> ROBOWAR </h1> <hr>
  <p> <b> Task: Design and construct a remote-controlled robot capable of fighting a one on one tournament.  </p> </b> 
  <p> <b>  Dimensions and Fabrications: </p> </b> 
 <ul> 
@@ -1965,7 +1965,7 @@ Rs: 75,000/-
 <p> Sandipan: 9804113215 </p>
 <p> Sourav: 8348518426 </p>
 `,
-        "708": `<h1> KIVI-(Electronics Trivia Quiz Game) </h1>
+        "708": `<h1> KIVI-(Electronics Trivia Quiz Game) </h1> <hr>
 <p> <b> Description: </b> </p>
 <p> Do you feel the massive robotics events are not your cup of tea? If that is the case, don't just be a spectator. While others sweat it out in other events of Vidnan, you can compete online in this one of a kind trivia quiz game which can be accessed from anywhere within the electronics department. Be ready to put your imagination, your prowess and your creative best to the test! 
 
