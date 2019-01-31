@@ -1527,7 +1527,8 @@ work of the model would be asked at that time.
 <p> Akshat: 8979021147 </p>
 
 `,
-        "703": `<h1> THE SALVAGE YARD </h1> <hr>
+        "703": `<h1> THE SALVAGE YARD </h1> 
+        <hr>
         <p><b>Brief Description:</b>
 
 <p> The School of Electronics Tech Fest, Vidnan, brings to you Salvage Yard, the newest addition
@@ -1584,15 +1585,12 @@ limited time frame of 60 minutes.
 <li> A team can have a minimum of 2 members and a maximum of 4 members.</li>
 
 <li>Mystery box once provided will not be changed.</li>
-
-
-
 <li> In Round 3: </li>
-</ol>
 <ul>
 <li> Participants are allowed to use the Internet. </li>
 <li>  Participants can request for additional components and wires to the coordinators but it entirely depends on the coordinators whether they allow it. </li>
 <li> All the components will be provided to them during this round. </li>
+ </ul>
  <li> Students are not allowed to use Mobile, Laptop, Calculator or any kind of electronic media in first Round.  </li>
 
  <li> College Id Card is Mandatory.</li>
@@ -1602,7 +1600,7 @@ limited time frame of 60 minutes.
  <li> All rights are reserved with the coordinators. They may or may not disclose any information depending upon the information asked. They can change any rule at any time according to the situation. </li>
 
 <li> Any misconduct or violation of rules will lead to immediate elimination. </li>
-</ul>
+</ol>
 <p> <b> Judging Criteria: </p> </b> 
 <p> <b> Round 1: </p> </b> 
 <ol>
