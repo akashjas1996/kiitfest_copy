@@ -1521,7 +1521,7 @@ work of the model would be asked at that time.
 
 <p> <b> Prize Money:</b> </p>
 <p> Rs: 1,20,000/- </p>
-<p><b>Submit your idea at:- </b>https://goo.gl/tRPHGL</p>
+<p><b>Submit your idea at:- </b> <a> https://goo.gl/tRPHGL </a></p>
 <p> <b> Contact Details: </b> </p>
 <p> Shreya: 8839912039 </p> 
 <p> Akshat: 8979021147 </p>
@@ -1572,7 +1572,7 @@ a mystery box. Each team will be then given a ball and will have to hit a carton
 get the desired mystery box.
 
 </li>
-<li>TThe mystery box will contain 7 components and each team will have to choose at least 5
+<li>The mystery box will contain 7 components and each team will have to choose at least 5
 components from the mystery box and have to design an innovative circuit within a
 limited time frame of 60 minutes.
 
@@ -1620,7 +1620,7 @@ allotted accordingly.
 </ol>
 
 <p> <b> Round 3: </b> </p>
-ol>
+<ol>
 <li> The team which scored the maximum points in the previous round will be allowed to hit
 the carton boxes first. The mystery box once won cannot be exchanged will be judged
 on the basis of their understanding of the circuit, their efficiency in identifying the fault
@@ -1659,9 +1659,9 @@ be declared.
    <p> There are some key points of the arena that the participants need to keep in mind while programming their bot to gain maximum points and avoid deviation from the required path. </p>
    <p> At some point in the area, the black line will not be continuous and there will be a gap of not more than 5 centimetres. There will also be a sharp turn after some gaps. So the participants should program their bot in such a way that it does not malfunction at these given points. According to the given figure, the bot should follow the line as the blue line suggest.</p>
    <p> As the image suggests, at some point of the arena the line shift suddenly to either the right or left by not more than 1 centimetre. The participant needs to program their bot in such a manner that it could understand the shift and traverse the path according to the blue line shown in the image.</p>
-   At some points of the arena, the lines will have sharp turns but the edges of the turn will be removed as you can see in the image beside. So the participant needs to program their bot in such a way that it does not malfunction in this part.
-   At some points of the arena, the path could have a turn with an angle of at most 45 degrees. So the participants will have to program their bot accordingly. If the bot leaves the path, it will have to restart from the last checkpoint and penalties will be imposed for every such action.
-   Some part of the arena will constitute curved dotted lines with gaps of a maximum of 1 centimetre. The line will not bend with a very sharp turn but will almost look like a straight line. So the contestant need not worry so much about this part as they will easily be able to traverse with a minor change in the program.
+   <p>At some points of the arena, the lines will have sharp turns but the edges of the turn will be removed as you can see in the image beside. So the participant needs to program their bot in such a way that it does not malfunction in this part.</p>
+   <p>At some points of the arena, the path could have a turn with an angle of at most 45 degrees. So the participants will have to program their bot accordingly. If the bot leaves the path, it will have to restart from the last checkpoint and penalties will be imposed for every such action.</p>
+   <p>Some part of the arena will constitute curved dotted lines with gaps of a maximum of 1 centimetre. The line will not bend with a very sharp turn but will almost look like a straight line. So the contestant need not worry so much about this part as they will easily be able to traverse with a minor change in the program.</p>
    <p> <b> COLOUR SENSING:</b></p>
    <p>There will be points in the arena where the line will divert into two paths at 90 degrees. At this point, there will a rectangular patch of red colour laid on the floor 3 cm ahead of the turning point as shown in the diagram. The participant needs to construct their bot and program it in such a manner that it should be able to detect this colour in front of the line and take 90 degrees turn to the left side. Taking a right turn in this point and following the path will result in negative points. If the left path is traversed, the team will gain points in their favour.</p>
    <p>There will be points in the arena where the line will divert into two paths at 90 degrees. At this point, there will a rectangular patch of yellow colour laid on the floor 3 cm ahead of the turning point as shown in the diagram. The participant needs to construct their bot and program it in such a manner that it should be able to detect this colour in front of the line and take 90 degrees right turn. Taking a left turn in this point and following the path will result in negative points. If the right path is traversed, the team will gain points in their favour.</p>
@@ -1867,7 +1867,7 @@ The bots first arrive at Checkpoint A.
 <li> Mobility: All robots must have easily visible and controlled mobility in order to compete. Methods of mobility include:</li>
  <li> Rolling (wheels, tracks or the whole robot). </li>
  <li> Non-wheeled robots having no rolling elements in contact with the floor and any continuous rolling or cam operated motion in contact with the floor, either directly or via a linkage. Motion is "continuous" if the continuous operation of the drive motor(s) produces continuous motion of the robot. Linear-actuated legs and novel non-wheeled drive systems come under this category. </li>
- Jumping and hopping are not allowed. Flying (using airfoil, helium balloons etc.) is not allowed.
+ <li> Jumping and hopping are not allowed. Flying (using airfoil, helium balloons etc.) is not allowed. </li>
 </ul>
 <p> <b> Rules and Regulations :</p> </b> 
 <ul> 
