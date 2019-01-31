@@ -1863,7 +1863,7 @@ The bots first arrive at Checkpoint A.
  <p> <b> Task: Design and construct a remote-controlled robot capable of fighting a one on one tournament.  </p> </b> 
  <p> <b>  Dimensions and Fabrications: </p> </b> 
 <ul> 
-<li>  The machine should fit in a box of dimension 400mm x 400mm x 400 mm (lx w x h) at any given point during the match. The external device used to control the machine or any external tank is not included in the size constraint. </li>
+<li>  The machine should fit in a box of dimension 500mm x 500mm x 500 mm (lx w x h) at any given point during the match. The external device used to control the machine or any external tank is not included in the size constraint. </li>
 <li> The machine should not exceed 20 kg but tolerance of 5% will be allowed.</li>
 <li> Mobility: All robots must have easily visible and controlled mobility in order to compete. Methods of mobility include:</li>
  <li> Rolling (wheels, tracks or the whole robot). </li>
