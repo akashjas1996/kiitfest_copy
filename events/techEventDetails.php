@@ -1190,73 +1190,73 @@
 
         //Vidnan
         "701": `
-            <h1>Round 1: Elimination Round</h1>
+        	<h1>Scavenger's quest</h1>
+        	<p><h4>Hunt to survive</h4></p>
 
-<ul>
-<li> Each team will be given a circuit which will have a fault somewhere in it. The team not only
-has to identify the fault but also rectify it and make it work properly. </li>
-<li> Max. Time Limit of 20 minutes. </li> 
-<h1> Round 2: Final Round </h1>
-<li>The team will be provided with a mystery box with 7 components and they have to choose at
-least 5 components from the mystery box and have to design an innovative circuit within a
-limited time frame of 60 minutes.</li>
-</ul>
+        	<p><b>Description:</b>The event deals with the hunt to survive on the new planet Fenotis. Here the participants would not only hunt for their needs to survive but also design a wearable tech which they would use to continue to live and exist in the planet. They would have to design their T-shirts in a unique manner distinct from each other and finally the one with the most idiosyncratic idea will be the conqueror and the best survivor of the planet Fenotis. </p>
 
-<bold> Rules & Regulations: </bold>
+            <h3>Round 1: Elimination Round</h3>
+            <p>Participants will have to solve the brainteasers - tech/non-tech/mixed of both.
+Time Limit: 20-30 minutes.</p>
+
+			<h3>Round 2: Hunt Round</h3>
+			<p>Participants will have to run in and around the campus and find the electronic components hidden.These components are to be  used in the third round to design their innovative T-shirts.</p>
+
+			<h3>Round 3: Final Round</h3>
+			<p>The participants need to design a wearable tech T- shirt which implements the modernity of technology and the creativity of the art.  A set of components will be given which the participants have to use while designing the T-shirt.</p>
+							
+
+
+<p><bold> Rules & Regulations: </bold>
 <ol>
-<li>A team can have a minimum of 2 members and a maximum of 4 members.</li>
-<li>The team which finishes the task in less time will be given priority over others.</li>
-<li>Finishing the task doesn’t guarantee selection as it is also a time-based challenge.</li>
-<li>Problem Statement and mystery box once provided will not be changed.</li>
-<li>In Round 2:</li>
-</ol>
-<ul>
-<li>Participants are allowed to use the Internet.</li>
-<li>Participants can request for additional components and wires to the coordinators but it entirely
-depends on the coordinators whether they allow it.</li>
-<li> All the components will be provided to them during this round. </li>
-<li> Students are not allowed to use Mobile, Laptop, Calculator or any kind of electronic media in
-first Round.</li>
-<li> College Id Card is Mandatory.</li>
-<li> The decision of the judges and students are final.</li>
-<li> All rights are reserved with the coordinators. They may or may not disclose any information
-depending upon the information asked. They can change any rule at any time according to the
-situation.</li>
-<li> Any misconduct or violation of rules will lead to immediate elimination.</li>
-
-<p><b> Judging Criteria: </b> </p>
-<p> <b> Round 1: </b> </p>
-<p>
-<ol>
- <li> The team will be judged on the basis of their understanding of the circuit, their efficiency in
-identifying the fault and rectification of the fault to get the correct output.</li>
-
- <li> The team which would complete first will proceed to the next round.</li>
-<li> Time Limit: 20 minutes</li>
-</ol>
+<li> A team must have 1-3 members.</li>
+<li>Students are not be allowed to use Mobile, Laptop, Calculator or any kind of electronic media in the arena in round 1.</li>
+<li> All members of the team must be present at the clue checkpoint to collect the clue from the volunteers.</li>
+<li>Teams are allowed to use any source of information such as books, internet etc. in round 2 and 3.</li>
+<li>College ID card is mandatory.</li>
+<li>All the teams will be given a map so that they can easily locate the place where the clues are present.</li>
 </ol>
 </p>
-<p> <b> Round 2: </b> </p>
-<ol.
-<li> The team will be judged on the basis of their innovation, the efficiency of the circuit,
-explanation, how much more components of the mystery box the team uses.</li>
-<li> All teams will be evaluated after the time frame of 60 minutes and winners will be declared.</li>
-<li> Time Limit: 60 minutes</li>
-</ol>
+
+<p><b>Additional instructions-</b>
+<ul>
+<li>A plain white T Shirt will be provided to all the participants.</li>
+<li>A set of electronic components (THE CLUES FOUND IN ROUND 2) will have to be used while designing the T-shirt.</li>
+<li>The participants are allowed to use any kind of tech or non-tech accessories.</li>
+<li> After the T-shirts are distributed they need to be submitted at the given time of submission only.</li>
+<li>During the time of submission, the participants need to submit the details of all the accessories used and an abstract, stating the purpose of designing their t-shirt in that manner, its scope, improvements as well as its working in brief.</li>
+<li>The decision of coordinators and judges is final.</li>
+<li>Use of colors is allowed.</li>
+<li>All rights are reserved with the coordinators. They may or may not disclose any information depending upon the information asked. They can change any rule at any time according to the situation</li>
+<li>Any misconduct or violation of rules will lead to immediate elimination.</li>
+</ul></p>
+
+
+
+
+<p><b> Judging Criteria: </b>
+<ol>
+<li>The t-shirt should support the basic idea of a wearable tech and promote electronics as a whole.</li>
+<li>Any leakage of current, open wires or heat being generated leads to immediate elimination.</li>
+<li>The use of smart technology is preferred.</li>
+<li> The team with highest average score from rounds 2 and 3 will be declared as winner.</li>
+</ol></p>
 
 <p> <b> Prize Money:
 Rs-20,000 </b>
  </p>
  <p> Rs-20,000 </p>
  <p> <b> Contact Details: </b> <p>
-<p> A. Kajol (9090561913) </p>
-<p> B. Prakhar(+91-7766932637) </p>
+<p> A. Samriddhi (8709469488)</p>
+<p> B. Shinjini (9938245522)</p>
+
         `,
+
         "702": `
     <h1> Innovation Challenge </h1>
     <p><h2>NEXT GENERATION CITY</h2></p>
     <p><h3>15th TO 17th FEBRUARY</h3></p>
- <p> Vidnan (School of Electronics Engineering) under the banner of KIIT FEST is committed towards a competitive and transparent ecosystem for the innovative minds and thinkers across the nation. Innovation challenge participants are encouraged to put on their young minds and provide suitable solutions for the existing problem across six themes. All the teams will be evaluated on two phases depending upon their proposed solution. </p>
+ <p> <b>Themes:</b>Vidnan (School of Electronics Engineering) under the banner of KIIT FEST is committed towards a competitive and transparent ecosystem for the innovative minds and thinkers across the nation. Innovation challenge participants are encouraged to put on their young minds and provide suitable solutions for the existing problem across six themes. All the teams will be evaluated on two phases depending upon their proposed solution. </p>
  <ul>
 <li>Water, Waste and Energy Management </li>
 <li>Health Care and Education </li>
@@ -1271,6 +1271,7 @@ Rs-20,000 </b>
  <p> The ideal participating team would be a solution provider. The team would be expected to provide and develop an idea which would solve the real-life problem related to the six themes. </p>
 <p> <b> Phase 2: </b> </p>
  <p> Coders, developers and designers will have a prodigious platform to use their out-of-the-box idea on these six themes using Embedded Systems, Artificial Intelligence, Machine Learning, IoT, AR/VR, Blockchain, Data Analytics or whatever they want to use. The team would be expected to come up with an innovative idea of the problem. After that, they have to design the solution in a 20-hr hackathon which will be held during the 3 days of KIIT FEST. </p>
+
 <p> <b> Rules and Regulations: </b> </p>
  <p> Following are the rules and guidelines for innovation challenge which need to be followed by every participant. </p>
  <ul>
@@ -1283,9 +1284,12 @@ Rs-20,000 </b>
 <li> Participants shall not knowingly use software that is obtained or retained either illegally or unethically includes using TeamViewer or similar software. Participants will be disqualified if they are found using it. </li>
 <li> In case of any emergency or medical assistance, please reach out to the Organizers.</li>
 </ul>
+
+
 <p> <b>
 Team Guidelines:  </b> </p>
- <p> The team size is upto 1-5. Member of the team should not necessarily to be of same college. Since the innovation challenge is a team event, the team is expected to develop the working prototype of its proposed solution. We intend to provide the necessary support to the team. A good team would be self-sufficient to create the prototype. </p>
+ <p> The team size is upto 1-5. Member of the team should not necessarily to be of same college. Since the innovation challenge is a team event, the team is expected to develop the working prototype of its proposed solution within the allotted time. We intend to provide the necessary support to the team. A good team would be self-sufficient to create the prototype. </p>
+
 <p> <b>  Judging Criteria: </b> </p> 
 <p> The teams would be judged on the basis of the following parameters: </p>
 <ul>
@@ -1311,26 +1315,66 @@ work of the model would be asked at that time.
 
 `,
         "703": `<h1> THE SALVAGE YARD </h1>
-<p> <b> Round 1: Elimination Round </p> </b> 
+        <p><b>Brief Description:</b>
+
+The School of Electronics Tech Fest, Vidnan, brings to you Salvage Yard, the newest addition
+to their list of amazing and interactive events. If you have what it takes to bring out the best from
+what you get, this is the perfect event for you. This event literally combines fun with learning.
+After clearing a fun and interactive quiz round, and solving riddles in the most innovative and
+knowledge-friendly way, you get to make the best of the components you acquire for yourself.
+
+</p>
+
+
+<p> <b> Round 1: 1st Elimination Round </p> </b> 
 <ul> 
-<li> Each team will be given a circuit which will have a fault somewhere in it. The team not only has to identify the fault but also rectify it and make it work properly. </li>
-<li>  Max. Time Limit of 20 minutes. </li>
-</ul>
-<p> <b> Round 2: Final Round</p> </b> 
+<li> There will be two Quiz round. The first is a buzzer round to test your general
+knowledge. This round will be held multiple times from which each time the top three
+will progress to the next quiz round.
+ </li>
+<li>  The second quiz round is to test your knowledge on basic principles of electronic
+circuits. One member from each of the top three teams from the previous round will pick
+a chit containing a problem statement. The member will have to enact and draw the
+answer to their remaining team members.
+</li>
+</ul></p>
+
+
+<p> <b> Round 2: 2nd Elimination Round</p> </b> 
 <ul> 
-<li> The team will be provided with a mystery box with 7 components and they have to choose at least 5 components from the mystery box and have to design an innovative circuit within a limited time frame of 60 minutes. </li>
-</ul>
+<li> The next round will be riddle solving round. The teams will be given a riddle the
+solution to which will be a circuit.
+</li>
+<li>The teams will have to figure out the answer and then design that circuit on a
+software called Tinkercad
+</li>
+</ul></p>
+
+
+<p> <b> Round 3: 3rd Elimination Round</p> </b> 
+<ul> 
+<li> Each team will be made to stand in front of carton boxes underneath which will contain
+a mystery box. Each team will be then given a ball and will have to hit a carton box to
+get the desired mystery box.
+
+</li>
+<li>TThe mystery box will contain 7 components and each team will have to choose at least 5
+components from the mystery box and have to design an innovative circuit within a
+limited time frame of 60 minutes.
+
+</li>
+</ul></p>
+
+
 <p> <b> Rules & Regulations: </p> </b> 
 <ol> 
 <li> A team can have a minimum of 2 members and a maximum of 4 members.</li>
 
-<li>The team which finishes the task in less time will be given priority over others. </li>
+<li>Mystery box once provided will not be changed.</li>
 
-<li>Finishing the task doesn’t guarantee selection as it is also a time-based challenge.</li>
 
- <li>Problem Statement and mystery box once provided will not be changed. </li>
 
-<li> In Round 2: </li>
+<li> In Round 3: </li>
 </ol>
 <ul>
 <li> Participants are allowed to use the Internet. </li>
@@ -1349,18 +1393,40 @@ work of the model would be asked at that time.
 <p> <b> Judging Criteria: </p> </b> 
 <p> <b> Round 1: </p> </b> 
 <ol>
-<li> The team will be judged on the basis of their understanding of the circuit, their efficiency in identifying the fault and rectification of the fault to get the correct output. </li><li> The team which would complete first will proceed to the next round. </li>
+<li> The teams will be given three chances to pick a chit and enact the answer. Weightage
+of points decreases with each successive chance.
+ </li>
 
-<li> Time Limit: 20 minutes</li>
 
 </ol>
 <p> <b> Round 2: </b> </p>
 
 <ol>
-<li> The team will be judged on the basis of their innovation, the efficiency of the circuit, explanation, how much more components of the mystery box the team uses. </li>
- <li> All teams will be evaluated after the time frame of 60 minutes and winners will be declared. </li>
- <li> Time Limit: 60 minutes </li>
+<li> The team will be judged on basis of the circuit made in Tinkercad and points will be
+allotted accordingly.
+ </li>
+ 
 </ol>
+
+<p> <b> Round 3: </b> </p>
+ol>
+<li> The team which scored the maximum points in the previous round will be allowed to hit
+the carton boxes first. The mystery box once won cannot be exchanged will be judged
+on the basis of their understanding of the circuit, their efficiency in identifying the fault
+and rectification of the fault to get the correct
+
+ </li>
+ <li>The team will be judged on the basis of their innovation, an efficiency of the
+circuit, explanation, how much more components of the mystery box the team
+uses.
+</li>
+<li>All teams will be evaluated after the time frame of 60 minutes and winners will
+be declared.
+</li>
+<li>Time Limit: 60 minutes</li>
+</ol>
+
+
 
 <p> <b> Prize Money: </b> </p>
 <p> Rs-20,000 </p>
@@ -1686,28 +1752,35 @@ Rs: 75,000/-
 <p> Sandipan: 9804113215 </p>
 <p> Sourav: 8348518426 </p>
 `,
-        "708": `<h1> KIWI-(Electronics Trivia Quiz Game) </h1>
+        "708": `<h1> KIVI-(Electronics Trivia Quiz Game) </h1>
 <p> <b> Description: </b> </p>
-<p> It is an online quiz that is totally related to the electronics circuits and its equivalent and the participants will have ten seconds to choose the answer amongst the options provided. This event will be conducted thrice a day after some events so that the enthusiasm among the participants is maintained. The different pages of the application involve the registration page and each quiz question page. </p>
+<p> Do you feel the massive robotics events are not your cup of tea? If that is the case, don't just be a spectator. While others sweat it out in other events of Vidnan, you can compete online in this one of a kind trivia quiz game which can be accessed from anywhere within the electronics department. Be ready to put your imagination, your prowess and your creative best to the test! 
+
+The event will be conducted on all the three days at some specific times and will consist of three rounds.The first round will be an online quiz related to electronic circuits while the next round will be a sudoku challenge. The third round however will be rubik’s cube, which will decide the winner. 
+ </p>
 
 <p> <b> Rules And Regulations: </b> </p>
 <ol>
-<li> The quiz questions will be totally related to the electronics circuits and its equivalent. </li>
-<li> The KIWI application will work only within the GEO_FENCING so no outsider away from  the electronics department will be allowed to enter the game who hasn’t registered. </li>
-<li> The Game will be conducted thrice a day for the 3 consecutive days. </li>
-<li> The Prize money will be decided based on the number of registrations for this event.  </li>
-<li> In case the number of participants is more the prize money would be increased or vice-versa. </li>
-<li> The game will be played in between the other events so to involve all the participants in this event too.  </li>
-<li> The different pages of the application involve the registration page and each quiz question page.  </li>
-<li> The total number of questions for each game will be 12. </li>
+<li> The KIVI game  link will  be provided to  the registered participants </li>
+<li> Only the registered participants will be allowed to take part in this event.
+ </li>
+<li> The total number of questions for each quiz will be 12. </li>
+<li> Each question is to be answered in a time span of 10 seconds by choosing the correct option after which next question will appear.  </li>
+<li> Any kind of cheating will lead to disqualification of the participant.
+ </li>
+<li> It is an individual event that means only a single member in a team is allowed. </li>
+<li> The different pages of the application involves the registration page and the each quiz question page. </li>
+<li> Sudoku puzzle consists of a grid of 9 blocks. Each block contains 9 boxes arranged in 3 rows and 3 columns.
+ </li>
 
-<li> The total prize distribution will be based upon the number of winners in each game(total money / total number of players).  </li>
+<li> In Sudoku, some blocks will be pre-filled. These numbers cannot be changed in the course of the game.
+  </li>
  
-<li>  The mode of cash withdrawal will be online through Paytm. </li>
+<li>  The  last round is rubik’s cube for the selected participants for final round. </li>
 </ol>
 
 <p> <b> Judging Criteria: </b> </p>
-<p> The one who gets all the answers correct shall be the winner. </p>
+<p> To be declared during the event. </p>
 
 <p> <b> Prize Money: </b> </p> 
 <p> Rs: 20,000/- </p>
