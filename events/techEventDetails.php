@@ -1182,9 +1182,184 @@
         "603": "",
         "604": "",
         "605": "",
-        "606": "",
-        "607": "",
-        "608": "",
+        "606": `<h1> Frame-D-Bridge </h1>
+
+
+
+<p> <b>Event Description:</b></p> 
+<p>Bridges are an integral part of Civil Engineering. The responsibility of a Civil Engineer is to not only design strong structure but also keep it economical and aesthetically pleasing. This event tests the mettle of participants by challenging them to design a truss bridge by using popsicle sticks, catch being that the balance between weight of materials used and load carried by the bridge is maintained i.e. the efficiency is maximised. </p>
+
+<p> <b>Event Format: </b></p>
+<p>There will be only one round in which bridges will be tested. Participants have to come with their bridges. 
+
+<p> <b>Material to be Used: </b></p>
+<ol>
+<li> Popsicle sticks with dimensions (11 cm X 1.2cm 0.2cm). 
+<li> Only Fevicol can be used as adhesive, use of other adhesives will lead to disqualification. 
+<li> Use of thread is not allowed. 
+</ol>
+
+<p> <b>Dimensions of Bridge: </b></p>
+<ol>
+<li> Length: 75 cm. 
+<li> Width: 10-13 cm. 
+<li>Height: 30 cm. 
+<li>Clearance: A minimum clearance of 8 cm high and 5 cm wide should be provided for the passage of a small toy car. 
+<li> Weight: Not More than 350gm. 
+</ol>
+
+<p> <b>Dimensions of Bridge: </b></p>
+<ol>
+<li> Length: 75 cm. 
+<li> Width: 10-13 cm. 
+<li> Height: 30 cm. 
+<li>Clearance: A minimum clearance of 8 cm high and 5 cm wide should be provided for the passage of a small toy car. 
+<li> Weight: Not More than 350 gm. 
+</ol>
+
+<p> <b>Rules: </b></p>
+<ol>
+<li> Truss action should be ensured. 
+<li> Team size could be of 3-5 members. 
+<li> All sticks must be visible to inspection and may not be painted or stained in anyway. 
+<li> All members of the team should be enrolled as students in an educational institute. 
+<li> No person can be a part  of more than one team.
+<li> No other reinforcement material (like steel wires, wire mesh) will be allowed. 
+<li> Bridges not meeting the requirements listed in these rules will be subject to Disqualification. 
+<li> Each bridge must be able to hold the weight of the testing equipment which is about 4 kg. 
+<li> Loading will be done at the Centre of Bridge. 
+<li> Arch Bridge is not allowed. 
+<li> Popsicle sticks should not overlap more than 1/4th of its length. 
+<li> Decision of Judges will be final and binding. 
+</ol>
+
+<p> <b>Judging criteria: </b></p>
+<p>Each bridge will be scored in accordance to an Efficiency Rating (ER) which will be Calculated by the following Equation: </p>
+</p>ER = (Load carried by bridge at failure) / (Weight of Bridge) </p>
+
+<p> <b>Prize Money: </b></p>
+<p>1st Winner: Rs 12000     </p>
+<p>2nd winner: Rs 8000</p>
+
+<p> <b>Faculty Coordinators: </b></p>
+
+<p>Prof. Asheena Sunny: 8093534664 </p>
+<p>Prof. P. Roy: 9051648936 </p>
+<p>Prof. Seevani Bali: 8895151065 </p>
+
+<p> <b>Student Coordinators:</b></p>
+
+<p>Nayan Gupta: 9012317476 </p>
+<p>Rajdeep Dasgupta: 9078802415 </p>
+<p>Aditi Chakraborty: 9434048742 </p>
+
+ `,
+        "607": `<h1>MODEL-IT </h1>
+
+
+<p> <b> Introduction:</b> </p>
+<p>Models encapsulate various engineering wonders. A model is a miniature representation of any structure, both natural and man-made, that depicts its form, style, and pattern. Models revive our imagination. 
+So, elicit the artist hidden inside you! </p>
+
+
+<p>Participants are expected to build a model of a ‘’Self Sustaining Colony’’ which will produce its own electricity, reuse the waste generated from the colony, etc. The model must address the social and development concerns of a city.</p>
+
+    
+<p>With a population of 1.2 billion and limited resources depleting exponentially, it is the need of the hour to “become smart and create smart” to transform a developing country like India into a developed country. Now, the time has come for the civil engineers to create self-sustaining and economically feasible structures. 
+“If not now, then never”</p>
+
+
+<p><b>Rules and Regulations: </b></p>
+<ol>
+<li>The event is open to all. 
+<li>Teams must consist of a minimum of 2 and maximum of 5 members.  
+<li>The model should be handmade with household and stationery items. 
+<li>Readymade or factory model will not be accepted. 
+<li>Teams have to present the detailed idea behind all features of the model within 10 minutes and there will be a query session of 5 minutes at the end of the presentation. 
+<li>The decision of judges shall be final and binding. 
+</ol>
+<p><b>Judging Criteria: </b></p>
+<ul>
+<li>Contribution in making a city self-sustaining : 20% 
+<li>Innovation : 20% 
+<li>Economic feasibility : 15% 
+<li>Technical accuracy and Detailing : 25%
+<li>Aesthetics : 20%
+</ul>
+<p><b>PRIZE MONEY:</b> </p>
+
+<p>1st: Rs 12000 </p>
+
+<p>2nd: Rs 8000</p>
+
+
+<p><b>Faculty Coordinators:</b></p>
+
+<p>Prof. P.C.Saha - 9903899236</p>
+
+<p>Prof. Malaya Mohanty - 9437253054</p>
+
+
+<p><b>Student Coordinators:</b></p>
+
+<p>Sourav Paul - 8972697471</p>
+
+<p>Sani Panda - 9776665193</p>
+<p>Subhajit Das – 7735662500</p>
+`,
+        "608": `                           <h1>  TWISTER - COASTER </h1>
+
+<p> <b> BUCKLE UP!  HOLD TIGHT!  ENJOY THE RIDE!</b></p>
+
+
+<p> <b>ABOUT THE EVENT:</b></p>
+
+<p>Twister Coaster is an astonishing structure which provides exciting rides without using any external power. The event aims to provide an opportunity to the participants for acquiring such ecstatic feeling through analysing the creativity of building a twister coaster within provided specifications.</p>
+
+<p> <b>PROBLEM STATEMENT:</b></p>
+
+<p>In this event participants will be required to make twister coaster.A marble ball will be dropped from the starting point of the twister coaster to see distance covered by the ball and the time taken to reach the end point.The twister coaster will be made of chart paper.For pasting the paper- fevicol, sello tape and stapler pins may be used.</p>
+
+
+<p> <b>RULES AND REGULATIONS:</b></p>
+
+<li>It is an on Spot event.
+<li>A single team will comprise of maximum 5 members.
+<li>Magnets,electricity,springs and other forms of energy are not allowed to use.
+<li>The START position must be marked and the marble must END in a designated area.
+
+<p> <b>JUDGING CRITERIA:</b></p>
+<ul>
+<li>Aesthetic view and Height of the structure.
+<li>Complexity of the structure.
+<li>Time taken by the marble ball to reach END point.
+<li>Efficiency.
+</ul>
+<p> <b>PRIZE:</b></p>
+
+<p>1st Winner: Rs 5000</p>
+
+<p>2nd Winner: Rs 3000</p>
+
+
+<p> <b>FACULTY COORDINATORS:</b></p>
+
+<p>Prof. C.K. Kundu - 7077538565</p>
+
+<p>Prof. S. Jaiswal - 8572999442</p>
+
+<p>Prof. Kalpana Sahoo - 8093391827</p>
+
+
+<p> <b>STUDENT COORDINATORS:</b></p>
+
+<p>Sharmili Paul - 9774812960</p>
+
+<p>Shreyan S. Sharma - 8984851097</p>
+
+<p>Parth Shukla - 7077885390</p>
+
+`,
 
 
 
