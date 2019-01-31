@@ -547,7 +547,7 @@
 
         
         //KSOM
-        "301": `<h1> SYNERGY KONFLICTUS 5.0 </h1>
+        "301": `<h1> SYNERGY KONFLICTUS 5.0 </h1> <hr>
 <p> <b> Overview </p> </b>
 <p> To help participants understand that conflict is a natural occurrence, and that everyone has a different approach in dealing with the conflict situations. Participants will have an opportunity to learn about approaches in general and their own in particular to see how synergy function between the team members.
 <p> <b>Event Duration </p> </b>
@@ -590,6 +590,7 @@
 `,
         "302": `
         <h1> MILK RUN </h1>
+        <hr>
 <p> <b> ROUND 1</p> </b>
  
 <p> <b>Description:</p> </b>
@@ -627,7 +628,7 @@
 
 `,
 
-        "303": `<h1> STOCK CHALLENGE </h1>
+        "303": `<h1> STOCK CHALLENGE </h1><hr>
 <p> <b>Game Duration – 11th Feb – 15th Feb </p> </b>
 <p> <b>Market time – 9:00 a.m. to 3:15 p.m.</p> </b>
  
@@ -671,7 +672,7 @@
 
         `,
         "304": `
-        <h1> Kraack The Story! </h1>
+        <h1> Kraack The Story! </h1> <hr>
 <p> This event puts into tests your analytical skill, how you come up with solutions to the real life business problems. Strategize your moves and join the road to victory.  </p>
 
 <p> <b>ABOUT THE EVENT:</p> </b>
@@ -704,7 +705,7 @@
 
         `,
 
-        "305": `<h1> DARE TO FACE </h1>
+        "305": `<h1> DARE TO FACE </h1> <hr>
  
 <p> <b>Duration- 2PM TO 8PM</p> </b>
  
@@ -738,7 +739,7 @@
         `,
 
         "306": `
-        <h1> IKADHIKAAR </h1>
+        <h1> IKADHIKAAR </h1> <hr>
 <p>Strategy and Chance are two terms which rarely intercept with each other. We present you the ultimate puzzles and riddles which will lead you to a new adventure of real estate market. Your passion, vision and grit will make you the new kings and queens of the game of chances and strategies.
 .
 <p> <b>Rules & Regulations:</p> </b>
@@ -1178,7 +1179,44 @@
 
         //Nirminite
         "601": "",
-        "602": "",
+        "602": `<h1> CAD-NOVUS </h1>
+
+<p> <b> GUIDELINES: </p> </p>
+<ol> 
+<li> Problem Statement – Design an innovative plan and sectional view for a G+1 residential building with all necessary amenities. 
+<li> The plot area must be equal to 1750sqft (35’x50’) 
+<li> Location – Bhubaneswar, Odisha, India 
+<li> Client Requirements – Lawn, Car Parking, 2 No’s Bedroom, Kitchen, Washroom, Living Area for Ground Floor and Open Terrace, 3 No’s Bedroom, Kitchen, Washroom, Living Area for First Floor. 
+</ol>
+<p> <b> RULES: </p> </b>
+<ol>
+<li>Single Participation (Can use a rough paper for sketching) 
+<li>Time Allotted – 2 Hours 
+<li>Software to be used – AutoCAD 2016 and above 
+</ol>
+
+<p> <b> JUDGEMENT CRITERIA:</p> </b>
+<ul>
+<li> Most Innovative Plan, Energy Efficient Plan and New Design i.e. not copied from Google. 
+<li> Economical from Structural Point of View. 
+</ul>
+
+<p> <b>Prize Money: </p> </b>
+<p> 1st winner: Rs 8000</p>
+<p> 2nd winner: Rs 5000</p>
+
+<p> <b>Faculty Coordinators:</p> </b>
+<p> Prof. J Dutta (9678652302) </p>
+<p> Prof. Shiv S Kumar (9957965796) </p>
+
+<p> <b>Student Coordinators:</p> </b>
+<p> Linita George (9475529615)</p>
+<p> Mohit Sharma (9460852198)</p>
+<p> Debarshee Das(9078802266)
+
+
+
+`,
         "603": "",
         "604": "",
         "605": "",
@@ -1764,7 +1802,7 @@ The bots first arrive at Checkpoint A.
 *Scoring is performed based on points and time taken by the organizers. </li>
 
 <p> <b> Prize Money: </b> </p>
-<p> Rs: 30,000/- </p>
+<p> Rs: 50,000/- </p>
 
 <p> <b> Contact Details:-  </b> </p>
 <p> Nomit: 8249097249 </p>
