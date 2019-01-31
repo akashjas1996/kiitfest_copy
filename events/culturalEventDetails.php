@@ -328,7 +328,7 @@
 				
 				<li>Srinjoyi-9903521904
 				<li>Peenal-9078802826
-				<li><li>Rajnandani Patra - 9437157497 </li>
+				<li>Rajnandani Patra - 9437157497 </li>
 			</ol>
         `,
 		"909": `
