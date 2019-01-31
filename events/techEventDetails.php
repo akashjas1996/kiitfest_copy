@@ -1668,7 +1668,9 @@ be declared.
    <p> When patches of blue colour will be present on the floor in front of the line the bot should take a 180 degrees turn clockwise or anticlockwise and follow the path backwards and take another left turn to follow the right path. Skipping the blue patch and following the wrong path will result in negative marking. </p>
    <p> According to the given figure, at some point in the arena, there will be no line to follow. Instead, there will be a wall in front. The participant will have to construct their bot in such a way that it should detect the wall in front of it and take a 90 degree turn to the right and continue to detect a line again. If the bot is not able to detect the wall in front of it or it is deviating from its required path, then it will have to take a restart and start from the last checkpoint with penalties. </p>
    <p> The Arena will contain various checkpoints, completing which will result in additional points. After any checkpoint, if the bot deviates from its path, then the bot will start its journey from the last checkpoint. </p>
-   • The contestant will need to program their bot so that it is capable of turning clockwise or counter-clockwise at exactly at the angle required at each key points of the arena. Failing which will result in negative marking.
+   <p>The contestant will need to program their bot so that it is capable of turning clockwise or counter-clockwise at exactly at the angle required at each key points of the arena. Failing which will result in negative marking.</p>
+
+   
    <p> <b> ROBOT SPECIFICATIONS: </b></p>
    <p>
    <ol>
@@ -1841,7 +1843,8 @@ The bots first arrive at Checkpoint A.
 <li> A participant can avail maximum up to 3 skips per round, which can be opted only if the bot freezes on spot. For each skip, 5 marks would be deducted.</li>
 <li> All teams would be awarded 50 points initially only if it satisfies the dimension criteria.</li>
 <li> A tolerance of 20cm + 4cm (bot width) will be allowed for participating in the event, however, the team would lose the initial 50 points in that case.</li>
-<li> There would be a total of 3 rounds: <Round 1> Individual teams would be participating one by one & the top teams scoring the most points in the specified time for the round will get qualified for the next round. 
+<li> There would be a total of 3 rounds: <br>
+<Round 1> Individual teams would be participating one by one & the top teams scoring the most points in the specified time for the round will get qualified for the next round. 
 
     <p> <b> Round 2  : </b> Two bots would be participating simultaneously from 2 random extreme points in the maze. The bot securing most points in the given time span of the round qualifies for the next round. An addition of 20 points would be awarded if the bot exits the maze in the given time span. <p> <b> Round 3 :  </b> Will be disclosed on spot. </p>
 <p> <ul> <li> Ramming of the wall (by a bot or by the participant) would directly result in a deduction of 10 marks. </li>
