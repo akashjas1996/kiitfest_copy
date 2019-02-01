@@ -1701,7 +1701,7 @@ be declared.
 <p> <b>Arena Design and Specification:</b> </p>
 <ol>
 <li> The arena will be absolutely flat and leveled out so additional power is not required to run the bot. Although participants can vary the speed of their robot to give maximum efficiency in following the line.
-<li>The Surface of the arena will be painted back and the bot is required to follow a white line of thickness 2 centimeters.
+<li>The Surface of the arena will be painted black and the bot is required to follow a white line of thickness 2 centimeters.
 </ol>
 <p> <b>Key Points: </b> </p>
 <p> There are some key points of the arena that the participants need to keep in mind while programming their bot to gain maximum points and avoid deviation from the required path. </p>
@@ -1931,9 +1931,9 @@ vAll rules & marking schemes are subjected to change before the starting of comp
 <p>Saswata(+91-8116340242) </p>
 
 `,
-        "707": `<h1> ROBOWAR </h1>
+        "707": `<h1> ROBOWAR </h1> <hr>
 
-<p><b>Task:</b></p> Design and construct a remote controlled robot capable of fighting a one on one tournament. 
+<p><b>Task:</b></p> <p> Design and construct a remote controlled robot capable of fighting a one on one tournament. </p>
 <p><b>Dimension and Fabrications:</b></p>
 <li>The machine should fit in a box of dimension 500mm x 500mm x 500 mm (l x w x h) at any given point during the match. The external device used to control the machine or any external tank is not included in the size constraint.
 <li>The machine should not exceed 20 kg but a tolerance of 5% will be allowed and for wireless it should not exceed 23 kg.                                                                                              Mobility: All robots must have easily visible and controlled mobility in order to compete. Methods of mobility include: . 
