@@ -43,10 +43,10 @@ if($connect && $sql->isLogin()==1 ) {
     {
         $row = mysqli_fetch_assoc($result);
         $institution = strtoupper($row['institution']);
-        if($institution == 'KIIT' || $institution == 'KIIT UNIVERSITY' || $institution == 'KIIT DEEMED TO BE UNIVERSITY' || $institution == 'KALINGA INSTITUTE OF INDUSTRIAL TECHNOLOGY' || $institution == 'KIMS'|| $institution == 'KIDS' || $institution == 'KSOM' || $institution == 'KSOM')
-        $amt = 208;
+        if($institution === 'KIIT' || $institution === 'KIMS'|| $institution === 'KIDS' || $institution === 'KSOM')
+          $amt = 208;
         else
-        $amt = 515;
+          $amt = 515;
 
         
 try {
