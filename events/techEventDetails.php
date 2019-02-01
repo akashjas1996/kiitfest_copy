@@ -2031,41 +2031,36 @@ Rs: 75,000/-
 <p> Sandipan: 9804113215 </p>
 <p> Sourav: 8348518426 </p>
 `,
-        "708": `<h1> KIVI-(Electronics Trivia Quiz Game) </h1> <hr>
-<p> <b> Description: </b> </p>
-<p> Do you feel the massive robotics events are not your cup of tea? If that is the case, don't just be a spectator. While others sweat it out in other events of Vidnan, you can compete online in this one of a kind trivia quiz game which can be accessed from anywhere within the electronics department. Be ready to put your imagination, your prowess and your creative best to the test! 
+        "708": `<h1>  KIVI-(Electronics Trivia Quiz Game) </h1>
 
-The event will be conducted on all the three days at some specific times and will consist of three rounds.The first round will be an online quiz related to electronic circuits while the next round will be a sudoku challenge. The third round however will be rubik’s cube, which will decide the winner. 
- </p>
+<p> Do you feel the massive robotics events are not your cup of tea? If that is the case, don't just be a spectator. While others sweat it out in other events of Vidnan, you can compete online in this one of a kind trivia quiz game which can be accessed from anywhere within the electronics department. Be ready to put your imagination, your prowess and your creative best to the test! </p>
 
-<p> <b> Rules And Regulations: </b> </p>
+<p> The event will be conducted on all the three days at some specific times and will consist of three rounds.The first round will be an online quiz related to electronic circuits while the next round will be a sudoku challenge. The third round however will be rubik’s cube, which will decide the winner. </p>
+
+
+<p> <b>RULES:</b></p>
 <ol>
-<li> The KIVI game  link will  be provided to  the registered participants </li>
-<li> Only the registered participants will be allowed to take part in this event.
- </li>
-<li> The total number of questions for each quiz will be 12. </li>
-<li> Each question is to be answered in a time span of 10 seconds by choosing the correct option after which next question will appear.  </li>
-<li> Any kind of cheating will lead to disqualification of the participant.
- </li>
-<li> It is an individual event that means only a single member in a team is allowed. </li>
-<li> The different pages of the application involves the registration page and the each quiz question page. </li>
-<li> Sudoku puzzle consists of a grid of 9 blocks. Each block contains 9 boxes arranged in 3 rows and 3 columns.
- </li>
-
-<li> In Sudoku, some blocks will be pre-filled. These numbers cannot be changed in the course of the game.
-  </li>
- 
-<li>  The  last round is rubik’s cube for the selected participants for final round. </li>
+<li>The KIVI game  link will  be provided to  the registered participants.
+<li>Only the registered participants will be allowed to take part in this event.<li>The total number of questions for each quiz will be 12.
+<li>Each question is to be answered in a time span of 10 seconds by choosing the correct option after which next question will appear.
+<li>Any kind of cheating will lead to disqualification of the participant.
+<li>It is an individual event that means only a single member in a team is allowed.
+<li>The different pages of the application involves the registration page and the each quiz question page.
+<li>Sudoku puzzle consists of a grid of 9 blocks. Each block contains 9 boxes arranged in 3 rows and 3 columns.
+<li>In Sudoku, some blocks will be pre-filled. These numbers cannot be changed in the course of the game.
+<li>The  last round is rubik’s cube for the selected participants for final round. 
 </ol>
 
-<p> <b> Judging Criteria: </b> </p>
-<p> To be declared during the event. </p>
+            <p> <b>JUDGING CRITERIA: </b></p>
+To be declared during the event.
 
-<p> <b> Prize Money: </b> </p> 
-<p> Rs: 20,000/- </p>
-<p> <b> Contact Details: </b> </p>
-<p> Manish: 8863848002 </p> <p>     Surabhi: 9777833256 </p>
-</p>`,
+
+           <p> <b> PRIZE MONEY:  ₹20,000</b></p>
+
+            <p> <b>CONTACT: </b></p>
+<p> Manish: 8863848002
+            <p> Surabhi: 9777833256
+`,
 
 
 
