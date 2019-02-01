@@ -1403,128 +1403,173 @@ So, elicit the artist hidden inside you! </p>
 
         //Vidnan
         "701": `
-        	<h1>Scavenger's quest</h1><hr>
-        	<p><h4>Hunt to survive</h4></p>
+        	<h1> Scavenger's quest </h1>
+<p> <b> Hunt to survive </b> </p>
+<hr>
 
-        	<p><b>Description:</b>The event deals with the hunt to survive on the new planet Fenotis. Here the participants would not only hunt for their needs to survive but also design a wearable tech which they would use to continue to live and exist in the planet. They would have to design their T-shirts in a unique manner distinct from each other and finally the one with the most idiosyncratic idea will be the conqueror and the best survivor of the planet Fenotis. </p>
+<p> <b>Description of the event-</b> </p>
 
-            <h3>Round 1: Elimination Round</h3>
-            <p>Participants will have to solve the brainteasers - tech/non-tech/mixed of both.
-Time Limit: 20-30 minutes.</p>
-
-			<h3>Round 2: Hunt Round</h3>
-			<p>Participants will have to run in and around the campus and find the electronic components hidden.These components are to be  used in the third round to design their innovative T-shirts.</p>
-
-			<h3>Round 3: Final Round</h3>
-			<p>The participants need to design a wearable tech T- shirt which implements the modernity of technology and the creativity of the art.  A set of components will be given which the participants have to use while designing the T-shirt.</p>
-							
+<p>The event deals with the hunt to survive on the new planet Fenotis. Here the participants would not only hunt for their needs to survive but also design a wearable tech which they would use to continue to live and exist in the planet. They would have to design their T-shirts in a unique manner distinct from each other and finally the one with the most idiosyncratic idea will be the conqueror and the best survivor of the planet Fenotis. 
 
 
-<p><bold> Rules & Regulations: </bold>
-<ol>
-<li> A team must have 1-3 members.</li>
-<li>Students are not be allowed to use Mobile, Laptop, Calculator or any kind of electronic media in the arena in round 1.</li>
-<li> All members of the team must be present at the clue checkpoint to collect the clue from the volunteers.</li>
-<li>Teams are allowed to use any source of information such as books, internet etc. in round 2 and 3.</li>
-<li>College ID card is mandatory.</li>
-<li>All the teams will be given a map so that they can easily locate the place where the clues are present.</li>
+<p> <b>Round 1: Elimination Round</b> </p>
+
+<p>Participants will have to solve the brainteasers - tech/non-tech/mixed of both.
+Time Limit: 20-30 minutes
+
+<p> <b>Round 2: Hunt Round</b> </p>
+
+<p>Participants will have to run in and around the campus and find the electronic components hidden.These components are to be  used in the third round to design their innovative T-shirts.
+ 
+<p> <b>Round 3: Final Round</b> </p>
+ 
+<p>The participants need to design a wearable tech T- shirt which implements the modernity of technology and the creativity of the art.  A set of components will be given which the participants have to use while designing the T-shirt.
+
+<p> <b>Rules & Regulations-</b> </p>
+ <ol>
+<li>A team must have 1-3 members.
+<li> Students are not be allowed to use Mobile, Laptop, Calculator or any kind of electronic media in the arena in round <li> All members of the team must be present at the clue checkpoint to collect the clue from the volunteers.
+<li>Teams are allowed to use any source of information such as books, internet etc. in round 2 and 3.
+<li>College ID card is mandatory.
+<li>All the teams will be given a map so that they can easily locate the place where the clues are present.
+ </ol>
+<p> <b>Additional instructions-</b> </p>
+ <ol>
+<li>A plain white T Shirt will be provided to all the participants.
+<li>A set of electronic components (THE CLUES FOUND IN ROUND 2) will have to be used while designing the T-shirt.
+<li>The participants are allowed to use any kind of tech or non-tech accessories.
+<li>After the T-shirts are distributed they need to be submitted at the given time of submission only.
+<li>During the time of submission, the participants need to submit the details of all the accessories used and an abstract, stating the purpose of designing their t-shirt in that manner, its scope, improvements as well as its working in brief.
+<li>The decision of coordinators and judges is final.
+<li>Use of colors is allowed.
+<li> All rights are reserved with the coordinators. They may or may not disclose any information depending upon the information asked. They can change any rule at any time according to the situation.
+<li>Any misconduct or violation of rules will lead to immediate elimination.
 </ol>
-</p>
-
-<p><b>Additional instructions-</b>
-<ul>
-<li>A plain white T Shirt will be provided to all the participants.</li>
-<li>A set of electronic components (THE CLUES FOUND IN ROUND 2) will have to be used while designing the T-shirt.</li>
-<li>The participants are allowed to use any kind of tech or non-tech accessories.</li>
-<li> After the T-shirts are distributed they need to be submitted at the given time of submission only.</li>
-<li>During the time of submission, the participants need to submit the details of all the accessories used and an abstract, stating the purpose of designing their t-shirt in that manner, its scope, improvements as well as its working in brief.</li>
-<li>The decision of coordinators and judges is final.</li>
-<li>Use of colors is allowed.</li>
-<li>All rights are reserved with the coordinators. They may or may not disclose any information depending upon the information asked. They can change any rule at any time according to the situation</li>
-<li>Any misconduct or violation of rules will lead to immediate elimination.</li>
-</ul></p>
-
-
-
-
-<p><b> Judging Criteria: </b>
+ 
+<p> <b>Judging Criteria-</b> </p>
 <ol>
-<li>The t-shirt should support the basic idea of a wearable tech and promote electronics as a whole.</li>
-<li>Any leakage of current, open wires or heat being generated leads to immediate elimination.</li>
-<li>The use of smart technology is preferred.</li>
-<li> The team with highest average score from rounds 2 and 3 will be declared as winner.</li>
-</ol></p>
+<li>The t-shirt should support the basic idea of a wearable tech and promote electronics as a whole.
+<li>Any leakage of current, open wires or heat being generated leads to immediate elimination.
+<li>The use of smart technology is preferred.
+<li>The team with highest average score from rounds 2 and 3 will be declared as winner.
+</ol>
 
-<p> <b> Prize Money:
-Rs-20,000 </b>
- </p>
- <p> Rs-20,000 </p>
- <p> <b> Contact Details: </b> <p>
-<p> A. Samriddhi (8709469488)</p>
-<p> B. Shinjini (9938245522)</p>
+<p> <b>Prize Money-</b> </p>
+
+<p>INR 20,000/- </p>
+
+
+<p> <b>Contact-</b> </p>
+
+<p>Samriddhi (8709469488) </p>
+<p>Shinjini (9938245522) </p>
 
         `,
 
         "702": `
-    <h1> Innovation Challenge </h1> <hr>
-    <p><h2>NEXT GENERATION CITY</h2></p>
-    <p><h3>15th TO 17th FEBRUARY</h3></p>
- <p> <b>Themes:</b>Vidnan (School of Electronics Engineering) under the banner of KIIT FEST is committed towards a competitive and transparent ecosystem for the innovative minds and thinkers across the nation. Innovation challenge participants are encouraged to put on their young minds and provide suitable solutions for the existing problem across six themes. All the teams will be evaluated on two phases depending upon their proposed solution. </p>
- <ul>
-<li>Water, Waste and Energy Management </li>
-<li>Health Care and Education </li>
-<li>Urban Mobility, Public Transport and Citizen Safety </li>
-<li>Agriculture, Climate Change and Disaster Management</li>
- <li>Security (Banking, Insurance and different data transfer platforms) </li>
-<li>Tourism</li>
-</ul>
-
-<p> <b> Ideation: </b> </p>
- <p> <b> Phase 1: </b> </p>
- <p> The ideal participating team would be a solution provider. The team would be expected to provide and develop an idea which would solve the real-life problem related to the six themes. </p>
-<p> <b> Phase 2: </b> </p>
- <p> Coders, developers and designers will have a prodigious platform to use their out-of-the-box idea on these six themes using Embedded Systems, Artificial Intelligence, Machine Learning, IoT, AR/VR, Blockchain, Data Analytics or whatever they want to use. The team would be expected to come up with an innovative idea of the problem. After that, they have to design the solution in a 20-hr hackathon which will be held during the 3 days of KIIT FEST. </p>
-
-<p> <b> Rules and Regulations: </b> </p>
- <p> Following are the rules and guidelines for innovation challenge which need to be followed by every participant. </p>
- <ul>
- <li>Identity card is mandatory to participate.</li>
-<li> Participants should take full responsibility for their own work and ensure to work as a team.</li>
-<li>The components should be of the participants to make their model.</li>
-<li> The model is to be built on spot in a 20 hour hackathon which will be held during the 3 days of event.</li>
-<li> No participant shall engage in any malicious/illegal activities which do not adhere to the general code of conduct for developers. Participants will be immediately disqualified if they found indulging in malpractice.</li>
- <li> Participant shall ensure adequate testing, debugging and review of software and related documents before submission. </li>
-<li> Participants shall not knowingly use software that is obtained or retained either illegally or unethically includes using TeamViewer or similar software. Participants will be disqualified if they are found using it. </li>
-<li> In case of any emergency or medical assistance, please reach out to the Organizers.</li>
-</ul>
+    <h1> Innovation Challenge </h1>
+<p> Next generation city </p>
+<p>  15th to 17th FEB. </p>
+<hr>
 
 
-<p> <b>
-Team Guidelines:  </b> </p>
- <p> The team size is upto 1-5. Member of the team should not necessarily to be of same college. Since the innovation challenge is a team event, the team is expected to develop the working prototype of its proposed solution within the allotted time. We intend to provide the necessary support to the team. A good team would be self-sufficient to create the prototype. </p>
+<p> <b> THEMES: </b></p>
 
-<p> <b>  Judging Criteria: </b> </p> 
-<p> The teams would be judged on the basis of the following parameters: </p>
+<p> Vidnan (School of Electronics Engineering) under the banner of KIIT FEST is
+committed towards a competitive and transparent ecosystem for the innovative
+minds and thinkers across the nation. </p>
+<p> Innovation challenge participants are encouraged to put on their young minds and
+provide suitable solutions for the existing problem across six themes. </p>
+<p> All the teams will be evaluated on two phases depending upon their proposed
+Solution. </p>
 <ul>
-<li> Out of the box thinking (Already existing vs new solution). </li>
-<li> Completeness of the solution (Idea, Development, Prototype, Deployment)</li>
-<li> The practicality of the proposed solution</li>
- <li> Cost-effectiveness of the solution.</li>
- <li> Ease of scalability</li>
- <li> Sustainability of the solution</li> 
-<li> Quickness in the completion of development of the solution (during the hackathon) would be appreciated- the complexity of the prototype of the solution should be minimal </li>
-<li> How your product stands out among the existing products (How your product is better than its existing counterpart)</li>
-<li>Representation of your product via presentation is mandatory and detail
-work of the model would be asked at that time.
-</li>
+<li> Water, Waste and Energy Management
+<li>Health Care and Education
+<li>Urban Mobility, Public Transport and Citizen Safety
+<li>Agriculture, Climate Change and Disaster Management
+<li>Security (Banking, Insurance and different data transfer platforms)
+<li>Tourism
 </ul>
 
-<p> <b> Prize Money:</b> </p>
-<p> Rs: 1,20,000/- </p>
-<p><b>Submit your idea at:- </b> <a> https://goo.gl/tRPHGL </a></p>
-<p> <b> Contact Details: </b> </p>
-<p> Shreya: 8839912039 </p> 
-<p> Akshat: 8979021147 </p>
+<p> <b>IDEATION:</b></p>
+
+<p> <b>PHASE 1:
+
+<p>The ideal participating team would be a solution provider. The team would be
+expected to provide an idea which would solve the real-life problem related to the
+six themes.</p>
+
+
+<p> <b>PHASE 2:</b></p>
+
+<p>Coders, developers and designers will have a prodigious platform to use their
+out-of-the-box idea on these six themes using Embedded Systems, Artificial
+Intelligence, Machine Learning, IoT, AR/VR, Blockchain, Data Analytics or
+whatever they want to use. The team would be expected to come up with an
+innovative idea of the problem. After that, they have to design the solution in a
+20-hr hackathon which will be held during the 3 days of KIIT FEST.</p>
+
+<p> <b>TEAM GUIDELINES:</b></p>
+<ul>
+<li> the team size is upto 1-5.
+<li>Member of the team should not necessarily to be of same college.
+<li>Since the innovation challenge is a team event, the team is expected to
+develop the working prototype of its proposed solution within the allotted
+time.
+<li>We intend to provide necessary support to the team. A good team would be
+self-sufficient to create the prototype.
+</ul>
+<p> <b>JUDGING CRITERIA:</b></p>
+
+<p>The teams would be judged on the basis of the following parameters:</p>
+<ul>
+<li>Out of the box thinking (Already existing vs new solution).
+<li>Completeness of the solution (Idea, Development, Prototype, Deployment)
+<li> The practicality of the proposed solution
+<li> Cost effectiveness of the solution.
+<li> Ease of scalability
+<li> Sustainability of the solution
+<li> Quickness in completion of development of the solution (during the
+hackathon) would be appreciated- complexity of the prototype of the
+solution should be minimal
+<li> How your product stands out among the existing products (How your
+product is better than its existing counterpart)
+<li> Representation of your product via presentation is mandatory and detail
+work of the model would be asked at that time.
+</ul>
+
+<p> <b>RULES AND REGULATIONS:</b></p>
+
+<p> Following are the rules and guidance for innovation challenge which need to be
+followed by every participant. </p>
+<ul>
+<li> Identity card is mandatory to participate.
+<li> Participants should take full responsibility of their own work and ensure to
+work as a team.
+<li> The components should be of the participants to make their model.
+<li> The model is to be built on spot in a 20 hour hackathon which will be held
+during the 3 days of event.
+<li> No participant shall engage in any malicious/illegal activities which do not
+adhere to general code of conduct for developers.
+<li> Participants will be immediately disqualified if they found indulging in
+Malpractice.
+<li> Participant shall ensure adequate testing, debugging and review of software
+and related documents before submission.
+<li> Participants shall not knowingly use software that is obtained or retained
+either illegally or unethically includes using TeamViewer or similar
+software. Participants will be disqualified if they are found using it.
+<li> Incase of any emergency or medical assistance, please reach out to the
+Organizers.
+</ul>
+
+
+<p> <b>Submit your idea at:-<a>  https://goo.gl/tRPHGL</a> </b></p>
+<p> <b>PRIZE MONEY: 1,20,000.</b> </p>
+
+<p> <b>For any queries, please contact:</b></p>
+<p>SHREYA(8839912039)</p>
+<p>AKSHAT(8979021147)</p>
+
 
 `,
         "703": `<h1> THE SALVAGE YARD </h1> 
