@@ -1572,124 +1572,96 @@ Organizers.
 
 
 `,
-        "703": `<h1> THE SALVAGE YARD </h1> 
-        <hr>
-        <p><b>Brief Description:</b>
+        "703": `<h1> THE SALVAGE YARD </h1><hr>
+
+<p> <b>Brief Description: </b></p>
 
 <p> The School of Electronics Tech Fest, Vidnan, brings to you Salvage Yard, the newest addition
 to their list of amazing and interactive events. If you have what it takes to bring out the best from
 what you get, this is the perfect event for you. This event literally combines fun with learning.
 After clearing a fun and interactive quiz round, and solving riddles in the most innovative and
-knowledge-friendly way, you get to make the best of the components you acquire for yourself. </p>
+knowledge-friendly way, you get to make the best of the components you acquire for yourself.
 
-</p>
-
-
-<p> <b> Round 1: 1st Elimination Round </p> </b> 
-<ul> 
-<li> There will be two Quiz round. The first is a buzzer round to test your general
+<p> <b>Round 1: 1st Elimination Round</b></p>
+<ul>
+<li>There will be two Quiz round. The first is a buzzer round to test your general
 knowledge. This round will be held multiple times from which each time the top three
 will progress to the next quiz round.
- </li>
-<li>  The second quiz round is to test your knowledge on basic principles of electronic
+<li> The second quiz round is to test your knowledge on basic principles of electronic
 circuits. One member from each of the top three teams from the previous round will pick
 a chit containing a problem statement. The member will have to enact and draw the
 answer to their remaining team members.
-</li>
-</ul></p>
-
-
-<p> <b> Round 2: 2nd Elimination Round</p> </b> 
-<ul> 
+</ul>
+<p> <b>Round 2: 2nd Elimination Round</b></p>
+<ul>
 <li> The next round will be riddle solving round. The teams will be given a riddle the
 solution to which will be a circuit.
-</li>
-<li>The teams will have to figure out the answer and then design that circuit on a
-software called Tinkercad
-</li>
-</ul></p>
-
-
-<p> <b> Round 3: 3rd Elimination Round</p> </b> 
-<ul> 
+<li> The teams will have to figure out the answer and then design that circuit on a
+software called Tinkercad.
+</ul>
+<p> <b>Round 3: 3rd Elimination Round</b></p>
+<ul>
 <li> Each team will be made to stand in front of carton boxes underneath which will contain
 a mystery box. Each team will be then given a ball and will have to hit a carton box to
 get the desired mystery box.
-
-</li>
-<li>The mystery box will contain 7 components and each team will have to choose at least 5
+<li> The mystery box will contain 7 components and each team will have to choose at least 5
 components from the mystery box and have to design an innovative circuit within a
 limited time frame of 60 minutes.
-
-</li>
-</ul></p>
+</ul>
 
 
-<p> <b> Rules & Regulations: </p> </b> 
-<ol> 
-<li> A team can have a minimum of 2 members and a maximum of 4 members.</li>
-
-<li>Mystery box once provided will not be changed.</li>
-<li> In Round 3: </li>
+<p> <b>Rules & Regulations:</b></p>
 <ul>
-<li> Participants are allowed to use the Internet. </li>
-<li>  Participants can request for additional components and wires to the coordinators but it entirely depends on the coordinators whether they allow it. </li>
-<li> All the components will be provided to them during this round. </li>
- </ul>
- <li> Students are not allowed to use Mobile, Laptop, Calculator or any kind of electronic media in first Round.  </li>
-
- <li> College Id Card is Mandatory.</li>
-
- <li> The decision of the judges and students are final.</li>
-
- <li> All rights are reserved with the coordinators. They may or may not disclose any information depending upon the information asked. They can change any rule at any time according to the situation. </li>
-
-<li> Any misconduct or violation of rules will lead to immediate elimination. </li>
-</ol>
-<p> <b> Judging Criteria: </p> </b> 
-<p> <b> Round 1: </p> </b> 
+<li>A team can have a min of 2 members and a maximum of 4 members.
+<li> Mystery box once provided will not be changed.
+<li> In Round 3
 <ol>
-<li> The teams will be given three chances to pick a chit and enact the answer. Weightage
+<li> Participants are allowed to use the Internet.
+<li> Participants can request for additional components and wires to the
+coordinators but it entirely depends on the coordinators whether they allow it.
+<li> All the components will be provided to them during this round.
+</ol>
+
+<li>Students are not allowed to use Mobile, Laptop, Calculator or any kind of
+electronic media in the first round.
+<li>College Id Card is Mandatory.
+<li>The decision of the judges and students are final.
+<li> All rights are reserved with the coordinators. They may or may not disclose any
+information depending upon the information asked. They can change any rule at any
+time according to the situation.
+<li>Any misconduct or violation of rules will lead to immediate elimination.
+Judging Criteria:
+</ul>
+<p> <b>Round 1:</b></p>
+<ul>
+<li>The teams will be given three chances to pick a chit and enact the answer. Weightage
 of points decreases with each successive chance.
- </li>
+</ul>
+<p> <b>Round 2:</b></p>
 
+<p> The team will be judged on basis of the circuit made in Tinkercad and points will be
+allotted accordingly.</p>
 
-</ol>
-<p> <b> Round 2: </b> </p>
-
-<ol>
-<li> The team will be judged on basis of the circuit made in Tinkercad and points will be
-allotted accordingly.
- </li>
- 
-</ol>
-
-<p> <b> Round 3: </b> </p>
-<ol>
-<li> The team which scored the maximum points in the previous round will be allowed to hit
+<p> <b>Round 3:</b></p>
+<ul>
+<li>The team which scored the maximum points in the previous round will be allowed to hit
 the carton boxes first. The mystery box once won cannot be exchanged will be judged
 on the basis of their understanding of the circuit, their efficiency in identifying the fault
 and rectification of the fault to get the correct
-
- </li>
- <li>The team will be judged on the basis of their innovation, an efficiency of the
+<li>The team will be judged on the basis of their innovation, an efficiency of the
 circuit, explanation, how much more components of the mystery box the team
 uses.
-</li>
 <li>All teams will be evaluated after the time frame of 60 minutes and winners will
 be declared.
-</li>
-<li>Time Limit: 60 minutes</li>
-</ol>
+<li>Time Limit: 60 minutes
+</ul>
+<p> <b>Prize Money: 20000</b></p>
 
+<p> <b>For any queries, please contact:</b></p>
 
+<p>9090561913 (kajol)</p>
+<p>7766932637 (Prakhar)</p>
 
-<p> <b> Prize Money: </b> </p>
-<p> Rs-20,000 </p>
-
-<p> <b> Contact Details: </b> </p>
-<p> A. Kajol (9090561913) </p>
-<p> B. Prakhar(+91-7766932637)  </p>
 `,
         "704": `
    <h1>SEGUIDOR</h1> <hr>
