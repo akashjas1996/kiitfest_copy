@@ -1695,7 +1695,7 @@ be declared.
    <h1> SEGUIDOR </h1>
 <p> <b> An autonomous event </b> </p> <hr>
 
-<a href="events/vidnan_pdf/SEGUIDOR.pdf"> <p> Download complete event details <p> </a>
+<a href="events/vidnan_pdf/SEGUIDOR_data.pdf"> <p> Download complete event details <p> </a>
 <p> <b> Description of the Event: </b> Design and construct an autonomous robot which is capable of traversing the arena by following a line in a particular manner and avoid the obstacle that it might encounter. The bot should traverse the arena from the START point to the END point by following a white line laid throughout the black arena. But the task is not that simple. The participants are required to build a line following bot which is capable of detecting an obstacle in front of it and sense the presence of color laid on the floor in front of it. During its operation, the bot will encounter the various obstacle which it needs to understand and take action accordingly. Performing every task smoothly will result in full point and violating it will result in penalties. </p>
 
 <p> <b>Arena Design and Specification:</b> </p>
