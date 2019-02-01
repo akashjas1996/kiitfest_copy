@@ -1873,56 +1873,63 @@ The bots first arrive at Checkpoint A.
 <p> Vishesh: 9711901381 </p>
 </html>`,
         "706": `
-<h1> MIRROR MAZE 2.0 </h1> <hr>
-<p> <b> Description: </b> </p>
-<p> 
- There will be a maze of size 11x17 sq.ft. where the bot will traverse. The walls will be made of glass and mirrors. It will be a manually controlled bot that can be wired or wireless. The goal is to gather maximum points by touching the blocks, placed randomly across the maze. A camera or a phone should be mounted over the bot, which will provide a live feed fpv from bot. The driver will have to control it through the camera screen as the arena will not be shown to the driver who is controlling the bot. Obstacles like speed breakers, bumps and muddy area would be present in the arena. The muddy area would be 2 cm from ground level. So all electrical connections of the bot must be designed accordingly.</p>
-<p> <b> Requirements of the bot: </b> </p>
-<li> Dimensions of the bot must not exceed 20x20x20 cubic.cm. </li>
-<li> All connections of the bot must be minimum of 3-4 cm above the ground level. </li>
-<li> Max potential difference between any two points of bot must not exceed 16v. Only 220v AC would be provided. Participants would have to bring their own adapter/battery etc. </li>
-<li> No weight criteria. </li>
-<li> The camera or mobile phone must be tightly fixed in order to prevent detachment.</li>
-<p> <b> Rules and Regulations:- </b> </p>
-<li> Maze dimension will be (11x17) sq.ft. </li>
-<li> A team of max. 4 participants is allowed. </li>
-<li> The event consists of ......... rounds.</li>
- <li> Each team can avail for only 1 technical time-out per round. 
-<li> The maze obstacles consist of speed breakers, bumps and may be muddy area along with few other common obstacles. </li>
-<li> Each participant has to start at a fixed position to traverse the maze. </li>
-<li> Wooden blocks of certain points would be placed at random positions in the maze before a team start their turn (Red block= 5 points, Blue block= 10 points, Yellow block= 30 points, Jackpot block= 100 points).</li>
- <li> The points will be awarded on a time basis and a total number of blocks touched by the bot.</li> 
-<li> Only one person per team will be allowed to manage the wire (only if the bot is wired) & only one would be allowed to control the bot. The other members would be sitting by the controller facing their laptops thereby seeing the live feed. The person managing the wire is strictly prohibited to convey any information regarding the layout & position of point blocks. Anyone doing the same will be disqualified from the event.</li>
-<li> The controller would be allowed 30 seconds just before the start of their turn to observe the maze & positions of the point blocks. </li>
-<li> Any damage to the arena will result in direct disqualification. </li>
-<li> Teams with maximum points qualify for the next round.</li>
-<li> Each team gets 3 skip options. It can only be applied when a bot is unable to cross any obstacle or if the controller wishes to skip the obstacle (No negative markings in such criteria). Special case: In case the controller wishes to skip the muddy area 10 points would be deducted from the total score. Any damage to the bot caused while crossing this area is solely the team’s responsibility. </li>
-<li> However, this skip option is not available in the jackpot region.</li>
- <li> Touching the glass wall results in a negative marking of 2 marks. </li>
-<li> Further rules of qualifying rounds would be disclosed on spot. </li>
-<li> The organiser’s decision is final and binding</li>
-
-<p> <b> Judging Criteria: </b> </p>
-<li> A trial case of 50 seconds will be allowed to individual teams to check the maze.</li>
-<li> A participant can avail maximum up to 3 skips per round, which can be opted only if the bot freezes on spot. For each skip, 5 marks would be deducted.</li>
-<li> All teams would be awarded 50 points initially only if it satisfies the dimension criteria.</li>
-<li> A tolerance of 20cm + 4cm (bot width) will be allowed for participating in the event, however, the team would lose the initial 50 points in that case.</li>
-<li> There would be a total of 3 rounds: <br>
-<Round 1> Individual teams would be participating one by one & the top teams scoring the most points in the specified time for the round will get qualified for the next round. 
-
-    <p> <b> Round 2  : </b> Two bots would be participating simultaneously from 2 random extreme points in the maze. The bot securing most points in the given time span of the round qualifies for the next round. An addition of 20 points would be awarded if the bot exits the maze in the given time span. <p> <b> Round 3 :  </b> Will be disclosed on spot. </p>
-<p> <ul> <li> Ramming of the wall (by a bot or by the participant) would directly result in a deduction of 10 marks. </li>
-<li> Each team is allowed only 1 technical timeout per round and this rule is applicable only if the coordinators find the case to be relevant. </li>
-<li> All rules & marking schemes are subjected to change before the starting of competition. </li>
-<li> Detailed marking scheme would be disclosed to the participants just before the commencement of the event. </li> </ul>
+<h1> MIRROR MAZE</h1> 
 
 
-<p> <b> Prize Money: </b> </p>
-<p> Rs: 30,000/- </p>
+<p> <b>Description of the Event</b> </p>
+ <p> There will be a maze of size 11x17 sq.ft. where the bot will traverse. The walls will be made of glass and mirrors. It will be a manually controlled bot that can be wired or wireless. The goal is to gather maximum points by touching the blocks, placed randomly across the maze. A camera or a phone should be mounted over the bot, which will provide a live feed fpv from bot. The driver will have to control it through camera screen as the arena will not be shown to the driver who is controlling the bot. Obstacles like speed breakers, bumps and muddy area would be present on the arena. The muddy area would be 2 cm from ground level. So all electrical connections of the bot must be designed accordingly. </p>
+<p> <b>Requirements of the Bot</b> </p>
+<ol>
+<li>Dimensions of the bot must not exceed : 20x20x20 cubic.cm.
+<li>All connections of the bot must be minimum of 3-4 cm above the ground level.
+<li>Max. potential difference between any two points of bot must not exceed 16v. Only 220v AC would be provided. Participants would have to bring their own adapter/battery etc.
+<li>No weight criteria.
+<li>The camera or mobile phone must be tightly fixed in order to prevent detachment.
+</ol>
+<p> <b>Rules and Regulations</b> </p>
+Maze dimension will be (11x17) sq.ft.
+<ol>
+<li>A team of max. 4 participants is allowed.
+<li>The event consists of 3 rounds.
+<li>Each team can avail for only 1 technical time-out per round.
+<li>The maze obstacles consists of speed breakers, bumps and may be muddy area along with few other common obstacles.
+<li>Each participant has to start at a fixed position to traverse the maze.
+<li>Wooden blocks of certain points would be placed at random positions in the maze before a team start their turn (Red block= 5 point, Blue block= 10 point, Yellow block= 30 point, Jackpot block= 100 point).
+<li>The points will be awarded on time basis and total number of blocks touched by the bot.
+<li>Only one person per team will be allowed to manage the wire (only if bot is wired) & only one would be allowed to control the bot. The other members would be sitting by the controller facing their laptops thereby seeing the live feed. The person managing the wire is strictly prohibited to convey any information regarding the layout & position of point blocks. Anyone doing the same will be disqualified from the event.
+<li>The controller would be allowed 30s just before the start of their turn to observe the maze & positions of the point blocks.
+<li>Any damage to the arena will result in direct disqualification.
+<li>Teams with maximum points qualify for the next round.
+<li>Each team gets 3 skip options. It can only be applied when a bot is unable to cross any obstacle or if the controller wishes to skip the obstacle (No negative markings in such criteria). Special case : In case the controller wishes to skip the muddy area 10 points would be deducted from the total score. Any damage to the bot caused while crossing this area is solely the team’s responsibility.
+<li>However this skip option is not available in the jackpot region.
+<li>Touching the glass wall results in a negative marking of 2 marks.
+<li>Further rules of qualifying rounds would be disclosed on spot.
+<li>The organiser’s decision is final and binding
+</ol>
+<p> <b>Judging Criteria:</b> </p>
+<ol>
+<li>A trial case of 50 seconds will be allowed to individual teams to check the maze.
+<li>A participant can avail maximum up to 3 skips per round, which can be opted only if the bot freezes on spot. For each skip, 5 marks would be deducted.
+<li>All teams would be awarded 50 points initially only if it satisfies the dimension criteria.
+<li>A tolerance of 20cm + 4cm (bot width) will be allowed for participating in the event, however, the team would lose the initial 50 points in that case.
+<li>There would be a total of 3 rounds: 
+<ul>
+<li>Round 1: Individual teams would be participating one by one & the top teams scoring the most points in the specified time for the round will get qualified for the next round.
+<li>Round 2:Two bots would be participating simultaneously from 2 random extreme points in the maze. The bot securing most points in the given time span of the round qualifies for the next round. An addition of 20 points would be awarded if the bot exits the maze in the given time span.
+<li>Round 3: Will be disclosed on spot.
+</ul>
+<li>Ramming of the wall (by a bot or by the participant) would directly result in a deduction of 10 marks.
+<li>Each team is allowed only 1 technical timeout per round and this rule is applicable only if the coordinators find the case to be relevant.
+vAll rules & marking schemes are subjected to change before the starting of competition.
+<li>Detailed marking scheme would be disclosed to the participants just before the commencement of the event.
+</ol>
 
-<p> <b> Contact Details: </b> </p>
-<p> Bishal: 9401476420 </p>
-<p> Saswata: 8116340242 </p>
+<p> <b>Prize Money:</b> </p>
+<p>Worth Rs.30,000/- </p>
+<p> <b>Contact Details:</b> </p>
+<p> Bishal (+91-9401476420) </p>
+<p>Saswata(+91-8116340242) </p>
+
 `,
         "707": `<h1> ROBOWAR </h1> 
         <hr>
