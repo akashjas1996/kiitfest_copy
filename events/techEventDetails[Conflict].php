@@ -1664,7 +1664,9 @@ be declared.
 
 `,
         "704": `
-   <h1>SEGUIDOR</h1> <hr>
+   <h1>SEGUIDOR</h1> 
+   <hr>
+   <a href="https://kiitfest.org/events/vidnan_pdf/SEGIODOR.pdf"> <p> Download PDF here </p> <a>
    <p> Design and construct an autonomous robot which is capable of traversing the arena by following a line in a particular manner and avoid the obstacle that it might encounter. The participants are required to build a line following bot which is capable of detecting an obstacle in front of it and sense the presence of colour on the floor in front of it. </p>
    <p> TASK: Traverse the area from the START point to the END point by following a black line laid throughout the white area. But the task is not that simple. The bot should be capable of following a particular pattern as mentioned further in this problem statement. The bot should work on the principle of advance line follower to give utmost efficiency on the arena. During its operation, the bot will encounter the various obstacle which it needs to understand and take action accordingly. Performing every task smoothly will result in full point and violating it will result in penalties.</p>
    <p> <b> ARENA DESIGN & SPECIFICATION: </b> </p>
