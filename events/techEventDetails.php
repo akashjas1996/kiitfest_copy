@@ -1692,7 +1692,7 @@ be declared.
 <p> B. Prakhar(+91-7766932637)  </p>
 `,
         "704": `
-   <h1> SEGUIDOR <h1>
+   <h1> SEGUIDOR </h1>
 <p> <b> An autonomous event </b> </p>
 
 
