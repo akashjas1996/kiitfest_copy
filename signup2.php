@@ -607,7 +607,7 @@ require 'PHPMailer/src/SMTP.php';
         var institute = document.getElementById('insName').value;
         var afterIns = document.getElementById('afterIns');
 
-        if (institute === "KIIT")
+        if (institute === "KIIT" || institute === "KIMS" || institute === "KIDS" || institute === "KSOM")
             afterIns.innerHTML = `
                 <label for="exampleInputEmail1">Roll Number</label>
                 <input type="text" class="form-control" name="rollno" aria-describedby="emailHelp" placeholder="Roll Number">
