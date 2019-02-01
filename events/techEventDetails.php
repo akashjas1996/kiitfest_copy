@@ -1695,7 +1695,7 @@ be declared.
    <h1> SEGUIDOR </h1>
 <p> <b> An autonomous event </b> </p> <hr>
 
-<a href="events/vidnan_pdf/SEGUIDOR_data.pdf"> <p> Download complete event details <p> </a>
+<a target=_blank href="events/vidnan_pdf/SEGUIDOR_data.pdf"> <p> Download complete event details <p> </a>
 <p> <b> Description of the Event: </b> Design and construct an autonomous robot which is capable of traversing the arena by following a line in a particular manner and avoid the obstacle that it might encounter. The bot should traverse the arena from the START point to the END point by following a white line laid throughout the black arena. But the task is not that simple. The participants are required to build a line following bot which is capable of detecting an obstacle in front of it and sense the presence of color laid on the floor in front of it. During its operation, the bot will encounter the various obstacle which it needs to understand and take action accordingly. Performing every task smoothly will result in full point and violating it will result in penalties. </p>
 
 <p> <b>Arena Design and Specification:</b> </p>
@@ -1809,6 +1809,7 @@ be declared.
 `,
         "705": `
 <h1> RoadRunner </h1> <hr>
+<a target=_blank href="events/vidnan_pdf/Road_Runner.pdf"> <p> Download complete event details <p> </a>
 <p> <b> Description:- </b> </p>
  <p>The Task is to build a manually controlled bot which can complete the route by overcoming the obstacles in its Path. Thus battling with the opponents based on Marginal points and timing to finally win it. The bot can be wired or wireless. In case of wireless they maybe Bluetooth controlled or Wi-Fi controlled. There are 2 rounds, Round 1 and 2 based on the difficulty level, participants will go to the next round by only clearing the preceding round. </p>
 <p> <b>  Round1 (Two bots will have to compete for each other in a race.) </b> </p>
