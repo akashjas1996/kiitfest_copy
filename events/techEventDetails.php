@@ -632,16 +632,6 @@
 <p> <b>Game Duration – 11th Feb – 15th Feb </p> </b>
 <p> <b>Market time – 9:00 a.m. to 3:15 p.m.</p> </b>
  
-<p> <b>Registration process of the game:</p> </b>
-<ul>
-<li> College code- GAGD  
-<li> SMS 'ICFL <college code> <email id>' to 9215676766. Put one space in between. Do not use any brackets. 
-<li> The email ID you send through SMS will be your user ID
-<li> Your password will be sent to your registered email ID
-<li> Visit virtualstocks.icicidirect.com and login with your User ID and Password
-<li> Fill in your details
-<li> Start trading
-</ul>
 
 <p> <b>Terms & Conditions for Virtual Stock Trading Platform Users</p> </b>
 <ul>
