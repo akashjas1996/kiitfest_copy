@@ -581,10 +581,7 @@ require 'PHPMailer/src/SMTP.php';
             <!-- <input type="text" class="form-control" name="institution" aria-describedby="emailHelp" placeholder="Institution"> -->
             <select id="insName" onchange="instituteChange()" class="form-control" name="institution" aria-describedby="emailHelp" placeholder="Institution" required>
                 <option value="" selected disabled>--choose one--</option>
-                <option value="KIIT">Kalinga Institute Of Industrial Technology</option>
-                <option value="KSOM">Kalinga School of Management</option>
-                <option value="KIDS">Kalinga Institute Of Dental Science</option>
-                <option value="KIMS">Kalinga Institute Of Medical Science</option>
+                <option value="KIIT (Includes all schools)">Kalinga Institute Of Industrial Technology</option>
                 <option value="others">Others..</option>
             </select>
             <div style="color:red;"><?php echo $institutionerror?></div>

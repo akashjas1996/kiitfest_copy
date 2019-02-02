@@ -43,7 +43,7 @@ if($connect && $sql->isLogin()==1 ) {
     {
         $row = mysqli_fetch_assoc($result);
         $institution = strtoupper($row['institution']);
-        if($institution === 'KIMS' || $institution === 'KIMS'|| $institution === 'KIDS' || $institution === 'KSOM')
+        if($institution === 'KIIT')
           $amt = 208;
         else
           $amt = 515;
