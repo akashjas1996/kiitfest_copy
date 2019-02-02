@@ -2030,7 +2030,7 @@ vAll rules & marking schemes are subjected to change before the starting of comp
 </ol>
 
             <p> <b>JUDGING CRITERIA: </b></p>
-<p><b>To be declared during the event. </b></p>
+<p>To be declared during the event.</p>
 
 
            <p> <b> PRIZE MONEY:  ₹20,000</b></p>
