@@ -1493,7 +1493,7 @@ Solution. </p>
 
 <p> <b>IDEATION:</b></p>
 
-<p> <b>PHASE 1:
+<p> <b>PHASE 1: </b></p>
 
 <p>The ideal participating team would be a solution provider. The team would be
 expected to provide an idea which would solve the real-life problem related to the
@@ -1563,7 +1563,7 @@ Organizers.
 </ul>
 
 
-<p> <b>Submit your idea :-<a href="https://goo.gl/tRPHGL"> here </a> </b></p>
+<p> <b>Submit your idea <a href="https://goo.gl/tRPHGL"> Here </a> </b></p>
 <p> <b>PRIZE MONEY: 1,20,000.</b> </p>
 
 <p> <b>For any queries, please contact:</b></p>
