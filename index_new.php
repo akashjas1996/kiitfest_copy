@@ -30,7 +30,7 @@ $sql = new sql();
   <script src="js/TweenMax.min.js"></script>
 
 </head>
-<div class="modal fade in" height="100%">
+<div style="background-color:white" class="modal fade in" height="100%">
   <h1> Hello </h1>
   </div>
 <body>
@@ -275,5 +275,12 @@ $sql = new sql();
 
   <script src="js/common.js"></script>
   <script src="js/index.js"></script>
+
+  <script>
+    <body onload="myFunction()">
+    function myFunction(){
+      $('.modal').modal('show');
+    }
+  </script>
 </body>
 </html>
