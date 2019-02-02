@@ -1866,7 +1866,7 @@ The bots first arrive at Checkpoint A.
 *Scoring is performed based on points and time taken by the organizers. </li>
 
 <p> <b> Prize Money: </b> </p>
-<p> Rs: 50,000/- </p>
+<p> Rs: 30,000/- </p>
 
 <p> <b> Contact Details:-  </b> </p>
 <p> Nomit: 8249097249 </p>
@@ -2009,7 +2009,7 @@ vAll rules & marking schemes are subjected to change before the starting of comp
 <p>Sandipan (+91-9804113215) </p>
 <p>Sourav(+91-8348518426)</p>
 `,
-        "708": `<h1>  KIVI-(Electronics Trivia Quiz Game) </h1>
+        "708": `<h1>  KIVI-(Electronics Trivia Quiz Game) </h1> <hr>
 
 <p> Do you feel the massive robotics events are not your cup of tea? If that is the case, don't just be a spectator. While others sweat it out in other events of Vidnan, you can compete online in this one of a kind trivia quiz game which can be accessed from anywhere within the electronics department. Be ready to put your imagination, your prowess and your creative best to the test! </p>
 
@@ -2030,7 +2030,7 @@ vAll rules & marking schemes are subjected to change before the starting of comp
 </ol>
 
             <p> <b>JUDGING CRITERIA: </b></p>
-To be declared during the event.
+<p><b>To be declared during the event. </b></p>
 
 
            <p> <b> PRIZE MONEY:  ₹20,000</b></p>
