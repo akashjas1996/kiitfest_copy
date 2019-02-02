@@ -1563,7 +1563,7 @@ Organizers.
 </ul>
 
 
-<p> <b>Submit your idea at:-<a>  https://goo.gl/tRPHGL</a> </b></p>
+<p> <b>Submit your idea :-<a href="https://goo.gl/tRPHGL"> here </a> </b></p>
 <p> <b>PRIZE MONEY: 1,20,000.</b> </p>
 
 <p> <b>For any queries, please contact:</b></p>
