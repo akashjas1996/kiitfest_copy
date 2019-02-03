@@ -185,7 +185,7 @@ $sql = new sql();
   </section>
 
 
-  <!--Sponsors
+  <Sponsors
   <section class="">
     <div class="overlay"></div>
     <div class="container-fliud h-100 ">
@@ -245,7 +245,7 @@ $sql = new sql();
 
     </div>
   </section>
-  -->
+  >
 
 
   <!--Contact Us-->
