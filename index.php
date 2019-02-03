@@ -184,7 +184,7 @@ $sql = new sql();
     </div>
   </section>
 
-<?php include "/sponsors.php"; ?>
+<?php include 'sponsors.php';?>
   <!--Sponsors
   <section class="">
     <div class="overlay"></div>
