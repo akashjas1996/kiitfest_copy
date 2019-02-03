@@ -632,6 +632,16 @@
 <p> <b>Game Duration – 11th Feb – 15th Feb </p> </b>
 <p> <b>Market time – 9:00 a.m. to 3:15 p.m.</p> </b>
  
+<p> <b>Registration process of the game:</p> </b>
+<ul>
+<li> College code- GAGD  
+<li> SMS 'ICFL <college code> <email id>' to 9215676766. Put one space in between. Do not use any brackets. 
+<li> The email ID you send through SMS will be your user ID
+<li> Your password will be sent to your registered email ID
+<li> Visit virtualstocks.icicidirect.com and login with your User ID and Password
+<li> Fill in your details
+<li> Start trading
+</ul>
 
 <p> <b>Terms & Conditions for Virtual Stock Trading Platform Users</p> </b>
 <ul>
@@ -1483,7 +1493,7 @@ Solution. </p>
 
 <p> <b>IDEATION:</b></p>
 
-<p> <b>PHASE 1: </b></p>
+<p> <b>PHASE 1:
 
 <p>The ideal participating team would be a solution provider. The team would be
 expected to provide an idea which would solve the real-life problem related to the
@@ -1553,7 +1563,7 @@ Organizers.
 </ul>
 
 
-<p> <b>Submit your idea <a href="https://goo.gl/tRPHGL"> Here </a> </b></p>
+<p> <b>Submit your idea at:-<a>  https://goo.gl/tRPHGL</a> </b></p>
 <p> <b>PRIZE MONEY: 1,20,000.</b> </p>
 
 <p> <b>For any queries, please contact:</b></p>
@@ -1562,244 +1572,199 @@ Organizers.
 
 
 `,
-        "703": `<h1> THE SALVAGE YARD </h1> 
-        <hr>
-        <p><b>Brief Description:</b>
+        "703": `<h1> THE SALVAGE YARD </h1><hr>
+
+<p> <b>Brief Description: </b></p>
 
 <p> The School of Electronics Tech Fest, Vidnan, brings to you Salvage Yard, the newest addition
 to their list of amazing and interactive events. If you have what it takes to bring out the best from
 what you get, this is the perfect event for you. This event literally combines fun with learning.
 After clearing a fun and interactive quiz round, and solving riddles in the most innovative and
-knowledge-friendly way, you get to make the best of the components you acquire for yourself. </p>
+knowledge-friendly way, you get to make the best of the components you acquire for yourself.
 
-</p>
-
-
-<p> <b> Round 1: 1st Elimination Round </p> </b> 
-<ul> 
-<li> There will be two Quiz round. The first is a buzzer round to test your general
+<p> <b>Round 1: 1st Elimination Round</b></p>
+<ul>
+<li>There will be two Quiz round. The first is a buzzer round to test your general
 knowledge. This round will be held multiple times from which each time the top three
 will progress to the next quiz round.
- </li>
-<li>  The second quiz round is to test your knowledge on basic principles of electronic
+<li> The second quiz round is to test your knowledge on basic principles of electronic
 circuits. One member from each of the top three teams from the previous round will pick
 a chit containing a problem statement. The member will have to enact and draw the
 answer to their remaining team members.
-</li>
-</ul></p>
-
-
-<p> <b> Round 2: 2nd Elimination Round</p> </b> 
-<ul> 
+</ul>
+<p> <b>Round 2: 2nd Elimination Round</b></p>
+<ul>
 <li> The next round will be riddle solving round. The teams will be given a riddle the
 solution to which will be a circuit.
-</li>
-<li>The teams will have to figure out the answer and then design that circuit on a
-software called Tinkercad
-</li>
-</ul></p>
-
-
-<p> <b> Round 3: 3rd Elimination Round</p> </b> 
-<ul> 
+<li> The teams will have to figure out the answer and then design that circuit on a
+software called Tinkercad.
+</ul>
+<p> <b>Round 3: 3rd Elimination Round</b></p>
+<ul>
 <li> Each team will be made to stand in front of carton boxes underneath which will contain
 a mystery box. Each team will be then given a ball and will have to hit a carton box to
 get the desired mystery box.
-
-</li>
-<li>The mystery box will contain 7 components and each team will have to choose at least 5
+<li> The mystery box will contain 7 components and each team will have to choose at least 5
 components from the mystery box and have to design an innovative circuit within a
 limited time frame of 60 minutes.
-
-</li>
-</ul></p>
+</ul>
 
 
-<p> <b> Rules & Regulations: </p> </b> 
-<ol> 
-<li> A team can have a minimum of 2 members and a maximum of 4 members.</li>
-
-<li>Mystery box once provided will not be changed.</li>
-<li> In Round 3: </li>
+<p> <b>Rules & Regulations:</b></p>
 <ul>
-<li> Participants are allowed to use the Internet. </li>
-<li>  Participants can request for additional components and wires to the coordinators but it entirely depends on the coordinators whether they allow it. </li>
-<li> All the components will be provided to them during this round. </li>
- </ul>
- <li> Students are not allowed to use Mobile, Laptop, Calculator or any kind of electronic media in first Round.  </li>
-
- <li> College Id Card is Mandatory.</li>
-
- <li> The decision of the judges and students are final.</li>
-
- <li> All rights are reserved with the coordinators. They may or may not disclose any information depending upon the information asked. They can change any rule at any time according to the situation. </li>
-
-<li> Any misconduct or violation of rules will lead to immediate elimination. </li>
-</ol>
-<p> <b> Judging Criteria: </p> </b> 
-<p> <b> Round 1: </p> </b> 
+<li>A team can have a min of 2 members and a maximum of 4 members.
+<li> Mystery box once provided will not be changed.
+<li> In Round 3
 <ol>
-<li> The teams will be given three chances to pick a chit and enact the answer. Weightage
+<li> Participants are allowed to use the Internet.
+<li> Participants can request for additional components and wires to the
+coordinators but it entirely depends on the coordinators whether they allow it.
+<li> All the components will be provided to them during this round.
+</ol>
+
+<li>Students are not allowed to use Mobile, Laptop, Calculator or any kind of
+electronic media in the first round.
+<li>College Id Card is Mandatory.
+<li>The decision of the judges and students are final.
+<li> All rights are reserved with the coordinators. They may or may not disclose any
+information depending upon the information asked. They can change any rule at any
+time according to the situation.
+<li>Any misconduct or violation of rules will lead to immediate elimination.
+Judging Criteria:
+</ul>
+<p> <b>Round 1:</b></p>
+<ul>
+<li>The teams will be given three chances to pick a chit and enact the answer. Weightage
 of points decreases with each successive chance.
- </li>
+</ul>
+<p> <b>Round 2:</b></p>
 
+<p> The team will be judged on basis of the circuit made in Tinkercad and points will be
+allotted accordingly.</p>
 
-</ol>
-<p> <b> Round 2: </b> </p>
-
-<ol>
-<li> The team will be judged on basis of the circuit made in Tinkercad and points will be
-allotted accordingly.
- </li>
- 
-</ol>
-
-<p> <b> Round 3: </b> </p>
-<ol>
-<li> The team which scored the maximum points in the previous round will be allowed to hit
+<p> <b>Round 3:</b></p>
+<ul>
+<li>The team which scored the maximum points in the previous round will be allowed to hit
 the carton boxes first. The mystery box once won cannot be exchanged will be judged
 on the basis of their understanding of the circuit, their efficiency in identifying the fault
 and rectification of the fault to get the correct
-
- </li>
- <li>The team will be judged on the basis of their innovation, an efficiency of the
+<li>The team will be judged on the basis of their innovation, an efficiency of the
 circuit, explanation, how much more components of the mystery box the team
 uses.
-</li>
 <li>All teams will be evaluated after the time frame of 60 minutes and winners will
 be declared.
-</li>
-<li>Time Limit: 60 minutes</li>
-</ol>
+<li>Time Limit: 60 minutes
+</ul>
+<p> <b>Prize Money: 20000</b></p>
 
+<p> <b>For any queries, please contact:</b></p>
 
+<p>9090561913 (kajol)</p>
+<p>7766932637 (Prakhar)</p>
 
-<p> <b> Prize Money: </b> </p>
-<p> Rs-20,000 </p>
-
-<p> <b> Contact Details: </b> </p>
-<p> A. Kajol (9090561913) </p>
-<p> B. Prakhar(+91-7766932637)  </p>
 `,
         "704": `
-   <h1> SEGUIDOR </h1>
-<p> <b> An autonomous event </b> </p> <hr>
+   <h1>SEGUIDOR</h1> 
+   <hr>
+   <a href="https://kiitfest.org/events/vidnan_pdf/SEGIODOR.pdf"> <p> Download PDF here </p> <a>
+   <p> Design and construct an autonomous robot which is capable of traversing the arena by following a line in a particular manner and avoid the obstacle that it might encounter. The participants are required to build a line following bot which is capable of detecting an obstacle in front of it and sense the presence of colour on the floor in front of it. </p>
+   <p> TASK: Traverse the area from the START point to the END point by following a black line laid throughout the white area. But the task is not that simple. The bot should be capable of following a particular pattern as mentioned further in this problem statement. The bot should work on the principle of advance line follower to give utmost efficiency on the arena. During its operation, the bot will encounter the various obstacle which it needs to understand and take action accordingly. Performing every task smoothly will result in full point and violating it will result in penalties.</p>
+   <p> <b> ARENA DESIGN & SPECIFICATION: </b> </p>
+   <ol>
+      <li> The arena will be absolutely flat and levelled out so additional power is not required to run the bot. Although participants can vary the speed of their robot to give maximum efficiency in following the line.</li>
+      <li> The Surface of the arena will be painted white and the bot is required to follow a black line of thickness 2 centimetres.</li>
+   </ol>
+   <p> <b> KEY POINTS: </b> </p>
+   <p> There are some key points of the arena that the participants need to keep in mind while programming their bot to gain maximum points and avoid deviation from the required path. </p>
+   <p> At some point in the area, the black line will not be continuous and there will be a gap of not more than 5 centimetres. There will also be a sharp turn after some gaps. So the participants should program their bot in such a way that it does not malfunction at these given points. According to the given figure, the bot should follow the line as the blue line suggest.</p>
+   <p> As the image suggests, at some point of the arena the line shift suddenly to either the right or left by not more than 1 centimetre. The participant needs to program their bot in such a manner that it could understand the shift and traverse the path according to the blue line shown in the image.</p>
+   <p>At some points of the arena, the lines will have sharp turns but the edges of the turn will be removed as you can see in the image beside. So the participant needs to program their bot in such a way that it does not malfunction in this part.</p>
+   <p>At some points of the arena, the path could have a turn with an angle of at most 45 degrees. So the participants will have to program their bot accordingly. If the bot leaves the path, it will have to restart from the last checkpoint and penalties will be imposed for every such action.</p>
+   <p>Some part of the arena will constitute curved dotted lines with gaps of a maximum of 1 centimetre. The line will not bend with a very sharp turn but will almost look like a straight line. So the contestant need not worry so much about this part as they will easily be able to traverse with a minor change in the program.</p>
+   <p> <b> COLOUR SENSING:</b></p>
+   <p>There will be points in the arena where the line will divert into two paths at 90 degrees. At this point, there will a rectangular patch of red colour laid on the floor 3 cm ahead of the turning point as shown in the diagram. The participant needs to construct their bot and program it in such a manner that it should be able to detect this colour in front of the line and take 90 degrees turn to the left side. Taking a right turn in this point and following the path will result in negative points. If the left path is traversed, the team will gain points in their favour.</p>
+   <p>There will be points in the arena where the line will divert into two paths at 90 degrees. At this point, there will a rectangular patch of yellow colour laid on the floor 3 cm ahead of the turning point as shown in the diagram. The participant needs to construct their bot and program it in such a manner that it should be able to detect this colour in front of the line and take 90 degrees right turn. Taking a left turn in this point and following the path will result in negative points. If the right path is traversed, the team will gain points in their favour.</p>
+   <p> When patches of blue colour will be present on the floor in front of the line the bot should take a 180 degrees turn clockwise or anticlockwise and follow the path backwards and take another left turn to follow the right path. Skipping the blue patch and following the wrong path will result in negative marking. </p>
+   <p> According to the given figure, at some point in the arena, there will be no line to follow. Instead, there will be a wall in front. The participant will have to construct their bot in such a way that it should detect the wall in front of it and take a 90 degree turn to the right and continue to detect a line again. If the bot is not able to detect the wall in front of it or it is deviating from its required path, then it will have to take a restart and start from the last checkpoint with penalties. </p>
+   <p> The Arena will contain various checkpoints, completing which will result in additional points. After any checkpoint, if the bot deviates from its path, then the bot will start its journey from the last checkpoint. </p>
+   <p>The contestant will need to program their bot so that it is capable of turning clockwise or counter-clockwise at exactly at the angle required at each key points of the arena. Failing which will result in negative marking.</p>
 
-<a target=_blank href="events/vidnan_pdf/SEGUIDOR_data.pdf"> <p> Download complete event details <p> </a>
-<p> <b> Description of the Event: </b> Design and construct an autonomous robot which is capable of traversing the arena by following a line in a particular manner and avoid the obstacle that it might encounter. The bot should traverse the arena from the START point to the END point by following a white line laid throughout the black arena. But the task is not that simple. The participants are required to build a line following bot which is capable of detecting an obstacle in front of it and sense the presence of color laid on the floor in front of it. During its operation, the bot will encounter the various obstacle which it needs to understand and take action accordingly. Performing every task smoothly will result in full point and violating it will result in penalties. </p>
-
-<p> <b>Arena Design and Specification:</b> </p>
-<ol>
-<li> The arena will be absolutely flat and leveled out so additional power is not required to run the bot. Although participants can vary the speed of their robot to give maximum efficiency in following the line.
-<li>The Surface of the arena will be painted black and the bot is required to follow a white line of thickness 2 centimeters.
-</ol>
-<p> <b>Key Points: </b> </p>
-<p> There are some key points of the arena that the participants need to keep in mind while programming their bot to gain maximum points and avoid deviation from the required path. </p>
-<ol>
-<li>At some point in the area, the white line will not be continuous and there will be a gap of not more than 5 centimeters. There will also be a sharp turn after some gaps. So the participants should program their bot in such a way that it does not malfunction at these given points. According to the given figure, the bot should follow the line as the blue line suggest.
-
-
-<li>As the image suggests, at some point of the arena the line shift suddenly to either the right or left by not more than 1 centimeter. The participant needs to program their bot in such a manner that it could understand the shift and traverse the path according to the blue line shown in the image.
-<li>At some points of the arena, the lines will have sharp turns but the edges of the turn will be removed as you can see in the given image. So the participant needs to program their bot in such a way that it does not malfunction in this part. 
-
-<li>At some points of the arena, the path could have a turn with an angle of at most 45 degrees. So the participants will have to program their bot accordingly. If the bot leaves the path, it will have to restart from the last checkpoint and penalties will be imposed for every such action.
-
-<li>Some part of the arena will constitute curved dotted lines with a gap of a maximum of 1 centimeter. The line will not bend with a very sharp turn but will almost look like a straight line. So the contestant need not worry so much about this part as they will easily be able to traverse with a minor change in the program.
-</ol>
- 
-<p> <b>Colour Sensing:</b> </p>
-<li>There will be points in the arena where the line will divert into two paths at 90 degrees. At this point, there will a rectangular patch of red color laid on the floor 3 cm ahead of the turning point as shown in the diagram. The participant needs to construct their bot and program it in such a manner that it should be able to detect this color in front of the line and take 90 degrees turn to the left side. Taking a right turn in this point and following the path will result in negative points. If the left path is traversed, the team will gain points in their favor.
-<li>There will be points in the arena where the line will divert into two paths at 90 degrees. At this point, there will a rectangular patch of yellow color laid on the floor 3 cm ahead of the turning point as shown in the diagram. The participant needs to construct their bot and program it in such a manner that it should be able to detect this color in front of the line and take 90 degrees right turn. Taking a left turn in this point and following the path will result in negative points. If the right path is traversed, the team will gain points in their favor.
-
-
-<li>When patches of blue color will be present on the floor in front of the line the bot should take a 180 degrees turn clockwise or anticlockwise and follow the path backward and take another left turn to follow the right path. Skipping the blue patch and following the wrong path will result in negative marking.
-<li>According to the given figure, at some point in the arena, there will be no line to follow. Instead, there will be a wall in front. The participant will have to construct their bot in such a way that it should detect the wall in front of it and take a 90 degree turn to the right and continue to detect a line again. If the bot is not able to detect the wall in front of it or it is deviating from its required path, then it will have to take a restart and start from the last checkpoint with penalties.
-<p> <b>NOTE:</b> </p>
-<ol>
-<li>The Arena will contain various checkpoints, completing which will result in additional points. After any checkpoint, if the bot deviates from its path, then the bot will start its journey from the last checkpoint.
-<li>The contestant will need to program their bot so that it is capable of turning clockwise or counter-clockwise at exactly at the angle required at each key points of the arena. Failing which will result in negative marking.
-</ol>
-<p> <b>Robot Specifications:</b> </p>
-<ol>
-<li>The robot must not contain any readymade kits or Lego kits or any such assembly.
-<li>However readymade microcontroller boards, sensors, chassis, gears, and shafts may be used.
-<li>The voltage difference between any two points on bot must not exceed 24 volts.
-<li>The robot dimension must be limited by 20cm x 20cm x 20cm.
-<li>The robot must be completely autonomous. - It should not receive any input from outside the arena.
-<li>The robot should not contain more than 6 IR sensors for fair competition.
-<li>Motor RPM should not exceed 200.
-</ol>
-<p> <b>Technical Details:</b> </p>
-<ol>
-<li>Team members will not be allowed to touch any part of the arena, only organizers are allowed to handle the arena in any situation, the team will be disqualified whose member is found touching the arena.
-<li>Teams will not be allowed to change bot’s mechanism and parts once the game starts.
-<li>Participants are not allowed to keep anything inside arena other than the bot.
-<li>During the run, the bot should not damage the arena in any way. It is not allowed to leave anything behind or make any marks while traversing. All machines found damaging the arena will be immediately disqualified. The final decision is at the discretion of the organizer.
-<li>The time measured by organizers will be final and will be used for scoring.
-<li>Time measured by participants is not acceptable for scoring.
-<li>Organizing team will not be responsible for any kind of damage to your bot.
-<li>Organizer's decision will be final and binding in case of any dispute.
-<li>Organizers reserve the right to change any of the above rules they deem to be fit.
-<li>The participants will be provided with 220 Volts, 50Hz standard AC supply if required but it is advised to construct a bot containing a self-powering mechanism.
-<li>Participants will have to themselves arrange for any other power supply required for their robot.
-<li>There may be a slight variation in dimension of the arena.
-<li>The arena & color pattern may be different from the picture shown above.
-</ol>
-<p> <b>Rules and Regulations:</b> </p>
-<ol>
-<li>This event is restricted to students currently studying in any recognized Educational Institute.
-<li>A maximum of four participants are allowed per team.
-<li>Students from different colleges can be a part of the same team.
-<li>An individual cannot be part of more than one team. Participants must bring a valid identity card of their institute and KIIT FEST ID.
-</ol>
-<p> <b>Gameplay:</b> </p>
-<ol>
-<li>1. PRELIMS:
-<ul>
-<li>Prelims will contain only some key points of the problem statement and the participant ability to build a perfect line follower will be tested. This will a qualifying round in which contestant will compete each other to qualify for the finals and get yourself one step closer to the winning prize!!
-<li>Two dry runs of 8 minutes will be given followed by one final run of 5 minutes. The dry run will help the participant anticipate any change in the program that they might need to do to make their bot more perfect (Any change in the construction is not allowed). But they cannot take more than 5 minutes or leave the arena during their dry and final run otherwise, the team will be disqualified.
-<li>The score of only final run will decide if the participant qualifies in the next round or not. And only one final run will be made and the scoring will be final under every circumstances.
-<li>If the bot deviates from the path, it will have to start again from the last checkpoint. Three such restart will be allowed, after that negative mark will be imposed on them.
-<li>For completion of every checkpoint there will be positive making.
-<li>Completing the whole path of the prelim will result in additional points other than the checkpoint.
-<li>Skipping is not allowed in the prelims.
-</ul>
-<li> FINALS:</b> </p>
-<ul>
-<li>Finals will contain all the key points of the problem statement. This is where it will get really interesting. The Actual coding skill and teamwork of the participant will be tested and the challenges will not be as easy as the prelims.
-<li> Similarly like the prelims, two dry run of 10 minutes and one final run of 8 minutes will be allowed.
-<li>The score of only final run will decide winner. And only one final run will be made and the scoring will be final under every circumstances.
-<li>If the bot deviates from the path, it will have to start again from the last checkpoint. Three such restart will be allowed, after that negative mark will be imposed on them.
-<li>For completion of every checkpoint there will be positive making.
-<li>Completing the whole path of the prelim will result in additional points other than the checkpoint.
-<li>Any team can skip a checkpoint after 3 deviation but not directly. A maximum of 2 skips will be allowed with heavy negative marking.
-</ul>
-</ol>
-<p> <b>Judging Criteria:</b> </p>
-<p> Scoring will be done on the basis of time and points and it will be only for the final run. The team will be qualified or declared winner on the score of final run only. The decision taken by the organizer will be final. </p>
-<ul>
-<li> If, T=time left on the clock in seconds after completing the course,
-<li>C=10, for completing a checkpoint,
-<li>A=Number of checkpoints cleared,
-<li>D=Number of deviation from the path, after the third time,
-<li>S=20, for every skip,
-<li>B=Number of skip,
-<li>F=50, for completing whole course, 0 for not.
-<li>Final Score= 100+T+C*A+F-(D*5)-(S*B)
-</ul>
-
-
-<p> <b>Prize Money:</b> </p>
-<p> Worth Rs. 30,000/- </p>
-<p> <b>Contact Details:</b> </p>
-<p>  Anirban Nag (+91-9973769996) </p>
-<p> Shuvam(+91-9938283553)</p>
-
-
+   
+   <p> <b> ROBOT SPECIFICATIONS: </b></p>
+   <p>
+   <ol>
+      <li> A robot must not contain any readymade kits or Lego kits or any such assembly.
+      <li> However readymade microcontroller boards, sensors, chassis, gears and shafts may be used.
+      <li> The voltage difference between any two points on bot must not exceed 24 volts.
+      <li> The robot dimension must be limited by 20cm x 20cm x 20cm.
+      <li> The robot must be completely autonomous. - It should not receive any input from outside the arena.
+      <li> The robot should not contain more than 6 IR sensors for fair competition.
+      <li>
+         Motor RPM should not exceed 200. </li></ol>
+         <p> <b> TECHNICAL DETAILS: </b></p>
+         <ol>
+            <li> Team members will not be allowed to touch any part of the arena, only organizers are allowed to handle the arena in any situation, the team will be disqualified whose member is found touching the arena.
+            <li> Teams will not be allowed to change bot’s mechanism and parts once the game starts.
+            <li> Participants are not allowed to keep anything inside arena other than the bot.
+            <li> During the run, the bot should not damage the arena in any way. It is not allowed to leave anything behind or make any marks while traversing. All machines found damaging the arena will be immediately disqualified. The final decision is at the discretion of the organizer.</li>
+            <li> The time measured by organizers will be final and will be used for scoring.</li>
+            <li> Time measured by participants is not acceptable for scoring.</li>
+            <li> Organizing team will not be responsible for any kind of damage to your bot.</li>
+            <li> Organizer's decision will be final and binding in case of any dispute.</li>
+            <li> Organizers reserve the right to change any of the above rules they deem to be fit.</li>
+            <li> The participants will be provided with 220 Volts, 50Hz standard AC supply if required but it is advised to construct a bot containing a self-powering mechanism.</li>
+            <li> Participants will have to themselves arrange for any other power supply required for their robot.</li>
+            <li> There may be a slight variation in dimension of the arena.</li>
+            <li> The arena & colour pattern may be different from the picture shown</li>
+            above.</li>
+            </li></li>
+         </ol>
+         <p> <b> RULES AND REGULATIONS: </b></p>
+         <ul>
+      <li> This event is restricted to students currently studying in any recognized Educational Institute.</li>
+      <li> A maximum of four participants is allowed per team.</li>
+      <li> Students from different colleges can be a part of the same team.</li>
+      <li> An individual cannot be part of more than one team. Participants must bring a valid identity card of their institute and KIITFEST ID.</li>
+  </ul>
+   </ol>
+   <p> <b> GAMEPLAY: </b></p>
+   <ol>
+   <li> PRELIMS: </li>
+   <ul>
+   <li>Prelims will contain only some key points of the problem statement and the participant ability to build a perfect line follower will be tested. This will a qualifying round in which contestant will compete for each other to qualify for the finals and get yourself one step closer to the winning prize!!
+   <li>Two dry runs of 8 minutes will be given followed by one final run of 5 minutes. The dry run will help the participant anticipate any change in the program that they might need to do to make their bot more perfect (Any change in the construction is not allowed). But they cannot take more than 5 minutes or leave the arena during their dry and final run, otherwise, the team will be disqualified.
+   <li>The score of the only final run will decide if the participant qualifies in the next round or not. And only one final run will be made and the scoring will be final under every circumstance.
+   <li>If the bot deviates from the path, it will have to start again from the last checkpoint. Three such restarts will be allowed, after that negative mark will be imposed on them.
+   <li>For completion of every checkpoint, there will be positive making.
+   <li>Completing the whole path of the prelim will result in additional points other than the checkpoint.
+   <li>Skipping is not allowed in the prelims.</li></ul>
+    <p> <li>FINALS:</li> </p>
+    <ul>
+   <p> <li>Finals will contain all the key points of the problem statement. This is where it will get really interesting. The Actual coding skill and teamwork of the participant will be tested and the challenges will not be as easy as the prelims.</li>
+   <li>Similarly like the prelims, two dry runs of 10 minutes and one final run of 8 minutes will be allowed.</li>
+   <li> The score of the the only final run will decide winner. And only one final run will be made and the scoring will be final under every circumstance.</li>
+   <li> If the bot deviates from the path, it will have to start again from the last checkpoint. Three such restarts will be allowed, after that negative mark will be imposed on them.
+   <li> For completion of every checkpoint, there will be positive making.</li>
+   <li> Completing the whole path of the prelim will result in additional points other than the checkpoint.</li>
+   <li> Any team can skip a checkpoint after 3 deviations but not directly. A maximum of 2 skips will be allowed with heavy negative marking.</li> </ul> </p>
+   <p> <b> JUDGING CRITERIA: </b> </p>
+   Scoring will be done on the basis of time and points and it will be only for the final run. The team will be qualified or declared the winner on the score of the final run only. The decision taken by the organizer will be final.
+   If, T=time left on the clock in seconds after completing the course,
+   C=10, for completing a checkpoint,
+   A=Number of checkpoints cleared,
+   D=Number of deviation from the path, after the third time,
+   S=20, for every skip,
+   B=Number of skip,
+   F=50, for completing the whole course, 0 for not.
+   Final Score= 100+T+C*A+F-(D*5)-(S*B)
+   <p> <b> PRIZE MONEY: </b> </p>
+   Rs: 35,000/-
+   <p> <b> CONTACT DETAILS: </b> </p>
+   Anirban Nag: 9973769996 
+   Shuvam: 9938283553 
 `,
         "705": `
 <h1> RoadRunner </h1> <hr>
-<a target=_blank href="events/vidnan_pdf/Road_Runner.pdf"> <p> Download complete event details <p> </a>
 <p> <b> Description:- </b> </p>
  <p>The Task is to build a manually controlled bot which can complete the route by overcoming the obstacles in its Path. Thus battling with the opponents based on Marginal points and timing to finally win it. The bot can be wired or wireless. In case of wireless they maybe Bluetooth controlled or Wi-Fi controlled. There are 2 rounds, Round 1 and 2 based on the difficulty level, participants will go to the next round by only clearing the preceding round. </p>
 <p> <b>  Round1 (Two bots will have to compete for each other in a race.) </b> </p>
@@ -1856,179 +1821,206 @@ The bots first arrive at Checkpoint A.
 *Scoring is performed based on points and time taken by the organizers. </li>
 
 <p> <b> Prize Money: </b> </p>
-<p> Rs: 30,000/- </p>
+<p> Rs: 50,000/- </p>
 
 <p> <b> Contact Details:-  </b> </p>
 <p> Nomit: 8249097249 </p>
 <p> Vishesh: 9711901381 </p>
 </html>`,
         "706": `
-<h1> MIRROR MAZE</h1> 
+<h1> MIRROR MAZE 2.0 </h1> <hr>
+<p> <b> Description: </b> </p>
+<p> 
+ There will be a maze of size 11x17 sq.ft. where the bot will traverse. The walls will be made of glass and mirrors. It will be a manually controlled bot that can be wired or wireless. The goal is to gather maximum points by touching the blocks, placed randomly across the maze. A camera or a phone should be mounted over the bot, which will provide a live feed fpv from bot. The driver will have to control it through the camera screen as the arena will not be shown to the driver who is controlling the bot. Obstacles like speed breakers, bumps and muddy area would be present in the arena. The muddy area would be 2 cm from ground level. So all electrical connections of the bot must be designed accordingly.</p>
+<p> <b> Requirements of the bot: </b> </p>
+<li> Dimensions of the bot must not exceed 20x20x20 cubic.cm. </li>
+<li> All connections of the bot must be minimum of 3-4 cm above the ground level. </li>
+<li> Max potential difference between any two points of bot must not exceed 16v. Only 220v AC would be provided. Participants would have to bring their own adapter/battery etc. </li>
+<li> No weight criteria. </li>
+<li> The camera or mobile phone must be tightly fixed in order to prevent detachment.</li>
+<p> <b> Rules and Regulations:- </b> </p>
+<li> Maze dimension will be (11x17) sq.ft. </li>
+<li> A team of max. 4 participants is allowed. </li>
+<li> The event consists of ......... rounds.</li>
+ <li> Each team can avail for only 1 technical time-out per round. 
+<li> The maze obstacles consist of speed breakers, bumps and may be muddy area along with few other common obstacles. </li>
+<li> Each participant has to start at a fixed position to traverse the maze. </li>
+<li> Wooden blocks of certain points would be placed at random positions in the maze before a team start their turn (Red block= 5 points, Blue block= 10 points, Yellow block= 30 points, Jackpot block= 100 points).</li>
+ <li> The points will be awarded on a time basis and a total number of blocks touched by the bot.</li> 
+<li> Only one person per team will be allowed to manage the wire (only if the bot is wired) & only one would be allowed to control the bot. The other members would be sitting by the controller facing their laptops thereby seeing the live feed. The person managing the wire is strictly prohibited to convey any information regarding the layout & position of point blocks. Anyone doing the same will be disqualified from the event.</li>
+<li> The controller would be allowed 30 seconds just before the start of their turn to observe the maze & positions of the point blocks. </li>
+<li> Any damage to the arena will result in direct disqualification. </li>
+<li> Teams with maximum points qualify for the next round.</li>
+<li> Each team gets 3 skip options. It can only be applied when a bot is unable to cross any obstacle or if the controller wishes to skip the obstacle (No negative markings in such criteria). Special case: In case the controller wishes to skip the muddy area 10 points would be deducted from the total score. Any damage to the bot caused while crossing this area is solely the team’s responsibility. </li>
+<li> However, this skip option is not available in the jackpot region.</li>
+ <li> Touching the glass wall results in a negative marking of 2 marks. </li>
+<li> Further rules of qualifying rounds would be disclosed on spot. </li>
+<li> The organiser’s decision is final and binding</li>
+
+<p> <b> Judging Criteria: </b> </p>
+<li> A trial case of 50 seconds will be allowed to individual teams to check the maze.</li>
+<li> A participant can avail maximum up to 3 skips per round, which can be opted only if the bot freezes on spot. For each skip, 5 marks would be deducted.</li>
+<li> All teams would be awarded 50 points initially only if it satisfies the dimension criteria.</li>
+<li> A tolerance of 20cm + 4cm (bot width) will be allowed for participating in the event, however, the team would lose the initial 50 points in that case.</li>
+<li> There would be a total of 3 rounds: <br>
+<Round 1> Individual teams would be participating one by one & the top teams scoring the most points in the specified time for the round will get qualified for the next round. 
+
+    <p> <b> Round 2  : </b> Two bots would be participating simultaneously from 2 random extreme points in the maze. The bot securing most points in the given time span of the round qualifies for the next round. An addition of 20 points would be awarded if the bot exits the maze in the given time span. <p> <b> Round 3 :  </b> Will be disclosed on spot. </p>
+<p> <ul> <li> Ramming of the wall (by a bot or by the participant) would directly result in a deduction of 10 marks. </li>
+<li> Each team is allowed only 1 technical timeout per round and this rule is applicable only if the coordinators find the case to be relevant. </li>
+<li> All rules & marking schemes are subjected to change before the starting of competition. </li>
+<li> Detailed marking scheme would be disclosed to the participants just before the commencement of the event. </li> </ul>
 
 
-<p> <b>Description of the Event</b> </p>
- <p> There will be a maze of size 11x17 sq.ft. where the bot will traverse. The walls will be made of glass and mirrors. It will be a manually controlled bot that can be wired or wireless. The goal is to gather maximum points by touching the blocks, placed randomly across the maze. A camera or a phone should be mounted over the bot, which will provide a live feed fpv from bot. The driver will have to control it through camera screen as the arena will not be shown to the driver who is controlling the bot. Obstacles like speed breakers, bumps and muddy area would be present on the arena. The muddy area would be 2 cm from ground level. So all electrical connections of the bot must be designed accordingly. </p>
-<p> <b>Requirements of the Bot</b> </p>
-<ol>
-<li>Dimensions of the bot must not exceed : 20x20x20 cubic.cm.
-<li>All connections of the bot must be minimum of 3-4 cm above the ground level.
-<li>Max. potential difference between any two points of bot must not exceed 16v. Only 220v AC would be provided. Participants would have to bring their own adapter/battery etc.
-<li>No weight criteria.
-<li>The camera or mobile phone must be tightly fixed in order to prevent detachment.
-</ol>
-<p> <b>Rules and Regulations</b> </p>
-Maze dimension will be (11x17) sq.ft.
-<ol>
-<li>A team of max. 4 participants is allowed.
-<li>The event consists of 3 rounds.
-<li>Each team can avail for only 1 technical time-out per round.
-<li>The maze obstacles consists of speed breakers, bumps and may be muddy area along with few other common obstacles.
-<li>Each participant has to start at a fixed position to traverse the maze.
-<li>Wooden blocks of certain points would be placed at random positions in the maze before a team start their turn (Red block= 5 point, Blue block= 10 point, Yellow block= 30 point, Jackpot block= 100 point).
-<li>The points will be awarded on time basis and total number of blocks touched by the bot.
-<li>Only one person per team will be allowed to manage the wire (only if bot is wired) & only one would be allowed to control the bot. The other members would be sitting by the controller facing their laptops thereby seeing the live feed. The person managing the wire is strictly prohibited to convey any information regarding the layout & position of point blocks. Anyone doing the same will be disqualified from the event.
-<li>The controller would be allowed 30s just before the start of their turn to observe the maze & positions of the point blocks.
-<li>Any damage to the arena will result in direct disqualification.
-<li>Teams with maximum points qualify for the next round.
-<li>Each team gets 3 skip options. It can only be applied when a bot is unable to cross any obstacle or if the controller wishes to skip the obstacle (No negative markings in such criteria). Special case : In case the controller wishes to skip the muddy area 10 points would be deducted from the total score. Any damage to the bot caused while crossing this area is solely the team’s responsibility.
-<li>However this skip option is not available in the jackpot region.
-<li>Touching the glass wall results in a negative marking of 2 marks.
-<li>Further rules of qualifying rounds would be disclosed on spot.
-<li>The organiser’s decision is final and binding
-</ol>
-<p> <b>Judging Criteria:</b> </p>
-<ol>
-<li>A trial case of 50 seconds will be allowed to individual teams to check the maze.
-<li>A participant can avail maximum up to 3 skips per round, which can be opted only if the bot freezes on spot. For each skip, 5 marks would be deducted.
-<li>All teams would be awarded 50 points initially only if it satisfies the dimension criteria.
-<li>A tolerance of 20cm + 4cm (bot width) will be allowed for participating in the event, however, the team would lose the initial 50 points in that case.
-<li>There would be a total of 3 rounds: 
-<ul>
-<li>Round 1: Individual teams would be participating one by one & the top teams scoring the most points in the specified time for the round will get qualified for the next round.
-<li>Round 2:Two bots would be participating simultaneously from 2 random extreme points in the maze. The bot securing most points in the given time span of the round qualifies for the next round. An addition of 20 points would be awarded if the bot exits the maze in the given time span.
-<li>Round 3: Will be disclosed on spot.
+<p> <b> Prize Money: </b> </p>
+<p> Rs: 30,000/- </p>
+
+<p> <b> Contact Details: </b> </p>
+<p> Bishal: 9401476420 </p>
+<p> Saswata: 8116340242 </p>
+`,
+        "707": `<h1> ROBOWAR </h1> 
+        <hr>
+ <p> <b> Task: Design and construct a remote-controlled robot capable of fighting a one on one tournament.  </p> </b> 
+ <p> <b>  Dimensions and Fabrications: </p> </b> 
+<ul> 
+<li>  The machine should fit in a box of dimension 500mm x 500mm x 500 mm (lx w x h) at any given point during the match. The external device used to control the machine or any external tank is not included in the size constraint. </li>
+<li> The machine should not exceed 20 kg but tolerance of 5% will be allowed.</li>
+<li> Mobility: All robots must have easily visible and controlled mobility in order to compete. Methods of mobility include:</li>
+ <li> Rolling (wheels, tracks or the whole robot). </li>
+ <li> Non-wheeled robots having no rolling elements in contact with the floor and any continuous rolling or cam operated motion in contact with the floor, either directly or via a linkage. Motion is "continuous" if the continuous operation of the drive motor(s) produces continuous motion of the robot. Linear-actuated legs and novel non-wheeled drive systems come under this category. </li>
+ <li> Jumping and hopping are not allowed. Flying (using airfoil, helium balloons etc.) is not allowed. </li>
 </ul>
-<li>Ramming of the wall (by a bot or by the participant) would directly result in a deduction of 10 marks.
-<li>Each team is allowed only 1 technical timeout per round and this rule is applicable only if the coordinators find the case to be relevant.
-vAll rules & marking schemes are subjected to change before the starting of competition.
-<li>Detailed marking scheme would be disclosed to the participants just before the commencement of the event.
-</ol>
+<p> <b> Rules and Regulations :</p> </b> 
+<ul> 
+<li> The machine can be controlled through wired or wireless remote. In case of wireless remote Power supply should be on board only. Refer below for further details on battery and power. </li>
 
-<p> <b>Prize Money:</b> </p>
-<p>Worth Rs.30,000/- </p>
-<p> <b>Contact Details:</b> </p>
-<p> Bishal (+91-9401476420) </p>
-<p>Saswata(+91-8116340242) </p>
+<li> There should be binding capability between transmitters and receivers and they must connect between polycarbonate (6mm), metal bars barriers. The remotes with such facility will only be allowed. </li>
 
+<li> Nonstandard or self-made remote control systems must first be approved by the organizers. </li>
+
+<li> The team should pair up the wireless remote with the machine before putting it into the arena.</li>
+
+<p> <b>Battery and Power: </p> </b> 
+<ul> 
+<li>
+ The machine can be powered electrically only. Use of an IC engine in any form is not allowed. Onboard batteries must be sealed, immobilized-electrolyte types (such as gel cells, lithium, NiCad, NiMH, or dry cells). </li>
+<li>
+ The electric voltage between 2 points anywhere in the machine should not be more than 36V DC at any point in time. </li>
+<li>
+All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause direct disqualification.</li>
+<li>
+ Use of damaged, non-leak proof batteries may lead to disqualification. </li>
+<li>
+Special care should be taken to protect the onboard batteries. If judges found that the battery is not properly protected, then the team will be disqualified immediately. </li>
+<li>
+ Change of battery will not be allowed during the match. </li>
+<li>
+ It is suggested to have an extra battery ready and charged up during the competition so that on advancing to next level, you don’t have to wait or suffer due to an uncharged battery. If teams don’t show up on the allotted slot, they will be disqualified. Hydraulics:</li>
+<li>
+ A Robot can use non-inflammable liquid to actuate hydraulic devices e.g. cylinders. </li>
+<li>
+ All hydraulic components onboard must be securely mounted. Special care must be taken while mounting pump, accumulator and armour to ensure that if ruptured direct fluid streams will not escape the robot. </li>
+<li>
+ All hydraulic liquids are required to be non-corrosive and your device should be leak proof. </li>
+<li>
+ Maximum allowed pressure is 12 bars. </li>
+<li>
+ Participant must be able to indicate the used pressure with integrated or temporarily fitted pressure gauge.</li>
+ <li>
+ Entire hydraulic setup should be on board, no external input (from outside the arena) can be given to the robot for functioning of its hydraulic system </li> </ul>
+<p> <b>Weapons Systems: </p> </b> 
+<ul>
+<li> Robots can have any kind of cutters, flippers, saws, lifting devices, spinning hammers etc. as weapons with following exceptions and limitations: 
+<li> Liquid projectiles.</li>
+ <li> Any kind of inflammable liquid. </li>
+<li> Flame-based weapons. </li>
+</ul>
+<p> <b>Judging Criteria: </p> </b> 
+<ul>
+<li> A robot is declared victorious if its opponent is immobilized. </li>
+<li> A robot will be declared immobile if it cannot display linear motion of at least one inch in a time period of 30 seconds. A bot with one side of its drivetrain disabled will not be counted out if it can demonstrate some degree of controlled movement. In case both the robots remain mobile after the end of the round then the winner will be decided subjectively. </li>
+<li> A robot that is deemed unsafe by the judges after the match has begun will be disqualified and therefore declared the loser. The match will be immediately halted and the opponent will be awarded a win.</li>
+ <li> If a robot is thrown out of the arena the match will stop immediately, and the robot still inside the arena will automatically be declared as the winner. </li>
+<li> Robots cannot win by pinning or lifting their opponents. Organizers will allow pinning or lifting for a maximum of 20 seconds per pin/lift then the attacker robot will be instructed to release the opponent. If, after being instructed to do so, the attacker is able to release but does not, their robot may be disqualified. If two or more robots become entangled or a crushing or gripping weapon is employed and becomes trapped within another robot, then the competitors should make the timekeeper aware, the fight should be stopped and the robots separated by the safest means.</li>
+<li> Points will be given on the basis of aggression, damage, control and strategy. </li>
+<li> Aggression – Aggression is judged by the frequency, severity, boldness and effectiveness of attacks deliberately initiated by the robot against its opponent. If a robot appears to have accidentally attacked an opponent, that act will not be considered Aggression.</li>
+ <li> Control – Control means a robot is able to attack an opponent at its weakest point, use its Weapons in the most effective way, and minimize the damage caused by the opponent or its weapons. </li>
+<li> Damage – Through deliberate action, a robot either directly or indirectly reduces the functionality, effectiveness or defensibility of an opponent. Damage is not considered relevant if a robot inadvertently harms itself. Also, if a pressure vessel or a rapidly spinning device on a robot fragments, any damage to the opponent will not be considered "deliberate". </li>
+<li> Strategy – The robot exhibits a combat plan that exploits the robot's strengths against the
+weaknesses of its opponent. The strategy is also defined as a robot exhibiting a deliberate defence plan that guards its weaknesses against the strengths of the opponent. (NOTE: Qualification of a robot to the next level be subjective and totally on the decision of the judges. A robot winning in a round against its opponent doesn’t guarantee its entrance into the next round. If the judges found the winner robot incompetent to enter into the next round, it may get disqualified. Judges can disqualify both the robots of a match from advancing to the next round. All the decisions taken by the judge will be final and binding to all. Any queries afterwards will not be entertained.) 
+
+<p> <b>Team Specification: </p> </b> 
+<ul>
+<li> Any team can participate in Robowars, KIITfest. A team may consist of a maximum of 5 participants. These participants can be from the same institute. 
+<li> Team Name: Every team must have a name which must be unique. KIITfest reserves the right to reject entries from any Team whose name it deems inappropriate, offensive or conflicting. Organizers must be notified during if a Team's name has been changed. 
+<li> Team Representative: Each team must specify their Team Representative (Leader) at the time of registration. All-important communications between KIIT FEST team members and the registered teams will be done through their Team Representative. The Team representatives must submit valid contact details (phone no., email ID etc.) at the time of registration. (NOTE: During any kind of conversation, registration, communication, mails or submissions the team must identify themselves by their Team ID only provided at the time of registration and not by your team name. Please do not use your team name as your identification in any kind of communication with us. Follow this rule very strictly.)
+</ul>
+<p> <b>Event Specific Terminologies: </p> </b> 
+<ul>
+<li> Disabled – A robot is not functioning correctly due to either an internal malfunction or contact with the opposing robot or Arena Hazard. </li>
+<li> Disqualification – A Robot is no longer permitted to compete in the current Robowars
+Tournament. </li>
+<li> Immobilized – In Judge's opinion, a robot is not responsive for a specified period of time. </li>
+<li>Knockout – Occurs when the attack or deliberate actions of one robot causes its opponent to
+become immobilized. </li>
+<li> Lifting – Occurs when one robot controls an opponent's translational motion by lifting the drive mechanism of the opponent off of the Arena floor. </li>
+<li> No Contact – Occurs when neither robot makes contact with each other for a specified period of time. </li>
+<li> Pinning – Occurs when one robot, through sheer force, holds an opponent stationary in order to immobilize it. </li>
+<li> Radio Interference – Refers to the situation where at least one robot becomes non-Responsive or non-controllable due to the effect of the other robot's remote-control signal. </li>
+<li> Non-Responsive – In a Referee's opinion, the robot cannot display some kind of controlled translational movement along the Arena floor.</li>
+ <li> Restart – Occurs after a Fault or a Timeout has been declared and the competing robots are ready to continue. </li>
+<li> Stuck – A robot is hung-up on a part of the Arena, an Arena Hazard or an opponent, such that it is effectively non-responsive. </li>
+<li> Tap-Out – Occurs when a Robot's Operators decide that they no longer want to continue the
+Match, and concede the win to the opposing Team. </li>
+<li> Technical Knockout – Occurs when a robot wins due to immobilization of its opponent even
+though, in the Judges' opinion, no action of the winning robot caused the opponent's immobilization. </li>
+<li>  Timeout – A temporary halting of a Match. Timeouts are usually called to separate robots but
+can be called for other reasons as well. </li>
+</ul>
+<p> <b>Prize Money: </p> </b> 
+
+Rs: 75,000/-
+<p> <b>Contact Details: </p> </b> 
+
+<p> Sandipan: 9804113215 </p>
+<p> Sourav: 8348518426 </p>
 `,
-        "707": `<h1> ROBOWAR </h1> <hr>
+        "708": `<h1> KIVI-(Electronics Trivia Quiz Game) </h1> <hr>
+<p> <b> Description: </b> </p>
+<p> Do you feel the massive robotics events are not your cup of tea? If that is the case, don't just be a spectator. While others sweat it out in other events of Vidnan, you can compete online in this one of a kind trivia quiz game which can be accessed from anywhere within the electronics department. Be ready to put your imagination, your prowess and your creative best to the test! 
 
-<p><b>Task:</b></p> <p> Design and construct a remote controlled robot capable of fighting a one on one tournament. </p>
-<p><b>Dimension and Fabrications:</b></p>
-<li>The machine should fit in a box of dimension 500mm x 500mm x 500 mm (l x w x h) at any given point during the match. The external device used to control the machine or any external tank is not included in the size constraint.
-<li>The machine should not exceed 20 kg but a tolerance of 5% will be allowed and for wireless it should not exceed 23 kg.                                                                                              Mobility: All robots must have easily visible and controlled mobility in order to compete. Methods of mobility include: . 
-<ol type=”a”>
-<li>Rolling (wheels, tracks or the whole robot).
-<li>Non-wheeled robots having no rolling elements in contact with the floor and any continuous rolling or cam operated motion in contact with the floor, either directly or via a linkage. Motion is "continuous" if continuous operation of the drive motor(s) produces continuous motion of the robot. Linear-actuated legs and novel non-wheeled drive systems come under this category.
-<li>Jumping and hopping is not allowed. Flying (using airfoil, helium balloons etc.) is not allowed.
-</ol>
-<p><b>Rules and Regulations:</b></p>
-<li>The machine can be controlled through wired or wireless remote. In case of wireless remote Power supply should be on board only. Refer below for further details on battery and power<li>There should be binding capability between transmitters and receivers and they must connect between polycarbonate (6mm), metal bars barriers. The remotes with such facility will only be allowed. 
-<li>Nonstandard or self-made remote control systems must first be approved by the organizers.
-<li>Team should pair up the wireless remote with the machine before putting it into the arena
+The event will be conducted on all the three days at some specific times and will consist of three rounds.The first round will be an online quiz related to electronic circuits while the next round will be a sudoku challenge. The third round however will be rubik’s cube, which will decide the winner. 
+ </p>
 
-
-<p><b>Battery and Power:</b></p>
-<p> The machine can be powered electrically only. Use of an IC engine in any form is not allowed. On- board batteries must be sealed, immobilized-electrolyte types (such as gel cells, lithium, NiCad, NiMH, or dry cells). </p>
+<p> <b> Rules And Regulations: </b> </p>
 <ol>
-<li>The electric voltage between 2 points anywhere in the machine should not be more than 36V DC at any point of time. 
-<li>All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause direct disqualification.
-<li>Use of damaged, non-leak proof batteries may lead to disqualification.
-<li>Special care should be taken to protect the on-board batteries. If judges found that the battery is not properly protected, then team will be disqualified immediately.
-<li>Change of battery will not be allowed during the match.
-<li>It is suggested to have extra battery ready and charged up during competition so that on advancing to next level, you don’t have to wait or suffer due to uncharged battery. If teams don’t show up on allotted slot, they will be disqualified. Hydraulics:
-<li>Robot can use non-inflammable liquid to actuate hydraulic devices e.g. cylinders.
-<li>All hydraulic components on-board must be securely mounted. Special care must be taken while mounting pump, accumulator and armour to ensure that if ruptured direct fluid streams will not escape the robot.
-<li>All hydraulic liquids are required to be non-corrosive and your device should be leak proof.
-<li>Maximum allowed pressure is 12 bars.
-<li>Participant must be able to indicate the used pressure with integrated or temporarily fitted pressure gauge.
-</ol>
-<p><b>Weapons Systems</b></p> Robots can have any kind of cutters, flippers, saws, lifting devices, spinning hammers etc. as weapons with following exceptions and limitations:
-<ol>
-<li>Liquid projectiles.
-<li>Any kind of inflammable liquid.
-<li>Flame-based weapons.
-</ol>
-<p><b>Judging Criteria</b></p>
-<ol>
-<li>A robot is declared victorious if its opponent is immobilized.
-<li>A robot will be declared immobile if it cannot display linear motion of at least one inch in a time period of 30 seconds. A bot with one side of its drivetrain disabled will not be counted out if it can demonstrate some degree of controlled movement. In case both the robots remain mobile after the end of the round then the winner will be decided subjectively
-<li>A robot that is deemed unsafe by the judges after the match has begun will be disqualified and therefore declared the loser. The match will be immediately halted and the opponent will be awarded a win.
-<li>If a robot is thrown out of the arena the match will stop immediately, and the robot still inside the arena will automatically be declared as the winner.
-<li>Robots cannot win by pinning or lifting their opponents. Organizers will allow pinning or lifting for a maximum of 20 seconds per pin/lift then the attacker robot will be instructed to release the opponent. If, after being instructed to do so, the attacker is able to release but does not, their robot may be disqualified. If two or more robots become entangled or a crushing or gripping weapon is employed and becomes trapped within another robot, then the competitors should make the timekeeper aware, the fight should be stopped and the robots separated by the safest means.
-<li>Points will be given on the basis of aggression, damage, control and strategy.
-<li>Aggression – Aggression is judged by the frequency, severity, boldness and effectiveness of attacks deliberately initiated by the robot against its opponent. If a robot appears to have accidentally attacked an opponent, that act will not be considered Aggression.
-<li>Control – Control means a robot is able to attack an opponent at its weakest point, use its Weapons in the most effective way, and minimize the damage caused by the opponent or its weapons.
-<li>Damage – Through deliberate action, a robot either directly or indirectly reduces the functionality, effectiveness or defensibility of an opponent. Damage is not considered relevant if a robot inadvertently harms itself. Also, if a pressure vessel or a rapidly spinning device on a robot fragments, any damage to the opponent will not be considered "deliberate".
-<li>Strategy – The robot exhibits a combat plan that exploits the robot's strengths against the weaknesses of its opponent. Strategy is also defined as a robot exhibiting a deliberate defence plan that guards its weaknesses against the strengths of the opponent. (NOTE: Qualification of a robot to next level be subjective and totally on the decision of the judges. A robot winning in a round against its opponent doesn’t guarantee its entrance into the next round. If the judges found the winner robot incompetent to enter into the next round, it may get disqualified. Judges can disqualify both the robots of a match from advancing to the next round. All the decisions taken by the judge will be final and binding to all. Any queries afterwards will not be entertained.)
-<p><b>Team Specifications</b></p>
-<ol>
-<li>Any team can participate in Robowars, KIITfest. A team may consist of a maximum of 5 participants. These participants can be from same institute.
-<li>Team Name: Every team must have a name which must be unique. KIITfest reserves the right to reject entries from any Team whose name it deems inappropriate, offensive or conflicting. Organizers must be notified during if a Team's name has been changed.
-<li>Team Representative: Each team must specify their Team Representative (Leader) at the time of registration. All-important communications between KIIT FEST team members and the registered teams will be done through their Team Representative. The Team representatives must submit valid contact details (phone no., email ID etc.) at the time of registration. (NOTE: During any kind of conversation, registration, communication, mails or submissions the team must identify themselves by their Team ID only provided at the time of registration and not by your team name. Please do not use your team name as your identification in any kind of communication with us. Follow this rule very strictly.)
-</ol>
-<p><b>Event Specific Terminologies</b></p>
-<ol>
-<li>Disabled – A robot is not functioning correctly due to either an internal malfunction, or contact with the opposing robot or Arena Hazard.
-<li>Disqualification – A Robot is no longer permitted to compete in the current Robowars Tournament.<li>Immobilized – In Judge's opinion, a robot is not responsive for a specified period of time.
-<li>Knockout – Occurs when the attack or deliberate actions of one robot causes its opponent to become immobilized.
-<li>Lifting – Occurs when one robot controls an opponent's translational motion by lifting the drive mechanism of the opponent off of the Arena floor.
-<li>No Contact – Occurs when neither robot makes contact with each other for a specified period of time.
-<li>Pinning – Occurs when one robot, through sheer force, holds an opponent stationary in order to immobilize it.
-<li>Radio Interference – Refers to the situation where at least one robot becomes non-Responsive or non-controllable due to the effect of the other robot's remote-control signal.
-<li>Non-Responsive – In a Referee's opinion, the robot cannot display some kind of controlled translational movement along the Arena floor.
-<li>Restart – Occurs after a Fault or a Timeout has been declared and the competing robots are ready to continue.
-<li>Stuck – A robot is hung-up on a part of the Arena, an Arena Hazard or an opponent, such that it is effectively non-responsive.
-<li>Tap-Out – Occurs when a Robot's Operators decide that they no longer want to continue the Match, and concede the win to the opposing Team.
-<li>Technical Knockout – Occurs when a robot wins due to immobilization of its opponent even though, in the Judges' opinion, no action of the winning robot caused the opponent's immobilization.
-<li>Timeout – A temporary halting of a Match. Timeouts are usually called to separate robots, but can be called for other reasons as well.
-</ol>
-<p><b>Prize Money</b></p>
-<p> Worth Rs. 50,000/-</p>
-<p><b>Contact Details</b></p>
-<p>Sandipan (+91-9804113215) </p>
-<p>Sourav(+91-8348518426)</p>
-`,
-        "708": `<h1>  KIVI-(Electronics Trivia Quiz Game) </h1> <hr>
+<li> The KIVI game  link will  be provided to  the registered participants </li>
+<li> Only the registered participants will be allowed to take part in this event.
+ </li>
+<li> The total number of questions for each quiz will be 12. </li>
+<li> Each question is to be answered in a time span of 10 seconds by choosing the correct option after which next question will appear.  </li>
+<li> Any kind of cheating will lead to disqualification of the participant.
+ </li>
+<li> It is an individual event that means only a single member in a team is allowed. </li>
+<li> The different pages of the application involves the registration page and the each quiz question page. </li>
+<li> Sudoku puzzle consists of a grid of 9 blocks. Each block contains 9 boxes arranged in 3 rows and 3 columns.
+ </li>
 
-<p> Do you feel the massive robotics events are not your cup of tea? If that is the case, don't just be a spectator. While others sweat it out in other events of Vidnan, you can compete online in this one of a kind trivia quiz game which can be accessed from anywhere within the electronics department. Be ready to put your imagination, your prowess and your creative best to the test! </p>
-
-<p> The event will be conducted on all the three days at some specific times and will consist of three rounds.The first round will be an online quiz related to electronic circuits while the next round will be a sudoku challenge. The third round however will be rubik’s cube, which will decide the winner. </p>
-
-
-<p> <b>RULES:</b></p>
-<ol>
-<li>The KIVI game  link will  be provided to  the registered participants.
-<li>Only the registered participants will be allowed to take part in this event.<li>The total number of questions for each quiz will be 12.
-<li>Each question is to be answered in a time span of 10 seconds by choosing the correct option after which next question will appear.
-<li>Any kind of cheating will lead to disqualification of the participant.
-<li>It is an individual event that means only a single member in a team is allowed.
-<li>The different pages of the application involves the registration page and the each quiz question page.
-<li>Sudoku puzzle consists of a grid of 9 blocks. Each block contains 9 boxes arranged in 3 rows and 3 columns.
-<li>In Sudoku, some blocks will be pre-filled. These numbers cannot be changed in the course of the game.
-<li>The  last round is rubik’s cube for the selected participants for final round. 
+<li> In Sudoku, some blocks will be pre-filled. These numbers cannot be changed in the course of the game.
+  </li>
+ 
+<li>  The  last round is rubik’s cube for the selected participants for final round. </li>
 </ol>
 
-            <p> <b>JUDGING CRITERIA: </b></p>
-<p>To be declared during the event.</p>
+<p> <b> Judging Criteria: </b> </p>
+<p> To be declared during the event. </p>
 
-
-           <p> <b> PRIZE MONEY:  ₹20,000</b></p>
-
-            <p> <b>CONTACT: </b></p>
-<p> Manish: 8863848002
-            <p> Surabhi: 9777833256
-`,
+<p> <b> Prize Money: </b> </p> 
+<p> Rs: 20,000/- </p>
+<p> <b> Contact Details: </b> </p>
+<p> Manish: 8863848002 </p> <p>     Surabhi: 9777833256 </p>
+</p>`,
 
 
 

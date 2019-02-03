@@ -29,20 +29,10 @@ $sql = new sql();
   <script src="js/TimelineLite.min.js"></script>
   <script src="js/TweenMax.min.js"></script>
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106122426-5"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-106122426-5');
-</script>
-
-
-
-
 </head>
+<div style="background-color:white" class="modal fade in" height="100%">
+  <h1> Hello </h1>
+  </div>
 <body>
 
   <div class="background ">
@@ -184,7 +174,7 @@ $sql = new sql();
     </div>
   </section>
 
-<!--?php include 'sponsors.php';?-->
+
   <!--Sponsors
   <section class="">
     <div class="overlay"></div>
@@ -285,5 +275,12 @@ $sql = new sql();
 
   <script src="js/common.js"></script>
   <script src="js/index.js"></script>
+
+  <script>
+    <body onload="myFunction()">
+    function myFunction(){
+      $('.modal').modal('show');
+    }
+  </script>
 </body>
 </html>

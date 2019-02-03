@@ -528,6 +528,16 @@ require 'PHPMailer/src/SMTP.php';
     padding-top: 10px;
 }
 </style>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106122426-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-106122426-5');
+</script>
+
 </head>
 <body>
 
@@ -581,7 +591,7 @@ require 'PHPMailer/src/SMTP.php';
             <!-- <input type="text" class="form-control" name="institution" aria-describedby="emailHelp" placeholder="Institution"> -->
             <select id="insName" onchange="instituteChange()" class="form-control" name="institution" aria-describedby="emailHelp" placeholder="Institution" required>
                 <option value="" selected disabled>--choose one--</option>
-                <option value="KIIT">Kalinga Institute Of Industrial Technology</option>
+                <option value="KIIT">Kalinga Institute Of Industrial Technology(Includes all schools)</option>
                 <option value="others">Others..</option>
             </select>
             <div style="color:red;"><?php echo $institutionerror?></div>
@@ -604,7 +614,7 @@ require 'PHPMailer/src/SMTP.php';
         var institute = document.getElementById('insName').value;
         var afterIns = document.getElementById('afterIns');
 
-        if (institute === "KIIT")
+        if (institute === "KIIT" || institute === "KIMS" || institute === "KIDS" || institute === "KSOM")
             afterIns.innerHTML = `
                 <label for="exampleInputEmail1">Roll Number</label>
                 <input type="text" class="form-control" name="rollno" aria-describedby="emailHelp" placeholder="Roll Number">

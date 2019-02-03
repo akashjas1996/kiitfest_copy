@@ -194,10 +194,10 @@
 			<hr>
 			<p><b>Contacts-</b></p>
 			<ol>
-				<li>Aradhya - 9648753567</li>
-				<li>Rajat - 9560838776</li>
 				<li>Srinjoyi - 9903521904</li>
 				<li>Peenal - 9078802826</li>
+				<li>Rajnandani Patra - 9437157497 </li>
+
 			</ol>
         `,
 		"905": `
@@ -325,10 +325,10 @@
 			
 			<p><b>Contacts:-</b></p>
 			<ol> 
-				<li>Aradhya-9648753567
-				<li>Rajat-9560838776
+				
 				<li>Srinjoyi-9903521904
 				<li>Peenal-9078802826
+				<li>Rajnandani Patra - 9437157497 </li>
 			</ol>
         `,
 		"909": `
