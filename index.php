@@ -183,8 +183,6 @@ $sql = new sql();
       </div>
     </div>
   </section>
-
-<?php include 'sponsors/sponsors_page.php';?>
   <!--Sponsors
   <section class="">
     <div class="overlay"></div>
