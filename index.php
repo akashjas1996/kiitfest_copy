@@ -183,6 +183,8 @@ $sql = new sql();
       </div>
     </div>
   </section>
+
+<?php include 'agenda/sponsors.php';?>
   <!--Sponsors
   <section class="">
     <div class="overlay"></div>
