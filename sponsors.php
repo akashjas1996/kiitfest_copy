@@ -30,7 +30,7 @@
 
   <Sponsors
   <section class="">
-    <div class="overlay1"></div>
+    <!--div class="overlay"></div-->
     <div class="container-fliud h-100 ">
 
       <div class="row">
