@@ -245,7 +245,7 @@ $sql = new sql();
 
     </div>
   </section>
-  >
+  </Sponsors>
 
 
   <!--Contact Us-->
