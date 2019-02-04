@@ -264,7 +264,7 @@ $sql = new sql();
                           $row1 = mysqli_fetch_assoc($result1);
                           if($row1['payment_complete'] != 1){
                             $institution = strtoupper($row1['institution']);
-                            if($institution == 'KIIT' || $institution == 'KIIT UNIVERSITY' || $institution == 'KIIT DEEMED TO BE UNIVERSITY' || $institution == 'KALINGA INSTITUTE OF INDUSTRIAL TECHNOLOGY')
+                            if($institution == 'KIIT' || $institution == 'KIIT UNIVERSITY' || $institution == 'KIIT DEEMED TO BE UNIVERSITY' || $institution == 'KALINGA INSTITUTE OF INDUSTRIAL TECHNOLOGY' || $institution == 'Kiit' || $institution == 'Kiit, bbsr'|| $institution == 'kiit')
                             echo ' 
                             </div>
                             </div>
