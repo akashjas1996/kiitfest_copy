@@ -1,3 +1,8 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+</head>
+
 <?php
 $servername = "51.68.139.41";
 $username = "kiitfest";
@@ -19,7 +24,7 @@ $result = $conn->query($sql);
 if ($result->num_rows > 0) {
     // output data of each row
     while($row = $result->fetch_assoc()) {
-        echo "Name : " . $row["name"]. " - email: " .$row["email"]."<br>";
+        //echo "Name : " . $row["name"]. " - email: " .$row["email"]."<br>";
     }
 } else {
     echo "0 results";
@@ -27,10 +32,6 @@ if ($result->num_rows > 0) {
 $conn->close();
 
 
-echo '<!DOCTYPE HTML>
-<html>
-<head>
-</head>
 <body>
 <link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet"> 
 <div class="id-card-wrapper">
@@ -42,7 +43,7 @@ echo '<!DOCTYPE HTML>
         <img src="https://via.placeholder.com/420x420">
       </div>
       <div class="desc">
-        <h1>Tony Stark</h1>
+        <h1>echo 'Hello';</h1>
             <p>Strength: Ironman Suit</p>
             <p>Weakness: None</p>
             <p>Known as: Iron Man</p>
