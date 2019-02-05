@@ -186,7 +186,7 @@ $sql = new sql();
 
   <section>
     <div class="sponsorContainer">
-      <h1 class="text-white">Our Previous Sponsors</h1>
+      <h1 class="text-white">Our Partners</h1>
       <div class="sponsorGrid">
         <a class="img" href="#">
           <img class="sponsor" src="img/brands/audi_logo.png" alt="">
@@ -263,14 +263,11 @@ $sql = new sql();
           <p class="text-dark">kiit.fest@kiit.ac.in</p>
         </div>
       </div>
-
     </div>
   </section>
-
   <div class="popup">
     <img src="img/KF POSTER 1.jpg">
   </div>
-
   <script src="js/common.js"></script>
   <script src="js/index.js"></script>
 </body>
