@@ -11,7 +11,7 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 } 
 $kf_id = $_POST["kiitfest_id"];
-echo '$kf_id';
+echo $kf_id;
 
 /*$sql = "SELECT name, email, phone FROM participants_participant WHERE kf_id='$kf_id'";
 $result = $conn->query($sql);
