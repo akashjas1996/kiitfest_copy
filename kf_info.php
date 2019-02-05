@@ -27,7 +27,7 @@ if ($result->num_rows > 0) {
 $conn->close();
 
 
-<!DOCTYPE HTML>
+echo '<!DOCTYPE HTML>
 <html>
 <head>
 </head>
@@ -153,6 +153,6 @@ $conn->close();
   margin: 0px;
 }
 </style>
-</html>
+</html>'
 
 ?>
