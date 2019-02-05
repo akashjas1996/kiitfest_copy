@@ -139,7 +139,7 @@ if ($result->num_rows > 0) {
       </div>
       <div class="desc">
         <h1>'.$row['name'].'</h1>
-            <p>Strength: Ironman Suit</p>
+            <p>'.$row["email"].'</p>
             <p>Weakness: None</p>
             <p>Known as: Iron Man</p>
       </div>
