@@ -12,6 +12,12 @@
   background-color: #091214;
   display: flex;
 }
+.id-card-wrapper-neg {
+  height: 100vh;
+  width:100%;
+  background-color: #091214;
+  display: flex;
+}
 .id-card {
   flex-basis: 100%;
   max-width: 30em;
@@ -22,6 +28,17 @@
   background-color: #0A2129;
   box-shadow: 0px 0px 3px 1px #12a0a0, inset 0px 0px 3px 1px #12a0a0;
 }
+.id-card-neg {
+  flex-basis: 100%;
+  max-width: 30em;
+  border: 1px solid rgb(97, 245, 245);
+  margin: auto;
+  color: #fff;
+  padding: 1em;
+  background-color: #b24742;
+  box-shadow: 0px 0px 3px 1px #12a0a0, inset 0px 0px 3px 1px #12a0a0;
+}
+
 
 .profile-row {
   display: flex;
@@ -153,7 +170,7 @@ if ($result->num_rows > 0) {
         else
         {
         	echo ' 
-        <div class="id-card" style="background-color:red">
+        <div class="id-card-neg">
     <div class="profile-row">
       <div class="dp">
         <div class="dp-arc-outer"></div>
