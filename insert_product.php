@@ -11,10 +11,6 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 } 
-$kf_id = $_POST["kiitfest_id"];
-echo $kf_id;
-
-
 $image = addslashes(file_get_contents($_FILES['image']['tmp_name'])); //SQL Injection defence!
 $image_name = addslashes($_FILES['image']['name']);
 $sql = "INSERT INTO `product_images` (`id`, `image`, `image_name`) VALUES ('1', '{$image}', '{$image_name}')";
