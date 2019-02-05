@@ -1,10 +1,4 @@
- <?php
 <?php
-/*$servername = "51.68.139.41";
-$username = "kiitfest";
-$password = "hi9jkH27Gb1sEkRj";
-$dbname = "kiitfest_5";*/
-
 $servername = "103.209.144.233";
 $username = "learnast_kiit";
 $password = "Hello@7004909759";
@@ -45,7 +39,7 @@ if(move_uploaded_file($temp_name, $target_path)) {
 
   $query_upload="INSERT into 'images_tbl' ('images_path') VALUES 
 
-('".$target_path."','".date("Y-m-d")."')";
+('".$target_path."')";
   mysql_query($query_upload) or die("error in $query_upload == ----> ".mysql_error());  
   
 }else{
