@@ -11,12 +11,19 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 } 
 
-echo '<form action="htezbv.php" METHOD="POST">
-  KFID:<br>
-  <input type="text" name="kfid" value="KF">
-  <br>
-  <input type="submit" value="Submit">
-</form> '
+echo '
+<?php
+  if (isset($_POST['submit'])) {
+    $example = $_POST['example'];
+    $example2 = $_POST['example2'];
+    echo $example . " " . $example2;
+  }
+?>
+<form action="htevzbv.php" method="post">
+  Example value: <input name="kfid" type="text" />
+  <input name="submit" type="submit" />
+</form>
+'
 
 $sql = "SELECT name, email, phone FROM participants_participant WHERE kf_id==$_POST["kfid"]";
 $result = $conn->query($sql);
