@@ -144,7 +144,7 @@ if ($result->num_rows > 0) {
         <h1>'.$row['name'].'</h1>
             <p>KFID:'.$kf_id.'</p>
             <p>Email:'.$row['email'].'</p>
-            <p>Payment:'.$color.'</p>
+            <p>Payment:'.$row['payment_complete'].'</p>
       </div>
     </div>
   </div>
