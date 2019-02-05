@@ -184,116 +184,52 @@ $sql = new sql();
     </div>
   </section>
 
-
-
-  <div class="container">
-    <center> <h1> Our Partners </h1> </center>
-    <br>
-    <div class="row">
-      <div class="col-md-2 col-sm-8">
-         <center> <img height="140px" src="img/brands/audi_logo.png" alt=""> </center>
-      </div>
-      <div class="col-md-2 col-sm-8">
-          <center><img height="140px" src="img/brands/hero.png" alt=""></center>
-      </div>
-      <div class="col-md-2 col-sm-8">
-          <center><img height="140px" src="img/brands/ccd.png" alt=""></center>
-      </div>
-      <div class="col-md-2 col-sm-8">
-          <center><img  height="140px" src="img/brands/nikon.png" alt=""></center>
-      </div>
-      <div class="col-md-2 col-sm-8">
-          <center><img height="140px" src="img/brands/hp.png" alt=""></center>
-      </div>
-      <div class="col-md-2 col-sm-8">
-          <center><img height="140px" src="img/brands/dell.png" alt=""></center>
-      </div>
-    </div>
-      <br><br><br><br>
-    <div class="row">
-      <div class="col-md-2 col-sm-8">
-         <center> <img height="140px" src="img/brands/bigfm.png" alt=""> </center>
-      </div>
-      <div class="col-md-2 col-sm-8">
-          <center><img height="140px" src="img/brands/mindfire.png" alt=""></center>
-      </div>
-      <div class="col-md-2 col-sm-8">
-          <center><img height="140px"" src="img/brands/cocacola.png" alt=""></center>
-      </div>
-      <div class="col-md-2 col-sm-8">
-          <center><img height="140px" src="img/brands/samsung.png" alt=""></center>
-      </div>
-      <div class="col-md-2 col-sm-8">
-          <img height="140px" src="img/brands/icici.png" alt="">
-      </div>
-      <div class="col-md-2 col-sm-8">
-          <center><img height="140px" src="img/brands/aircel.png" alt=""></center>
-      </div>
-    </div>
-  </div>
-
-<!--?php include 'agenda/sponsors.php';?-->
-  <!--Sponsors
-  <section class="">
-    <div class="overlay"></div>
-    <div class="container-fliud h-100 ">
-
-      <div class="row">
-        <div class="col-12">
-          <h1 class="text-white">Our Previous Sponsors</h1>
-        </div>
-      </div>
-      <div class="row">
-        <a class="col-lg-3 col-xs-3 p-5" href="#">
+  <section>
+    <div class="sponsorContainer">
+      <h1 class="text-white">Our Previous Sponsors</h1>
+      <div class="sponsorGrid">
+        <a class="img" href="#">
           <img class="sponsor" src="img/brands/audi_logo.png" alt="">
         </a>
-        <a class="col-lg-3 col-xs-3 p-5" href="#">
+        <a class="img" href="#">
           <img class="sponsor" src="img/brands/hero.png" alt="">
         </a>
-        <a class="col-lg-3 col-xs-3 p-5" href="#">
+        <a class="img" href="#">
           <img class="sponsor" src="img/brands/ccd.png" alt="">
         </a>
-        <a class="col-lg-3 col-xs-3 p-5" href="#">
+        <a class="img" href="#">
           <img class="sponsor" src="img/brands/nikon.png" alt="">
         </a>
-      </div>
 
-      <div class="row my-5">
-        <a class="col-lg-3 col-xs-6 p-5" href="#">
+
+        <a class="img" href="#">
           <img class="sponsor" src="img/brands/hp.png" alt="">
         </a>
-        <a class="col-lg-3 col-xs-6 p-5" href="#">
+        <a class="img" href="#">
           <img class="sponsor" src="img/brands/dell.png" alt="">
         </a>
-        <a class="col-lg-3 col-xs-6 p-5" href="#">
+        <a class="img" href="#">
           <img class="sponsor" src="img/brands/bigfm.png" alt="">
         </a>
-        <a class="col-lg-3 col-xs-6 p-5" href="#">
+        <a class="img" href="#">
           <img class="sponsor" src="img/brands/mindfire.png" alt="">
         </a>
-      </div>
 
-      <div class="row">
-        <a class="col-lg-3 col-xs-6 p-5" href="#">
+        <a class="img" href="#">
           <img class="sponsor" src="img/brands/cocacola.png" alt="">
         </a>
-
-        <a class="col-lg-3 col-xs-6 p-5" href="#">
+        <a class="img" href="#">
           <img class="sponsor" src="img/brands/samsung.png" alt="">
         </a>
-
-        <a class="col-lg-3 col-xs-6 p-5" href="#">
+        <a class="img" href="#">
           <img class="sponsor" src="img/brands/icici.png" alt="">
         </a>
-
-        <a class="col-lg-3 col-xs-6 p-5" href="#">
+        <a class="img" href="#">
           <img class="sponsor" src="img/brands/aircel.png" alt="">
         </a>
       </div>
-
     </div>
   </section>
-  -->
 
 
   <!--Contact Us-->

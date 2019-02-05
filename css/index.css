@@ -288,13 +288,42 @@ section {
   height: 100vh;
 }
 
-@media (max-width: 768px) {
-  
-.gmap_canvas {
-  height: 30%;
-  width: 80%;
-  border-radius: 2px;
-  background: rgba(255,255,255, 1);
+.sponsorGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  flex-grow: 1;
+  margin-top: 50px;
 }
 
+.sponsor {
+  width: 100px;
+}
+
+.sponsorContainer {
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 50px);
+}
+
+@media (max-width: 768px) {
+  .gmap_canvas {
+    height: 30%;
+    width: 80%;
+    border-radius: 2px;
+    background: rgba(255,255,255, 1);
+  }
+
+  .sponsorGrid {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    grid-row-gap: 30px;
+  }
+
+  .sponsor {
+    width: 70px;
+  }
+  section {
+    margin-bottom: 50px;
+  }
 }
