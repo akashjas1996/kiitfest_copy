@@ -105,7 +105,7 @@
 </style>
 </head>
 <body> 
-
+<div class="id-card-wrapper">
 
 <?php
 $servername = "51.68.139.41";
@@ -129,10 +129,8 @@ if ($result->num_rows > 0) {
     // output data of each row
     while($row = $result->fetch_assoc()) {
         //echo "Name : " . $row["name"]. " - email: " .$row["email"]."<br>";
-        echo '
-        
-		<div class="id-card-wrapper">
-  <div class="id-card">
+        echo ' 
+        <div class="id-card">
     <div class="profile-row">
       <div class="dp">
         <div class="dp-arc-outer"></div>
@@ -147,8 +145,7 @@ if ($result->num_rows > 0) {
       </div>
     </div>
   </div>
-</div>
-</body>'
+'
     }
 } else {
     echo "0 results";
@@ -156,6 +153,6 @@ if ($result->num_rows > 0) {
 $conn->close(); ?>
 
 
-
+</div>
 </body>
 </html>
