@@ -133,7 +133,9 @@ if ($result->num_rows > 0) {
         	$color="red";
         	echo '<p> Payment has been done </p>';
         }
-        echo ' 
+        else
+        {
+        	echo ' 
         <div class="id-card">
     <div class="profile-row">
       <div class="dp">
@@ -151,6 +153,9 @@ if ($result->num_rows > 0) {
     </div>
   </div>
 ';
+
+        }
+        
     }
 } else {
     echo "0 results";
