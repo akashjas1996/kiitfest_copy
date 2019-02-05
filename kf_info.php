@@ -15,7 +15,7 @@
 .id-card-wrapper-neg {
   height: 100vh;
   width:100%;
-  background-color: #091214;
+  background-color: #592121;
   display: flex;
 }
 .id-card {
@@ -122,7 +122,7 @@
 </style>
 </head>
 <body> 
-<div class="id-card-wrapper">
+
 
 <?php
 $servername = "51.68.139.41";
@@ -148,7 +148,8 @@ if ($result->num_rows > 0) {
         //echo "Name : " . $row["name"]. " - email: " .$row["email"]."<br>";
         if($row["payment_complete"]==1){
         	$color="red";
-        	echo ' 
+        	echo '
+        	<div class="id-card-wrapper">
         <div class="id-card">
     <div class="profile-row">
       <div class="dp">
@@ -170,6 +171,7 @@ if ($result->num_rows > 0) {
         else
         {
         	echo ' 
+        	<div class="id-card-wrapper-neg">
         <div class="id-card-neg">
     <div class="profile-row">
       <div class="dp">
@@ -197,6 +199,5 @@ if ($result->num_rows > 0) {
 $conn->close(); ?>
 
 
-</div>
 </body>
 </html>
