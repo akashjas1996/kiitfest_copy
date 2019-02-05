@@ -9,6 +9,8 @@ $sql = new sql();
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta name="theme-color" content="#2e1832">
   <link rel="icon" sizes="192x192" href="img/kfLogoTopLeft.png">
 
   <meta name="description" content="">
