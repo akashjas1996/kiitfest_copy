@@ -43,7 +43,7 @@ $conn->close();
         <img src="https://via.placeholder.com/420x420">
       </div>
       <div class="desc">
-        <h1><?php echo "$row['name']";?>;</h1>
+        <h1><?php echo "$row['name']";?></h1>
             <p>Strength: Ironman Suit</p>
             <p>Weakness: None</p>
             <p>Known as: Iron Man</p>
