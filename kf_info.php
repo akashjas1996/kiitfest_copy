@@ -131,12 +131,29 @@ if ($result->num_rows > 0) {
         //echo "Name : " . $row["name"]. " - email: " .$row["email"]."<br>";
         if($row["payment_complete"]==1){
         	$color="red";
-        	echo '<p> Payment has been done </p>';
+        	echo ' 
+        <div class="id-card">
+    <div class="profile-row">
+      <div class="dp">
+        <div class="dp-arc-outer"></div>
+        <div class="dp-arc-inner"></div>
+        <img src="https://via.placeholder.com/420x420">
+      </div>
+      <div class="desc">
+        <h1>'.$row['name'].'</h1>
+            <p>KFID:'.$row['kf_id'].'</p>
+            <p>Email:'.$row['email'].'</p>
+            <p>Payment:'.$row['payment_complete'].'</p>
+            <p>Payment:'.$color.'</p>
+      </div>
+    </div>
+  </div>
+';
         }
         else
         {
         	echo ' 
-        <div class="id-card">
+        <div class="id-card" style="background-color:red">
     <div class="profile-row">
       <div class="dp">
         <div class="dp-arc-outer"></div>
