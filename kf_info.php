@@ -139,8 +139,8 @@ if ($result->num_rows > 0) {
       </div>
       <div class="desc">
         <h1>'.$row['name'].'</h1>
-            <p>KFID:'.$row['kf_id'].'</p>
-            <p>E mail:'.$row['email'].'</p>
+            <p>KFID:'.$kf_id.'</p>
+            <p>Email:'.$row['email'].'</p>
             <p>Payment:'.$row['payment_complete'].'</p>
       </div>
     </div>
