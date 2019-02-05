@@ -24,13 +24,13 @@ $result = $conn->query($sql);
 if ($result->num_rows > 0) {
     // output data of each row
     while($row = $result->fetch_assoc()) {
-        //echo "Name : " . $row["name"]. " - email: " .$row["email"]."<br>";
+        echo "Name : " . $row["name"]. " - email: " .$row["email"]."<br>";
     }
 } else {
     echo "0 results";
 }
 $conn->close();
-
+?>
 
 <body>
 <link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet"> 
@@ -43,7 +43,7 @@ $conn->close();
         <img src="https://via.placeholder.com/420x420">
       </div>
       <div class="desc">
-        <h1>echo 'Hello';</h1>
+        <h1><?php "Hello" ?>;</h1>
             <p>Strength: Ironman Suit</p>
             <p>Weakness: None</p>
             <p>Known as: Iron Man</p>
@@ -155,5 +155,3 @@ $conn->close();
 }
 </style>
 </html>'
-
-?>
