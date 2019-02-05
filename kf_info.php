@@ -131,6 +131,7 @@ if ($result->num_rows > 0) {
         //echo "Name : " . $row["name"]. " - email: " .$row["email"]."<br>";
         if($row["payment_complete"]==1){
         	$color="red";
+        	echo '<p> Payment has been done </p>';
         }
         echo ' 
         <div class="id-card">
