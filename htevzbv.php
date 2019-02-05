@@ -11,7 +11,14 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 } 
 
-$sql = "SELECT name, email, phone FROM participants_participant";
+echo '<form action="htezbv.php" METHOD="POST">
+  KFID:<br>
+  <input type="text" name="kfid" value="KF">
+  <br>
+  <input type="submit" value="Submit">
+</form> '
+
+$sql = "SELECT name, email, phone FROM participants_participant WHERE kf_id==$_POST["kfid"]";
 $result = $conn->query($sql);
 
 if ($result->num_rows > 0) {
