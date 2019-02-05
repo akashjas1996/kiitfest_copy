@@ -1,14 +1,14 @@
 <?php
 //103.209.144.233
-/*$servername = "51.68.139.41";
+$servername = "51.68.139.41";
 $username = "kiitfest";
 $password = "hi9jkH27Gb1sEkRj";
-$dbname = "kiitfest_5";*/
+$dbname = "kiitfest_5";
 
-$servername = "103.209.144.233";
+/*$servername = "103.209.144.233";
 $username = "learnast_kiit";
 $password = "Hello@7004909759";
-$dbname = "learnast_profile_pic";
+$dbname = "learnast_profile_pic";*/
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
