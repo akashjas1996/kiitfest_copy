@@ -1,6 +1,6 @@
 <?php 
-mysql_connect("103.209.144.233","learnast_kiit","Hello@7004909759") or die(mysql_error());
-mysql_select_db("learnast_profile_pic") or die(mysql_error());  // Let your database will be db1
+mysqli_connect("103.209.144.233","learnast_kiit","Hello@7004909759") or die(mysqli_error());
+mysqli_select_db("learnast_profile_pic") or die(mysqli_error());  // Let your database will be db1
 ?>
 
 <h1> UPLOAD IMAGE </h1>
@@ -34,7 +34,7 @@ if(isSet($_POST) and $_SERVER['REQUEST_METHOD'] == "POST"){
 	 
 	if(move_uploaded_file($t,$path.$new_name)){
 	
-	    mysql_query("INSERT INTO image VALUES('','$new_name')");
+	    mysqli_query("INSERT INTO image VALUES('','$new_name')");
 		echo "Successfully uploaded <br><br>";
 		echo "<img src=upload/".$new_name." height=400px>";
 		
