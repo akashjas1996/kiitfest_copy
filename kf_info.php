@@ -36,7 +36,7 @@
   color: #fff;
   padding: 1em;
   background-color: #b24742;
-  box-shadow: 0px 0px 3px 1px #12a0a0, inset 0px 0px 3px 1px #12a0a0;
+  box-shadow: 0px 0px 3px 1px #12a0a0, inset 0px 0px 3px 1px #8e132a;
 }
 
 
@@ -122,7 +122,7 @@
 </style>
 </head>
 <body> 
-
+<div class="id-card-wrapper">
 
 <?php
 $servername = "51.68.139.41";
@@ -148,8 +148,7 @@ if ($result->num_rows > 0) {
         //echo "Name : " . $row["name"]. " - email: " .$row["email"]."<br>";
         if($row["payment_complete"]==1){
         	$color="red";
-        	echo '
-        	<div class="id-card-wrapper">
+        	echo ' 
         <div class="id-card">
     <div class="profile-row">
       <div class="dp">
@@ -171,7 +170,6 @@ if ($result->num_rows > 0) {
         else
         {
         	echo ' 
-        	<div class="id-card-wrapper-neg">
         <div class="id-card-neg">
     <div class="profile-row">
       <div class="dp">
@@ -199,5 +197,6 @@ if ($result->num_rows > 0) {
 $conn->close(); ?>
 
 
+</div>
 </body>
 </html>
