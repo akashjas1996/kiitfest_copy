@@ -133,7 +133,7 @@ if ($result->num_rows > 0) {
         	$color="red";
         }
         echo ' 
-        <div class="id-card">
+        <div class="id-card" background-color="echo $color">
     <div class="profile-row">
       <div class="dp">
         <div class="dp-arc-outer"></div>
