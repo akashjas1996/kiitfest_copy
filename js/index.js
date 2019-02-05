@@ -30,7 +30,14 @@ window.onload = () => {
     }, 1000);
   })();
 
+var popup = document.querySelector(".popup");
+  function windowOnClick(event) {
+    if (event.target === popup) {
+      popup.classList.add("remove");
+    }
+};
 
+window.addEventListener("click", windowOnClick);
   var header = document.querySelector(".header");
   var home = document.querySelector('#home');
   var about = document.querySelector('#about');

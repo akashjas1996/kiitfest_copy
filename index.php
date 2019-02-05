@@ -267,6 +267,10 @@ $sql = new sql();
     </div>
   </section>
 
+  <div class="popup">
+    <img src="img/KF POSTER 1.jpg">
+  </div>
+
   <script src="js/common.js"></script>
   <script src="js/index.js"></script>
 </body>
