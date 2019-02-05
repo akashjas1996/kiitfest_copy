@@ -10,8 +10,9 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 } 
+$kf_id = test_input($_POST["website"]);
 
-$sql = "SELECT name, email, phone FROM participants_participant WHERE kf_id='$_POST["kfid"]'";
+$sql = "SELECT name, email, phone FROM participants_participant WHERE kf_id='$kf_id'";
 $result = $conn->query($sql);
 
 if ($result->num_rows > 0) {
