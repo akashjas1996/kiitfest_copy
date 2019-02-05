@@ -13,7 +13,7 @@ if ($conn->connect_error) {
 $kf_id = $_POST["kiitfest_id"];
 echo $kf_id;
 
-/*$sql = "SELECT name, email, phone FROM participants_participant WHERE kf_id='$kf_id'";
+$sql = "SELECT name, email, phone FROM participants_participant WHERE kf_id='$kf_id'";
 $result = $conn->query($sql);
 
 if ($result->num_rows > 0) {
@@ -23,6 +23,6 @@ if ($result->num_rows > 0) {
     }
 } else {
     echo "0 results";
-}*/
+}
 $conn->close();
 ?>
