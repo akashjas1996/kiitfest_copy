@@ -190,31 +190,21 @@ if ($result->num_rows > 0) {
     </div>
   </div>
 ';
-
         }
         
     }
 } 
-
-
 else {
     echo "<h1> 0 results </h1> ";
 }
-
-if(isset($_POST['barcode'])){
+/*if(isset($_POST['barcode'])){
 	$barc = $_POST["barcode"];
 	$id_rcv = $_POST["id_send"];
-	echo $kfid_str;
 	//echo "You clicked on: ".$row['kf_id'];
 	$sql = "INSERT INTO kf_barcode(kfid, barcode)VALUES('$id_rcv', '$barc')";
 		$result = $conn->query($sql);
-
-        }
-
-
+        }*/
 $conn->close(); ?>
-
-
 </div>
 </body>
 </html>
