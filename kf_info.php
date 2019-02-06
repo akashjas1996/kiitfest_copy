@@ -163,9 +163,17 @@ if ($result->num_rows > 0) {
             <p>Payment:'.$row['roll_no'].'</p>
       </div>
     </div>
-  </div>'
+  </div>
 <br><br>
-<input type="button"> ENROLL </input>
+<form action="/action_page.php">
+  First name:<br>
+  <input type="text" name="firstname" value="Mickey">
+  <br>
+  Last name:<br>
+  <input type="text" name="lastname" value="Mouse">
+  <br><br>
+  <input type="submit" value="Submit">
+</form> '
   ;
         }
         else
