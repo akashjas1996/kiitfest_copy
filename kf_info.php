@@ -126,6 +126,7 @@
 
 <?php
 $kf_id = $_POST["kiitfest_id"];
+String kfid_str="$kfid";
 $servername = "51.68.139.41";
 $username = "kiitfest";
 $password = "hi9jkH27Gb1sEkRj";
@@ -166,6 +167,7 @@ if ($result->num_rows > 0) {
     </div>
     <form action="" method="POST">
   <input type="text" name="barcode">
+  <input type="hidden" name="id_send" value="<?php echo $row['kf_id']; ?>"/>
   <br><br>
   <input type="submit" value="save">
 </form> 
@@ -203,9 +205,10 @@ else {
 
 if(isset($_POST['barcode'])){
 	$barc = $_POST["barcode"];
-	echo $kf_id;
+	$id_rcv = $_POST["id_send"];
+	echo $kfid_str;
 	//echo "You clicked on: ".$row['kf_id'];
-	$sql = "INSERT INTO kf_barcode(kfid, barcode)VALUES('$kf_id', '$barc')";
+	$sql = "INSERT INTO kf_barcode(kfid, barcode)VALUES('$id_rcv', '$barc')";
 		$result = $conn->query($sql);
 
         }
