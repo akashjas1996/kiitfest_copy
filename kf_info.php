@@ -163,8 +163,7 @@ if ($result->num_rows > 0) {
             <p>Payment:'.$row['roll_no']'</p>
       </div>
     </div>
-  </div>
-';
+  </div>';
         }
         else
         {
