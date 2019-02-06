@@ -164,7 +164,6 @@ if ($result->num_rows > 0) {
     </div>
     <form action="" method="POST">
   <input type="text" name="barcode">
-  <input type="hidden" name="id_send" value='kf0000'"/>
   <br><br>
   <input type="submit" value="save">
 </form> 
@@ -196,13 +195,13 @@ if ($result->num_rows > 0) {
 else {
     echo "<h1> 0 results </h1> ";
 }
-/*if(isset($_POST['barcode'])){
+if(isset($_POST['barcode'])){
 	$barc = $_POST["barcode"];
 	$id_rcv = $_POST["id_send"];
 	//echo "You clicked on: ".$row['kf_id'];
 	$sql = "INSERT INTO kf_barcode(kfid, barcode)VALUES('$id_rcv', '$barc')";
 		$result = $conn->query($sql);
-        }*/
+        }
 $conn->close(); ?>
 </div>
 </body>
