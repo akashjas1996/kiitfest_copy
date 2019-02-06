@@ -210,7 +210,7 @@ if(isset($_POST['barcode'])){
 		$result = $conn->query($sql);
 		if($result)
 		{
-			header("Location: https://www.kiitfest.org/HtevzBv.php");
+			header("Location: https://www.kiitfest.org/htevzbv.php");
 
 		}
 
