@@ -125,7 +125,7 @@
 <div class="id-card-wrapper">
 
 <?php
-$servername = "51.68.139.41";
+/*$servername = "51.68.139.41";
 $username = "kiitfest";
 $password = "hi9jkH27Gb1sEkRj";
 $dbname = "kiitfest_5";
@@ -135,7 +135,7 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 // Check connection
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
-} 
+} */
 $kf_id = $_POST["kiitfest_id"];
 echo $kf_id;
 
@@ -186,7 +186,7 @@ if ($result->num_rows > 0) {
       </div>
     </div>
   </div>
-';*/
+';
 
         }
         
@@ -195,7 +195,7 @@ if ($result->num_rows > 0) {
     echo "0 results";
 }
 $conn->close(); ?>
-
+*/
 
 </div>
 </body>
