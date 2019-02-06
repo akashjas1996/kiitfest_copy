@@ -200,22 +200,21 @@ if ($result->num_rows == 0) {
 	echo '<h1 style="color:white"> No such KF ID exists </h1>';
 }
 
-else {
-    echo '<h1 style="color:white"> 0 results </h1>';
-}
-
 if(isset($_POST['barcode'])){
 	$barc = $_POST["barcode"];
 	$kf = $_POST["kiitfestid"];
 	//echo "You clicked on: ".$row['kf_id'];
 	$sql_u = "SELECT * FROM kf_barcode WHERE kfid=`$kf`";
 	$result = $conn->query($sql_u);
+
 	if($result->num_rows>0){
+		echo '<h1 style="background-color:white"> delivered </h1>';
 		echo '<script language="javascript">';
 		echo 'alert("message successfully sent")';
 		echo '</script>';
 	}
-	$sql = "INSERT INTO kf_barcode(kfid, barcode)VALUES('$kf', '$barc')";
+	else{
+		$sql = "INSERT INTO kf_barcode(kfid, barcode)VALUES('$kf', '$barc')";
 		$result = $conn->query($sql);
 		if($result)
 		{
@@ -223,7 +222,9 @@ if(isset($_POST['barcode'])){
 
 		}
 
-        }
+	}
+	
+	}
 
 
 $conn->close(); ?>
