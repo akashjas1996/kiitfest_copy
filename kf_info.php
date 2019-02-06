@@ -206,7 +206,7 @@ if(isset($_POST['barcode'])){
 	$barc = $_POST["barcode"];
 	$kf = $_POST["kiitfestid"];
 	//echo "You clicked on: ".$row['kf_id'];
-	$sql = "INSERT INTO kf_barcode(kfid, barcode)VALUES('$kf_id', '$barc')";
+	$sql = "INSERT INTO kf_barcode(kfid, barcode)VALUES('$kf', '$barc')";
 		$result = $conn->query($sql);
 
         }
