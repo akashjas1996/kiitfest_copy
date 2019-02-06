@@ -1,4 +1,5 @@
 <?php
+error_reporting(E_ALL);
   $servername = "51.68.139.41";
   $username = "kiitfest";
   $password = "hi9jkH27Gb1sEkRj";
