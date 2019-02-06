@@ -267,8 +267,10 @@ $sql = new sql();
       </div>
     </div>
   </section>
+  
   <div class="popup">
     <img src="img/KF POSTER 1.jpg">
+    <i class="fas fa-times close"></i>
   </div>
   <script src="js/common.js"></script>
   <script src="js/index.js"></script>

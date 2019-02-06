@@ -345,6 +345,14 @@ section {
   z-index: 100;
 }
 
+.close {
+  position: fixed;
+  top: 1em;
+  right: 1em;
+  color: white;
+  font-size: 4em;
+}
+
 .remove {
   visibility: hidden;
   opacity: 0;

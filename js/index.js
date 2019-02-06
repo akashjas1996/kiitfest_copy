@@ -30,14 +30,10 @@ window.onload = () => {
     }, 1000);
   })();
 
+var close = document.querySelector(".close");
 var popup = document.querySelector(".popup");
-  function windowOnClick(event) {
-    if (event.target === popup) {
-      popup.classList.add("remove");
-    }
-};
+close.addEventListener("click", () => popup.classList.add("remove"));
 
-window.addEventListener("click", windowOnClick);
   var header = document.querySelector(".header");
   var home = document.querySelector('#home');
   var about = document.querySelector('#about');
@@ -57,11 +53,11 @@ window.addEventListener("click", windowOnClick);
   window.onscroll =  () => {
     aboutPos = about.getBoundingClientRect().y;
 
-    /*
+
     var homePos = home.getBoundingClientRect().y;
     var eventsPos = events.getBoundingClientRect().y;
     var contactUsPos = contactUs.getBoundingClientRect().y;
-    */
+
 
     //Toggle black tint
     if (aboutPos <= 50) {
