@@ -169,7 +169,7 @@ if ($result->num_rows > 0) {
   <input type="submit" value="save">
 </form> 
   </div>
-<br><br>'
+<br><br>';
 }
 	if(isset($_POST['save'])){
 	echo "You clicked on: ".$row['kf_id'];
