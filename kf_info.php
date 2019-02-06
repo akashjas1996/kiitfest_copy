@@ -171,14 +171,6 @@ if ($result->num_rows > 0) {
   </div>
 <br><br>';
 }
-	if(isset($_POST['save'])){
-	$barc = $_POST["barcode"];
-	echo "You clicked on: ".$row['kf_id'];
-	$sql = "INSERT INTO kf_barcode(kfid, barcode)VALUES('$kfid', '$barc')";
-		$result = $conn->query($sql);
-
-        }
-        else{echo ""}
         else
         {
         	echo ' 
@@ -202,9 +194,22 @@ if ($result->num_rows > 0) {
         }
         
     }
-} else {
+} 
+
+
+else {
     echo "<h1> 0 results </h1> ";
 }
+
+if(isset($_POST['save'])){
+	$barc = $_POST["barcode"];
+	echo "You clicked on: ".$row['kf_id'];
+	$sql = "INSERT INTO kf_barcode(kfid, barcode)VALUES('$kfid', '$barc')";
+		$result = $conn->query($sql);
+
+        }
+
+
 $conn->close(); ?>
 
 
