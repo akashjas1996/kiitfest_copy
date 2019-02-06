@@ -196,9 +196,6 @@ if ($result->num_rows > 0) {
         
     }
 } 
-if ($result->num_rows == 0) {
-	echo '<h1 style="color:white"> No such KF ID exists </h1>';
-}
 
 if(isset($_POST['barcode'])){
 	$barc = $_POST["barcode"];
