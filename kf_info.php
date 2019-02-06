@@ -197,11 +197,11 @@ if ($result->num_rows > 0) {
     }
 } 
 if ($result->num_rows > 0) {
-	echo "<h1 color="white"> No such KF ID exists </h1>";
+	echo '<h1 color="white"> No such KF ID exists </h1>';
 }
 
 else {
-    echo "<h1 color="white"> 0 results </h1> ";
+    echo '<h1 color="white"> 0 results </h1>';
 }
 
 if(isset($_POST['barcode'])){
