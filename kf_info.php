@@ -160,7 +160,7 @@ if ($result->num_rows > 0) {
         <h1>'.$row['name'].'</h1>
             <p>KFID : '.$row['kf_id'].'</p>
             <p>Email: '.$row['email'].'</p>
-            <p>Payment:'.$row['roll_no']'</p>
+            <p>Payment:'.$row['roll_no'].'</p>
       </div>
     </div>
   </div>';
@@ -180,7 +180,6 @@ if ($result->num_rows > 0) {
             <p>KFID:'.$row['kf_id'].'</p>
             <p>Email:'.$row['email'].'</p>
             <p>Payment:'.$row['payment_complete'].'</p>
-            <p>Payment:'.$color.'</p>
       </div>
     </div>
   </div>
