@@ -17,12 +17,21 @@ echo $kf_id;
 $sql = "SELECT * FROM participants_participant WHERE kf_id='$kf_id'";
 $result = $conn->query($sql);
 while($row = $result->fetch_assoc()) {
-        echo '
-        <div class="w3-panel w3-card w3-display-container" style="opacity:1; background-color:#2d2d2d; margin:5px">
-   <span class="w3-display-topright w3-padding w3-hover-red">+</span>
-   <p class="w3-text-blue"><b>'.$row['name'].'</b></p>
-   <p class="w3-text-white">'.$row['name'].'</p>
-   <p class="w3-text-blue">'.$row['name'].'</p>
- </div>';
+        echo ' 
+        <div class="id-card">
+    <div class="profile-row">
+      <div class="dp">
+        <div class="dp-arc-outer"></div>
+        <div class="dp-arc-inner"></div>
+        <img src="https://via.placeholder.com/420x420">
+      </div>
+      <div class="desc">
+        <h1>'.$row['name'].'</h1>
+            <p>KFID : '.$row['kf_id'].'</p>
+            <p>Email: '.$row['email'].'</p>
+            <p>Payment:'.$row['roll_no']'</p>
+      </div>
+    </div>
+  </div>';
       }
 ?>
