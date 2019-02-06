@@ -32,6 +32,7 @@ while($row = $result->fetch_assoc()) {
             <p>Payment:'.$row['roll_no']'</p>
       </div>
     </div>
+  </div>
   </div>';
       }
 ?>
