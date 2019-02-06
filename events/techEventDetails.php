@@ -1027,8 +1027,8 @@
             <p><b>Prize Money:</b> 13,000</p>
             <p><b>Coordinators:</b></p>
             <ul>
-                <li>Akansha (+91-9771118956)</li>
-                <li>Sinet Chowdhury (+91-8910209855)</li>
+                <li>Raziur Rahman (+91-8240735593)</li>
+                <li>Shreya Chakraborty (+91-8582863730)</li>
             </ul>
         `,
         "503": `
@@ -1051,7 +1051,7 @@
         <p><b>Prize Money:</b> 20,000</p>
         <p><b>COORDINATOR:</b> </p>
         <ul>
-            <li>Ankur Kumar (+91 7979844070)</li>
+            <li>Pradarsh (+91 8260553758)</li>
             <li>Mrinmoy Biswas (+91-8472087003)</li>
         </ul>
         `,
@@ -1138,7 +1138,7 @@
             <p><b>Prize Money:</b> 20,000</p>
             <p><b>COORDINATOR:</b></p>
             <ul>
-                <li>Ravi Ranjan Kumar (+91-9097722627)</li>
+                <li>Shubham Chiksoriya (+91-7077164408)</li>
                 <li>Raushan Dubey (+91-7277509671)</li>
             </ul>
         `,
@@ -1161,7 +1161,7 @@
             <p><b>COORDINATOR:</b></p>
             <ul>
                 <li>Tahir Jamal (91-9674464995)</li>
-                <li>Raziur Rahman (+91-8240735593)</li>
+                <li>Soham Chowdhury (+91-7980959846)</li>
             </ul>
         `,
 
