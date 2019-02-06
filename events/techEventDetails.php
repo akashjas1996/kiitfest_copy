@@ -1012,17 +1012,15 @@
         "502": `
             <h1>Turncoat</h1>
             <hr>
-            <p>A blind debate in which both the sides of the coin are to be shown by the team members within the given time.</p>
-            <p><b>Number of Participants:</b> 2 </p>
+            <p>A blind debate in which both the sides of the coin are to be shown by the the participant within the given time.</p>
+            <p><b>Number of Participants:</b> 1 </p>
             <p><b>Description:</b></p>
             <ol>
-                <li>The participants will be given random topics based on a lottery system.</li>
-                <li>The preparation time given to the participants will be half an hour after they have selected their topic.</li>
-                <li>The debate will be conducted between two members each from one team.</li>
-                <li>The time to compete within themselves is maximum of 10 minutes.</li>
-                <li>Active participation of both the team members is mandatory.</li>
-                <li>There will be a “SWITCH “authorised by the judges where both the speakers have to change their states from which they started.</li>
-                <li>Final decision lies with the judges.</li>
+                <li>The participant will be given random topics based on a lottery system.
+                <li>The preparation time given to the participants will not be more than 30 minutes.
+                <li>The participant has to speak for a minimum of 3 minutes and a maximum of 10 minutes.
+                <li>There will be a “SWITCH “authorised by the judges where the speaker have to change their states from which they started.
+                <li>Final decision lies with the judges.
             </ol>
             <p><b>Prize Money:</b> 13,000</p>
             <p><b>Coordinators:</b></p>
