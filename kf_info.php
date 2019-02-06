@@ -201,11 +201,11 @@ if(isset($_POST['barcode'])){
 	$barc = $_POST["barcode"];
 	$kf = $_POST["kiitfestid"];
 	//echo "You clicked on: ".$row['kf_id'];
-	$sql_u = "SELECT * FROM kf_barcode WHERE kf_id=`$kf`";
+	$sql_u = "SELECT * FROM kf_barcode WHERE kfid=`$kf`";
 	$result = $conn->query($sql_u);
 
 	if($result->num_rows>0){
-		echo '<h1 style="background-color:white"> delivered </h1>';
+		echo '<h1 style="color:white"> delivered </h1>';
 		echo '<script language="javascript">';
 		echo 'alert("message successfully sent")';
 		echo '</script>';
