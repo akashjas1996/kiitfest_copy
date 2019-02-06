@@ -165,7 +165,7 @@ if ($result->num_rows > 0) {
       </div>
     </div>
     <form action="" method="POST">
-    <input type="text" name="kiitfestid">
+    <input type="text" name="kiitfestid" value="'.$row['kf_id'].'">
   <input type="text" name="barcode">
   <br><br>
   <input type="submit" value="save">
