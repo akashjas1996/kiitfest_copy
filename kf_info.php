@@ -169,11 +169,11 @@ if ($result->num_rows > 0) {
   <input type="submit" value="save">
 </form> 
   </div>
-<br><br>
+<br><br>'
 }
-	'if(isset($_POST['save'])){
+	if(isset($_POST['save'])){
 	echo "You clicked on: ".$row['kf_id'];
-	$sql = "INSERT INTO kf_barcode VALUES('$row["kf_id"]',$_POST["barcode"])";
+	$sql = "INSERT INTO kf_barcode('kfid', 'barcode') VALUES('$row["kf_id"]',$_POST["barcode"])";
 		$result = $conn->query($sql);
 
         }
