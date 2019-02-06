@@ -125,6 +125,7 @@
 <div class="id-card-wrapper">
 
 <?php
+$kf_id = $_POST["kiitfest_id"];
 $servername = "51.68.139.41";
 $username = "kiitfest";
 $password = "hi9jkH27Gb1sEkRj";
@@ -136,7 +137,7 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 } 
-$kf_id = $_POST["kiitfest_id"];
+
 echo $kf_id;
 
 $sql = "SELECT * FROM participants_participant WHERE kf_id='$kf_id'";
@@ -202,7 +203,7 @@ else {
 
 if(isset($_POST['barcode'])){
 	$barc = $_POST["barcode"];
-	echo "You clicked on: ".$row['kf_id'];
+	//echo "You clicked on: ".$row['kf_id'];
 	$sql = "INSERT INTO kf_barcode(kfid, barcode)VALUES('$kf_id', '$barc')";
 		$result = $conn->query($sql);
 
