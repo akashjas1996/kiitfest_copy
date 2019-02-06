@@ -125,6 +125,7 @@
 <div class="id-card-wrapper">
 
 <?php
+$kf_id = $_POST["kiitfest_id"];
 $servername = "51.68.139.41";
 $username = "kiitfest";
 $password = "hi9jkH27Gb1sEkRj";
@@ -136,7 +137,7 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 } 
-$kf_id = $_POST["kiitfest_id"];
+
 echo $kf_id;
 
 $sql = "SELECT * FROM participants_participant WHERE kf_id='$kf_id'";
@@ -164,19 +165,13 @@ if ($result->num_rows > 0) {
       </div>
     </div>
     <form action="" method="POST">
+    <input  type="text" name="kiitfestid" value="'.$row['kf_id'].'">
   <input type="text" name="barcode">
-  <br>>br>
+  <br><br>
   <input type="submit" value="save">
 </form> 
-  </div>
-<br><br>'
+  </div>';
 }
-	if(isset($_POST['save'])){
-	echo "You clicked on: ".$row['kf_id'];
-	$sql = "INSERT INTO kf_barcode('kfid', 'barcode') VALUES('$row["kf_id"]',$_POST["barcode"])";
-		$result = $conn->query($sql);
-
-        }
         else
         {
         	echo ' 
@@ -200,9 +195,39 @@ if ($result->num_rows > 0) {
         }
         
     }
-} else {
-    echo "<h1> 0 results </h1> ";
-}
+} 
+
+if(isset($_POST['barcode'])){
+	$barc = $_POST["barcode"];
+	$kf = $_POST["kiitfestid"];
+	//echo "You clicked on: ".$row['kf_id'];
+	$sql_u = "SELECT * FROM kf_barcode WHERE kfid=`$kf`";
+	$result = $conn->query($sql_u);
+
+	if($result->num_rows>0){
+		echo '<h1 style="color:white"> delivered </h1>';
+		echo '<script language="javascript">';
+		echo 'alert("message successfully sent")';
+		echo '</script>';
+	}
+	else{
+		$sql = "INSERT INTO kf_barcode(kfid, barcode)VALUES('$kf', '$barc')";
+		$result = $conn->query($sql);
+		if($result)
+		{
+			echo '<h1 style="color:white"> delivered </h1>';
+			echo '<script language="javascript">';
+			echo 'alert("successfully Updated")';
+			echo '</script>';
+			header("Location: https://www.kiitfest.org/htevzbv.php");
+
+		}
+
+	}
+	
+	}
+
+
 $conn->close(); ?>
 
 
