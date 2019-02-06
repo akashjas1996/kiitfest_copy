@@ -168,11 +168,16 @@ if ($result->num_rows > 0) {
   <br>
   <input type="text" name="lastname" value="Mouse">
   <br><br>
-  <input type="submit" value="Submit">
+  <input type="submit" value="save">
 </form> 
   </div>
 <br><br>
 ';
+		if(isset($_POST['save'])){
+echo "You clicked on: ".$row['kf_id'];
+//eventually i will have sql query up here
+}
+
         }
         else
         {
