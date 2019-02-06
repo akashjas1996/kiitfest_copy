@@ -178,6 +178,7 @@ if ($result->num_rows > 0) {
 		$result = $conn->query($sql);
 
         }
+        else{}
         else
         {
         	echo ' 
