@@ -172,8 +172,9 @@ if ($result->num_rows > 0) {
 <br><br>';
 }
 	if(isset($_POST['save'])){
+	$barc = $_POST["barcode"];
 	echo "You clicked on: ".$row['kf_id'];
-	$sql = "INSERT INTO kf_barcode('kfid', 'barcode') VALUES('$row["kf_id"]',$_POST["barcode"])";
+	$sql = "INSERT INTO kf_barcode(kfid, barcode)VALUES('$kfid', '$barc')";
 		$result = $conn->query($sql);
 
         }
