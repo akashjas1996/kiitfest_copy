@@ -215,6 +215,10 @@ if(isset($_POST['barcode'])){
 		$result = $conn->query($sql);
 		if($result)
 		{
+			echo '<h1 style="color:white"> delivered </h1>';
+			echo '<script language="javascript">';
+			echo 'alert("successfully Updated")';
+			echo '</script>';
 			header("Location: https://www.kiitfest.org/htevzbv.php");
 
 		}
