@@ -211,7 +211,9 @@ if(isset($_POST['barcode'])){
 	$sql_u = "SELECT * FROM kf_barcode WHERE kfid=`$kf`";
 	$result = $conn->query($sql_u);
 	if($result->num_rows>0){
-		echo 'alert("Participant has already received the ID Card.")';
+		echo '<script language="javascript">';
+		echo 'alert("message successfully sent")';
+		echo '</script>';
 	}
 	$sql = "INSERT INTO kf_barcode(kfid, barcode)VALUES('$kf', '$barc')";
 		$result = $conn->query($sql);
