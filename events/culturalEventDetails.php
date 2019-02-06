@@ -299,6 +299,7 @@
 			<ul>
 				<li><b>Team limit:</b> 5-15
 				<li>Please bring TWO HIGH-QUALITY copies of your music in a pen drive to the competition for the pre finals. Tracks for the battle round will be provided by the organizing team.
+				<li>Tracks for the battle round will be provided by the organizing team.
 			</ul>
 			
 			<p><b>Rounds:</b>
@@ -307,7 +308,6 @@
 				<ul>
 					<li>The teams have to showcase. This is an elimination round.
 					<li>Time limit: 4min+1min.
-					<li>Props are allowed.
 				</ul>
 				<li>Finals (Round-2): (Day-2)
 				<ul>
