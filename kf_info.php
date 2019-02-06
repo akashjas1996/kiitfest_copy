@@ -125,6 +125,8 @@
 <div class="id-card-wrapper">
 
 <?php
+$kf_id = $_POST["kiitfest_id"];
+String kfid_str="$kfid";
 $servername = "51.68.139.41";
 $username = "kiitfest";
 $password = "hi9jkH27Gb1sEkRj";
@@ -137,6 +139,7 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 } 
 
+echo $kf_id;
 
 $sql = "SELECT * FROM participants_participant WHERE kf_id='$kf_id'";
 $result = $conn->query($sql);
@@ -188,21 +191,30 @@ if ($result->num_rows > 0) {
     </div>
   </div>
 ';
+
         }
         
     }
 } 
+
+
 else {
     echo "<h1> 0 results </h1> ";
 }
+
 if(isset($_POST['barcode'])){
 	$barc = $_POST["barcode"];
-	$id_rcv = $_POST["id_send"];
+	echo $kf_id;
 	//echo "You clicked on: ".$row['kf_id'];
-	$sql = "INSERT INTO kf_barcode(kfid, barcode)VALUES('$id_rcv', '$barc')";
+	$sql = "INSERT INTO kf_barcode(kfid, barcode)VALUES('$kf_id', '$barc')";
 		$result = $conn->query($sql);
+
         }
+
+
 $conn->close(); ?>
+
+
 </div>
 </body>
 </html>
