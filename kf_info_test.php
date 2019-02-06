@@ -16,4 +16,6 @@ $kf_id = $_POST["kiitfest_id"];
 echo $kf_id;
 $sql = "SELECT * FROM participants_participant WHERE kf_id='$kf_id'";
 $result = $conn->query($sql);
+while($row = $result->fetch_assoc()) {
+        echo "Name : " . $row["name"]."<br>";
 ?>
