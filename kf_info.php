@@ -163,8 +163,10 @@ if ($result->num_rows > 0) {
             <p>Payment:'.$row['roll_no'].'</p>
       </div>
     </div>
-    <input type="button"> ENROLL </input>
-  </div>';
+  </div>'
+<br><br>
+<input type="button"> ENROLL </input>
+  ;
         }
         else
         {
