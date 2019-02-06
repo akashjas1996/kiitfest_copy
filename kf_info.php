@@ -163,15 +163,16 @@ if ($result->num_rows > 0) {
             <p>Payment:'.$row['roll_no'].'</p>
       </div>
     </div>
-  </div>
-<br><br>
-<form action="/action_page.php">
+    <form action="/action_page.php">
   <input type="text" name="firstname" value="Mickey">
   <br>
   <input type="text" name="lastname" value="Mouse">
   <br><br>
   <input type="submit" value="Submit">
-</form> ';
+</form> 
+  </div>
+<br><br>
+';
         }
         else
         {
