@@ -163,6 +163,7 @@ if ($result->num_rows > 0) {
             <p>Payment:'.$row['roll_no'].'</p>
       </div>
     </div>
+    <input type="button"> ENROLL </input>
   </div>';
         }
         else
@@ -189,7 +190,7 @@ if ($result->num_rows > 0) {
         
     }
 } else {
-    echo "0 results";
+    echo "<h1> 0 results </h1> ";
 }
 $conn->close(); ?>
 
