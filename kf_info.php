@@ -168,8 +168,7 @@ if ($result->num_rows > 0) {
   <br>>br>
   <input type="submit" value="save">
 </form> 
-  </div>
-<br><br>';
+  </div>';
 }
         else
         {
@@ -204,7 +203,7 @@ else {
 if(isset($_POST['save'])){
 	$barc = $_POST["barcode"];
 	echo "You clicked on: ".$row['kf_id'];
-	$sql = "INSERT INTO kf_barcode(kfid, barcode)VALUES('$kfid', '$barc')";
+	$sql = "INSERT INTO kf_barcode(kfid, barcode)VALUES('$kf_id', '$barc')";
 		$result = $conn->query($sql);
 
         }
