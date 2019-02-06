@@ -172,10 +172,8 @@ if ($result->num_rows > 0) {
 </form> 
   </div>
 <br><br>
-';
-		if(isset($_POST['save'])){
+'if(isset($_POST['save'])){
 echo "You clicked on: ".$row['kf_id'];
-//eventually i will have sql query up here
 }
 
         }
