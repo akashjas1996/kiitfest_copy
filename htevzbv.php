@@ -131,7 +131,7 @@
 <form action="kf_info.php" METHOD="POST">
   <center> <input type="text" style="height:30px; font-size:30px; color: grey; text-align: center" name="kiitfest_id" value="KF"> </center>
   <br><br>
-  <center><input type="submit" style="height:40px; width: 120px; border-radius: 20px; border-color:#008CBA;outline:none;  background-color: #008CBA;" value="Submit"></center>
+  <center><input type="submit" style="height:40px; width: 120px; border-radius: 20px; border-color:#008CBA;outline:none; text-color:white; font-style:bold; background-color: #008CBA;" value="Submit"></center>
 </form> 
 </div>
 </div>
