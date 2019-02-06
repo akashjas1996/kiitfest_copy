@@ -146,7 +146,7 @@ if ($result->num_rows > 0) {
     // output data of each row
     while($row = $result->fetch_assoc()) {
         //echo "Name : " . $row["name"]. " - email: " .$row["email"]."<br>";
-        if($row["payment_complete"]==1){
+        /*if($row["payment_complete"]==1){
         	$color="red";
         	echo ' 
         <div class="id-card">
@@ -186,7 +186,7 @@ if ($result->num_rows > 0) {
       </div>
     </div>
   </div>
-';
+';*/
 
         }
         
