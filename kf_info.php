@@ -137,7 +137,6 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 } 
 
-echo $kf_id;
 
 $sql = "SELECT * FROM participants_participant WHERE kf_id='$kf_id'";
 $result = $conn->query($sql);
@@ -165,7 +164,7 @@ if ($result->num_rows > 0) {
     </div>
     <form action="" method="POST">
   <input type="text" name="barcode">
-  <input type="hidden" name="id_send" value='.$row['kf_id'].'"/>
+  <input type="hidden" name="id_send" value='kf0000'"/>
   <br><br>
   <input type="submit" value="save">
 </form> 
