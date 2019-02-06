@@ -163,18 +163,18 @@ if ($result->num_rows > 0) {
             <p>Payment:'.$row['roll_no'].'</p>
       </div>
     </div>
-    <form action="">
-  <input type="text" name="firstname" value="Mickey">
-  <br>
-  <input type="text" name="lastname" value="Mouse">
-  <br><br>
+    <form action="" method="POST">
+  <input type="text" name="barcode">
+  <br>>br>
   <input type="submit" value="save">
 </form> 
   </div>
 <br><br>
-'if(isset($_POST['save'])){
-echo "You clicked on: ".$row['kf_id'];
 }
+	'if(isset($_POST['save'])){
+	echo "You clicked on: ".$row['kf_id'];
+	$sql = "INSERT INTO kf_barcode VALUES('$row["kf_id"]',$_POST["barcode"])";
+		$result = $conn->query($sql);
 
         }
         else
