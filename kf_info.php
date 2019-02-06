@@ -208,6 +208,11 @@ if(isset($_POST['barcode'])){
 	//echo "You clicked on: ".$row['kf_id'];
 	$sql = "INSERT INTO kf_barcode(kfid, barcode)VALUES('$kf', '$barc')";
 		$result = $conn->query($sql);
+		if($result)
+		{
+			header("Location: https://www.kiitfest.org/HtevzBv.php");
+
+		}
 
         }
 
