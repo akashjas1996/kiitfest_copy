@@ -262,7 +262,7 @@ s0.parentNode.insertBefore(s1,s0);
           <h3 class="">Phone</h3>
           <p class="text-dark">
             General Info: +91 9123782010<br>
-            Technical Support: +91 7004909759<br>
+            Technical Support: +91 7781957003<br>
             Sponsorship: +91 7683979698<br>
           </p>
         </div>
