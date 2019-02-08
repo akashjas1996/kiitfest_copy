@@ -1,6 +1,3 @@
-<!DOCTYPE HTML>
-
-
 <?php
 error_reporting(E_ALL);
   $servername = "51.68.139.41";
@@ -23,7 +20,6 @@ while($row = $result->fetch_assoc()) {
         echo ' 
         <h1>'.$row['name'].'</h1>
             <p>KFID : '.$row['kf_id'].'</p>
-            <p>Email: '.$row['email'].'</p>
-            <p>Payment:'.$row['roll_no']'</p>';
+            <p>Email: '.$row['email'].'</p>';
       }
 ?>
