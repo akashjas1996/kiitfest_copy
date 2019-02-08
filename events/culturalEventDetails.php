@@ -587,7 +587,7 @@
 			<li>Vulgarity of any kind and use of fire or any other injury causing items would lead to disqualification of the team from the event. Hence, if the team feels that if enact can be deemed as vulgar, it is advised to consult the organizers before performing it directly.</li>
 			<li>Time limit for every team would be 20 minutes.</li>
 			<li>Negative marking shall be imposed if participants exceed the time limit.</li>
-			<li>A team should consist of maximum 20 members excluding 2 instrumentalists.</li>
+			<li>A team should consist of maximum 20 members including 2 instrumentalists.</li>
 			<li>The theme for stage play should reveal a social issue, and clearly illustrate the message as well.</li>
 			<li>Decision of the judges will be final and binding.</li>
 			</ul>
