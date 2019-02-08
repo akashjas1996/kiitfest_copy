@@ -23,7 +23,7 @@ else{
 // Pass the 'salt' without the <>.
 print_r($mac_provided . "<br>");
 
-$mac_calculated = hash_hmac("sha1", implode("|", $data), "a4ceaa395989481081fad48ea7e91cd7");
+$mac_calculated = hash_hmac("sha1", implode("|", $data), "b99d20533b706864312305eb142c6ea8");
 print_r($mac_calculated);
 echo "<script>console.log('$mac_calculated');</script>";
 if($mac_provided == $mac_calculated){
