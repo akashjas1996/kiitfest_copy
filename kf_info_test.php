@@ -19,7 +19,7 @@ while($row = $result->fetch_assoc()) {
       if($row["payment_complete"]!=1){
         echo ' 
         <h1></h1>
-            <p>'$sl.$row['kf_id'].'  '.$row['name'].'  '.$row['email'].'  '.$row['payment_complete'].'  '.$row['phone'].'</p>';} 
-            $sl++;
+            <p>'.$sl.'  '.$row['kf_id'].'  '.$row['name'].'  '.$row['email'].'  '.$row['payment_complete'].'  '.$row['phone'].'</p>';} 
+            $sl=$sl+1;
       }
 ?>
