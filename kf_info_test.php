@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<meta name="viewport" content="initial-scale=0.25">
+<meta name="viewport" content="initial-scale=1.25">
 
 <html>
 <head>
