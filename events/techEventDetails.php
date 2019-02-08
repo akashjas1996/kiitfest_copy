@@ -2327,6 +2327,9 @@ You'll be given a pack of cards. And you have to make a Castle out if it(make su
 <p>This event has two different parts:</p>
 <p>Engineering Drawing is more than merely the drawing of pictures, it is also a language-a graphical language that communicates ideas and information from one mind to another.</p>
 <p>CAD software will be used to design and visualize a unique and non-existing concept for the world.</p>
+
+<p><ul><li> You can participate for either ED or both ED and CAD </ul></p>
+
 <p><b>Stages:</b></p>
 <p><b>Stage 1</b></p>
 <p><ol>
