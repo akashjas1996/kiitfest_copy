@@ -1166,7 +1166,42 @@
 
 
         //Nirminite
-        "601": "",
+        "601": `
+        <h1>Burj-al-paper</h1>
+        <p><b>Event Description:</b>
+        Burj-Al-Paper is an event in which participating teams need to build free standing frame by news-papers and tape only.</p>
+
+        <p><b>Rules:</b>
+        <ol>
+        <li>The event is open to all.
+        <li> Teams must consist of a minimum of 3 and maximum of 5 participants.
+        <li> No two teams must have any common member.
+            <li>The time limit for the completion is 3 hrs.
+            <li>The task of each team is to design a free standing frame made of newspaper & tape only (any other material like glue is not allowed).
+            <li>Only the base & tape will be given. No part of the structure may extend outside the perimeter of the base. 
+            <li>Material like stick is not allow to stable the structure.
+            <li>Teams must have to carry newspaper & scissors.
+            </ol>
+            </p>
+
+            <p><b>Judging Criteria:</b>
+            The final decision will be made on the basis of aesthetic view, height & stability of the structure.</p>
+
+            <p><b>Faculty Coordinators:</b>
+            <ul>
+            <li>Dr. J.P. Padhi-9692023641
+            <li>Prof. Sitam Suvam-8763378151
+            <li>Prof. Neha Nasreen 8210359573
+            </ul>
+            </p>
+
+            <p><b>Student Coordinators:</b>
+            <ul>
+            <li>Rishabh Shukla-9984816911
+            <li>Trisha Bej-7873877211
+            <li>Nilanjana Saha-8256928203
+            </ul></p>
+        `,
         "602": `<h1> CAD-NOVUS </h1>
 
 <p> <b> GUIDELINES: </p> </p>
@@ -1205,9 +1240,136 @@
 
 
 `,
-        "603": "",
-        "604": "",
-        "605": "",
+        "603": `
+        <h1>Civi Kalakaar</h1>
+        <p><b>EVENT DESCRIPTION:</b>
+As the world is progressing with its full velocity, so are the young engineering minds with their innovations and sketching skills. Introducing a world of creativity where you can transfer your virtual world into the real world as well as real world into more innovative world. Sketching is the best way to express your feelings and emotions, thus we bring forward you this event where you can display your innovative talent, creative skills and discover the “Real Artist” with in you. Students will be provided with certain materials and themes, and they need to showcase the thoughts through their sketch.</p>
+
+    <p><b>RULES AND REGULATIONS:</b>
+    <ol>Open only for individual participation.
+    <li>Time is restricted to 3 hours.
+    <li>This is an on-spot event.
+    <li>Participants are required to bring their own colours/pencils/crayons etc.that best suits their sketch
+    <li>Participants are required to submit a small write up describing their sketch.
+    <li>Drawing sheets will be provided by the coordinators.
+    </ol></p>
+
+    <p><b>THEMES:</b>
+        <ol>
+        <li>Smart Building Environment.
+        <li>Monuments(including wondrous structures around the world, real life structures etc.)
+        <li>Structures including Airports, Bridges and Dams.
+        <li>Civil engineering innovations.
+        <li>Architectural interior Design Sketch.
+        <li>Smart Traffic Control Design.
+        <li>Sketch including concepts of Smart City
+        <li>Rapid Transit System- including metro , bullet trains and BRTS
+        <li>Smart waste Management System.
+        </ol></p>
+
+       <p><b> JUDGING CRITERIA:</b>
+       <ol>
+        <li>Judgement will be based accoring to the theme. The participant producing more innovative sketch accoring to the theme will be declared as the winner .
+        <li>The result will be announced by the jury members.</ol></p>
+
+        <p><b>Faculty Coordinators:</b>
+
+        <ol>
+        <li>Prof. D. K. Bera-  9438012765
+        <li>Prof. Preetynanda Nanda- 9040139220
+        <li>Prof. Shubhadeep Biswas- 7060324154
+        </ol></p>
+
+        <p><b>Student Coordinators:</b>
+        <ol>
+        <li>Melissa Dutta- 8906219807
+        <li>Shouvik Bhattacharya- 9830816227
+        <li>Pratik Pegu- 7606926969
+        </ol></p>
+        `,
+        "604": `
+        <h1>Cryptic Crossword</h1>
+        <p><b>ABOUT EVENT:<b>
+A cryptic crossword is a fun event in which a team is given a jumbled crossword puzzle which they have to solve.  After solving that puzzle, team members have to convey the hidden message to the other teammate. This event aims for providing some refreshment to all participants. It involves both the physical exertion and the mental activity of developing strategies to solve and clear the various stages of the puzzle. It is an event where everyone competes equally, and age is not dominated by youth and learn about teamwork, gain self-confidence and develop leadership abilities while having fun and getting welcome stress-relief.</p>
+
+    <p><b>DETAILS:</b>
+    <ul>
+    <li>Initially 1 member of the team will be given puzzles to solve.
+    <li>The puzzle will make up a name of any famous monument or structures.  
+    <li>The 1st member will have to make 2nd member understand the name of the structure using hand or body gestures.
+    <li>The 2nd member will have to guess the correct name and write it on 3rd member’s shoulder.
+    <li>The 3rd member will have to guess and write the name on the board. 
+    <li>Teams who completed this task in less time will be the winners.
+    </ul>
+    </p>
+
+    <p><b>RULES AND REGULATIONS:</b>
+    <ul>
+    <li>Teams must consist of three members.
+    <li>No verbal communications are allowed. 
+    <li>The 1st member can use the alphabetical hand gesture to make 2nd member guess the name maximum 6 times.
+    <li>Coordinators' decision will be final and binding in case of any issues.
+    <li>All the rules apart from these will be clearly communicated on-spot. 
+    </ul></p>
+
+    <p><b>JUDGING CRITERIA:</b>
+    Top two teams solving the puzzle with minimum time will be awarded.</p>
+
+    <p><b>FACULTY COORDINATOR: -</b> Prof. Gaurav Udgata (+91 9438280569)</p>
+
+    <p><b>STUDENT COORDINATORS: - </b>Vaibhav Rathore (+91 7064443343),
+         Swagato Saha (+91 7873688258)</p>
+        `,
+        "605": `
+         <h1>Final Destination</h1>
+         <hr>
+	 <p><b>Description:</b>
+	   <ul>
+              <li>
+                 Final Destination is a game of hunting treasures in the given steps.
+                 The team members solve the riddles & follow the clues all the way to the treasure. 
+	      </li>
+              <li>
+                 <b>PRELIMINARY SELECTION ROUND-</b>
+                 A limited number of teams will be selected via jenga challenge based on the height of the structures they create using Jenga blocks & the rules apart from this will be described on-spot. 
+	      </li>
+              <li>
+                 <b>MAIN ROUND : SEARCH THE TREASURE</b>
+                 The participants would be asked to search the treasure with the help of a clue that shall be provided at each step.
+              </li>
+           </ul>
+	 </p>
+	 <p><b>Rules and Regulations:</b>
+	 <ul>
+	    <li>All teams must have at least 3 members and not more than 5 members.</li>
+	    <li>Teams will have to collect treasure from that final point and reach to initial point before time limit runs out.</li>
+	    <li>Teams must stay together during the hunting and are encouraged to work together to solve the clues.</li>
+            <li>The treasure is hidden in a limited radius from the starting point.</li>
+            <li>Participating teams will have to give their team names on the day of the event.</li>
+	 </ul>
+	 </p> 
+	 <p><b>Judgement Criteria:</b>
+	 <ol>
+	     <li>Coordinators' decision will be final and binding in case of any issues.</li>
+             <li>All the rules apart from these will be clearly communicated in the on-spot event.</li>
+             <li>Decorum should be positively maintained.</li>
+             <li>No taking or hiding clues of the other team. Involving in malpractices of any form may result in disqualification of the team. </li>
+             <li>Prizes with authorized certificate will be given to the winners.</li>
+	 </ol>
+	 </p> 
+	  
+         <p><b>Prize Money:</b>
+	 <ul>
+	 <li>1st : Rs 12000/-
+	 <li>2nd:  Rs 8000/-
+	 </ul></p>        
+	 <p><b>Contact Details:</b>
+          <ul>
+	    <li>Aditya Patel- 8435822225</li>
+            <li>Sudeshna Chakraborty- 943485981</li>
+            <li>Bhaskar Bezboruah 9508461348</li>
+          </ul>
+         </p>`,
         "606": `<h1> Frame-D-Bridge </h1>
 
 
@@ -2165,6 +2327,9 @@ You'll be given a pack of cards. And you have to make a Castle out if it(make su
 <p>This event has two different parts:</p>
 <p>Engineering Drawing is more than merely the drawing of pictures, it is also a language-a graphical language that communicates ideas and information from one mind to another.</p>
 <p>CAD software will be used to design and visualize a unique and non-existing concept for the world.</p>
+
+<p><ul><li> You can participate for either ED or both ED and CAD </ul></p>
+
 <p><b>Stages:</b></p>
 <p><b>Stage 1</b></p>
 <p><ol>
