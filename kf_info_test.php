@@ -35,7 +35,7 @@ $sl=1;
 while($row = $result->fetch_assoc()) {
       if($row["payment_complete"]!=1){
         echo '
-  <tbody>
+  <tbody id=col'.$sl'>
     <tr>
       <th scope="row">'.$sl.'</th>
       <td>'.$row['kf_id'].'</td>
