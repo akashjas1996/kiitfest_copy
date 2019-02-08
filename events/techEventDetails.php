@@ -3,7 +3,7 @@
         "101": "Circuit Design & Power Relay",
         "102": "Design 4 Energy",
         "103": "KIIT-IEEE Workshop",
-        "104": "Robo Triathon",
+        "104": "Robo Triathlon",
         "105": "S.U.I.T",
         "106": "Solar Spectrum",
 
