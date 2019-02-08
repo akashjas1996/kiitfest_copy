@@ -11,6 +11,7 @@
       <th scope="col">KF ID</th>
       <th scope="col">Name</th>
       <th scope="col">Roll No</th>
+      <th scope="col">Phone</th>
     </tr>
   </thead>
 
@@ -36,25 +37,12 @@ while($row = $result->fetch_assoc()) {
         echo '
   <tbody>
     <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>Larry</td>
-      <td>the Bird</td>
-      <td>@twitter</td>
-    </tr>
-  </tbody>
-</table>';
+      <th scope="row">'.$sl.'</th>
+      <td>'.$row['kf_id'].'</td>
+      <td>'.$row['name'].'</td>
+      <td>'.$row['institution'].'</td>
+      <td>'.$row['phone'].'</td>
+    </tr>';
         /*echo ' 
         <h1></h1>
             <p>'.$sl.'  '.$row['kf_id'].'  '.$row['name'].'  '.$row['email'].'  '.$row['payment_complete'].'  '.$row['phone'].'</p>';*/} 
@@ -62,4 +50,6 @@ while($row = $result->fetch_assoc()) {
       }
 ?>
 
+</tbody>
+</table>
 </body>
