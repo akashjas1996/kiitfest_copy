@@ -45,7 +45,7 @@ while($row = $result->fetch_assoc()) {
     <tr>
       <th scope="row">'.$sl.'</th>
       <td>'.$row['kf_id'].'</td>
-      <td>'.$row['name'].'</td>
+      <td width="auto">'.$row['name'].'</td>
       <td><a href="tel://+91'.$row['phone'].'"><i class="fas fa-phone" style="font-size:24px;"></i></td>
       <td>'.$row['institution'].'</td>
     </tr>';
