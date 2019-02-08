@@ -4,7 +4,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 </head>
 <body>
-<table class="table table-bordered">
+<table class="table table-bordered table-hover table-dark">
   <thead>
     <tr>
       <th scope="col">Sl</th>
@@ -29,7 +29,7 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 } 
 //echo "Connected successfully";
-$sql = "SELECT kf_id, name, roll_no, phone FROM participants_participant"; 
+$sql = "SELECT kf_id, name, roll_no, phone, institution FROM participants_participant"; 
 $result = $conn->query($sql);
 $sl=1;
 while($row = $result->fetch_assoc()) {
