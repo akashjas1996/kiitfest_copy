@@ -50,16 +50,10 @@
     Label the data
     You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
     */
-    td:nth-of-type(1):before { content: "First Name"; }
-    td:nth-of-type(2):before { content: "Last Name"; }
-    td:nth-of-type(3):before { content: "Job Title"; }
-    td:nth-of-type(4):before { content: "Favorite Color"; }
-    td:nth-of-type(5):before { content: "Wars of Trek?"; }
-    td:nth-of-type(6):before { content: "Secret Alias"; }
-    td:nth-of-type(7):before { content: "Date of Birth"; }
-    td:nth-of-type(8):before { content: "Dream Vacation City"; }
-    td:nth-of-type(9):before { content: "GPA"; }
-    td:nth-of-type(10):before { content: "Arbitrary Data"; }
+    td:nth-of-type(1):before { content: "Sl"; }
+    td:nth-of-type(2):before { content: "Name"; }
+    td:nth-of-type(3):before { content: "Institute"; }  
+    td:nth-of-type(5):before { content: "."; }
   }
 </style>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
