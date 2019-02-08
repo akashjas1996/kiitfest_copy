@@ -160,7 +160,7 @@
 			<ul>
 				<li>First Round:
 				<ul>
-					<li>Online video submission. The last date is 12th Feb. Participants should send their videos to soloentries2018@gmail.com 
+					<li>Online video submission. The last date is 12th Feb. Participants should send their videos to soloentries2018@gmail.com
 					<li>Time limit - 2 min (maximum)
 					<li>Genre - Any Dance Form
 				</ul>
@@ -178,15 +178,12 @@
 			<hr>
 			<p><b>Rules For Duet</b></p>
 			<ul>
-				<li>First Round:
-				<ul>
-					<li>Genre-Any Dance Form
-					<li>Time limit- 2 min (maximum)
-				</ul>
+
 				<li>Final Round:
 				<ul>
 					<li>Time Limit- 3+1 min
 					<li>Prop needed- Any piece of cloth (elastic strip, dupatta, cotton cloth etc.)
+          <li> NOTE: Any kind of wearables for example tshirts or jackets are not to be considered as props.
 				</ul>
 			</ul>
 
@@ -196,7 +193,7 @@
 			<hr>
 			<p><b>Contacts-</b></p>
 			<ol>
-				<li>Srinjoyi - 9903521904</li>
+				<li>Shrinjoyi - 9903521904</li>
 				<li>Rajnandani Patra - 9437157497 </li>
 
 			</ol>
@@ -308,7 +305,7 @@
 				<li>Pre-finals (Round-1): (Day-1)
 				<ul>
 					<li>The teams have to showcase. This is an elimination round.
-					<li>Time limit: 4min+1min.
+					<li>Time limit: 5min+1min.
 				</ul>
 				<li>Finals (Round-2): (Day-2)
 				<ul>
@@ -327,7 +324,7 @@
 			<p><b>Contacts:-</b></p>
 			<ol>
 
-				<li>Srinjoyi-9903521904
+				<li>Shrinjoyi-9903521904
 				<li>Peenal-9078802826
 				<li>Rajnandani Patra - 9437157497 </li>
 			</ol>
