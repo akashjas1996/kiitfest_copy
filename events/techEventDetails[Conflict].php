@@ -8,7 +8,7 @@
         "106": "Solar Spectrum",
  
         "201": "Cell-Lock Holmes",
-        "202": "Chitra-a-ghar",
+        "202": "Chitra-a-gar",
         "203": "Hackathon 5.0",
         "204": "Jugaad Out of Kabaad",
         "205": "PainTerrific",
@@ -337,7 +337,7 @@
         </p>
         `,
         "202": `
-        <h1>Chitra-a-gha</h1>
+        <h1>Chitra-a-gar</h1>
         <hr>
         <p><b>Description:</b>Ever wondered how amazing it would have been if you got to paint with a form of life! We unveil the most exciting event which lets you draw your imaginations out on plates. The single celled life form will eat up the food on the plate and it’s pattern of growth would be your pattern of art.</p>
 

@@ -3,6 +3,7 @@
             "1001": "Biz-tech Quiz",
             "1002": "FLAMES Quiz",
             "1003": "Travel,Living and Culture",
+            "1004": "Udghosh",
     }
 
     var eventDetails = {
@@ -94,5 +95,30 @@
         <li>Alankar Devta- 7381279653</li>
         </ol></p>
 `,
+        "1004":`
+        <h1>Udghosh 2019-National Level Open Quiz</h1>
+
+        <p><b>Event Description<b>
+        The battlefield waits in anticipation. The calm before the storm. One of the most testing, intense and yet fulfilling quizzing experiences awaits you. Belligerents from all over India will fight for the top prize with their full might. The stakes are high. The stage is set. Do you have the nerve to get into battle with the best and the brightest open quizzers of India? You better get ready. This is the war cry. 
+        <p><b>Rules and Regulations:</b>
+        <ul>
+        <li>Round 1: Written prelims having 25-30 questions.</li>
+        <li>Round 2: 8 top scoring teams from prelims qualify for final stage round.</li>
+        </ul>
+        Open to all ages. From school students to undergraduates, graduates and corporate. 
+        Each team should consist of two members.
+
+        <p><b>Prizes:</b>
+        <ul>
+        <li>1st Prize- Rs 75000</li>
+        <li>2nd Prize- Rs 50000</li>
+        <li>3rd Prize- Rs 25000</li>
+        <li>4th-8th place- Rs 5000</li>
+        <li>Best college team- Rs 8000</li>
+        <li>Best school team- Rs 5000</li>
+        <li>Certificate for every participant and abundant audience prizes including various discount coupons.</li>
+`,
+
+
     }
 </script>

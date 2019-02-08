@@ -8,7 +8,7 @@
         "106": "Solar Spectrum",
  
         "201": "Cell-Lock Holmes",
-        "202": "Chitra-a-ghar",
+        "202": "Chitra-a-gar",
         "203": "Hackathon 5.0",
         "204": "Jugaad Out of Kabaad",
         "205": "PainTerrific",
@@ -337,7 +337,7 @@
         </p>
         `,
         "202": `
-        <h1>Chitra-a-gha</h1>
+        <h1>Chitra-a-gar</h1>
         <hr>
         <p><b>Description:</b>Ever wondered how amazing it would have been if you got to paint with a form of life! We unveil the most exciting event which lets you draw your imaginations out on plates. The single celled life form will eat up the food on the plate and it’s pattern of growth would be your pattern of art.</p>
 
@@ -2170,6 +2170,7 @@ You'll be given a pack of cards. And you have to make a Castle out if it(make su
 <p><ol>
 <li>Geometrical Dimensions and Tolerance (GD&T) quiz.
 <li>Participants have to draw the given views(top, front, side) and have to represent the same in 3D in CAD
+<li>For ED round participants have to draw all the views in a drawing sheet. (Pls bring your drafter and other stationeries)
 </ol>
 </p>
 <p><b>Stage 2</b></p>
