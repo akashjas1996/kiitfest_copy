@@ -92,7 +92,7 @@
 				<li>Sourav Dash 7008001984</li>
 				<li>Paulami Das 9830311058</li>
 			</ol>
-			
+
         `,
 		"903": `
 			<h1>Open Sesame</h1>
@@ -125,13 +125,13 @@
 			<h1>Zara Nachke Dikha</h1>
 			<hr>
         	<p>As the name suggests, Zara Nachke Dikha is a dance event focussing upon all sorts of opportunities for the people willing to participate and showcase their talent in the field of dance. We have got solo, duet and group dance competitions with their respective rules and regulations. </p>
- 
+
 			<p><b>General Rules:</b></p>
 			<ul>
-				<li>A valid College/ School ID card is required at the time of Registration. 
+				<li>A valid College/ School ID card is required at the time of Registration.
 				<li>Multiple teams/participants per college are allowed.
 				<li>Cross-college participation is allowed.
-				<li>Props and Costumes have to be brought by the teams themselves. 
+				<li>Props and Costumes have to be brought by the teams themselves.
 				<li>The loss of or damage to props is not the responsibility of the organizers.
 				<li>Pre-recorded music should be brought in a PEN DRIVE in *.mp3 format only (Any other formats shall not be entertained) Teams/Participants must follow the time limit; failing to do so shall lead to disqualification.
 				<li>In the event, if a routine is interrupted because of failure of equipment, facilities, etc., then the participant(s) affected will be permitted to restart the routine from the beginning.
@@ -148,38 +148,39 @@
 				<li>Time limit- 8+2 min (Entry to Exit)</li>
 				<li>There will be only ONE ROUND.</li>
 				<li>Theme for Group dance - Evil</li>
+        <li>The dance should be based on a concept</li>
 			</ul>
 
 			<p><b>Judging Criteria For Group:</b></p>
 			<p>Choreography, Co-ordination, Creativity, and originality will be given more weightage, Prop utilization (if any), Stage Utilization, Theme relevance.</p>
-			 
+
 			<p><b>Prizes:</b>Rs.30,000/-</p>
 			<hr>
 			<p><b>Rules For Solo:</b></p>
 			<ul>
 				<li>First Round:
 				<ul>
-					<li>Online video submission. The last date is 10th February. Participants should send their videos to soloentries2018@gmail.com 
+					<li>Online video submission. The last date is 12th Feb. Participants should send their videos to soloentries2018@gmail.com 
 					<li>Time limit - 2 min (maximum)
 					<li>Genre - Any Dance Form
 				</ul>
 				<li>Final Round:
 				<ul>
-					<li>Time limit - 3+1 min 
+					<li>Time limit - 3+1 min
 					<li>Genre - Any Dance Form
 				</ul>
 			</ul>
 
 			<p><b>Judging Criteria For Solo:</b></p>
 			<p>Facial expression and Body Language, Choreography Creativity and Presentation, overall clarity and impact, Prop utilization(If any), Versatility and Beat sense.</p>
-			 
+
 			<p><b>Prize Distribution For Solo: </b> Rs. 3000/-</p>
 			<hr>
 			<p><b>Rules For Duet</b></p>
 			<ul>
 				<li>First Round:
 				<ul>
-					<li>Genre-Any Dance Form 
+					<li>Genre-Any Dance Form
 					<li>Time limit- 2 min (maximum)
 				</ul>
 				<li>Final Round:
@@ -188,9 +189,9 @@
 					<li>Prop needed- Any piece of cloth (elastic strip, dupatta, cotton cloth etc.)
 				</ul>
 			</ul>
-			 
+
 			<p><b>Judging Criteria For Duet:</b> Facial expression and Body Language, Choreography Creativity and Presentation, Overall clarity and impact, Prop Utilization(must), Versatility and Beat sense.</p>
-			 
+
 			<p><b>Prize Distribution For Duet:</b> Rs. 7000/-</p>
 			<hr>
 			<p><b>Contacts-</b></p>
@@ -233,7 +234,7 @@
 		<hr>
 		<p><b>Description:</b></p>
 		<p>Competition of performing poetry or story or Shayari with some background music or the participants can use props in order to represent their ideas. </p>
- 
+
 		<p><b>Rules and regulations:</b></p>
 		<ul>
 			<li>Everyone will be allotted a time of 5 mins.</li>
@@ -269,7 +270,7 @@
 			<p><b>No of teams qualifying for finals:</b> 5</p>
 			<p><b>Prize money:</b> Rs.35,000/-</p>
 
-			
+
 			<p><b>CONTACT :</b></p>
 			<ol>
 				<li>Shubham Singh - 6370082569
@@ -280,7 +281,7 @@
 			<h1>Isle To Glory</h1>
 			<hr>
 			<p>Join the most happening dance battle of the year and mesmerize the crowd with your moves.</p>
-			
+
 			<p><b>Rules and Regulations:</b></p>
 			<ul>
 				<li>Valid College/School ID card is required at the time of Registration.</li>
@@ -294,16 +295,16 @@
 				<li>In the event a routine is interrupted because of failure of equipment, facilities, etc., then the participant(s) affected will be permitted to restart the routine from the beginning.</li>
 				<li>Performance Area Dimension: 30 feet x 30 feet.</li>
 			</ul>
-			
+
 			<p><b>Technical Rules:</b></p>
 			<ul>
 				<li><b>Team limit:</b> 5-15
 				<li>Please bring TWO HIGH-QUALITY copies of your music in a pen drive to the competition for the pre finals. Tracks for the battle round will be provided by the organizing team.
 				<li>Tracks for the battle round will be provided by the organizing team.
 			</ul>
-			
+
 			<p><b>Rounds:</b>
-			<ul>	
+			<ul>
 				<li>Pre-finals (Round-1): (Day-1)
 				<ul>
 					<li>The teams have to showcase. This is an elimination round.
@@ -320,12 +321,12 @@
 
 			<p><b>Judging criteria: </b></p>
 			<p>Choreography, Beat kills, Costumes, Coordination, Innovation, originality, and Overall impact on the crowd. For the battle round, crowd support and most of all, beat kills, kill offs, overshadowing opposite team will be important factors. (In case of a kill off the battle will end immediately and no further rounds will be held).</p>
-			
+
 			<p><b>Prize: </b> 10000 INR</p>
-			
+
 			<p><b>Contacts:-</b></p>
-			<ol> 
-				
+			<ol>
+
 				<li>Srinjoyi-9903521904
 				<li>Peenal-9078802826
 				<li>Rajnandani Patra - 9437157497 </li>
@@ -335,9 +336,9 @@
 			<h1>Instant-o-fie</h1>
 			<hr>
         	<p><b>Description :</b></p>
- 
+
 			<p>Like one word follows another to complete one sentence to finally mean something, one picture follows the other to present one complete story. What effect pictures and the emotions captured in it have, mere words fail to achieve. The topic will be given on the spot and the picture entries will be taken from instant camera (polaroid). The series of pictures you present should be connected to each other.</p>
-		 
+
 			<p><b>Rules and Regulations:</b>
 			<ul>
 				<li>Cameras will be provided on spot (Polaroid).</li>
@@ -416,7 +417,7 @@
 		"911": `
 		<h1>CHITRA-VI-CHITRA-CHITRAM</h1>
 		<hr>
-        <p><b>Description of the event:-</b>   Are you a person who can paint the canvas  with the art of writing, acting, cinematography, editing and directing .If yes,Then you are a filmmaker. 
+        <p><b>Description of the event:-</b>   Are you a person who can paint the canvas  with the art of writing, acting, cinematography, editing and directing .If yes,Then you are a filmmaker.
 		The UNDYING SPIRIT of KIITFEST gets its soul, this edition with the FILM-MAKING CONTEST.
 		Here's your chance to CRAFT your ART of  FILM-MAKING at KIITFEST 5.0,CHITRA-VI- CHITRA,
 		The filmmaking contest.</p>
@@ -427,7 +428,7 @@
 		<li>OPEN-THEME</li>
 		<li>DURATION-INCLUDING END CREDITS: 15 MINUTES</li>
 		</ol></p>
-		
+
 		<p><b>CATEGORY B:-</b>VI-CHITRA
 		<ol>
 			<li>REGISTERED PARTICIPANTS WILL BE GIVEN A THEME OR SUBJECT AND 10 DAY
@@ -443,7 +444,7 @@
 		The short film should contain atleast a 3 minute footage or clippings of KIITFEST 5.0.
 		DURATION-10 minutes+2 minutes (grace time) INCLUDING CREDITS.
 		Should not be a PROMO VIDEO of KIITFEST, should strictly be a SHORT FILM based on KIITFEST.
-		
+
 		<ul>
 		<li>PARTICIPATING TEAM CAN SUBMIT ANY NUMBER OF ENTRIES WITH SEPARATE REGISTRATIONS.
 
@@ -481,8 +482,8 @@
 			<ol>
 				<li>1st-Rs 5000</li>
 				<li>2nd-Rs 3000</li>
-			</ol>	
-		</li>	
+			</ol>
+		</li>
 		<li>
 		CATEGORY-C:- CHITRAM
 			<ol>
@@ -572,7 +573,7 @@
 			<hr>
 			<p><b>Description:</b>
 			Street Theatre is the earliest form of communication and it’s objective is to convey a social message by raising critical issues with the help of direct, intimate and effective means of dramalogy. So, we give you and opportunity to : “Break the barriers, raise your voices and reach the people directly”. </p>
-			
+
 			<p><b>Judgement criteria:</b> The teams will be judged on :</p>
 			<ul>
 				<li>Acting (Characterization, Use of voice and energy levels, Movement, Teamwork)</li>
@@ -614,7 +615,7 @@
 	 			<li>Outline- The Met Gala, formerly called the costume institute gala is an annual fundraising gala for the benefit of the Metropolitan Museum of Art’s Costume Institute. It is the annual grand Fashion Exhibit of America.
 			</ul>
 
-			<p><b>Rules &amp; Regulations:</b> 	
+			<p><b>Rules &amp; Regulations:</b>
 			<ol>
 				<li>The clothing and props used should be decent and non-controversial according to college norms.
 				<li>Indecent music is not allowed for choreo.
@@ -627,16 +628,16 @@
 				<li>8 teams from within KIIT including Kzarshion.
 				<li>2-3 teams from outside KIIT.
 			</ul>
-			
+
 			<p><b>Preferred Venue:</b> Campus 6 auditorium</p>
 
 			<p><b>Procedure:</b>
 			<ul>
-				<li>Prelims (Total number of registered teams)	
+				<li>Prelims (Total number of registered teams)
 				<li>Finals (2/3 rd of the total number of teams are selected based on judges’ unanimous decision.)
 			</ul>
 
-			<p><b>Team Size:</b> 
+			<p><b>Team Size:</b>
 			<ul>
 				<li>12 performing members (maximum)
 				<li>Both girls and boys to be included in the team.
@@ -666,7 +667,7 @@
 		"915": `<h1>Tulika</h1>
 		<hr>
         <p><b>Description:</b> It is a Hindi writing competition to promote Hindi language and focus on social issues.</p>
- 
+
 		<p><b>Rules and regulations:</b>
 		<ul>
 			<li>Every participant has to write about a picture.</li>
@@ -681,7 +682,7 @@
 				</ol>
 			</li>
 		</ul>
-		 
+
 		<p><b>Coordinators:</b>
 		<ol>
 			<li>SRIJAN PANDEY - 9438372916</li>
@@ -692,7 +693,7 @@
         `,
         "916": `<h1>Illustory</h1>
         <p><b>DESCRIPTION:</b>
-		A team of two will comprise of a painter and a writer. A common topic will be given to all and one word, per group, that the writer has to use in their story. The painter in the group will have to depict the story in their painting or sketch.</p> 
+		A team of two will comprise of a painter and a writer. A common topic will be given to all and one word, per group, that the writer has to use in their story. The painter in the group will have to depict the story in their painting or sketch.</p>
 
 		<p><b>RULES AND REGULATIONS:</b>
 		<ul>
@@ -707,7 +708,7 @@
 
 		<p><b>JUDGING CRITERIA:</b>
 		<ul>
-			<li>Writing: 
+			<li>Writing:
 				<ul>
 					<li>Creativity (10)
 					<li>Construction(10)
@@ -718,7 +719,7 @@
 					<li>Creativity (10)
 					<li>Relevance to story (10)
 				</ul>
-			</ul>	
+			</ul>
 		</ul>
 
 		<p>Bonus: Time utilisation (5)</p>
@@ -743,7 +744,7 @@
 		<hr>
 		<p><b>Description:</b>
 		<ul>
-			<li>The participant will be registered along with model of their own choice, which means he will register the model’s name as well. 
+			<li>The participant will be registered along with model of their own choice, which means he will register the model’s name as well.
 			<li>The challenge consists on developing a makeup and garments according to the topics given (Majestic Birds, Mystic Dessert, Oceanic and Elemental Force) and prepare their design accordingly with your creativity.
 		 </ul>
 
@@ -755,17 +756,17 @@
 			2hr for presenting and explaining their design
 			<li>There will be 3 judges
 		</ul>
-		 
+
 		<p><b>Judging criteria:</b>
 		The judging criteria will be based upon the creativity and resourcefulness of the participants, and the model’s performance on the stage, including the cat Walk and expressiveness. The judges will award points to each participant. The participant with the more points will be the winner of the contest. In the case of a draw the participants will do a rematch in order to win.</p>
-		 
+
 		<p><b>Prize money:</b>
 		<ul>
 			<li>Winner’s Prize: Rs 9.000
 			<li>Second Prize: Rs 6.000
 		</ul>
 		 </p>
-		 
+
 		<p><b>Contact: </b>
 		<ul>
 			<li>Jung In Lee, 7008202515
