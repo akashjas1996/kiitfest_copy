@@ -14,8 +14,8 @@
       <th scope="col">Sl</th>
       <th scope="col">KF ID</th>
       <th scope="col">Name</th>
-      <th scope="col">Roll No</th>
-      <th scope="col">Phone</th>
+      <th scope="col">Call</th>
+      <th scope="col">Institution</th>
     </tr>
   </thead>
 
