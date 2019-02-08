@@ -54,7 +54,7 @@ while($row = $result->fetch_assoc()) {
       <td>@twitter</td>
     </tr>
   </tbody>
-</table>'
+</table>';
         /*echo ' 
         <h1></h1>
             <p>'.$sl.'  '.$row['kf_id'].'  '.$row['name'].'  '.$row['email'].'  '.$row['payment_complete'].'  '.$row['phone'].'</p>';*/} 
