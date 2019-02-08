@@ -1,17 +1,6 @@
 <!DOCTYPE html>
-<?php include "trac.php"; ?>
-<?php
-include "./sql.php";
-$sql = new sql();
-$isLogin = $sql->isLogin();
-echo '<script> var isLogin = '. $isLogin. ';</script>' 
-?>
-
-<html lang="en">
-  <head>
-
-    <head>
-  <!--Start of Tawk.to Script-->
+<head>
+   <!--Start of Tawk.to Script-->
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
@@ -24,6 +13,19 @@ s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
 <!--End of Tawk.to Script-->
+  </head>
+<?php include "trac.php"; ?>
+<?php
+include "./sql.php";
+$sql = new sql();
+$isLogin = $sql->isLogin();
+echo '<script> var isLogin = '. $isLogin. ';</script>' 
+?>
+
+<html lang="en">
+  <head>
+
+    <head>
 
 </head>
 
