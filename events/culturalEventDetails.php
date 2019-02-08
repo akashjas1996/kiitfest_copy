@@ -261,7 +261,9 @@
 				<li> Teams are allowed to have one member each for lights, sound and spot. </li>
 				<li> No offensive/obscene content should be there in the play/skit.</li>
 				<li>The criteria for the evaluation of performance will be announced before the start of the event.</li>
+        <li>Minimum team members: 8 
 				<li>Judges decision will be full and final.</li>
+
 			</ol>
 
 			<p><b>No of teams qualifying for finals:</b> 5</p>
