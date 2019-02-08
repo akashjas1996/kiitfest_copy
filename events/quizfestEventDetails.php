@@ -1,13 +1,13 @@
 <script>
     var eventNames = {
-            "1001": "Biz-tech Quiz",
-            "1002": "FLAMES Quiz",
-            "1003": "Travel,Living and Culture",
-            "1004": "Udghosh",
+            "1001": "Udghosh",
+            "1002": "Biz-tech Quiz",
+            "1003": "FLAMES Quiz",
+            "1004": "Travel,Living and Culture",
     }
 
     var eventDetails = {
-		"1001": `
+		"1002": `
 
         <h1>Biz-tech Quiz</h1>
         <p><b>Event Description:</b>
@@ -37,7 +37,7 @@
         </ol></p>
 
 `,
-        "1002": `
+        "1003": `
 
             <h1>    FLAMES Quiz</h1>
         <p><b>Event Description:</b>
@@ -66,7 +66,7 @@
         </ol></p>
 
         `,
-        "1003": `
+        "1004": `
         <h1>Travel, Living and Culture</h1>
 
         <p><b>Event Description: </b>
@@ -95,7 +95,7 @@
         <li>Alankar Devta- 7381279653</li>
         </ol></p>
 `,
-        "1004":`
+        "1001":`
         <h1>Udghosh 2019-National Level Open Quiz</h1>
 
         <p><b>Event Description<b>
