@@ -18,6 +18,6 @@ while($row = $result->fetch_assoc()) {
       if($row["payment_complete"]!=1){
         echo ' 
         <h1>'.$row['name'].'</h1>
-            <p>KFID : '.$row['kf_id'].'Email: '.$row['email'].$row['kf_id'].'</p>';}
+            <p>KFID : '.$row['kf_id'].'Email: '.$row['email'].'payment : '.$row['payment_complete'].'</p>';}
       }
 ?>
