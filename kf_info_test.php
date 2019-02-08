@@ -1,4 +1,6 @@
 <!DOCTYPE HTML>
+<meta name="viewport" content="initial-scale=0.25">
+
 <html>
 <head>
   <style>
