@@ -1,3 +1,21 @@
+<head>
+  <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5c5c42e77cf662208c948203/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+</head>
+
+
 <?php
     @require_once("db_connection.php");
     use PHPMailer\PHPMailer\PHPMailer;
@@ -202,6 +220,7 @@ require 'PHPMailer/src/SMTP.php';
     <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
     <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
+
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
       <title>Verify your email address</title>
@@ -363,6 +382,8 @@ require 'PHPMailer/src/SMTP.php';
           }
         }
       </style>
+
+
     </head>
     <body>
       <table class="email-wrapper" width="100%" cellpadding="0" cellspacing="0">
