@@ -147,6 +147,7 @@
 				<li>There is no maximum team limit but if the team members Exceed 30 then a separate mail has to be sent to the event heads or to the organizers notifying the same.</li>
 				<li>Time limit- 8+2 min (Entry to Exit)</li>
 				<li>There will be only ONE ROUND.</li>
+				<li>Theme for Group dance - Evil</li>
 			</ul>
 
 			<p><b>Judging Criteria For Group:</b></p>
@@ -158,7 +159,7 @@
 			<ul>
 				<li>First Round:
 				<ul>
-					<li>Online video submission. The last date is 14th February. Participants should send their videos to soloentries2018@gmail.com 
+					<li>Online video submission. The last date is 10th February. Participants should send their videos to soloentries2018@gmail.com 
 					<li>Time limit - 2 min (maximum)
 					<li>Genre - Any Dance Form
 				</ul>
@@ -195,7 +196,6 @@
 			<p><b>Contacts-</b></p>
 			<ol>
 				<li>Srinjoyi - 9903521904</li>
-				<li>Peenal - 9078802826</li>
 				<li>Rajnandani Patra - 9437157497 </li>
 
 			</ol>
