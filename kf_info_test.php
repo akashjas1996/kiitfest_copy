@@ -12,8 +12,6 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 } 
 echo "Connected successfully";
-$kf_id = $_POST["kiitfest_id"];
-echo $kf_id;
 $sql = "SELECT kf_id, name, roll_no FROM participants_participant WHERE payment_complete=0";
 $result = $conn->query($sql);
 while($row = $result->fetch_assoc()) {
