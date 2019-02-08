@@ -41,7 +41,7 @@ while($row = $result->fetch_assoc()) {
       <td>'.$row['kf_id'].'</td>
       <td>'.$row['name'].'</td>
       <td>'.$row['institution'].'</td>
-      <td>'.$row['phone'].'</td>
+      <td><a href="tel://+91'.$row['phone'].'">'.$row['phone'].'</td> 
     </tr>';
         /*echo ' 
         <h1></h1>
