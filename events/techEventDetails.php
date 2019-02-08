@@ -3,10 +3,10 @@
         "101": "Circuit Design & Power Relay",
         "102": "Design 4 Energy",
         "103": "KIIT-IEEE Workshop",
-        "104": "Robot Triathon",
+        "104": "Robo Triathon",
         "105": "S.U.I.T",
         "106": "Solar Spectrum",
- 
+
         "201": "Cell-Lock Holmes",
         "202": "Chitra-a-gar",
         "203": "Hackathon 5.0",
@@ -92,7 +92,7 @@
                 <li>Niranjan Chakrobarty (9735840684)
             </ul>
          `,
-         
+
         "102": `
             <h1>Design 4 EngergyM</h1>
             <hr>
@@ -125,7 +125,7 @@
             <p><b>Contact : </b>
             <ul>
                 <li>Yashwant Kumar Sahu (8463886801)
-                <li>Shubhra Debnath (8131037040) 
+                <li>Shubhra Debnath (8131037040)
                 <li>Sneha Sinha (81143 31835)
             </ul>
 
@@ -165,7 +165,7 @@
             <hr>
 
             <h2>Robo Soccer (Round 1)</h2>
-            <p>This is the qualifier round. The bot will have to shoot a medium sized ball towards a goal. The bot can also push the ball to exert a certain force for the ball to reach the goal.</p>  
+            <p>This is the qualifier round. The bot will have to shoot a medium sized ball towards a goal. The bot can also push the ball to exert a certain force for the ball to reach the goal.</p>
             <p><b>Rules :</b></p>
             <ul>
                 <li>Each team will get 5 points from which the bot has to shoot the ball or push to score the goal.
@@ -242,7 +242,7 @@
             <h1>Smart Utilisation of Innovation and technology (S.U.I.T)</h1>
             <hr>
 
-            <p><b>Objective</b></p> 
+            <p><b>Objective</b></p>
             <p>Ideate​ and propose innovative applications of electrical engineering in day-to-day life. Applications can be (but not limited to) related to the field of Medical sciences, traffic control, pollution monitoring, agriculture, water/irrigation, home automation, smart grid, vehicular electronics, etc.
 
             <p><b>Judging Criteria:</b></p>
@@ -298,7 +298,7 @@
             <ul>
                 <li>Dibyalochan Samantaray (7539833703)
                 <li>Shreya Sinha (9078641075)
-                <li>Soumya Raj (8984970743) 
+                <li>Soumya Raj (8984970743)
             </ul>
         `,
 
@@ -328,9 +328,9 @@
 
         <p><b>Prize Money worth: </b> &nbsp;Rs. 13,000</p>
 
-                                
+
         <p><b>Contacts:</b>
-        <ol>    
+        <ol>
         <li>Pamela Chanda Roy (9875487809)
         <li>Soumitra Pathak (9674455405)
         </ol>
@@ -359,7 +359,7 @@
 
         <p><b>Prize money worth:</b>&nbsp Rs. 13,000</p>
 
-                              
+
         <p><b>Contacts:</b>
                 <ol>
         <li>Debanajana Maiti (8777586692)
@@ -368,12 +368,12 @@
         </p>
 
         `,
-        
+
         "203": `
         <h1>Hackathon 5.0</h1>
         <hr>
         <p><b>Description:</b>Bring your out-of-the-box ideas in this low-risk environment. Showcase the clever hacker that dwells in you and the one who has the highest endurance wins.</p>
-        
+
         <p><b>Rules and regulations:</b>
         <ul>
         <li>During registration, the participants will be given any problem or issue pertaining to the field of Biotechnology.
@@ -392,13 +392,13 @@
         <li>Presentation of the overall idea.</ul></p>
 
         <p><b>Prize money worth:</b> &nbsp; Rs. 21,000</p>
-        
+
         <p><b>Contacts:</b>
                 <ol>
                         <li>Nilotpal Majumdar (8250869594)
                         <li>Soumitra Pathak (9674455405)
                 </ol>
-        
+
 
         </p>
 
@@ -428,7 +428,7 @@
          </ul></p>
 
         <p><b>Prize money worth:</b> &nbsp; Rs. 21,000</p>
-        
+
         <p><b>Contacts:</b>
         <ol>
                 <li>Soumya Sristi Mahapatra (9937482817)
@@ -437,7 +437,7 @@
 
         </p>
         `,
-        
+
         "205": `
          <h1>PainTerrific</h1>
          <hr>
@@ -457,11 +457,11 @@
         <li>Use of diverse tools/methods for painting.
         <li>The whole painting should be made without using any contemporary tools, such as brushes, pencil colors or crayons.
         </ul></p>
-        
+
         <p><b>Prize money:</b>
                           <ol><li>    First Prize- Rs. 8,000
                               <li>Second prize- Rs. 5,000</ol></p>
-        
+
         <p><b>Contacts:</b>
                 <ol>
         <li>Abhinandan Das (9078803066)
@@ -497,7 +497,7 @@
          </ul></p>
 
         <p><b>Prize money worth:</b> Rs. 13,000</p>
-        
+
         <p><b>Contacts:</b>
                 <ol><li>Ishita Ghosh (8777482453)
                         <li>Soumitra Pathak (9674455405)
@@ -520,7 +520,7 @@
         Participants will be paired with a random opponent and each have to speak either for or against the motion. Preparation time 15min. Each participant will be given 5 minutes to speak on it.
         </ul>
         </p>
-        
+
         <p><b>Judging Criteria:</b>
         <ul>
         <li>Time utilisation
@@ -545,7 +545,7 @@
         `,
 
 
-        
+
         //KSOM
         "301": `<h1> SYNERGY KONFLICTUS 5.0 </h1> <hr>
 <p> <b> Overview </p> </b>
@@ -558,9 +558,9 @@
 <li>Time management in the continuous activity-process of planning and exercising conscious control over the amount of time spent on specific activities, especially to increase effectiveness, efficiency or productivity. </li>
 <li>There are many approaches to conflict management such as </li>
 <ul>
-<li>Avoidance: (I lose, you lose),  
-<li>Competition :( I win, you lose), 
-<li>Cooperation: (I win, you win), 
+<li>Avoidance: (I lose, you lose),
+<li>Competition :( I win, you lose),
+<li>Cooperation: (I win, you win),
 <li>Adaptation: (I lose, you win).
 </ul>
 </ul>
@@ -576,7 +576,7 @@
 </ul>
 <p> <b>Rules </p> </b>
 <ol>
-<li>Each level is a time based and scoring will be done according to that. 
+<li>Each level is a time based and scoring will be done according to that.
 <li>Usage of hints will deduct half the score.
 <li>No use of number representation or writing of words directly on board.
 <li>The team securing the maximum points wins the game.
@@ -592,15 +592,15 @@
         <h1> MILK RUN </h1>
         <hr>
 <p> <b> ROUND 1</p> </b>
- 
+
 <p> <b>Description:</p> </b>
 <p>This game is an elimination round. Out of “N” no. of registered teams we will cut short the participants to 10 Teams.
 <p>In this round participants will get A questionnaire, in which 7 Question would be there related to Supply Chain, Logistics & Technology, Ex: Which company started using Lean Manufacturing process first .So the answer would be Toyota but instead of the company’s name they have to identify the logo from the 4 options provided to them and submit it to as soon as possible. Top 10 TEAM will qualify for the 2nd ROUND.
- 
+
 <p> <b>Steps and Rules of the game</p> </b>
-<ol> 
+<ol>
 <li> Each team will be required to nominate one of their member who will play the 1st round.
-<li> A questionnaire will be prepared having multiple questions with logos as the options. 
+<li> A questionnaire will be prepared having multiple questions with logos as the options.
 <li> Each team will be provided with a login id and password to give the quiz in PLM Lab, 7 questions per team.
 </ol>
 
@@ -631,7 +631,7 @@
         "303": `<h1> STOCK CHALLENGE </h1><hr>
 <p> <b>Game Duration – 11th Feb – 15th Feb </p> </b>
 <p> <b>Market time – 9:00 a.m. to 3:15 p.m.</p> </b>
- 
+
 
 <p> <b>Terms & Conditions for Virtual Stock Trading Platform Users</p> </b>
 <ul>
@@ -645,7 +645,7 @@
  <li>          Photographs, videos or films of participants taken during the programme can be used for any legitimate purposes by ICICI Securities Ltd
  <li>          You hereby agree and understand to trade on the Virtual Stocks platform. The amount allocated to the participant will be purely Virtual and cannot be liquidated into real money.
 </ul>
- 
+
 <p> <b>Daily Turnover Restrictions:</p> </b>
 <p> System is designed in such a way that participants can place trades only upto a trading turnover of Rs. 3 Crore per day. Turnover means the sum total of all the transactions executed on a particular trading day. This includes shares bought and sold on the same day or shares sold today while they were purchased on some other trading day. If a participant exceeds turnover of Rs. 3 Crore on any day of the contest, system will disable the trading of that participant.</p>
 
@@ -668,27 +668,27 @@
 <p> <b>ABOUT THE EVENT:</p> </b>
 <ul>
 <li> It will be an online event.
- 
+
 <li>We'll provide the case study by 12th Feb 10 AM
- 
+
 <li>Participants have 2 days of time( 13th and 14th Feb 2019)
- 
-<li>They have to submit the responses by 15th by 2 PM 
- 
-<li>The number of members in a team- one or two. 
- 
-<li>Results will be out by 16th at 10 PM 
- 
+
+<li>They have to submit the responses by 15th by 2 PM
+
+<li>The number of members in a team- one or two.
+
+<li>Results will be out by 16th at 10 PM
+
 <li>(It's the management's decision to bring any further changes in the rules and regulations)
 </ul>
- 
+
 <p> <b>Prize money-  upto 40,000
- 
+
 <p> <b>Contact:</p> </b>
 <p>Rittik Sarkar</p>
 <p>8017126802</p>
 <p>17202039@ksom.ac.in</p>
- 
+
 <p>Paras Khanna</p>
 <p>9776922104</p>
 <p>18202034@ksom.ac.in</p>
@@ -696,9 +696,9 @@
         `,
 
         "305": `<h1> DARE TO FACE </h1> <hr>
- 
+
 <p> <b>Duration- 2PM TO 8PM</p> </b>
- 
+
 <p> <b>Description</p> </b>
 <p>A press conference scenario where the company's CEO, Product Manager and the Brand Manager come together to save the face of the Company for a product that has created havoc in the market. Only this time it's Do or Die.</p>
 <p> <b>DARE TO FACE - MARKETING</p> </b>
@@ -720,7 +720,7 @@
 <p>Rittik Sarkar</p>
 <p>8017126802</p>
 <p>17202039@ksom.ac.in</p>
- 
+
 <p>Paras Khanna</p>
 <p>9776922104</p>
 <p>18202034@ksom.ac.in</p>
@@ -742,7 +742,7 @@
 <ul>
 <li>A team need to decide based on the amount provided to them whether to purchase the property or not.
 <li>On the purchased property of any team if other team lands, the other team has to pay the rent.
-<li>The game will go on till the last team reaches the starting point. 
+<li>The game will go on till the last team reaches the starting point.
 <li>The puzzles provided will be based on logic and reasoning.
 </ul>
 <p> <b>Round 2:</p> </b>
@@ -767,8 +767,8 @@
 
 
 
-         //Luminaire         
-        "401": `	     
+         //Luminaire
+        "401": `
             <h1>Brainotracking</h1>
             <hr>
             <p><b>Description:</b>
@@ -789,7 +789,7 @@
                 <li>Round 2:
                 A code snippet will be given along with its output.
                 The code snippet will be jumbled.
-                It is to be ordered correctly. 
+                It is to be ordered correctly.
                 </li>
             </ol>
 
@@ -807,25 +807,25 @@
 
             <p><b>Contact Details:</b></p>
             <ol>
-                <li>Indrashis Das - 9874565228 
+                <li>Indrashis Das - 9874565228
             </ol>
 `,
-        
+
         "402": `
             <h1>Hackathon</h1>
-            <hr>    
+            <hr>
             <p><b>Description</b></p>
             <p>Hey Coders! Isn't it time you registered already? Brush up on your favorite programming language, because LUMINAIRE presents Hackathon. Whenever a layman hears the term 'coding', a nerd with glasses and immense logical skills is pictured. Show the world, that logic is just one side of the coin. Display your artistic and innovation skills and create theme based website/app under a time pressure. Are you ready for the challenge, coz we are here waiting for you.</p>
 
             <p><b>Rules and Regulations:</b>
             <ol>
-            <li>Team Size: maximum 2 participants 
+            <li>Team Size: maximum 2 participants
 
             <li>Duration: 6 hours
 
             <li>All ideas/codes must be original and developed specifically for the event.
 
-            <li>Please get your own laptops, mobile phones and any other devices with the necessary software. While a Wi-Fi connection would be provided, no tech support for   connecting your personal devices to the same would be available. 
+            <li>Please get your own laptops, mobile phones and any other devices with the necessary software. While a Wi-Fi connection would be provided, no tech support for   connecting your personal devices to the same would be available.
 
             <li>The teams can code the challenge in any desired programming language.
 
@@ -895,8 +895,8 @@
 		<p><b>Rules and Regulations:</b>
 		<ol>
 		<li>2-5  participants in each team.
-		 <li>Each round will have interesting task 
-		 <li>There will be around 4-5 rounds 
+		 <li>Each round will have interesting task
+		 <li>There will be around 4-5 rounds
 		 <li>Each round will be Knockout round.</p>
 
 		<p><b>Judgement Details:</b></p>
@@ -982,7 +982,7 @@
 
 
 		<p><b>Contact Details:</b>
-    
+
 		<p> Ritik (9546862541)</p>
 
         `,
@@ -1060,7 +1060,7 @@
             <p><b>Number of Participants:</b> 3</p>
             <p><b>Description:</b></p>
             <ol>
-                <li>The event will be consisting of 2 rounds based on the performance of the participants in round 1 they will reach round 2.</li> 
+                <li>The event will be consisting of 2 rounds based on the performance of the participants in round 1 they will reach round 2.</li>
                 <li>System parts are disassembled and spread across the campus. </li>
                 <li>Teams will have to find these parts based on the clues given and assemble the parts in the shortest time possible.</li>
                 <li>Winners shall be decided based on the shortest time taken. </li>
@@ -1124,7 +1124,7 @@
             <p>A crisis situation of extinction level event will be given and the participants have to create a Cross-platform app for minimizing the collateral damage for citizens.</p>
             <p><b>Number of Participants:</b> 2</p>
             <p><b>Description:</b></p>
-            <ol> 
+            <ol>
                 <li>Participants will be given a disaster situation a set time before the event and will have to present a solution to the disaster on round 1 of the event.</li>
                 <li>In round 2, teams will have to create an android app live at the venue and provide a demo of the app based on their solution presented in the previous day. Points will be awarded based on the usability, design and innovation of the app. The team with the highest points wins.</li>
             </ol>
@@ -1178,7 +1178,7 @@
         <li> No two teams must have any common member.
             <li>The time limit for the completion is 3 hrs.
             <li>The task of each team is to design a free standing frame made of newspaper & tape only (any other material like glue is not allowed).
-            <li>Only the base & tape will be given. No part of the structure may extend outside the perimeter of the base. 
+            <li>Only the base & tape will be given. No part of the structure may extend outside the perimeter of the base.
             <li>Material like stick is not allow to stable the structure.
             <li>Teams must have to carry newspaper & scissors.
             </ol>
@@ -1205,23 +1205,23 @@
         "602": `<h1> CAD-NOVUS </h1>
 
 <p> <b> GUIDELINES: </p> </p>
-<ol> 
-<li> Problem Statement – Design an innovative plan and sectional view for a G+1 residential building with all necessary amenities. 
-<li> The plot area must be equal to 1750sqft (35’x50’) 
-<li> Location – Bhubaneswar, Odisha, India 
-<li> Client Requirements – Lawn, Car Parking, 2 No’s Bedroom, Kitchen, Washroom, Living Area for Ground Floor and Open Terrace, 3 No’s Bedroom, Kitchen, Washroom, Living Area for First Floor. 
+<ol>
+<li> Problem Statement – Design an innovative plan and sectional view for a G+1 residential building with all necessary amenities.
+<li> The plot area must be equal to 1750sqft (35’x50’)
+<li> Location – Bhubaneswar, Odisha, India
+<li> Client Requirements – Lawn, Car Parking, 2 No’s Bedroom, Kitchen, Washroom, Living Area for Ground Floor and Open Terrace, 3 No’s Bedroom, Kitchen, Washroom, Living Area for First Floor.
 </ol>
 <p> <b> RULES: </p> </b>
 <ol>
-<li>Single Participation (Can use a rough paper for sketching) 
-<li>Time Allotted – 2 Hours 
-<li>Software to be used – AutoCAD 2016 and above 
+<li>Single Participation (Can use a rough paper for sketching)
+<li>Time Allotted – 2 Hours
+<li>Software to be used – AutoCAD 2016 and above
 </ol>
 
 <p> <b> JUDGEMENT CRITERIA:</p> </b>
 <ul>
-<li> Most Innovative Plan, Energy Efficient Plan and New Design i.e. not copied from Google. 
-<li> Economical from Structural Point of View. 
+<li> Most Innovative Plan, Energy Efficient Plan and New Design i.e. not copied from Google.
+<li> Economical from Structural Point of View.
 </ul>
 
 <p> <b>Prize Money: </p> </b>
@@ -1295,10 +1295,10 @@ A cryptic crossword is a fun event in which a team is given a jumbled crosswor
     <p><b>DETAILS:</b>
     <ul>
     <li>Initially 1 member of the team will be given puzzles to solve.
-    <li>The puzzle will make up a name of any famous monument or structures.  
+    <li>The puzzle will make up a name of any famous monument or structures.
     <li>The 1st member will have to make 2nd member understand the name of the structure using hand or body gestures.
     <li>The 2nd member will have to guess the correct name and write it on 3rd member’s shoulder.
-    <li>The 3rd member will have to guess and write the name on the board. 
+    <li>The 3rd member will have to guess and write the name on the board.
     <li>Teams who completed this task in less time will be the winners.
     </ul>
     </p>
@@ -1306,10 +1306,10 @@ A cryptic crossword is a fun event in which a team is given a jumbled crosswor
     <p><b>RULES AND REGULATIONS:</b>
     <ul>
     <li>Teams must consist of three members.
-    <li>No verbal communications are allowed. 
+    <li>No verbal communications are allowed.
     <li>The 1st member can use the alphabetical hand gesture to make 2nd member guess the name maximum 6 times.
     <li>Coordinators' decision will be final and binding in case of any issues.
-    <li>All the rules apart from these will be clearly communicated on-spot. 
+    <li>All the rules apart from these will be clearly communicated on-spot.
     </ul></p>
 
     <p><b>JUDGING CRITERIA:</b>
@@ -1327,11 +1327,11 @@ A cryptic crossword is a fun event in which a team is given a jumbled crosswor
 	   <ul>
               <li>
                  Final Destination is a game of hunting treasures in the given steps.
-                 The team members solve the riddles & follow the clues all the way to the treasure. 
+                 The team members solve the riddles & follow the clues all the way to the treasure.
 	      </li>
               <li>
                  <b>PRELIMINARY SELECTION ROUND-</b>
-                 A limited number of teams will be selected via jenga challenge based on the height of the structures they create using Jenga blocks & the rules apart from this will be described on-spot. 
+                 A limited number of teams will be selected via jenga challenge based on the height of the structures they create using Jenga blocks & the rules apart from this will be described on-spot.
 	      </li>
               <li>
                  <b>MAIN ROUND : SEARCH THE TREASURE</b>
@@ -1347,7 +1347,7 @@ A cryptic crossword is a fun event in which a team is given a jumbled crosswor
             <li>The treasure is hidden in a limited radius from the starting point.</li>
             <li>Participating teams will have to give their team names on the day of the event.</li>
 	 </ul>
-	 </p> 
+	 </p>
 	 <p><b>Judgement Criteria:</b>
 	 <ol>
 	     <li>Coordinators' decision will be final and binding in case of any issues.</li>
@@ -1356,13 +1356,13 @@ A cryptic crossword is a fun event in which a team is given a jumbled crosswor
              <li>No taking or hiding clues of the other team. Involving in malpractices of any form may result in disqualification of the team. </li>
              <li>Prizes with authorized certificate will be given to the winners.</li>
 	 </ol>
-	 </p> 
-	  
+	 </p>
+
          <p><b>Prize Money:</b>
 	 <ul>
 	 <li>1st : Rs 12000/-
 	 <li>2nd:  Rs 8000/-
-	 </ul></p>        
+	 </ul></p>
 	 <p><b>Contact Details:</b>
           <ul>
 	    <li>Aditya Patel- 8435822225</li>
@@ -1374,51 +1374,51 @@ A cryptic crossword is a fun event in which a team is given a jumbled crosswor
 
 
 
-<p> <b>Event Description:</b></p> 
+<p> <b>Event Description:</b></p>
 <p>Bridges are an integral part of Civil Engineering. The responsibility of a Civil Engineer is to not only design strong structure but also keep it economical and aesthetically pleasing. This event tests the mettle of participants by challenging them to design a truss bridge by using popsicle sticks, catch being that the balance between weight of materials used and load carried by the bridge is maintained i.e. the efficiency is maximised. </p>
 
 <p> <b>Event Format: </b></p>
-<p>There will be only one round in which bridges will be tested. Participants have to come with their bridges. 
+<p>There will be only one round in which bridges will be tested. Participants have to come with their bridges.
 
 <p> <b>Material to be Used: </b></p>
 <ol>
-<li> Popsicle sticks with dimensions (11 cm X 1.2cm 0.2cm). 
-<li> Only Fevicol can be used as adhesive, use of other adhesives will lead to disqualification. 
-<li> Use of thread is not allowed. 
+<li> Popsicle sticks with dimensions (11 cm X 1.2cm 0.2cm).
+<li> Only Fevicol can be used as adhesive, use of other adhesives will lead to disqualification.
+<li> Use of thread is not allowed.
 </ol>
 
 <p> <b>Dimensions of Bridge: </b></p>
 <ol>
-<li> Length: 75 cm. 
-<li> Width: 10-13 cm. 
-<li>Height: 30 cm. 
-<li>Clearance: A minimum clearance of 8 cm high and 5 cm wide should be provided for the passage of a small toy car. 
-<li> Weight: Not More than 350gm. 
+<li> Length: 75 cm.
+<li> Width: 10-13 cm.
+<li>Height: 30 cm.
+<li>Clearance: A minimum clearance of 8 cm high and 5 cm wide should be provided for the passage of a small toy car.
+<li> Weight: Not More than 350gm.
 </ol>
 
 <p> <b>Dimensions of Bridge: </b></p>
 <ol>
-<li> Length: 75 cm. 
-<li> Width: 10-13 cm. 
-<li> Height: 30 cm. 
-<li>Clearance: A minimum clearance of 8 cm high and 5 cm wide should be provided for the passage of a small toy car. 
-<li> Weight: Not More than 350 gm. 
+<li> Length: 75 cm.
+<li> Width: 10-13 cm.
+<li> Height: 30 cm.
+<li>Clearance: A minimum clearance of 8 cm high and 5 cm wide should be provided for the passage of a small toy car.
+<li> Weight: Not More than 350 gm.
 </ol>
 
 <p> <b>Rules: </b></p>
 <ol>
-<li> Truss action should be ensured. 
-<li> Team size could be of 3-5 members. 
-<li> All sticks must be visible to inspection and may not be painted or stained in anyway. 
-<li> All members of the team should be enrolled as students in an educational institute. 
+<li> Truss action should be ensured.
+<li> Team size could be of 3-5 members.
+<li> All sticks must be visible to inspection and may not be painted or stained in anyway.
+<li> All members of the team should be enrolled as students in an educational institute.
 <li> No person can be a part  of more than one team.
-<li> No other reinforcement material (like steel wires, wire mesh) will be allowed. 
-<li> Bridges not meeting the requirements listed in these rules will be subject to Disqualification. 
-<li> Each bridge must be able to hold the weight of the testing equipment which is about 4 kg. 
-<li> Loading will be done at the Centre of Bridge. 
-<li> Arch Bridge is not allowed. 
-<li> Popsicle sticks should not overlap more than 1/4th of its length. 
-<li> Decision of Judges will be final and binding. 
+<li> No other reinforcement material (like steel wires, wire mesh) will be allowed.
+<li> Bridges not meeting the requirements listed in these rules will be subject to Disqualification.
+<li> Each bridge must be able to hold the weight of the testing equipment which is about 4 kg.
+<li> Loading will be done at the Centre of Bridge.
+<li> Arch Bridge is not allowed.
+<li> Popsicle sticks should not overlap more than 1/4th of its length.
+<li> Decision of Judges will be final and binding.
 </ol>
 
 <p> <b>Judging criteria: </b></p>
@@ -1446,31 +1446,31 @@ A cryptic crossword is a fun event in which a team is given a jumbled crosswor
 
 
 <p> <b> Introduction:</b> </p>
-<p>Models encapsulate various engineering wonders. A model is a miniature representation of any structure, both natural and man-made, that depicts its form, style, and pattern. Models revive our imagination. 
+<p>Models encapsulate various engineering wonders. A model is a miniature representation of any structure, both natural and man-made, that depicts its form, style, and pattern. Models revive our imagination.
 So, elicit the artist hidden inside you! </p>
 
 
 <p>Participants are expected to build a model of a ‘’Self Sustaining Colony’’ which will produce its own electricity, reuse the waste generated from the colony, etc. The model must address the social and development concerns of a city.</p>
 
-    
-<p>With a population of 1.2 billion and limited resources depleting exponentially, it is the need of the hour to “become smart and create smart” to transform a developing country like India into a developed country. Now, the time has come for the civil engineers to create self-sustaining and economically feasible structures. 
+
+<p>With a population of 1.2 billion and limited resources depleting exponentially, it is the need of the hour to “become smart and create smart” to transform a developing country like India into a developed country. Now, the time has come for the civil engineers to create self-sustaining and economically feasible structures.
 “If not now, then never”</p>
 
 
 <p><b>Rules and Regulations: </b></p>
 <ol>
-<li>The event is open to all. 
-<li>Teams must consist of a minimum of 2 and maximum of 5 members.  
-<li>The model should be handmade with household and stationery items. 
-<li>Readymade or factory model will not be accepted. 
-<li>Teams have to present the detailed idea behind all features of the model within 10 minutes and there will be a query session of 5 minutes at the end of the presentation. 
-<li>The decision of judges shall be final and binding. 
+<li>The event is open to all.
+<li>Teams must consist of a minimum of 2 and maximum of 5 members.
+<li>The model should be handmade with household and stationery items.
+<li>Readymade or factory model will not be accepted.
+<li>Teams have to present the detailed idea behind all features of the model within 10 minutes and there will be a query session of 5 minutes at the end of the presentation.
+<li>The decision of judges shall be final and binding.
 </ol>
 <p><b>Judging Criteria: </b></p>
 <ul>
-<li>Contribution in making a city self-sustaining : 20% 
-<li>Innovation : 20% 
-<li>Economic feasibility : 15% 
+<li>Contribution in making a city self-sustaining : 20%
+<li>Innovation : 20%
+<li>Economic feasibility : 15%
 <li>Technical accuracy and Detailing : 25%
 <li>Aesthetics : 20%
 </ul>
@@ -1559,7 +1559,7 @@ So, elicit the artist hidden inside you! </p>
 
 <p> <b>Description of the event-</b> </p>
 
-<p>The event deals with the hunt to survive on the new planet Fenotis. Here the participants would not only hunt for their needs to survive but also design a wearable tech which they would use to continue to live and exist in the planet. They would have to design their T-shirts in a unique manner distinct from each other and finally the one with the most idiosyncratic idea will be the conqueror and the best survivor of the planet Fenotis. 
+<p>The event deals with the hunt to survive on the new planet Fenotis. Here the participants would not only hunt for their needs to survive but also design a wearable tech which they would use to continue to live and exist in the planet. They would have to design their T-shirts in a unique manner distinct from each other and finally the one with the most idiosyncratic idea will be the conqueror and the best survivor of the planet Fenotis.
 
 
 <p> <b>Round 1: Elimination Round</b> </p>
@@ -1570,9 +1570,9 @@ Time Limit: 20-30 minutes
 <p> <b>Round 2: Hunt Round</b> </p>
 
 <p>Participants will have to run in and around the campus and find the electronic components hidden.These components are to be  used in the third round to design their innovative T-shirts.
- 
+
 <p> <b>Round 3: Final Round</b> </p>
- 
+
 <p>The participants need to design a wearable tech T- shirt which implements the modernity of technology and the creativity of the art.  A set of components will be given which the participants have to use while designing the T-shirt.
 
 <p> <b>Rules & Regulations-</b> </p>
@@ -1595,7 +1595,7 @@ Time Limit: 20-30 minutes
 <li> All rights are reserved with the coordinators. They may or may not disclose any information depending upon the information asked. They can change any rule at any time according to the situation.
 <li>Any misconduct or violation of rules will lead to immediate elimination.
 </ol>
- 
+
 <p> <b>Judging Criteria-</b> </p>
 <ol>
 <li>The t-shirt should support the basic idea of a wearable tech and promote electronics as a whole.
@@ -1722,7 +1722,7 @@ Organizers.
 
 
 `,
-        "703": `<h1> THE SALVAGE YARD </h1> 
+        "703": `<h1> THE SALVAGE YARD </h1>
         <hr>
         <p><b>Brief Description:</b>
 
@@ -1735,8 +1735,8 @@ knowledge-friendly way, you get to make the best of the components you acquire f
 </p>
 
 
-<p> <b> Round 1: 1st Elimination Round </p> </b> 
-<ul> 
+<p> <b> Round 1: 1st Elimination Round </p> </b>
+<ul>
 <li> There will be two Quiz round. The first is a buzzer round to test your general
 knowledge. This round will be held multiple times from which each time the top three
 will progress to the next quiz round.
@@ -1749,8 +1749,8 @@ answer to their remaining team members.
 </ul></p>
 
 
-<p> <b> Round 2: 2nd Elimination Round</p> </b> 
-<ul> 
+<p> <b> Round 2: 2nd Elimination Round</p> </b>
+<ul>
 <li> The next round will be riddle solving round. The teams will be given a riddle the
 solution to which will be a circuit.
 </li>
@@ -1760,8 +1760,8 @@ software called Tinkercad
 </ul></p>
 
 
-<p> <b> Round 3: 3rd Elimination Round</p> </b> 
-<ul> 
+<p> <b> Round 3: 3rd Elimination Round</p> </b>
+<ul>
 <li> Each team will be made to stand in front of carton boxes underneath which will contain
 a mystery box. Each team will be then given a ball and will have to hit a carton box to
 get the desired mystery box.
@@ -1775,8 +1775,8 @@ limited time frame of 60 minutes.
 </ul></p>
 
 
-<p> <b> Rules & Regulations: </p> </b> 
-<ol> 
+<p> <b> Rules & Regulations: </p> </b>
+<ol>
 <li> A team can have a minimum of 2 members and a maximum of 4 members.</li>
 
 <li>Mystery box once provided will not be changed.</li>
@@ -1796,8 +1796,8 @@ limited time frame of 60 minutes.
 
 <li> Any misconduct or violation of rules will lead to immediate elimination. </li>
 </ol>
-<p> <b> Judging Criteria: </p> </b> 
-<p> <b> Round 1: </p> </b> 
+<p> <b> Judging Criteria: </p> </b>
+<p> <b> Round 1: </p> </b>
 <ol>
 <li> The teams will be given three chances to pick a chit and enact the answer. Weightage
 of points decreases with each successive chance.
@@ -1811,7 +1811,7 @@ of points decreases with each successive chance.
 <li> The team will be judged on basis of the circuit made in Tinkercad and points will be
 allotted accordingly.
  </li>
- 
+
 </ol>
 
 <p> <b> Round 3: </b> </p>
@@ -1860,13 +1860,13 @@ be declared.
 
 
 <li>As the image suggests, at some point of the arena the line shift suddenly to either the right or left by not more than 1 centimeter. The participant needs to program their bot in such a manner that it could understand the shift and traverse the path according to the blue line shown in the image.
-<li>At some points of the arena, the lines will have sharp turns but the edges of the turn will be removed as you can see in the given image. So the participant needs to program their bot in such a way that it does not malfunction in this part. 
+<li>At some points of the arena, the lines will have sharp turns but the edges of the turn will be removed as you can see in the given image. So the participant needs to program their bot in such a way that it does not malfunction in this part.
 
 <li>At some points of the arena, the path could have a turn with an angle of at most 45 degrees. So the participants will have to program their bot accordingly. If the bot leaves the path, it will have to restart from the last checkpoint and penalties will be imposed for every such action.
 
 <li>Some part of the arena will constitute curved dotted lines with a gap of a maximum of 1 centimeter. The line will not bend with a very sharp turn but will almost look like a straight line. So the contestant need not worry so much about this part as they will easily be able to traverse with a minor change in the program.
 </ol>
- 
+
 <p> <b>Colour Sensing:</b> </p>
 <li>There will be points in the arena where the line will divert into two paths at 90 degrees. At this point, there will a rectangular patch of red color laid on the floor 3 cm ahead of the turning point as shown in the diagram. The participant needs to construct their bot and program it in such a manner that it should be able to detect this color in front of the line and take 90 degrees turn to the left side. Taking a right turn in this point and following the path will result in negative points. If the left path is traversed, the team will gain points in their favor.
 <li>There will be points in the arena where the line will divert into two paths at 90 degrees. At this point, there will a rectangular patch of yellow color laid on the floor 3 cm ahead of the turning point as shown in the diagram. The participant needs to construct their bot and program it in such a manner that it should be able to detect this color in front of the line and take 90 degrees right turn. Taking a left turn in this point and following the path will result in negative points. If the right path is traversed, the team will gain points in their favor.
@@ -1964,25 +1964,25 @@ be declared.
  <p>The Task is to build a manually controlled bot which can complete the route by overcoming the obstacles in its Path. Thus battling with the opponents based on Marginal points and timing to finally win it. The bot can be wired or wireless. In case of wireless they maybe Bluetooth controlled or Wi-Fi controlled. There are 2 rounds, Round 1 and 2 based on the difficulty level, participants will go to the next round by only clearing the preceding round. </p>
 <p> <b>  Round1 (Two bots will have to compete for each other in a race.) </b> </p>
  <p> <b> Gameplay 1: </b> </p>
- <p>Two bots must start from the “START” mark.  
+ <p>Two bots must start from the “START” mark.
 The bots first arrive at Checkpoint A.
- The two bots have to reach Checkpoint B after crossing the hurdles in any of the two paths. (Additional points for a difficult path.) 
+ The two bots have to reach Checkpoint B after crossing the hurdles in any of the two paths. (Additional points for a difficult path.)
  Then the bots will move towards the Checkpoint C after crossing the typical curvature.
-  Then the bots will have to climb a special obstacle to reach Checkpoint D. 
+  Then the bots will have to climb a special obstacle to reach Checkpoint D.
  Checkpoint E will be obtained after overcoming the Staircase(ie.an escalator moving in the opposite direction). Then the bots have to go through the Roller section to reach the ‘FINISH’ MARK.</p>
 <p> <b>  Round2: </b> </p>
  <p> <b>  Gameplay 2:- </b> </p>
  <p>It is a solo race; In addition to the previous Checkpoints in ROUND 1 the new Checkpoints are as follows:-
- The bot must start from the ‘START’ mark. 
+ The bot must start from the ‘START’ mark.
  The bot will reach Checkpoint *A after avoiding the obstacles.
- The bot arrives at Checkpoint *B after going through the tunnel. 
- Checkpoint *C will be obtained after overcoming the Roller section with an additional obstacle. 
+ The bot arrives at Checkpoint *B after going through the tunnel.
+ Checkpoint *C will be obtained after overcoming the Roller section with an additional obstacle.
  The bot will have to choose either of the two paths to reach the Checkpoint *D or Checkpoint *E respectively and finally reach the ‘FINISH’ MARK.</p>
 <p> <b> Rules and Regulations:- </b> </p>
-<li> Teams can have a minimum of 2 and maximum of 4 members. 
-<li> Bots must not exceed the dimensions of 30x30x30(cms). 
-<li> The weight of the bot must not exceed 3kgs. 
-<li> The bot may or may not have an onboard power source, a 220v( ac) source will be provided, eliminators, batteries, dc motors must not exceed 12-14v(dc). 
+<li> Teams can have a minimum of 2 and maximum of 4 members.
+<li> Bots must not exceed the dimensions of 30x30x30(cms).
+<li> The weight of the bot must not exceed 3kgs.
+<li> The bot may or may not have an onboard power source, a 220v( ac) source will be provided, eliminators, batteries, dc motors must not exceed 12-14v(dc).
 <li> There can be students from different colleges to form a team.
  <li> At the most 2 members are allowed to control the bot. (including the driver).
 <li> The bot is liable for disqualification if
@@ -1990,7 +1990,7 @@ The bots first arrive at Checkpoint A.
 <li> does any damage to the arena</li> </li>
 <li> The maximum time limit is 6 mins for each time</li>
  <li> In case the bot gets stuck in the arena for more than 1 minute, it will be repositioned to its initial checkpoint and there is no penalty for it. </li>
-<li> The organiser’s decision is final and binding.</li>      
+<li> The organiser’s decision is final and binding.</li>
 
 <p> <b> Judgement Criteria:- </b> </p>
 <ul>
@@ -2003,7 +2003,7 @@ The bots first arrive at Checkpoint A.
 <li> 5 points for reaching Checkpoint *A. </li>
 <li> 15 points for reaching Checkpoint *B. </li>
 <li> 5 points for reaching Checkpoint *C. </li>
-<li> 20 points for reaching Checkpoint *D or 10 points for reaching Checkpoint *D.</li> 
+<li> 20 points for reaching Checkpoint *D or 10 points for reaching Checkpoint *D.</li>
 <li> Bots may be judged for full completion and quickness of completion based on performance and development of the bot.</li>
 <li> Any change in the scoring and judgment criteria may be done by the Organizers without prior announcement if some issue arises.</li>
 </ul>
@@ -2023,7 +2023,7 @@ The bots first arrive at Checkpoint A.
 <p> Vishesh: 9711901381 </p>
 </html>`,
         "706": `
-<h1> MIRROR MAZE</h1> 
+<h1> MIRROR MAZE</h1>
 
 
 <p> <b>Description of the Event</b> </p>
@@ -2062,7 +2062,7 @@ Maze dimension will be (11x17) sq.ft.
 <li>A participant can avail maximum up to 3 skips per round, which can be opted only if the bot freezes on spot. For each skip, 5 marks would be deducted.
 <li>All teams would be awarded 50 points initially only if it satisfies the dimension criteria.
 <li>A tolerance of 20cm + 4cm (bot width) will be allowed for participating in the event, however, the team would lose the initial 50 points in that case.
-<li>There would be a total of 3 rounds: 
+<li>There would be a total of 3 rounds:
 <ul>
 <li>Round 1: Individual teams would be participating one by one & the top teams scoring the most points in the specified time for the round will get qualified for the next round.
 <li>Round 2:Two bots would be participating simultaneously from 2 random extreme points in the maze. The bot securing most points in the given time span of the round qualifies for the next round. An addition of 20 points would be awarded if the bot exits the maze in the given time span.
@@ -2086,14 +2086,14 @@ vAll rules & marking schemes are subjected to change before the starting of comp
 <p><b>Task:</b></p> <p> Design and construct a remote controlled robot capable of fighting a one on one tournament. </p>
 <p><b>Dimension and Fabrications:</b></p>
 <li>The machine should fit in a box of dimension 500mm x 500mm x 500 mm (l x w x h) at any given point during the match. The external device used to control the machine or any external tank is not included in the size constraint.
-<li>The machine should not exceed 20 kg but a tolerance of 5% will be allowed and for wireless it should not exceed 23 kg.                                                                                              Mobility: All robots must have easily visible and controlled mobility in order to compete. Methods of mobility include: . 
+<li>The machine should not exceed 20 kg but a tolerance of 5% will be allowed and for wireless it should not exceed 23 kg.                                                                                              Mobility: All robots must have easily visible and controlled mobility in order to compete. Methods of mobility include: .
 <ol type=”a”>
 <li>Rolling (wheels, tracks or the whole robot).
 <li>Non-wheeled robots having no rolling elements in contact with the floor and any continuous rolling or cam operated motion in contact with the floor, either directly or via a linkage. Motion is "continuous" if continuous operation of the drive motor(s) produces continuous motion of the robot. Linear-actuated legs and novel non-wheeled drive systems come under this category.
 <li>Jumping and hopping is not allowed. Flying (using airfoil, helium balloons etc.) is not allowed.
 </ol>
 <p><b>Rules and Regulations:</b></p>
-<li>The machine can be controlled through wired or wireless remote. In case of wireless remote Power supply should be on board only. Refer below for further details on battery and power<li>There should be binding capability between transmitters and receivers and they must connect between polycarbonate (6mm), metal bars barriers. The remotes with such facility will only be allowed. 
+<li>The machine can be controlled through wired or wireless remote. In case of wireless remote Power supply should be on board only. Refer below for further details on battery and power<li>There should be binding capability between transmitters and receivers and they must connect between polycarbonate (6mm), metal bars barriers. The remotes with such facility will only be allowed.
 <li>Nonstandard or self-made remote control systems must first be approved by the organizers.
 <li>Team should pair up the wireless remote with the machine before putting it into the arena
 
@@ -2101,7 +2101,7 @@ vAll rules & marking schemes are subjected to change before the starting of comp
 <p><b>Battery and Power:</b></p>
 <p> The machine can be powered electrically only. Use of an IC engine in any form is not allowed. On- board batteries must be sealed, immobilized-electrolyte types (such as gel cells, lithium, NiCad, NiMH, or dry cells). </p>
 <ol>
-<li>The electric voltage between 2 points anywhere in the machine should not be more than 36V DC at any point of time. 
+<li>The electric voltage between 2 points anywhere in the machine should not be more than 36V DC at any point of time.
 <li>All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause direct disqualification.
 <li>Use of damaged, non-leak proof batteries may lead to disqualification.
 <li>Special care should be taken to protect the on-board batteries. If judges found that the battery is not properly protected, then team will be disqualified immediately.
@@ -2176,7 +2176,7 @@ vAll rules & marking schemes are subjected to change before the starting of comp
 <li>The different pages of the application involves the registration page and the each quiz question page.
 <li>Sudoku puzzle consists of a grid of 9 blocks. Each block contains 9 boxes arranged in 3 rows and 3 columns.
 <li>In Sudoku, some blocks will be pre-filled. These numbers cannot be changed in the course of the game.
-<li>The  last round is rubik’s cube for the selected participants for final round. 
+<li>The  last round is rubik’s cube for the selected participants for final round.
 </ol>
 
             <p> <b>JUDGING CRITERIA: </b></p>
@@ -2193,14 +2193,14 @@ vAll rules & marking schemes are subjected to change before the starting of comp
 
 
 
-        
+
         //Yantriki
         "801": `
             <h1>AERO RACE</h1>
             <hr>
             <p><b> EVENT DESCRIPTION:- </b></p>
             <p>The objective of this event is to attract multi-rotors enthusiasts to provide them with immense opportunity of testing the agility of their rotary wings aircrafts and UAVs as well as to attract aero modeling enthusiasts to provide them with immense opportunity of testing the agility of their fixed aircrafts.</p>
-            
+
             <p><b>PROBLEM STATEMENT:-</b></p>
             <p>ROUND-1: DRONE RACE</p>
             <p>Design Constraint:</p>
@@ -2255,7 +2255,7 @@ vAll rules & marking schemes are subjected to change before the starting of comp
                 <li>All parts must remain attached to the aircraft during flight and landing.
                 <li>Broken propellers are allowed, and will not invalidate a flight attempt.
                 <li>The payload must be secured to the airframe to ensure that the payload will not shift or come loose in flight.
-                <li>The use of 2.4 GHz radio is required for all aircraft competing.    
+                <li>The use of 2.4 GHz radio is required for all aircraft competing.
                 <li>A maximum time of 3 minutes will be given to complete the circuit.
                 <li>The weight of payload and empty weight of the plane will be checked by the coordinator after every round.
             </ol>
@@ -2291,13 +2291,13 @@ You'll be given a pack of cards. And you have to make a Castle out if it(make su
 <p><ol>
 <li>Participant has to be a college student (any branch or year).
 
-<li> Any kind of violence (physical/verbal) is not allowed. If found guilty, the participant will be immediately disqualified. 
+<li> Any kind of violence (physical/verbal) is not allowed. If found guilty, the participant will be immediately disqualified.
 
-<li> Within the event, there might be some instances when the participant will get a chance to destruct others participant's structure. That has to be done only under the eyes of coordinator and within the rules specified at that moment. 
+<li> Within the event, there might be some instances when the participant will get a chance to destruct others participant's structure. That has to be done only under the eyes of coordinator and within the rules specified at that moment.
 
 <li> Coordinators have the right to disqualify you at any moment if they find you involved in any kind of cheating or abuse of rules.
 
-<li> The decision of the judges will be final and no alterations will be made in the results. 
+<li> The decision of the judges will be final and no alterations will be made in the results.
 
 </ol></p>
 <p><b>Prize money:-</b> Rs 20,000</p>
@@ -2400,7 +2400,7 @@ Water Rocket is a mechanical event that involves the fabrication of a rocket who
 <li> Teams are advised to get more than one water rocket, in case of any damage to one. But the water rockets must be identical.
 <li> The participants are allowed to use variations of their water rockets in different rounds. However, only one design must be maintained throughout a single round.
 <li> The team will be disqualified/given another chance to remodel if the model is found to be dangerous in anyway. Decision of the organizers is final and binding.
-</ol> 
+</ol>
 </p>
 <p><b>JUDGING CRITERIA:</b></p>
 <p>The judgment is completely based on the marking scheme mentioned in the event format.
@@ -2549,6 +2549,6 @@ Water Rocket is a mechanical event that involves the fabrication of a rocket who
 		</ul>
 		</p>
 
-        `,       
+        `,
     }
 </script>
