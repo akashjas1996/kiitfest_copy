@@ -89,11 +89,11 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 //echo "Connected successfully";
-$sql = "SELECT kf_id, name, roll_no, phone, institution, payment_complete FROM participants_participant"; 
+$sql = "SELECT * FROM participants_participant WHERE payment_complete IS NULL";
 $result = $conn->query($sql);
 $sl=1;
 while($row = $result->fetch_assoc()) {
-      if($row["payment_complete"]!=1){
+
         echo '
   <tbody id=col'.$sl.'>
     <tr>
@@ -105,9 +105,11 @@ while($row = $result->fetch_assoc()) {
     </tr>';
         /*echo '
         <h1></h1>
-            <p>'.$sl.'  '.$row['kf_id'].'  '.$row['name'].'  '.$row['email'].'  '.$row['payment_complete'].'  '.$row['phone'].'</p>';*/}
+            <p>'.$sl.'  '.$row['kf_id'].'  '.$row['name'].'  '.$row['email'].'  '.$row['payment_complete'].'  '.$row['phone'].'</p>';*/
+
             $sl=$sl+1;
       }
+
 ?>
 
 </tbody>
