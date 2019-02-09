@@ -2279,13 +2279,17 @@ vAll rules & marking schemes are subjected to change before the starting of comp
 <p><b>Description of the event:-</b></p>
 <p> Being an architect can be both fun and tough. The Architecture of Destruction has been a very popular event of KIITFEST since its inception, and this year it is ready to have fun with some "destructively creative" minds. Divided into three rounds, this event checks your ability to find the weak spots of a structure, your ability to create trouble for your opponents with your steps, and your ability to make a rock-solid structure with limited resources. Stay calm, and win it all. </p>
 <p><b>Rules and Regulations</b></p>
-<p><b>1. BREAK UP(KNOCK OUT ROUND)</b></p>
-<p>  2 teams will be pitted against each other. There will be a pile of Jenga blocks and you have to pull the blocks. Make sure to make your opponent the victim of your move.</p>
-<p><b>2. SHOW ME YOUR MOVE BABY!</b></p>
-<p>In the second round, Participants will have to make a structure of their own using the JENGA blocks. During the event, one member of the opponent will be allowed to come and pull out or add one block in their structure. </p>
-<p><b>3. THE TWIN TOWERS OF 9/11</b></p>
-<p>After 2 rounds of Jenga, the final round will involve a pack of cards. Since childhood, we are building castles of cards. Again we need to make 1.
-You'll be given a pack of cards. And you have to make a Castle out if it(make sure no card is wasted). Then, the opponent will be given 5 paper Planes and they'll throw it on your castle. It involves your precision and your opponents' aim. Time factor involved as well as strength. </p>
+<p><b>1. BREAK UP AND IF NOT, SHOW ME YOUR MOVE BABY!</b></p>
+<p>  Within a time limit of five minutes, each team will make a structure of their own out of the pile of Jenga blocks provided. The marks will be equal to the number of blocks used within the time limit.i.e. (+1)</p>
+<p>Then the teams will be divided into pairs of opponents and will be provided with three ping pong balls. One member of each team will aim the balls towards its opponents’ structure. If the ball touches it or breaks it, the opponent team loses two marks (-2) or five marks(-5) respectively.</p>
+<p>f the structure does not break, the same team member will pull a block out of the oppenents’ structure. If it breaks down, the opponent will lose five marks or else, will gain three marks.
+</p>
+<p>The top 5 teams will be directed to the next round.</p>
+
+<p><b>2. THE TWIN TOWERS OF 9/11</b></p>
+<p>After 1st round, the final round will involve a pack of cards. Since childhood we are making castles of cards. Again we need to make one. You will be given a pack of cards and some toothpicks.
+</b></p>
+<p>Within 30 minutes you have to make a structure out of it (make sure no card is wasted) using your creativity. You team will be judged based on height and aesthetics of your structure by the judges (on a mark of 20)</p>
 
 <p><b>Judging Criteria:-</b></p>
 <p><ol>
@@ -2302,9 +2306,8 @@ You'll be given a pack of cards. And you have to make a Castle out if it(make su
 </ol></p>
 <p><b>Prize money:-</b> Rs 20,000</p>
 <p><b>Contact with phone number</b> </p>
-<p>Sarthak Sinha- 7684854312 (Roll no: 1502057)</p>
-<p>Aaditya Agrawal- 9051469709 (Roll no: 1626013)</p>
-
+<p>ABHIJEET ANAND (7064017525)</p>
+<p>SHAFAQUE FIROZ (9078024925)</p>
 
        ` ,
         "803": `
