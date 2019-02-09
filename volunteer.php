@@ -147,9 +147,9 @@ s0.parentNode.insertBefore(s1,s0);
 <div class="id-card">
 
 
-<form action="calltopay.php" METHOD="POST">
-  <center> <input hint="username" type="text" style="height:30px; font-size:30px; color: grey; text-align: center" name="username"> </center> <br>
-  <center> <input hint="PIN" type="password" style="height:30px; font-size:30px; color: grey; text-align: center" name="pwd"> </center>
+<form action="login_test.php" METHOD="POST">
+  <center> <input hint="username" type="text" style="height:30px; font-size:30px; color: grey; text-align: center" name="myusername"> </center> <br>
+  <center> <input hint="PIN" type="password" style="height:30px; font-size:30px; color: grey; text-align: center" name="mypassword"> </center>
   <br><br>
   <center><input type="submit" style="height:40px; width: 120px; border-radius: 20px; border-color:#008CBA; outline:none; font-color:white; font-style:bold; background-color: #008CBA;" value="Submit"></center>
 </form> 
