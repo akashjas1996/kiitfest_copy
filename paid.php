@@ -76,7 +76,7 @@ $sql = new sql();
 
 //echo "Connected successfully";
 
-if($sql->isVol()==1)
+if($sql->isVol()==1 && $sql->getRole()==999 || $sql->getRole()==1 )
 {
   echo '<table class="table table-bordered table-hover table-dark table-striped table-condensed">
     <thead>
