@@ -89,18 +89,27 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 //echo "Connected successfully";
-$sql = "SELECT kf_id, name, roll_no, phone, institution, payment_complete FROM participants_participant";
+$sql = "SELECT * FROM participants_participant WHERE payment_complete=1";
 $result = $conn->query($sql);
 $sl=1;
 while($row = $result->fetch_assoc()) {
-      if($row['payment_complete'] == 1){
-        echo $row['payment_complete']
-        
+
+        echo '
+  <tbody id=col'.$sl.'>
+    <tr>
+      <th scope="row">'.$sl.'</th>
+      <td>'.$row['kf_id'].'</td>
+      <td width="auto">'.$row['name'].'</td>
+      <td><a href="tel://+91'.$row['phone'].'"><i class="fas fa-phone" style="font-size:24px;"></i></td>
+      <td>'.$row['institution'].'</td>
+    </tr>';
         /*echo '
         <h1></h1>
-            <p>'.$sl.'  '.$row['kf_id'].'  '.$row['name'].'  '.$row['email'].'  '.$row['payment_complete'].'  '.$row['phone'].'</p>';*/}
+            <p>'.$sl.'  '.$row['kf_id'].'  '.$row['name'].'  '.$row['email'].'  '.$row['payment_complete'].'  '.$row['phone'].'</p>';*/
+
             $sl=$sl+1;
       }
+
 ?>
 
 </tbody>
