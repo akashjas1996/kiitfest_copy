@@ -76,8 +76,6 @@
   </thead>
 
 <?php
-$usrname = $_POST["username"];
-$pass = $_POST["pwd"];
 error_reporting(E_ALL);
   $servername = "51.68.139.41";
   $username = "kiitfest";
@@ -91,30 +89,25 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 } 
 //echo "Connected successfully";
-$sql1 = "SELECT username, pin, vol_name FROM volunteer_db WHERE username='$username"; 
+$sql = "SELECT kf_id, name, roll_no, phone, institution FROM participants_participant"; 
 $result = $conn->query($sql);
+$sl=1;
 while($row = $result->fetch_assoc()) {
-  if($row["pin"]==$pass){
-    $_SESSION['login_user'] = $row["vol_name"];
-    $sql = "SELECT kf_id, name, roll_no, phone, institution FROM participants_participant"; 
-    $result = $conn->query($sql);
-    $sl=1;
-    while($row = $result->fetch_assoc()) {
       if($row["payment_complete"]!=1){
         echo '
-        <tbody id=col'.$sl.'>
-        <tr>
-        <th scope="row">'.$sl.'</th>
-        <td>'.$row['kf_id'].'</td>
-        <td width="auto">'.$row['name'].'</td>
-        <td><a href="tel://+91'.$row['phone'].'"><i class="fas fa-phone" style="font-size:24px;"></i></td>
-        <td>'.$row['institution'].'</td>
-        </tr>';
-      } 
-      $sl=$sl+1;
-    }
-  }
-}
+  <tbody id=col'.$sl.'>
+    <tr>
+      <th scope="row">'.$sl.'</th>
+      <td>'.$row['kf_id'].'</td>
+      <td width="auto">'.$row['name'].'</td>
+      <td><a href="tel://+91'.$row['phone'].'"><i class="fas fa-phone" style="font-size:24px;"></i></td>
+      <td>'.$row['institution'].'</td>
+    </tr>';
+        /*echo ' 
+        <h1></h1>
+            <p>'.$sl.'  '.$row['kf_id'].'  '.$row['name'].'  '.$row['email'].'  '.$row['payment_complete'].'  '.$row['phone'].'</p>';*/} 
+            $sl=$sl+1;
+      }
 ?>
 
 </tbody>
