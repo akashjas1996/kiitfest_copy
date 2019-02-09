@@ -1,5 +1,5 @@
 <?php
-session_start();
+@require_once("db_connection.php");
 include "sql.php";
 $sql = new sql();
  ?>
@@ -73,18 +73,7 @@ $sql = new sql();
 
 
 <?php
-error_reporting(E_ALL);
-  $servername = "51.68.139.41";
-  $username = "kiitfest";
-  $password = "hi9jkH27Gb1sEkRj";
-  $dbname = "kiitfest_5";
 
-  // Create connection
-  $conn = new mysqli($servername, $username, $password, $dbname);
-  // Check connection
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
-}
 //echo "Connected successfully";
 
 if($sql->isVol()==1)
@@ -101,7 +90,7 @@ if($sql->isVol()==1)
       </tr>
     </thead>';
   $sql = "SELECT * FROM participants_participant WHERE payment_complete=1";
-  $result = $conn->query($sql);
+  $result = $GLOBALS['connect']->query($sql);
   $sl=1;
   while($row = $result->fetch_assoc()) {
 
