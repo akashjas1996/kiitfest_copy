@@ -95,16 +95,7 @@ $sl=1;
 while($row = $result->fetch_assoc()) {
       if($row['payment_complete'] == 1){
         echo $row['payment_complete']
-        continue();
-        echo '
-  <tbody id=col'.$sl.'>
-    <tr>
-      <th scope="row">'.$sl.'</th>
-      <td>'.$row['kf_id'].'</td>
-      <td width="auto">'.$row['name'].'</td>
-      <td><a href="tel://+91'.$row['phone'].'"><i class="fas fa-phone" style="font-size:24px;"></i></td>
-      <td>'.$row['institution'].'</td>
-    </tr>';
+        
         /*echo '
         <h1></h1>
             <p>'.$sl.'  '.$row['kf_id'].'  '.$row['name'].'  '.$row['email'].'  '.$row['payment_complete'].'  '.$row['phone'].'</p>';*/}
