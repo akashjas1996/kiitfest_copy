@@ -7,8 +7,11 @@ $db_name="kiitfest_5"; // Database name
 $tbl_name="volunteer_db"; // Table name 
 
 // Connect to server and select databse.
-mysqli_connect("$host", "$username", "$password")or die("cannot connect"); 
-mysqli_select_db("$db_name")or die("cannot select DB");
+$conn = new mysqli($servername, $username, $password, $dbname);
+  // Check connection
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+} 
 
 // username and password sent from form 
 $myusername=$_POST['myusername']; 
