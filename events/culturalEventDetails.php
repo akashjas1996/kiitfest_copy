@@ -147,7 +147,6 @@
 				<li>There is no maximum team limit but if the team members Exceed 30 then a separate mail has to be sent to the event heads or to the organizers notifying the same.</li>
 				<li>Time limit- 8+2 min (Entry to Exit)</li>
 				<li>There will be only ONE ROUND.</li>
-				<li>Theme for Group dance - Evil</li>
         <li>The dance should be based on a concept</li>
 			</ul>
 
@@ -261,7 +260,7 @@
 				<li> Teams are allowed to have one member each for lights, sound and spot. </li>
 				<li> No offensive/obscene content should be there in the play/skit.</li>
 				<li>The criteria for the evaluation of performance will be announced before the start of the event.</li>
-        <li>Minimum team members: 8 
+        <li>Minimum team members: 8
 				<li>Judges decision will be full and final.</li>
 
 			</ol>

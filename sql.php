@@ -1,11 +1,37 @@
 <?php
 @require_once("db_connection.php");
 class sql {
+     function getRole() {
+        if(array_key_exists("myusername", $_SESSION) && !empty($_SESSION["myusername"]))
+        {
+            $uname = $_SESSION["myusername"];
+            $query = "SELECT * FROM volunteer_db WHERE username='$uname'";
+            $result = mysqli_query($GLOBALS['connect'],$query);
+            $row = mysqli_fetch_assoc($result);
+            if($row>0)
+            {
+               return $row['role'];
+            }
+            else
+              return 0;
+        }
+     }
+	 function isVol() {
+		 if(array_key_exists("myusername", $_SESSION) && !empty($_SESSION["myusername"]))
+			 {
+					 return 1;
+			 }
+			 else
+			 {
+				   return 0;
+			 }
+
+	 }
 	 function isLogin() {
 	     if(array_key_exists("valid_participant", $_SESSION) && !empty($_SESSION["valid_participant"]))
          {
              return 1;
-         } 
+         }
          else
          {
     	     return 0;
@@ -16,7 +42,7 @@ class sql {
 	    if(array_key_exists("valid_participant", $_SESSION) && !empty ($_SESSION["valid_participant"]))
         {
             return $_SESSION["valid_participant"];
-        } 
+        }
         else
         {
     	    return null;

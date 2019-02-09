@@ -1,0 +1,762 @@
+{
+    "801":{
+      "event_id": "801",
+      "event_name": "AeroRace",
+      "date": "15th & 16th Feb 10 AM",
+      "venue": "KSAC",
+      "campus": "Campus 13",
+      "latitude": "20.356722",
+      "longitude": "85.8181328",
+      "contact" : "7504412558"
+    },
+    "802" :{
+      "event_id": "802",
+      "event_name": "Architecture of Destruction",
+      "date": "15th & 16th Feb 10 AM",
+      "venue": "Room 201",
+      "campus": "Campus 8",
+      "latitude": "20.351411",
+      "longitude": "85.820143",
+      "contact" : "7064017525"
+    },
+    "804":{
+      "event_id": "804",
+      "event_name": "EDCAD",
+      "date": "15th Feb 2 PM & 16th Feb 10 AM",
+      "venue": "Room 104 & CAD Lab",
+      "campus": "Campus 8",
+      "latitude": "20.351411",
+      "longitude": "85.820143",
+      "contact" : "8342910025"
+    },
+    "803":{
+      "event_id": "803",
+      "event_name": "Drone-Acharya",
+      "date": "18th Feb 11 AM",
+      "venue": "Seminar Hall",
+      "campus": "Campus 8",
+      "latitude": "20.351411",
+      "longitude": "85.820143",
+      "contact" : "9162867942"
+    },
+    "807":{
+      "event_id": "807",
+      "event_name": "Sunder Master",
+      "date": "15th & 16th Feb 10 AM",
+      "venue": "Room 203, 204 & Mech Dept.",
+      "campus": "Campus 8",
+      "latitude": "20.351411",
+      "longitude": "85.820143",
+      "contact" : "7978564349"
+    },
+    "805":{
+      "event_id": "805",
+      "event_name": "Hydro Booster",
+      "date": "15th & 16th Feb 10 AM",
+      "venue": "Mech Dept.",
+      "campus": "Campus 8",
+      "latitude": "20.351411",
+      "longitude": "85.820143",
+      "contact" : "8763185687"
+    },
+    "806":{
+      "event_id": "806",
+      "event_name": "Mech Ke Tech",
+      "date": "15/2/2019  16/2/2019 17/2/2019    2:00 PM",
+      "venue": "Mech Dept.",
+      "campus": "Campus 8",
+      "latitude": "20.351411",
+      "longitude": "85.820143",
+      "contact" : "8723852602"
+    },
+    "901":{
+      "event_id": "901",
+      "event_name": "FROZEN IN TIME",
+      "date": "16/02/19\n10:00a.m.-1:00p.m\n",
+      "venue": "KSAC,3rd floor",
+      "campus": "Campus 13",
+      "latitude": "20.356722",
+      "longitude": "85.8181328",
+      "contact" : "7873877305"
+    },
+    "902":{
+      "event_id": "902",
+      "event_name": "MISMATCH - The Masterchef Event",
+      "date": "PRELIM - 15/02/2019 : 2:00 PM ONWARDS\nFINALE - 16/02/2019 : 9:00 AM ONWARDS",
+      "venue": "Kunjaban",
+      "campus": "Campus 6",
+      "latitude": "20.353001",
+      "longitude": "85.819723",
+      "contact" : "9438888388"
+    },
+    "903":{
+      "event_id": "903",
+      "event_name": "Open Sesame",
+      "date": "16/02/19 - 17/02/19",
+      "venue": "Banquet Hall",
+      "campus": "Campus 6",
+      "latitude": "20.353001",
+      "longitude": "85.819723",
+      "contact" : "9123782010"
+    },
+    "904":{
+      "event_id": "904",
+      "event_name": "Zara Nachke Dikha",
+      "date": "prelims 15/02/19 : 9:00am-4:00pm\nFinals 17/02/19 : 10:00am- 4:00pm",
+      "venue": "Architecture Auditorium",
+      "campus": "Campus 7",
+      "latitude": "20.350057",
+      "longitude": "85.820246",
+      "contact" : "NA"
+    },
+    "905":{
+      "event_id": "905",
+      "event_name": "Tell A Tale",
+      "date": "15/02/19",
+      "venue": "Online",
+      "campus": "Online",
+      "latitude": "NA",
+      "longitude": "NA",
+      "contact" : "NA"
+    },
+    "906":{
+      "event_id": "906",
+      "event_name": "Shabd",
+      "date": "15/02/19 : 11:00AM",
+      "venue": "KSAC 3rd floor",
+      "campus": "Campus 13",
+      "latitude": "20.356722",
+      "longitude": "85.8181328",
+      "contact" : "9937990217"
+    },
+    "907":{
+      "event_id": "907",
+      "event_name": "Spotlight",
+      "date": "15.02.2019 : 11:00AM",
+      "venue": "KIMS Auditorium",
+      "campus": "Campus 5",
+      "latitude": "20.352083",
+      "longitude": "85.813973",
+      "contact" : "NA"
+    },
+    "908":{
+      "event_id": "908",
+      "event_name": "Isle To Glory",
+      "date": "16/02/2019 : 10:00 am to 4:00pm",
+      "venue": "Mechanical OAT",
+      "campus": "Campus 8",
+      "latitude": "20.351411",
+      "longitude": "85.810143",
+      "contact" : "9078802826"
+    },
+    "909":{
+      "event_id": "909",
+      "event_name": "Instant-o-fie",
+      "date": "16/02/19 - 17/02/19",
+      "venue": "Conference Hall 2",
+      "campus": "Campus 6",
+      "latitude": "20.353001",
+      "longitude": "85.819723",
+      "contact" : "9852882745"
+    },
+    "910":{
+      "event_id": "910",
+      "event_name": "FUEGO",
+      "date": "15.02.2019 : 9AM",
+      "venue": "KIITFEST Main Stage",
+      "campus": "Campus 13",
+      "latitude": "20.356722",
+      "longitude": "85.8181328",
+      "contact" : "9038625339"
+    },
+    "911":{
+      "event_id": "911",
+      "event_name": "CHITRA-VI-CHITRA-CHITRAM",
+      "date": "15.02.2019",
+      "venue": "Online",
+      "campus": "Online",
+      "latitude": "NA",
+      "longitude": "NA",
+      "contact" : "9162864839"
+    },
+    "912":{
+      "event_id": "912",
+      "event_name": "Alankaar",
+      "date": "16th Feb 2018(Prelims)\t9:00am - 2:00pm\n17th Feb 2018(Finals)\t10:00am - 1:00pm",
+      "venue": "Seminar Hall 1",
+      "campus": "Campus 6",
+      "latitude": "20.353001",
+      "longitude": "85.819723",
+      "contact" : "7209773806"
+    },
+    "913":{
+      "event_id": "913",
+      "event_name": "DEKH TAMASHA DEKH",
+      "date": "16.02.2019\t11:00",
+      "venue": "OAT 4",
+      "campus": "Campus 3",
+      "latitude": "20.352735",
+      "longitude": "85.816384",
+      "contact" : "NA"
+    },
+    "914":{
+      "event_id": "914",
+      "event_name": "Melange",
+      "date": "15/02/19\t10:00 AM ONWARDS\n16/02/19\t11:00AM-2:00 PM ",
+      "venue": "Bio-Tech Auditorium",
+      "campus": "Campus 11",
+      "latitude": "20.359719",
+      "longitude": "85.822902",
+      "contact" : "6370642346"
+    },
+    "915":{
+      "event_id": "915",
+      "event_name": "Tulika",
+      "date": "16/02/19\t11:00",
+      "venue": "Conference Hall 8",
+      "campus": "Campus 6",
+      "latitude": "20.353001",
+      "longitude": "85.819723",
+      "contact" : "7275344203"
+    },
+    "916":{
+      "event_id": "916",
+      "event_name": "Illustory",
+      "date": "NA",
+      "venue": "NA",
+      "campus": "NA",
+      "latitude": "NA",
+      "longitude": "NA",
+      "contact" : "NA"
+    },
+    "101":{
+      "event_id": "101",
+      "event_name": "Circuit Design & Power Relay",
+      "date": "15/2/2019 16.02 .2019\t\r\n17/2/2019 11:00 AM - 1:00 PM\r\n\t",
+      "venue": "E-205",
+      "campus": "Campus 3",
+      "latitude": "20.352735",
+      "longitude": "85.816384",
+      "contact" : "7355433380"
+    },
+    "102":{
+      "event_id": "102",
+      "event_name": "Design 4 Energy",
+      "date": "15/2/2019\t\r\n16.02 .2019\t8:00 AM-1:30 PM",
+      "venue": "A-10",
+      "campus": "Campus 3",
+      "latitude": "20.352735",
+      "longitude": "85.816384",
+      "contact" : "8131037040"
+    },
+    "103":{
+      "event_id": "103",
+      "event_name": "KIIT-IEEE Workshop",
+      "date": "15/2/2019\t11:00 AM - 1:00 PM\r\n16.02 .2019\t11:00 AM - 2:00 PM\r\n17/2/2019\t",
+      "venue": "MPMC Lab",
+      "campus": "Campus 3",
+      "latitude": "20.352735",
+      "longitude": "85.816384",
+      "contact" : "9078533004"
+    },
+    "104":{
+      "event_id": "104",
+      "event_name": "Robot Triathlon",
+      "date": "15/2/2019\t9:00 to 16:30\r\n16.02 .2019\t9:00 to 15:00\r\n17/2/2019\t9:00 to 14:00",
+      "venue": "B - block",
+      "campus": "Campus 3",
+      "latitude": "20.352735",
+      "longitude": "85.816384",
+      "contact" : "8794616221"
+    },
+    "105":{
+      "event_id": "105",
+      "event_name": "S.U.I.T",
+      "date": "15/2/2019\t11:00 AM - 1:00 PM\r\n16.02 .2019\t11:00 AM - 2:00 PM\r\n17/2/2019\t",
+      "venue": "A-11",
+      "campus": "Campus 3",
+      "latitude": "20.352735",
+      "longitude": "85.816384",
+      "contact" : "7999205175"
+    },
+    "106":{
+      "event_id": "106",
+      "event_name": "Solar Spectrum",
+      "date": "15/2/2019\t11:00AM-2:00PM\r\n16.02 .2019\t\r\n17/2/2019\t",
+      "venue": "D-Block Ground",
+      "campus": "Campus 3",
+      "latitude": "20.352735",
+      "longitude": "85.816384",
+      "contact" : "7978415217"
+    },
+    "201":{
+      "event_id": "201",
+      "event_name": "Cell-Lock Holmes",
+      "date": "15th Feb 3:30-5:30(PM) 3:30-5:30(PM)",
+      "venue": "ROOM 216",
+      "campus": "Campus 11",
+      "latitude": "20.359719",
+      "longitude": "85.822902",
+      "contact" : "9475533601"
+    },
+    "202":{
+      "event_id": "202",
+      "event_name": "Chitra-a-ghar",
+      "date": "16th Feb 9:00-11:30(AM)",
+      "venue": "LAB 110, 111, 206",
+      "campus": "Campus 11",
+      "latitude": "20.359719",
+      "longitude": "85.822902",
+      "contact" : "8777586692"
+    },
+    "203":{
+      "event_id": "203",
+      "event_name": "Hackathon 5.0",
+      "date": "15 Feb 10:00-12:00(AM)",
+      "venue": "Room 215",
+      "campus": "Campus 11",
+      "latitude": "20.359719",
+      "longitude": "85.822902",
+      "contact" : "8250869594"
+    },
+    "204":{
+      "event_id": "204",
+      "event_name": "Jugaad Out of Kabaad",
+      "date": "15th Feb 12:30-1:00(PM)   16th Feb 11:30-12:00(AM)",
+      "venue": "ROOM 6 IN FRONT OF LIBRARY",
+      "campus": "Campus 11",
+      "latitude": "20.359719",
+      "longitude": "85.822902",
+      "contact" : "9776183266"
+    },
+    "205":{
+      "event_id": "205",
+      "event_name": "PainTerrific",
+      "date": "15th Feb 2:00-3:30(PM)",
+      "venue": "Library Lobby",
+      "campus": "Campus 11",
+      "latitude": "20.359719",
+      "longitude": "85.822902",
+      "contact" : "9040331310"
+    },
+    "206":{
+      "event_id": "206",
+      "event_name": "Pixeloscope",
+      "date": "16th Feb 11:30-01:30(PM)",
+      "venue": "LAB 110, 210, 206",
+      "campus": "Campus 11",
+      "latitude": "20.359719",
+      "longitude": "85.822902",
+      "contact" : "8777482453"
+    },
+    "207":{
+      "event_id": "207",
+      "event_name": "Shabd-War",
+      "date": "16th Feb 2:30-4:30(PM)",
+      "venue": "CONFERANCE HALL KSBT",
+      "campus": "Campus 11",
+      "latitude": "20.359719",
+      "longitude": "85.822902",
+      "contact" : "8847887439"
+    },
+    "301":{
+      "event_id": "301",
+      "event_name": "Stock Challenge",
+      "date": "11th Feb to 15th Feb 9:00 a.m -3:15 p.m",
+      "venue": "online",
+      "campus": "online",
+      "latitude": "NA",
+      "longitude": "NA",
+      "contact" : "9767774864"
+    },
+    "302":{
+      "event_id": "302",
+      "event_name": "Kraack the Story",
+      "date": "13th Feb to 19th Feb 10:00 a.m-10:00p.m",
+      "venue": "online",
+      "campus": "online",
+      "latitude": "NA",
+      "longitude": "NA",
+      "contact" : "8017126802"
+    },
+    "303":{
+      "event_id": "303",
+      "event_name": "Dare To Face",
+      "date": "16th Feb 2:00 p.m-8:00 p.m",
+      "venue": "KSOM OAT",
+      "campus": "Campus 7",
+      "latitude": "20.350057",
+      "longitude": "85.820246",
+      "contact" : "8017126802"
+    },
+    "304":{
+      "event_id": "304",
+      "event_name": "Ikadhikaar",
+      "date": "15th Feb 9:00 a.m-4:00p.m",
+      "venue": "KSOM Campus",
+      "campus": "Campus 7",
+      "latitude": "20.350057",
+      "longitude": "85.820246",
+      "contact" : "8339840067"
+    },
+    "305":{
+      "event_id": "305",
+      "event_name": "Milk Run",
+      "date": "15th Feb 5:00 p.m-8:00p.m",
+      "venue": "KSOM-PLM Lab",
+      "campus": "Campus 7",
+      "latitude": "20.350057",
+      "longitude": "85.820246",
+      "contact" : "7504429751"
+    },
+    "306":{
+      "event_id": "306",
+      "event_name": "Synergy Konflictus 5.0",
+      "date": "16th Feb 9:00 a.m-12:00p.m",
+      "venue": "KSOM OAT",
+      "campus": "Campus 7",
+      "latitude": "20.350057",
+      "longitude": "85.820246",
+      "contact" : "8210129354"
+    },
+    "401":{
+      "event_id": "401",
+      "event_name": "Brainotracking",
+      "date": "16th & 17th Feb 11:00am - 5:00 pm",
+      "venue": "C3, C2",
+      "campus": "Campus 15",
+      "latitude": "20.348936",
+      "longitude": "85.815729",
+      "contact" : "8292271894"
+    },
+    "402":{
+      "event_id": "402",
+      "event_name": "Hackathon",
+      "date": "15th Feb 10:00am - 5:00 pm",
+      "venue": "C4, c5",
+      "campus": "Campus 15",
+      "latitude": "20.348936",
+      "longitude": "85.815729",
+      "contact" : "7205859428"
+    },
+    "403":{
+      "event_id": "403",
+      "event_name": "Matricity",
+      "date": "15th & 16th 10:00am - 2:00pm",
+      "venue": "DL-2",
+      "campus": "Campus 15",
+      "latitude": "20.348936",
+      "longitude": "85.815729",
+      "contact" : "8795487676"
+    },
+    "404":{
+      "event_id": "404",
+      "event_name": "Minute-to-Win-it",
+      "date": "16th & 17th 11:00am - 5:00 pm",
+      "venue": "OAT, Campus-15",
+      "campus": "Campus 15",
+      "latitude": "20.348936",
+      "longitude": "85.815729",
+      "contact" : "8765855714"
+    },
+    "405":{
+      "event_id": "405",
+      "event_name": "Eagle's Hunt",
+      "date": "15th Feb - 17th Feb 10:00am - 4:00pm",
+      "venue": "Campus 15",
+      "campus": "Campus 15",
+      "latitude": "20.348936",
+      "longitude": "85.815729",
+      "contact" : "7978136032"
+    },
+    "406":{
+      "event_id": "406",
+      "event_name": "Tech-Builder Konflictus",
+      "date": "15th Feb - 16th Feb 10:00am - 2:00pm",
+      "venue": "C1",
+      "campus": "Campus 15",
+      "latitude": "20.348936",
+      "longitude": "85.815729",
+      "contact" : "9546862541"
+    },
+    "501":{
+      "event_id": "501",
+      "event_name": "Braille Coding",
+      "date": "15-17 FEB 9:00:00 AM",
+      "venue": "LAB-1",
+      "campus": "Campus 1",
+      "latitude": "20.3461924",
+      "longitude": "85.8213544",
+      "contact" : "7681994669"
+    },
+    "502":{
+      "event_id": "502",
+      "event_name": "Turncoat",
+      "date": "15-17 FEB 9:00:00 AM",
+      "venue": "LT-5",
+      "campus": "Campus 1",
+      "latitude": "20.3461924",
+      "longitude": "85.8213544",
+      "contact" : "8697937584"
+    },
+    "503":{
+      "event_id": "503",
+      "event_name": "3rd Eye Photography",
+      "date": "15-17 FEB\t9:00 AM",
+      "venue": "LT-6",
+      "campus": "Campus 1",
+      "latitude": "20.3461924",
+      "longitude": "85.8213544",
+      "contact" : "7979844070"
+    },
+    "504":{
+      "event_id": "504",
+      "event_name": "Bring Back To Life",
+      "date": "15-17 FEB\t9:00 AM",
+      "venue": "LAB-2",
+      "campus": "Campus 1",
+      "latitude": "20.3461924",
+      "longitude": "85.8213544",
+      "contact" : "7764808600"
+    },
+    "505":{
+      "event_id": "505",
+      "event_name": "DataJAM",
+      "date": "15-17 FEB\t9:00 AM",
+      "venue": "LT-1, CAMPUS - 1",
+      "campus": "Campus 1",
+      "latitude": "20.3461924",
+      "longitude": "85.8213544",
+      "contact" : "8170995409"
+    },
+    "506":{
+      "event_id": "506",
+      "event_name": "Algonigma",
+      "date": "15-17 FEB\t9:00 AM",
+      "venue": "LAB-3, CAMPUS - 1",
+      "campus": "Campus 1",
+      "latitude": "20.3461924",
+      "longitude": "85.8213544",
+      "contact" : "9854906293"
+    },
+    "507":{
+      "event_id": "507",
+      "event_name": "Appathon",
+      "date": "15-17 FEB\t9:00 AM",
+      "venue": "LT-3, CAMPUS - 1",
+      "campus": "Campus 1",
+      "latitude": "20.3461924",
+      "longitude": "85.8213544",
+      "contact" : "9097722627"
+    },
+    "508":{
+      "event_id": "508",
+      "event_name": "Techknow",
+      "date": "15-17 FEB\t9:00 AM",
+      "venue": "LT-2, CAMPUS - 1",
+      "campus": "Campus 1",
+      "latitude": "20.3461924",
+      "longitude": "85.8213544",
+      "contact" : "9674464995"
+    },
+    "601":{
+      "event_id": "601",
+      "event_name": "Burj-Al-Paper",
+      "date": "15/2/2019\t9 AM - 12 PM ; 2 PM - 5 PM",
+      "venue": "BD LAB 1, C-block, Campus-3",
+      "campus": "Campus 3",
+      "latitude": "20.3464436",
+      "longitude": "85.8040272",
+      "contact" : "7873877211"
+    },
+    "602":{
+      "event_id": "602",
+      "event_name": "CAD-NOVUS",
+      "date": "16/2/2019",
+      "venue": "BIM LAB, C-block, Campus-3",
+      "campus": "Campus 3",
+      "latitude": "20.352735",
+      "longitude": "85.816384",
+      "contact" : "9078802266"
+    },
+    "603":{
+      "event_id": "603",
+      "event_name": "Civi Kalakaar",
+      "date": "16/2/2019\t9 AM-5 PM",
+      "venue": "BD LAB 1, C-block, Campus-3",
+      "campus": "Campus 3",
+      "latitude": "20.352735",
+      "longitude": "85.816384",
+      "contact" : "8906219807"
+    },
+    "604":{
+      "event_id": "604",
+      "event_name": "Cryptic Crossword",
+      "date": "NA",
+      "venue": "NA",
+      "campus": "Campus 3",
+      "latitude": "20.352735",
+      "longitude": "85.816384",
+      "contact" : "NA"
+    },
+    "605":{
+      "event_id": "605",
+      "event_name": "Final Destination",
+      "date": "15/2/2019\t9 AM-12 PM\r\n17/2/2019\t9 AM onwards",
+      "venue": "Room No C-4, C-block, Campus-3",
+      "campus": "Campus 3",
+      "latitude": "20.352735",
+      "longitude": "85.816384",
+      "contact" : "9508461348"
+    },
+    "606":{
+      "event_id": "606",
+      "event_name": "Frame-D-Bridge",
+      "date": "15/2/2019  9 AM-1 PM (Submission)\r\n        2 PM-5PM (Test)",
+      "venue": "Sub - Fluid Mechanics Lab\r\nTest - C-block, Campus-3",
+      "campus": "Campus 3",
+      "latitude": "20.352735",
+      "longitude": "85.816384",
+      "contact" : "9078802415"
+    },
+    "607":{
+      "event_id": "607",
+      "event_name": "Model-It",
+      "date": "17/2/2019\t9 AM  Onwards",
+      "venue": "Near Survey Lab, C-block, Campus-3",
+      "campus": "Campus 3",
+      "latitude": "20.352735",
+      "longitude": "85.816384",
+      "contact" : "8972697471"
+    },
+    "608":{
+      "event_id": "608",
+      "event_name": "Twister Coaster",
+      "date": "9 AM - 1 PM\n2 PM - 5 PM",
+      "venue": "BD LAB  2, C-block",
+      "campus": "Campus-3",
+      "latitude": "20.352735",
+      "longitude": "85.816384",
+      "contact" : "9774812960"
+    },
+    "701":{
+      "event_id": "701",
+      "event_name": "Scavenger's Quest",
+      "date": "15/02/19-17/02/19\t10:00 AM",
+      "venue": "LT-02",
+      "campus": "Campus 12",
+      "latitude": "20.355727",
+      "longitude": "85.820414",
+      "contact" : "8709469488"
+    },
+    "702":{
+      "event_id": "702",
+      "event_name": "Innovation Challenge",
+      "date": "15/02/19-17/02/19\t10:00 AM",
+      "venue": "AUDITORIUM",
+      "campus": "Campus 12",
+      "latitude": "20.355727",
+      "longitude": "85.820414",
+      "contact" : "8984849245"
+    },
+    "703":{
+      "event_id": "703",
+      "event_name": "The Salvage Yard",
+      "date": "15/02/19-17/02/19\t10:00 AM",
+      "venue": "LT-01",
+      "campus": "Campus 12",
+      "latitude": "20.355727",
+      "longitude": "85.820414",
+      "contact" : "9090561913"
+    },
+    "704":{
+      "event_id": "704",
+      "event_name": "Seguidor",
+      "date": "15/02/19-17/02/19\t10:00 AM",
+      "venue": "CL-08",
+      "campus": "Campus 12",
+      "latitude": "20.355727",
+      "longitude": "85.820414",
+      "contact" : "9973769996"
+    },
+    "705":{
+      "event_id": "705",
+      "event_name": "Roadrunner",
+      "date": "15/02/19-17/02/19\t10:00 AM",
+      "venue": "IN FRONT OF OAT",
+      "campus": "Campus 12",
+      "latitude": "20.355727",
+      "longitude": "85.820414",
+      "contact" : "8249097249"
+    },
+    "706":{
+      "event_id": "706",
+      "event_name": "Mirror Maze",
+      "date": "15/02/19-17/02/19\t10:00 AM",
+      "venue": "CL-03",
+      "campus": "Campus 12",
+      "latitude": "20.355727",
+      "longitude": "85.820414",
+      "contact" : "9401476420"
+    },
+    "707":{
+      "event_id": "707",
+      "event_name": "RoboWar",
+      "date": "15/02/19-17/02/19\t10:00 AM",
+      "venue": "OAT",
+      "campus": "Campus 12",
+      "latitude": "20.355727",
+      "longitude": "85.820414",
+      "contact" : "9804113215"
+    },
+    "708":{
+      "event_id": "708",
+      "event_name": "Kivi",
+      "date": "15/02/19-17/02/19\t10:00 AM",
+      "venue": "CLA-01",
+      "campus": "Campus 12",
+      "latitude": "20.355727",
+      "longitude": "85.820414",
+      "contact" : "8863848002"
+    },
+    "1001":{
+      "event_id": "1001",
+      "event_name": "Udghosh",
+      "date": "14/02/19\t9:00AM- 5PM",
+      "venue": "KSBT",
+      "campus": "Campus 11",
+      "latitude": "20.359719",
+      "longitude": "85.822902",
+      "contact" : "8588005280"
+    },
+    "1002":{
+      "event_id": "1002",
+      "event_name": "Biz-tech Quiz",
+      "date": "15/02/19\t9AM- 1PM",
+      "venue": "KSOM Auditorium",
+      "campus": "Campus 7",
+      "latitude": "20.350057",
+      "longitude": "85.820246",
+      "contact" : "8588005280"
+    },
+    "1003":{
+      "event_id": "1003",
+      "event_name": "FLAMES Quiz",
+      "date": "16/02/19`\t9AM - 1:30 AM",
+      "venue": "KSOM Auditorium",
+      "campus": "Campus 7",
+      "latitude": "20.350057",
+      "longitude": "85.820246",
+      "contact" : "8588005280"
+    },
+    "1004":{
+      "event_id": "1004",
+      "event_name": "Travel Living Culture",
+      "date": "15/02/19\t1:30PM- 5:30PM",
+      "venue": "KSOM Auditorium",
+      "campus": "Campus 7",
+      "latitude": "20.350057",
+      "longitude": "85.820246",
+      "contact" : "8588005280"
+    }
+}
