@@ -93,7 +93,7 @@ $sql = "SELECT kf_id, name, roll_no, phone, institution, payment_complete FROM p
 $result = $conn->query($sql);
 $sl=1;
 while($row = $result->fetch_assoc()) {
-      if($row["payment_complete"] == 1){
+      if($row['payment_complete'] == 1){
         echo '
   <tbody id=col'.$sl.'>
     <tr>
