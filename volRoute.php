@@ -83,6 +83,12 @@ text-align:center;
                 <li><a href="paid.php">Paid Candidates</a></li>
                 <li><a href="calltopay.php">Unpaid Candidates</a></li>';
             }
+            if($row['role']==0)
+            {
+                echo '
+                <li><a href="calltopay.php">Unpaid Candidates</a></li>';
+                
+            }
             echo'
                         <li><a href="volLogout">Logout</a></li>
                         </ul>

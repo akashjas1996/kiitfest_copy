@@ -2,16 +2,19 @@
 @require_once("db_connection.php");
 class sql {
      function getRole() {
-        $uname = $_SESSION["myusername"];
-        $query = "SELECT * FROM volunteer_db WHERE username='$uname'";
-        $result = mysqli_query($GLOBALS['connect'],$query);
-        $row = mysqli_fetch_assoc($result);
-        if($row>0)
+        if(array_key_exists("myusername", $_SESSION) && !empty($_SESSION["myusername"]))
         {
-           return $row['role'];
+            $uname = $_SESSION["myusername"];
+            $query = "SELECT * FROM volunteer_db WHERE username='$uname'";
+            $result = mysqli_query($GLOBALS['connect'],$query);
+            $row = mysqli_fetch_assoc($result);
+            if($row>0)
+            {
+               return $row['role'];
+            }
+            else
+              return 0;
         }
-        else
-          return 0;
      }
 	 function isVol() {
 		 if(array_key_exists("myusername", $_SESSION) && !empty($_SESSION["myusername"]))
