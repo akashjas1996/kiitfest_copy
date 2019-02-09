@@ -15,12 +15,12 @@
         "206": "Pixeloscope",
         "207": "Shabd-War",
 
-        "301": "SYNERGY KONFLICTUS 5.0",
-        "302": "MILK RUN",
-        "303": "STOCK CHALLENGE",
-        "304": "Kraack The Story!",
-        "305": "DARE TO FACE",
-        "306": "IKADHIKAAR",
+        "306": "SYNERGY KONFLICTUS 5.0",
+        "305": "MILK RUN",
+        "301": "STOCK CHALLENGE",
+        "302": "Kraack The Story!",
+        "303": "DARE TO FACE",
+        "304": "IKADHIKAAR",
 
         "401": "Brainotracking",
         "402": "Hackathon",
@@ -547,7 +547,7 @@
 
 
         //KSOM
-        "301": `<h1> SYNERGY KONFLICTUS 5.0 </h1> <hr>
+        "306": `<h1> SYNERGY KONFLICTUS 5.0 </h1> <hr>
 <p> <b> Overview </p> </b>
 <p> To help participants understand that conflict is a natural occurrence, and that everyone has a different approach in dealing with the conflict situations. Participants will have an opportunity to learn about approaches in general and their own in particular to see how synergy function between the team members.
 <p> <b>Event Duration </p> </b>
@@ -588,7 +588,7 @@
 <p>PUJA SINGH : 8210129354 </p>
 <p>ASHRITA DAS : 7330747346 </p>
 `,
-        "302": `
+        "305": `
         <h1> MILK RUN </h1>
         <hr>
 <p> <b> ROUND 1</p> </b>
@@ -628,7 +628,7 @@
 
 `,
 
-        "303": `<h1> STOCK CHALLENGE </h1><hr>
+        "301": `<h1> STOCK CHALLENGE </h1><hr>
 <p> <b>Game Duration – 11th Feb – 15th Feb </p> </b>
 <p> <b>Market time – 9:00 a.m. to 3:15 p.m.</p> </b>
 
@@ -661,7 +661,7 @@
 
 
         `,
-        "304": `
+        "302": `
         <h1> Kraack The Story! </h1> <hr>
 <p> This event puts into tests your analytical skill, how you come up with solutions to the real life business problems. Strategize your moves and join the road to victory.  </p>
 
@@ -695,7 +695,7 @@
 
         `,
 
-        "305": `<h1> DARE TO FACE </h1> <hr>
+        "303": `<h1> DARE TO FACE </h1> <hr>
 
 <p> <b>Duration- 2PM TO 8PM</p> </b>
 
@@ -728,7 +728,7 @@
 
         `,
 
-        "306": `
+        "304": `
         <h1> IKADHIKAAR </h1> <hr>
 <p>Strategy and Chance are two terms which rarely intercept with each other. We present you the ultimate puzzles and riddles which will lead you to a new adventure of real estate market. Your passion, vision and grit will make you the new kings and queens of the game of chances and strategies.
 .
