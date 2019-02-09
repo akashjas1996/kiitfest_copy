@@ -35,6 +35,8 @@ s0.parentNode.insertBefore(s1,s0);
 
   <!--Bootstrap 4.2-->
   <link rel="stylesheet" href="css/bootstrap.min.css" />
+  <link rel="stylesheet" href="owlcarousel/owl.carousel.min.css">
+<link rel="stylesheet" href="owlcarousel/owl.theme.default.min.css">
 
   <!--Local css-->
   <link rel="stylesheet" href="css/common.css" />
@@ -144,6 +146,14 @@ s0.parentNode.insertBefore(s1,s0);
 
     </div>
   </section>
+
+  <!-- Set up your HTML -->
+<div class="owl-carousel">
+  <div> Arman Mallik </div>
+  <div> Lost Stories </div>
+  <div> This </div>
+  <div> That </div>
+</div>
   
 
   <!--KiiTFest Intro Video-->
@@ -289,7 +299,17 @@ s0.parentNode.insertBefore(s1,s0);
     <i class="fas fa-times close"></i>
   </div>
   -->
-  
+  <script>
+  	$('.owl-carousel').owlCarousel({
+    items:4,
+    lazyLoad:true,
+    loop:true,
+    margin:10
+});
+  </script>
+
+  <script src="jquery.min.js"></script>
+<script src="owlcarousel/owl.carousel.min.js"></script>
   <script src="js/common.js"></script>
   <script src="js/index.js"></script>
 </body>
