@@ -1,5 +1,81 @@
 <!DOCTYPE html>
+<style>
+html {box-sizing: border-box;}
+*, *:before, *:after {box-sizing: inherit;}
 
+img {
+  width: 100%;
+  height: auto;
+	padding: 5px;
+}
+
+h2 {
+  text-align:center;
+	padding-bottom: 1em;
+}
+
+.slick-dots {
+	text-align: center;
+  margin: 0 0 10px 0;
+  padding: 0;
+  li {
+    display:inline-block;
+    margin-left: 4px;
+    margin-right: 4px;
+    &.slick-active {
+      button {
+        background-color:black;
+      }
+    }
+    button {
+      font: 0/0 a;
+      text-shadow: none;
+      color: transparent;
+      background-color:#999;
+      border:none;
+      width: 15px;
+      height: 15px;
+      border-radius:50%;
+    }
+		:hover{
+			background-color: black;
+		}
+  }
+}
+
+/* Custom Arrow */
+.prev{
+	color: #999;
+	position: absolute;
+	top: 38%;
+	left: -2em;
+	font-size: 1.5em;
+		:hover{
+			cursor: pointer;
+			color: black;
+		}
+}
+.next{
+	color: #999;
+	position: absolute;
+	top: 38%;
+	right: -2em;
+	font-size: 1.5em;
+	:hover{
+			cursor: pointer;
+			color: black;
+		}
+}
+
+@media screen and (max-width: 800px) {
+    .next {
+        display: none !important;
+    }
+}
+
+
+
+</style>
 <?php
 include "./sql.php";
 $sql = new sql();
@@ -35,8 +111,6 @@ s0.parentNode.insertBefore(s1,s0);
 
   <!--Bootstrap 4.2-->
   <link rel="stylesheet" href="css/bootstrap.min.css" />
-  <link rel="stylesheet" href="owlcarousel/owl.carousel.min.css">
-<link rel="stylesheet" href="owlcarousel/owl.theme.default.min.css">
 
   <!--Local css-->
   <link rel="stylesheet" href="css/common.css" />
@@ -147,24 +221,56 @@ s0.parentNode.insertBefore(s1,s0);
     </div>
   </section>
 
-  <!-- Set up your HTML -->
-<div class="owl-carousel owl-theme">
-    <img class="owl-lazy" data-src="https://placehold.it/350x450&text=1" data-src-retina="https://placehold.it/350x250&text=1-retina" alt="">
-    <img class="owl-lazy" data-src="https://placehold.it/350x650&text=2" data-src-retina="https://placehold.it/350x250&text=2-retina" alt="">
-  <picture>
-      <source class="owl-lazy" media="(min-width: 650px)" data-srcset="https://placehold.it/350x250&text=3-large">
-      <source class="owl-lazy" media="(min-width: 350px)" data-srcset="https://placehold.it/350x250&text=3-medium">
-      <img class="owl-lazy" data-src="https://placehold.it/350x250&text=3-fallback" alt="">
-  </picture>
-    <img class="owl-lazy" data-src="https://placehold.it/350x250&text=4" alt="">
-    <img class="owl-lazy" data-src="https://placehold.it/350x250&text=5" alt="">
-    <img class="owl-lazy" data-src="https://placehold.it/350x250&text=6" alt="">
-    <img class="owl-lazy" data-src="https://placehold.it/350x250&text=7" alt="">
-    <img class="owl-lazy" data-src="https://placehold.it/350x250&text=8" alt="">
-    <img class="owl-lazy" data-src="https://placehold.it/350x400&text=9" alt="">
-    <img class="owl-lazy" data-src="https://placehold.it/350x400&text=10" alt="">
-    <img class="owl-lazy" data-src="https://placehold.it/350x450&text=11" alt="">
-</div>
+
+
+  div class="container">
+  <h2>Slider - Multpile Items & Responsive</h2>
+    <div class="row">
+      <div class="col-md-12 heroSlider-fixed">
+        <div class="overlay">
+      </div>
+         <!-- Slider -->
+        <div class="slider responsive">
+          <div>
+						<img src="http://placehold.it/200x150" alt="" />
+					</div>
+					<div>
+						<img src="http://placehold.it/200x150" alt="" />
+					</div>
+					<div>
+						<img src="http://placehold.it/200x150" alt="" />
+					</div>
+					<div>
+						<img src="http://placehold.it/200x150" alt="" />
+					</div>
+					<div>
+						<img src="http://placehold.it/200x150" alt="" />
+					</div>
+					<div>
+						<img src="http://placehold.it/200x150" alt="" />
+					</div>
+					<div>
+						<img src="http://placehold.it/200x150" alt="" />
+					</div>
+					<div>
+						<img src="http://placehold.it/200x150" alt="" />
+					</div>
+        </div>
+				 <!-- control arrows -->
+				<div class="prev">
+					<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+				</div>
+				<div class="next">
+					<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+				</div>
+				
+      </div>
+    </div>
+  </div>
+
+
+
+
   
 
   <!--KiiTFest Intro Video-->
@@ -310,19 +416,7 @@ s0.parentNode.insertBefore(s1,s0);
     <i class="fas fa-times close"></i>
   </div>
   -->
-
-  <script>
-    $(document).ready(function() {
-$('.owl-carousel').owlCarousel({
-    items:4,
-    lazyLoad:true,
-    loop:true,
-    margin:10
-});
-    </script>
-
-  <script src="jquery.min.js"></script>
-<script src="owlcarousel/owl.carousel.min.js"></script>
+  
   <script src="js/common.js"></script>
   <script src="js/index.js"></script>
 </body>
