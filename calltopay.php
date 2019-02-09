@@ -9,8 +9,8 @@
   Max width before this PARTICULAR table gets nasty. This query will take effect for any screen smaller than 760px and also iPads specifically.
   */
   @media
-    only screen 
-    and (max-width: 760px), (min-device-width: 768px) 
+    only screen
+    and (max-width: 760px), (min-device-width: 768px)
     and (max-device-width: 1024px)  {
 
     /* Force table to not be like tables anymore */
@@ -28,11 +28,11 @@
     tr {
       margin: 0 0 1rem 0;
     }
-      
+
     tr:nth-child(odd) {
       background: #ccc;
     }
-    
+
     td {
       /* Behave  like a "row" */
       border: none;
@@ -56,7 +56,7 @@
     Label the data
     You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
     */
-    
+
   }
 
 </style>
@@ -87,9 +87,9 @@ error_reporting(E_ALL);
   // Check connection
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
-} 
+}
 //echo "Connected successfully";
-$sql = "SELECT kf_id, name, roll_no, phone, institution FROM participants_participant"; 
+$sql = "SELECT kf_id, name, roll_no, phone, institution, payment_complete FROM participants_participant"; 
 $result = $conn->query($sql);
 $sl=1;
 while($row = $result->fetch_assoc()) {
@@ -103,9 +103,9 @@ while($row = $result->fetch_assoc()) {
       <td><a href="tel://+91'.$row['phone'].'"><i class="fas fa-phone" style="font-size:24px;"></i></td>
       <td>'.$row['institution'].'</td>
     </tr>';
-        /*echo ' 
+        /*echo '
         <h1></h1>
-            <p>'.$sl.'  '.$row['kf_id'].'  '.$row['name'].'  '.$row['email'].'  '.$row['payment_complete'].'  '.$row['phone'].'</p>';*/} 
+            <p>'.$sl.'  '.$row['kf_id'].'  '.$row['name'].'  '.$row['email'].'  '.$row['payment_complete'].'  '.$row['phone'].'</p>';*/}
             $sl=$sl+1;
       }
 ?>
