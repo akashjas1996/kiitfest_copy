@@ -299,14 +299,16 @@ s0.parentNode.insertBefore(s1,s0);
     <i class="fas fa-times close"></i>
   </div>
   -->
+
   <script>
-  	$('.owl-carousel').owlCarousel({
+    $(document).ready(function() {
+$('.owl-carousel').owlCarousel({
     items:4,
     lazyLoad:true,
     loop:true,
     margin:10
 });
-  </script>
+    </script>
 
   <script src="jquery.min.js"></script>
 <script src="owlcarousel/owl.carousel.min.js"></script>
