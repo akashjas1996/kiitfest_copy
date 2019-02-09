@@ -94,6 +94,8 @@ $result = $conn->query($sql);
 $sl=1;
 while($row = $result->fetch_assoc()) {
       if($row['payment_complete'] == 1){
+        echo $row['payment_complete']
+        continue();
         echo '
   <tbody id=col'.$sl.'>
     <tr>
