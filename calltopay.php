@@ -76,6 +76,8 @@
   </thead>
 
 <?php
+$usrname = $_POST['username'];
+$pass = $_POST['pwd'];
 error_reporting(E_ALL);
   $servername = "51.68.139.41";
   $username = "kiitfest";
@@ -89,7 +91,13 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 } 
 //echo "Connected successfully";
-$sql = "SELECT kf_id, name, roll_no, phone, institution FROM participants_participant"; 
+$sql1 = "SELECT username, pin FROM volunteer_db WHERE username='$username"; 
+$result = $conn->query($sql);
+while($row = $result->fetch_assoc()) {
+  if($row["pin"]==$_POST['pin']){
+    $_SESSION['login_user'] = $POST['vol_name'];
+
+    $sql = "SELECT kf_id, name, roll_no, phone, institution FROM participants_participant"; 
 $result = $conn->query($sql);
 $sl=1;
 while($row = $result->fetch_assoc()) {
@@ -108,6 +116,11 @@ while($row = $result->fetch_assoc()) {
             <p>'.$sl.'  '.$row['kf_id'].'  '.$row['name'].'  '.$row['email'].'  '.$row['payment_complete'].'  '.$row['phone'].'</p>';*/} 
             $sl=$sl+1;
       }
+
+}
+}
+
+
 ?>
 
 </tbody>

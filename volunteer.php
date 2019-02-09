@@ -148,8 +148,8 @@ s0.parentNode.insertBefore(s1,s0);
 
 
 <form action="kf_info.php" METHOD="POST">
-  <center> <input type="text" style="height:30px; font-size:30px; color: grey; text-align: center" name="vol_username" value="KF"> </center>
-  <center> <input type="password" style="height:30px; font-size:30px; color: grey; text-align: center" name="vol_password"> </center>
+  <center> <input hint="username" type="text" style="height:30px; font-size:30px; color: grey; text-align: center" name="vol_username"> </center> <br>
+  <center> <input hint="PIN" type="password" style="height:30px; font-size:30px; color: grey; text-align: center" name="vol_password"> </center>
   <br><br>
   <center><input type="submit" style="height:40px; width: 120px; border-radius: 20px; border-color:#008CBA; outline:none; font-color:white; font-style:bold; background-color: #008CBA;" value="Submit"></center>
 </form> 
