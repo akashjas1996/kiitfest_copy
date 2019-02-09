@@ -151,14 +151,14 @@ s0.parentNode.insertBefore(s1,s0);
   	<center><h1> Guests </h1></center>
   	<div class="row">
   		<div class="col-lg-3">
-  			<img src="/img/AR.jpg">
+  			<img width="auto" src="/img/AR.jpg">
   		</div>
   		<div class="col-lg-3">
-  			<img src="/img/PR.jpg">
+  			<img width="auto" src="/img/PR.jpg">
   		</div>
-  		<div class="col-lg-3">
+  		<div width="auto" class="col-lg-3">
   		</div>
-  		<div class="col-lg-3">
+  		<div width="auto" class="col-lg-3">
   		</div>
   	</div>
   </div>
