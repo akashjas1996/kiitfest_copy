@@ -147,7 +147,7 @@ s0.parentNode.insertBefore(s1,s0);
 
 
 
-  <div class="container-fluid">
+  <!--div class="container-fluid">
   	<center><h1> Guests </h1></center>
   	<div class="row">
   		<div class="col-lg-3">
@@ -163,7 +163,7 @@ s0.parentNode.insertBefore(s1,s0);
   			<img width="auto" src="/img/v4.jpg">
   		</div>
   	</div>
-  </div>
+  </div-->
   
 
   <!--KiiTFest Intro Video-->
