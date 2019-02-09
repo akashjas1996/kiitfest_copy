@@ -148,8 +148,8 @@ s0.parentNode.insertBefore(s1,s0);
 
 
   <div class="container">
-  	<h1> Gueste </h1>
-  	<div class"row">
+  	<center><h1> Guests </h1></center>
+  	<div class="row">
   		<div class="col-lg-3">
   			<img src="/img/AR.jpg">
   		</div>
