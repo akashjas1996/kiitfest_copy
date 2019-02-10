@@ -637,7 +637,7 @@
 
 			<p><b>Team Size:</b>
 			<ul>
-				<li>12 performing members (maximum)
+				<li>12-15 performing members (maximum)
 				<li>Both girls and boys to be included in the team.
 				<li>Maximum 2 members in the backstage allowed including makeup artists.
 			</ul>
