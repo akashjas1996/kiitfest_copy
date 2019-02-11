@@ -240,10 +240,10 @@ s0.parentNode.insertBefore(s1,s0);
 
 
         <a class="img" href="#">
-          <img class="sponsor" src="img/brands/hp.png" alt="">
+          <img class="sponsor" src="img/brands/british_council.jpg" alt="">
         </a>
         <a class="img" href="#">
-          <img class="sponsor" src="img/brands/dell.png" alt="">
+          <img class="sponsor" src="img/brands/swiggy.jpg" alt="">
         </a>
         <a class="img" href="#">
           <img class="sponsor" src="img/brands/bigfm.png" alt="">
