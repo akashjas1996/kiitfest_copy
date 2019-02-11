@@ -382,6 +382,8 @@ form .inputGroup1.focusWithText .helper {
 		<button type="submit" name="submit" id="login">Log in</button><br>
 		Forgot your password? <a href="/forgot.php" class="">Click here to reset</a><br><br>
 		<span style="text-align: centre;">Didn't recieve your KFID or verification mail? <a href="/verify-again.php" class="">Click here</a></span> 
+    <br><br>
+    <span style="text-align: centre;">Get verification link in Phone <a href="/get-verified.php" class="">Click here</a></span> 
 	</div>
 </form>
 
