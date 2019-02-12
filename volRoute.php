@@ -95,7 +95,7 @@ text-align:center;
                 ';   
             }
             echo'
-                        <li><a href="volLogout">Logout</a></li>
+                        <li><a href="volLogout.php">Logout</a></li>
                         </ul>
     
                         <br>
