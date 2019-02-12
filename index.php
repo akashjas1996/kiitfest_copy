@@ -84,6 +84,7 @@ s0.parentNode.insertBefore(s1,s0);
         </svg>
       </li>
       <li><a class="nav-button" href="#home">Home</a></li>
+      <li><a class="nav-button" href="#guest-section">Guests</a></li>
       <li><a class="nav-button" href="#about">About</a></li>
       <li><a class="nav-button" href="#events">Events</a></li>
       <li><a class="nav-button" href="#contactUs">Contact Us</a></li>
@@ -150,24 +151,26 @@ s0.parentNode.insertBefore(s1,s0);
     </div>
   </section>
 
-9qy5y7
-984715916
+<br><br>
 
-
-  <div class="container-fluid">
+  <div id="guest-section" class="container-fluid">
   	<center><h1> Guests </h1></center>
   	<div class="row">
-  		<div class="col-lg-3">
-  			<center> <img width="auto" width="375px" height="200px" src="/img/AR.jpg" class="img-responsive"> </center>
+  		<div class="col-lg-3" style="padding: 5px">
+  			<center> <img width="auto" src="/img/AR.jpg" class="img-responsive"> </center>
+        <br><center><p> Armaan Malik </p></center>
   		</div>
-  		<div class="col-lg-3">
-  			<center><img width="auto"width="200px" height="375px" src="/img/PR.jpg" class="img-responsive"> </center>
+  		<div class="col-lg-3" style="padding: 5px">
+  			<center><img width="auto" src="/img/PR.jpg" class="img-responsive"> </center>
+        <br><center><p> Prayag Mehta (LOST STORIES)</p></center>
   		</div>
-  		<div width="auto" class="col-lg-3">
-  			<center><img width="auto" src="/img/v3.png"> </center>
+  		<div class="col-lg-3" style="padding: 5px">
+  			<center> <img width="auto" src="/img/v3.png" class="img-responsive"> </center>
+        <br><center><p> Sunit Tondon </p></center>
   		</div>
-  		<div width="auto" class="col-lg-3">
-  			<center><img width="auto" src="/img/v4.png"></center>
+  		<div class="col-lg-3" style="padding: 5px">
+  			<center> <img width="auto" src="/img/v4.png" class="img-responsive"> </center>
+        <br><center><p> Prakash Iyer </p></center>
   		</div>
   	</div>
   </div>
