@@ -214,7 +214,7 @@ text-align:center;
                 ';   
             }
             echo'
-                        <li><a href="volLogout">Logout</a></li>
+                        <li><a href="volLogout.php">Logout</a></li>
                         </ul>
     
                         <br>
@@ -324,13 +324,6 @@ if(isset($_POST['barcode'])){
         echo '</script>';
       }
 			
-
-
-			echo '<script language="javascript">';
-			echo 'alert("successfully Updated")';
-			echo '</script>';
-			header("Location: https://www.kiitfest.org/htevzbv.php");
-
 
 		}
 	
