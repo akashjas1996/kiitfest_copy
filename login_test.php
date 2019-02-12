@@ -1,6 +1,21 @@
 <?php
 session_start();
+<<<<<<< HEAD
 @require_once('db_connection.php');
+=======
+$host="51.68.139.41"; // Host name
+$username="kiitfest"; // Mysql username
+$password="hi9jkH27Gb1sEkR"; // Mysql password
+$db_name="kiitfest_5"; // Database name
+$tbl_name="volunteer_db"; // Table name
+
+// Connect to server and select databse.
+$conn = new mysqli($host, $username, $password, $db_name);
+  // Check connection
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
+>>>>>>> 0d4e00379af7628c4fa03e4a423e1bb6f622d679
 
 // username and password sent from form
 $myusername=$_POST['myusername'];

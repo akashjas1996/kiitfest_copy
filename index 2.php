@@ -8,11 +8,6 @@ $sql = new sql();
 <html lang="en">
 <head>
 	<!--Start of Tawk.to Script-->
-
-	<script type="text/javascript" src="//cdn.wishpond.net/connect.js?merchantId=1465714&writeKey=d6bcd5978f87" async></script>
-
-
-	
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
@@ -84,7 +79,6 @@ s0.parentNode.insertBefore(s1,s0);
         </svg>
       </li>
       <li><a class="nav-button" href="#home">Home</a></li>
-      <li><a class="nav-button" href="#guest-section">Guests</a></li>
       <li><a class="nav-button" href="#about">About</a></li>
       <li><a class="nav-button" href="#events">Events</a></li>
       <li><a class="nav-button" href="#contactUs">Contact Us</a></li>
@@ -99,6 +93,8 @@ s0.parentNode.insertBefore(s1,s0);
       ?>
     </ul>
   </header>
+
+
 
 
   <!--Logo-->
@@ -119,6 +115,7 @@ s0.parentNode.insertBefore(s1,s0);
             <img alt="upper" class="upper" src='img/Logo/upper.png' />
           </div>
 
+          <div class="container">
           <h2 class="date"> 15th Feb - 17th Feb<br> 2019 </h2>
 
           <!-- Countdown -->
@@ -150,30 +147,39 @@ s0.parentNode.insertBefore(s1,s0);
 
     </div>
   </section>
+<!--br><br-->
+<!--div class="container">
+  <div class="row">
+    <div class="col-lg-6">
+      <center> <img style="border-radius: 20px" width="200px" height="200px" src="/img/app_qr_code.png"> 
+        <a href="https://play.google.com/store/apps/details?id=org.kiitfest"> <p> Get the KIITFEST APP </p> </center> </a>
+    </div>
 
-<br><br>
+    <div class="col-lg-6">
+      <center> <img style="border-radius: 20px" width="200px" height="200px" src="/img/venue_info-min.jpg"> <br>
+        <a href="/img/venue_info.jpg"><p> Download Event schedule </p> </center> </a>
+    </div>
+</div>
+</div-->
 
-  <div id="guest-section" class="container-fluid">
+
+  <!--div class="container-fluid">
   	<center><h1> Guests </h1></center>
   	<div class="row">
-  		<div class="col-lg-3" style="padding: 5px">
-  			<center> <img width="auto" src="/img/AR.jpg" class="img-responsive"> </center>
-        <br><center><p> Armaan Malik </p></center>
+  		<div class="col-lg-3">
+  			<img height="50%" src="/img/AR.jpg">
   		</div>
-  		<div class="col-lg-3" style="padding: 5px">
-  			<center><img width="auto" src="/img/PR.jpg" class="img-responsive"> </center>
-        <br><center><p> Prayag Mehta (LOST STORIES)</p></center>
+  		<div class="col-lg-3">
+  			<img height="50%" src="/img/PR.jpg">
   		</div>
-  		<div class="col-lg-3" style="padding: 5px">
-  			<center> <img width="auto" src="/img/v3.png" class="img-responsive"> </center>
-        <br><center><p> Sunit Tondon </p></center>
-  		</div>
-  		<div class="col-lg-3" style="padding: 5px">
-  			<center> <img width="auto" src="/img/v4.png" class="img-responsive"> </center>
-        <br><center><p> Prakash Iyer </p></center>
-  		</div>
+  		<div class="col-lg-3">
+        <img height="50%" src="/img/v3.png">
+      </div>
+  		<div class="col-lg-3">
+        <img height="50%" src="/img/v4.png">
+      </div>
   	</div>
-  </div>
+  </div-->
   
 
   <!--KiiTFest Intro Video-->
@@ -322,17 +328,5 @@ s0.parentNode.insertBefore(s1,s0);
   
   <script src="js/common.js"></script>
   <script src="js/index.js"></script>
-
-
-
-  <script type="text/javascript" data-cfasync="false">
-  (function(W,i,s,e,P,o,p){W['WisePopsObject']=P;W[P]=W[P]||function(){
-  (W[P].q=W[P].q||[]).push(arguments)},W[P].l=1*new Date();o=i.createElement(s),
-  p=i.getElementsByTagName(s)[0];o.async=1;o.src=e;p.parentNode.insertBefore(o,p)
-  })(window,document,'script','//loader.wisepops.com/get-loader.js?v=1&site=LPvdD6Arvr','wisepops');
-</script>
-
-
-
 </body>
 </html>
