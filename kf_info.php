@@ -134,14 +134,14 @@ s0.parentNode.insertBefore(s1,s0);
 }
 </style>
 </head>
-<body> 
+<body>
 <div class="id-card-wrapper">
 
 <?php
 $kf_id = $_POST["kiitfest_id"];
 $servername = "51.68.139.41";
 $username = "kiitfest";
-$password = "hi9jkH27Gb1sEkRj";
+$password = "hi9jkH27Gb1sEkR";
 $dbname = "kiitfest_5";
 
 // Create connection
@@ -149,7 +149,7 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 // Check connection
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
-} 
+}
 
 echo $kf_id;
 
@@ -162,7 +162,7 @@ if ($result->num_rows > 0) {
         //echo "Name : " . $row["name"]. " - email: " .$row["email"]."<br>";
         if($row["payment_complete"]==1){
         	$color="red";
-        	echo ' 
+        	echo '
         <div class="id-card">
     <div class="profile-row">
       <div class="dp">
@@ -182,12 +182,12 @@ if ($result->num_rows > 0) {
   <input type="text" name="barcode">
   <br><br>
   <input type="submit" value="save">
-</form> 
+</form>
   </div>';
 }
         else
         {
-        	echo ' 
+        	echo '
         <div class="id-card-neg">
     <div class="profile-row">
       <div class="dp">
@@ -206,9 +206,9 @@ if ($result->num_rows > 0) {
 ';
 
         }
-        
+
     }
-} 
+}
 
 if(isset($_POST['barcode'])){
 	$barc = $_POST["barcode"];
@@ -228,7 +228,7 @@ if(isset($_POST['barcode'])){
 		$result = $conn->query($sql);
 		if($result)
 		{
-			
+
 			echo '<script language="javascript">';
 			echo 'alert("successfully Updated")';
 			echo '</script>';
@@ -240,7 +240,7 @@ if(isset($_POST['barcode'])){
 		}
 
 	}
-	
+
 	}
 
 

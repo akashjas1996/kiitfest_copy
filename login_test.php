@@ -2,7 +2,7 @@
 session_start();
 $host="51.68.139.41"; // Host name
 $username="kiitfest"; // Mysql username
-$password="hi9jkH27Gb1sEkRj"; // Mysql password
+$password="hi9jkH27Gb1sEkR"; // Mysql password
 $db_name="kiitfest_5"; // Database name
 $tbl_name="volunteer_db"; // Table name
 
