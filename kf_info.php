@@ -1,22 +1,19 @@
-<!DOCTYPE HTML>
-<html>
+<?php
+@require_once("db_connection.php");
+require "sql.php";
+$sql = new sql();
+?>
 <head>
-	<link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
-  <!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/5c5c42e77cf662208c948203/default';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
-<!--End of Tawk.to Script-->
+<link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+</head>
+<!------ Include the above in your HEAD tag ---------->
 <style>
-  body {
+/*-----------ID PANNEL--------*/
+body {
   margin:0px;
 }
 .id-card-wrapper {
@@ -51,7 +48,6 @@ s0.parentNode.insertBefore(s1,s0);
   background-color: #b24742;
   box-shadow: 0px 0px 3px 1px #12a0a0, inset 0px 0px 3px 1px #8e132a;
 }
-
 
 .profile-row {
   display: flex;
@@ -132,121 +128,229 @@ s0.parentNode.insertBefore(s1,s0);
 .profile-row .desc h1 {
   margin: 0px;
 }
+
+
+/*=======SIDEBAR=========*/
+.sidebar1 {
+    background: #F17153;
+    /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#F17153, #F58D63, #f1ab53);
+    /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#F17153, #F58D63, #f1ab53);
+    /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#F17153, #F58D63, #f1ab53);
+    /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#F17153, #F58D63, #f1ab53);
+    /* Standard syntax */
+    padding: 0px;
+    min-height: 100%;
+}
+.logo {
+    max-height: 130px;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+.logo>img {
+    margin-top: 30px;
+    padding: 3px;
+    border: 3px solid white;
+    border-radius: 100%;
+}
+.list {
+    color: #fff;
+    list-style: none;
+    padding-left: 0px;
+}
+.list::first-line {
+    color: rgba(255, 255, 255, 0.5);
+}
+.list> li, h5 {
+    padding: 5px 0px 5px 40px;
+}
+.list>li:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-left: 5px solid white;
+    color: white;
+    font-weight: bolder;
+    padding-left: 35px;
+}.main-content{
+text-align:center;
+}
 </style>
-</head>
-<body> 
-<div class="id-card-wrapper">
+<body>
+<?php
+    if($sql->isVol()==1 && ($sql->getRole()==999 || $sql->getRole()==0))
+    {
+        $uname = $_SESSION["myusername"];
+        $query = "SELECT * FROM volunteer_db WHERE username='$uname'";
+        $result = mysqli_query($GLOBALS['connect'],$query);
+        $row = mysqli_fetch_assoc($result);
+        if($row>0)
+        {
+            echo '
+            <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-2 col-sm-4 sidebar1">
+                    <div class="logo">
+                        <img src="http://lorempixel.com/output/people-q-g-64-64-1.jpg" class="img-responsive center-block" alt="Logo">
+                    </div>
+                    <br>
+                    <div class="left-navigation">
+                        <ul class="list">
+                            <h5><strong>'.$row['username'].'</strong></h5>';
+            if($row['role']==999)
+            {
+                echo '
+                <li><a href="paid.php">Paid Candidates</a></li>
+                <li><a href="calltopay.php">Unpaid Candidates</a></li>
+                <li><a href="htevzbv.php">Pass Distribution</a></li>';
+            }
+            if($row['role']==0)
+            {
+                echo '
+                <li><a href="calltopay.php">Unpaid Candidates</a></li>
+                <li><a href="htevzbv.php">Pass Distribution</a></li>
+                ';   
+            }
+            echo'
+                        <li><a href="volLogout">Logout</a></li>
+                        </ul>
+    
+                        <br>
+                    </div>
+                </div>';
+          ?>  
+            <div style="padding-left:0px;" class="col-md-10 col-sm-8 main-content">
+            <div class="id-card-wrapper">
 
 <?php
-$kf_id = $_POST["kiitfest_id"];
-$servername = "51.68.139.41";
-$username = "kiitfest";
-$password = "hi9jkH27Gb1sEkRj";
-$dbname = "kiitfest_5";
-
-// Create connection
-$conn = new mysqli($servername, $username, $password, $dbname);
-// Check connection
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
-} 
-
-echo $kf_id;
-
-$sql = "SELECT * FROM participants_participant WHERE kf_id='$kf_id'";
-$result = $conn->query($sql);
-
-if ($result->num_rows > 0) {
-    // output data of each row
-    while($row = $result->fetch_assoc()) {
-        //echo "Name : " . $row["name"]. " - email: " .$row["email"]."<br>";
-        if($row["payment_complete"]==1){
-        	$color="red";
-        	echo ' 
-        <div class="id-card">
-    <div class="profile-row">
-      <div class="dp">
-        <div class="dp-arc-outer"></div>
-        <div class="dp-arc-inner"></div>
-        <img src="https://via.placeholder.com/420x420">
-      </div>
-      <div class="desc">
-        <h1>'.$row['name'].'</h1>
-            <p>KFID : '.$row['kf_id'].'</p>
-            <p>Email: '.$row['email'].'</p>
-            <p>Payment:'.$row['roll_no'].'</p>
-      </div>
-    </div>
-    <form action="" method="POST">
-    <input  type="text" name="kiitfestid" value="'.$row['kf_id'].'">
-  <input type="text" name="barcode">
-  <br><br>
-  <input type="submit" value="save">
-</form> 
-  </div>';
-}
-        else
-        {
-        	echo ' 
-        <div class="id-card-neg">
-    <div class="profile-row">
-      <div class="dp">
-        <div class="dp-arc-outer"></div>
-        <div class="dp-arc-inner"></div>
-        <img src="https://via.placeholder.com/420x420">
-      </div>
-      <div class="desc">
-        <h1>'.$row['name'].'</h1>
-            <p>KFID:'.$row['kf_id'].'</p>
-            <p>Email:'.$row['email'].'</p>
-            <p>Payment:'.$row['payment_complete'].'</p>
-      </div>
-    </div>
-  </div>
-';
-
-        }
-        
-    }
-} 
+if(!empty($_POST["kiitfest_id"]))
+{
+  $kf_id = $_POST["kiitfest_id"];
+  $query = "SELECT * FROM participants_participant WHERE kf_id='$kf_id'";
+  $result = $GLOBALS['connect']->query($query);
+  
+  if ($result->num_rows > 0) {
+      // output data of each row
+      while($row = $result->fetch_assoc()) {
+          //echo "Name : " . $row["name"]. " - email: " .$row["email"]."<br>";
+          if($row["payment_complete"]==1){
+            $color="red";
+            echo ' 
+          <div class="id-card">
+              <div class="profile-row">
+                  <div class="dp">
+                      <div class="dp-arc-outer"></div>
+                      <div class="dp-arc-inner"></div>
+                      <img src="https://via.placeholder.com/420x420">
+                  </div>
+              <div class="desc">
+                  <h1>'.$row['name'].'</h1>
+                  <p>KFID : '.$row['kf_id'].'</p>
+                  <p>Email: '.$row['email'].'</p>
+                  <p>Payment:'.$row['roll_no'].'</p>
+              </div>
+              </div>
+          <form action="" method="POST">
+              <input  style="color:black;" type="text" name="kiitfestid" value="'.$row['kf_id'].'">
+              <input  style="color:black;" type="text" name="barcode">
+              <br><br>
+              <input style="color:black;" type="submit" value="save">
+          </form> 
+        </div>';
+  }
+          else
+          {
+            echo ' 
+          <div class="id-card-neg">
+            <div class="profile-row">
+            <div class="dp">
+                <div class="dp-arc-outer"></div>
+                <div class="dp-arc-inner"></div>
+                <img src="https://via.placeholder.com/420x420">
+            </div>
+            <div class="desc">
+              <h1>'.$row['name'].'</h1>
+                  <p>KFID:'.$row['kf_id'].'</p>
+                  <p>Email:'.$row['email'].'</p>
+                  <p>Payment:'.$row['payment_complete'].'</p>
+            </div>
+            </div>
+          </div>
+  ';
+  
+          }
+          
+      }
+  } 
+}   
 
 if(isset($_POST['barcode'])){
 	$barc = $_POST["barcode"];
-	$kf = $_POST["kiitfestid"];
-	//echo "You clicked on: ".$row['kf_id'];
-	$sql_u = "SELECT * FROM kf_barcode WHERE kfid=`$kf`";
-	$result = $conn->query($sql_u);
-
-	if($result->num_rows>0){
-		echo '<h1 style="color:white"> delivered </h1>';
-		echo '<script language="javascript">';
-		echo 'alert("message successfully sent")';
-		echo '</script>';
+  $kf = $_POST["kiitfestid"];
+	
+	$sql_u = "SELECT * FROM kf_barcode WHERE kfid='$kf'";
+  $result = $GLOBALS['connect']->query($sql_u);
+  $row = mysqli_fetch_assoc($result);
+	if($row>0){
+		echo '<script>';
+    echo 'setTimeout(async function(){await swal("WARNING!", "Pass already taken", "warning")},50)';
+    echo '</script>';
+    if($row>0)
+    {
+      echo '<script>';
+      echo 'setTimeout(function(){window.location.href = "htevzbv.php";},700)';
+      echo '</script>';
+    }
 	}
 	else{
-		$sql = "INSERT INTO kf_barcode(kfid, barcode)VALUES('$kf', '$barc')";
-		$result = $conn->query($sql);
-		if($result)
+    $vol_id = $_SESSION["myusername"];
+    $query = "INSERT INTO kf_barcode(`kfid`, `barcode`)VALUES('$kf', '$barc')";
+    $query1 = "INSERT INTO pass_log(`vol_kfid`,`student_kfid`,`time_log`) VALUES ('$vol_id','$kf',now())";
+    $result = $GLOBALS['connect']->query($query);
+    $result1 = $GLOBALS['connect']->query($query1);
+		if($result && $result1)
 		{
+			echo '<script>';
+      echo 'setTimeout(async function(){await swal("Congratulations!", "Pass Allotted", "success")},50)';
+      echo '</script>';
+      if($result && $result1)
+      {
+        echo '<script>';
+        echo 'setTimeout(function(){window.location.href = "htevzbv.php";},700)';
+        echo '</script>';
+      }
 			
-			echo '<script language="javascript">';
-			echo 'alert("successfully Updated")';
-			echo '</script>';
-			header("Location: https://www.kiitfest.org/htevzbv.php");
 
 		}
-		else{
-			echo '<h1 style="color:white"> ID CARD already delivered ! </h1>';
-		}
+	
 
 	}
 	
 	}
 
 
-$conn->close(); ?>
+?>
 
 
 </div>
-</body>
-</html>
+            </div>
+          </div>
+<?php
+  }
+      }
+        else{
+          echo '<script>';
+          echo 'setTimeout(async function(){await swal("WARNING!", "Access Denied", "warning")},50)';
+          echo '</script>';
+          if($sql->isVol()==0 || $sql->isVol()==1 && ($sql->getRole()!=0 || $sql->getRole()!=999))
+          {
+            echo '<script>';
+            echo 'setTimeout(function(){window.location.href = "index.php";},700)';
+            echo '</script>';
+          }
+        }
+        
+?>

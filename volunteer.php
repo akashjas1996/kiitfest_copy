@@ -1,3 +1,8 @@
+<?php
+session_start();
+if(array_key_exists("myusername", $_SESSION) && !empty($_SESSION["myusername"]))
+   header('Location:volRoute.php');
+?>
 <!DOCTYPE HTML>
 <html>
 

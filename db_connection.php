@@ -2,7 +2,7 @@
   //Making connection with database
   session_start();
   date_default_timezone_set("Asia/Kolkata");
-  $connect = mysqli_connect("51.68.139.41","kiitfest","hi9jkH27Gb1sEkRj","kiitfest_5");
+  $connect = mysqli_connect("51.68.139.41","kiitfest","hi9jkH27Gb1sEkR","kiitfest_5");
   //$query = "SELECT * FROM auth_user WHERE username = 'techieCool'";
   // $sql = "SELECT * FROM auth_user WHERE username = 'techieCool'";
   //        $result = mysqli_query($connect, $sql);
