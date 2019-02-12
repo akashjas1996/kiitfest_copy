@@ -128,15 +128,6 @@ body {
 .profile-row .desc h1 {
   margin: 0px;
 }
-<<<<<<< HEAD
-=======
-</style>
-</head>
-<body>
-<div class="id-card-wrapper">
->>>>>>> 0d4e00379af7628c4fa03e4a423e1bb6f622d679
-
-
 /*=======SIDEBAR=========*/
 .sidebar1 {
     background: #F17153;
@@ -186,9 +177,9 @@ a{
 text-align:center;
 }
 </style>
+</head>
 <body>
 <?php
-<<<<<<< HEAD
     if($sql->isVol()==1 && ($sql->getRole()==999 || $sql->getRole()==0))
     {
         $uname = $_SESSION["myusername"];
@@ -230,6 +221,8 @@ text-align:center;
                     </div>
                 </div>';
           ?>  
+
+
             <div style="padding-left:0px;" class="col-md-10 col-sm-8 main-content">
             <div class="id-card-wrapper">
 
@@ -294,79 +287,6 @@ if(!empty($_POST["kiitfest_id"]))
       }
   } 
 }   
-=======
-$kf_id = $_POST["kiitfest_id"];
-$servername = "51.68.139.41";
-$username = "kiitfest";
-$password = "hi9jkH27Gb1sEkR";
-$dbname = "kiitfest_5";
-
-// Create connection
-$conn = new mysqli($servername, $username, $password, $dbname);
-// Check connection
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
-}
-
-echo $kf_id;
-
-$sql = "SELECT * FROM participants_participant WHERE kf_id='$kf_id'";
-$result = $conn->query($sql);
-
-if ($result->num_rows > 0) {
-    // output data of each row
-    while($row = $result->fetch_assoc()) {
-        //echo "Name : " . $row["name"]. " - email: " .$row["email"]."<br>";
-        if($row["payment_complete"]==1){
-        	$color="red";
-        	echo '
-        <div class="id-card">
-    <div class="profile-row">
-      <div class="dp">
-        <div class="dp-arc-outer"></div>
-        <div class="dp-arc-inner"></div>
-        <img src="https://via.placeholder.com/420x420">
-      </div>
-      <div class="desc">
-        <h1>'.$row['name'].'</h1>
-            <p>KFID : '.$row['kf_id'].'</p>
-            <p>Email: '.$row['email'].'</p>
-            <p>Payment:'.$row['roll_no'].'</p>
-      </div>
-    </div>
-    <form action="" method="POST">
-    <input  type="text" name="kiitfestid" value="'.$row['kf_id'].'">
-  <input type="text" name="barcode">
-  <br><br>
-  <input type="submit" value="save">
-</form>
-  </div>';
-}
-        else
-        {
-        	echo '
-        <div class="id-card-neg">
-    <div class="profile-row">
-      <div class="dp">
-        <div class="dp-arc-outer"></div>
-        <div class="dp-arc-inner"></div>
-        <img src="https://via.placeholder.com/420x420">
-      </div>
-      <div class="desc">
-        <h1>'.$row['name'].'</h1>
-            <p>KFID:'.$row['kf_id'].'</p>
-            <p>Email:'.$row['email'].'</p>
-            <p>Payment:'.$row['payment_complete'].'</p>
-      </div>
-    </div>
-  </div>
-';
-
-        }
-
-    }
-}
->>>>>>> 0d4e00379af7628c4fa03e4a423e1bb6f622d679
 
 if(isset($_POST['barcode'])){
 	$barc = $_POST["barcode"];
@@ -394,7 +314,6 @@ if(isset($_POST['barcode'])){
     $result1 = $GLOBALS['connect']->query($query1);
 		if($result && $result1)
 		{
-<<<<<<< HEAD
 			echo '<script>';
       echo 'setTimeout(async function(){await swal("Congratulations!", "Pass Allotted", "success")},50)';
       echo '</script>';
@@ -405,13 +324,13 @@ if(isset($_POST['barcode'])){
         echo '</script>';
       }
 			
-=======
+
 
 			echo '<script language="javascript">';
 			echo 'alert("successfully Updated")';
 			echo '</script>';
 			header("Location: https://www.kiitfest.org/htevzbv.php");
->>>>>>> 0d4e00379af7628c4fa03e4a423e1bb6f622d679
+
 
 		}
 	
@@ -425,7 +344,7 @@ if(isset($_POST['barcode'])){
 
 
 </div>
-<<<<<<< HEAD
+
             </div>
           </div>
 <?php
@@ -444,7 +363,7 @@ if(isset($_POST['barcode'])){
         }
         
 ?>
-=======
+
 </body>
 </html>
->>>>>>> 0d4e00379af7628c4fa03e4a423e1bb6f622d679
+
