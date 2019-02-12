@@ -28,7 +28,6 @@
 
 			<ul>
 				<li>Max 2 members can participate in a team. Individual registration is to be done by the members.</li>
-				<li>Topic will be given on spot before the beginning of the competition.</li>
 				<li>Time allotted to each team will be 60 minutes.</li>
 				<li>Canvas or Chart papers will be provided on the spot.</li>
 				<li>Participants should bring their own materials needed for painting. Any type of colour is allowed.</li>

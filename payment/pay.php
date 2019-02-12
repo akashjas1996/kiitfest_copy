@@ -27,7 +27,7 @@ if($connect && $sql->isLogin()==1 ) {
     if($result)
     {
     $c = mysqli_num_rows($result);
-    if($c<1 || stopMulPay($kfid)){
+    if($c<0 || stopMulPay($kfid)){
       
       echo '<script>';
       echo 'window.location.href = "../index.php";';

@@ -185,7 +185,7 @@ $sql = new sql();
                     if($result)
                     {
                         $c = mysqli_num_rows($result);
-                        if($c<1){
+                        if($c<0){
                           
                           echo '<script>';
                           echo 'setTimeout(async function(){await swal("Sorry! Your Cart is Empty", "Please select an event to checkout", "warning")},50)';
