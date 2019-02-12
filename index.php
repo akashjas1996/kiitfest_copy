@@ -12,8 +12,6 @@ $sql = new sql();
 	<script type="text/javascript" src="//cdn.wishpond.net/connect.js?merchantId=1465714&writeKey=d6bcd5978f87" async></script>
 
 
-  <script type="text/javascript" src="//cdn.wishpond.net/connect.js?merchantId=1465714&writeKey=d6bcd5978f87" async></script>
-
 	
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
@@ -321,5 +319,17 @@ s0.parentNode.insertBefore(s1,s0);
   
   <script src="js/common.js"></script>
   <script src="js/index.js"></script>
+
+
+
+  <script type="text/javascript" data-cfasync="false">
+  (function(W,i,s,e,P,o,p){W['WisePopsObject']=P;W[P]=W[P]||function(){
+  (W[P].q=W[P].q||[]).push(arguments)},W[P].l=1*new Date();o=i.createElement(s),
+  p=i.getElementsByTagName(s)[0];o.async=1;o.src=e;p.parentNode.insertBefore(o,p)
+  })(window,document,'script','//loader.wisepops.com/get-loader.js?v=1&site=LPvdD6Arvr','wisepops');
+</script>
+
+
+
 </body>
 </html>
