@@ -258,7 +258,7 @@ if(!empty($_POST["kiitfest_id"]))
               <input  style="color:black;" type="text" name="kiitfestid" value="'.$row['kf_id'].'">
               <input  style="color:black;" type="text" name="barcode">
               <br><br>
-              <input style="color:black;" type="submit" value="save">
+              <input style="color:black; display:none" type="submit" value="save">
           </form> 
         </div>';
   }
