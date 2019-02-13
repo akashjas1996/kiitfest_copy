@@ -293,7 +293,7 @@ if(!empty($_POST["kiitfest_id"]))
 if(isset($_POST['barcode'])){
 	$barc = $_POST["barcode"];
   $kf = $_POST["kiitfestid"];
-	if($barc == 'unbounded'){
+	if($barc == 'unbounded' || $barc == 'UNBOUNDED' ){
     echo '<script>';
     echo 'setTimeout(async function(){await swal("WARNING!", "Pass Invalid", "warning")},50)';
     echo '</script>';
