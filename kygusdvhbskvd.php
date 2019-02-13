@@ -44,8 +44,8 @@
 <div class="container">
 <div class="form-group">
 <form enctype="multipart/form-data" method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
-    <input type="text" name="kfid">
-    <input type="submit" value="Check Now" class="btn btn-primary">
+    <center> <input type="text" name="kfid"> </center>
+    <center> <input type="submit" value="Check Now" class="btn btn-primary"> </center>
 </form>
 </div>
 </div>
