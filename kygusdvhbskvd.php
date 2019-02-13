@@ -44,8 +44,8 @@
 </body>
 </html>
 <?php 
-        @require_once("../db_connection.php");
-        include "../sql.php";
+        @require_once("db_connection.php");
+        include "sql.php";
         $sql = new sql();
         if($_SERVER["REQUEST_METHOD"]=="POST") {
     
