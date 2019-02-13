@@ -193,7 +193,7 @@ text-align:center;
             <div class="row">
                 <div class="col-md-2 col-sm-4 sidebar1">
                     <div class="logo">
-                        <img src="http://lorempixel.com/output/people-q-g-64-64-1.jpg" class="img-responsive center-block" alt="Logo">
+                        <img src="kf.png" class="img-responsive center-block" alt="Logo">
                     </div>
                     <br>
                     <div class="left-navigation">
@@ -258,7 +258,7 @@ if(!empty($_POST["kiitfest_id"]))
               <input  style="color:black;" type="text" name="kiitfestid" value="'.$row['kf_id'].'">
               <input  style="color:black;" type="text" name="barcode">
               <br><br>
-              <input style="color:black;" type="submit" value="save">
+              <input style="display:none; color:black;" type="submit" value="save">
           </form> 
         </div>';
   }
