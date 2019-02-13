@@ -193,7 +193,7 @@ text-align:center;
             <div class="row">
                 <div class="col-md-2 col-sm-4 sidebar1">
                     <div class="logo">
-                        <img src="kf.png" class="img-responsive center-block" alt="Logo">
+                        <img src="kf.png" width="100px" class="img-responsive center-block" alt="Logo">
                     </div>
                     <br>
                     <div class="left-navigation">
