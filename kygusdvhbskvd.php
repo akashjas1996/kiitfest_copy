@@ -32,6 +32,14 @@
 </script>
 
 </head>
+<div class="content"><center>
+<img src="kf.png" height="150px" style="padding-bottom: 10px"><br>
+<font style="font-family: 'Open Sans', sans-serif;font-size: 22px;color: #292929;">KIIT FEST 5.0</font><br><br>
+<font style="font-family: 'Open Sans', sans-serif;font-size: 12px;color: #a09f9f;">
+  Welcome to KIITFEST 5.0 Pay
+</font>
+</center>
+ </div>
 <body>
 <div class="container">
 <div class="form-group">
