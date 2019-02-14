@@ -122,24 +122,24 @@ s0.parentNode.insertBefore(s1,s0);
           <h2 class="date"> 15th Feb - 17th Feb<br> 2019 </h2>
 
           <!-- Countdown -->
-          <div class="countdown mt-auto">
-            <div class="countdown__days">
+          <!-- <div class="countdown mt-auto"> -->
+            <!-- <div class="countdown__days">
               <div class="number"></div>
               <span class="time">Days</span>
-            </div>
-            <div class="countdown__hours">
+            </div> -->
+            <!-- <div class="countdown__hours">
               <div class="number"></div>
               <span class="time">Hours</span>
-            </div>
-            <div class="countdown__minutes">
+            </div> -->
+            <!-- <div class="countdown__minutes">
               <div class="number"></div>
               <span class="time">Minutes</span>
-            </div>
-            <div class="countdown__seconds">
+            </div> -->
+           <!--  <div class="countdown__seconds">
               <div class="number"></div>
               <span class="time">Seconds</span>
-            </div>
-          </div>
+            </div> -->
+          <!-- </div> -->
 
         </div>
       </div>
