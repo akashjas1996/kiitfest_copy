@@ -1,5 +1,5 @@
 <?php 
-    echo "Sorry we are full";
+    echo "<h1 style='text-align: center;'>Registration Closed</h1>";
     exit();
 ?>
 <head>
