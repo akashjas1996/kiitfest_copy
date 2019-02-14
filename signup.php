@@ -1,7 +1,4 @@
-<?php 
-    echo "Sorry we are full";
-    exit();
-?>
+
 <head>
     <head>
   <!--Start of Tawk.to Script-->
