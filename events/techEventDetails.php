@@ -328,13 +328,15 @@
 
         <p><b>Prize Money worth: </b> &nbsp;Rs. 13,000</p>
 
-
+                                
         <p><b>Contacts:</b>
-        <ol>
+        <ol>    
         <li>Pamela Chanda Roy (9875487809)
         <li>Soumitra Pathak (9674455405)
         </ol>
         </p>
+        <p><b>15th Feb</b>, 8:00 - 10:30, Prelims</p>
+        <p><b>15th Feb</b>, 2:30 - 5:00, Finals</p>
         `,
         "202": `
         <h1>Chitra-a-gar</h1>
@@ -359,21 +361,22 @@
 
         <p><b>Prize money worth:</b>&nbsp Rs. 13,000</p>
 
-
+                              
         <p><b>Contacts:</b>
                 <ol>
         <li>Debanajana Maiti (8777586692)
         <li>Soumitra Pathak (9674455405)
         </ol>
         </p>
+        <p><b>Timing: 16th Feb</b>, 8:00 - 11:30</p>
 
         `,
-
+        
         "203": `
         <h1>Hackathon 5.0</h1>
         <hr>
         <p><b>Description:</b>Bring your out-of-the-box ideas in this low-risk environment. Showcase the clever hacker that dwells in you and the one who has the highest endurance wins.</p>
-
+        
         <p><b>Rules and regulations:</b>
         <ul>
         <li>During registration, the participants will be given any problem or issue pertaining to the field of Biotechnology.
@@ -392,15 +395,17 @@
         <li>Presentation of the overall idea.</ul></p>
 
         <p><b>Prize money worth:</b> &nbsp; Rs. 21,000</p>
-
+        
         <p><b>Contacts:</b>
                 <ol>
                         <li>Nilotpal Majumdar (8250869594)
                         <li>Soumitra Pathak (9674455405)
                 </ol>
-
+        
 
         </p>
+        <p><b>Timing: 15th Feb</b>, 10:30 - 13:00, Prelims</p>
+        <p><b>Timing: 17th Feb</b>, 14:00 - 17:00, Finals</p>
 
         `,
         "204": `
@@ -428,7 +433,7 @@
          </ul></p>
 
         <p><b>Prize money worth:</b> &nbsp; Rs. 21,000</p>
-
+        
         <p><b>Contacts:</b>
         <ol>
                 <li>Soumya Sristi Mahapatra (9937482817)
@@ -436,8 +441,10 @@
         </ol>
 
         </p>
+        <p><b>Timing: 15th Feb</b>, 14:00 - 14:30, Distribution</p>
+        <p><b>Timing: 16th Feb</b>, 11:30 - 12:30, Submissions</p>
         `,
-
+        
         "205": `
          <h1>PainTerrific</h1>
          <hr>
@@ -457,16 +464,17 @@
         <li>Use of diverse tools/methods for painting.
         <li>The whole painting should be made without using any contemporary tools, such as brushes, pencil colors or crayons.
         </ul></p>
-
+        
         <p><b>Prize money:</b>
                           <ol><li>    First Prize- Rs. 8,000
                               <li>Second prize- Rs. 5,000</ol></p>
-
+        
         <p><b>Contacts:</b>
                 <ol>
         <li>Abhinandan Das (9078803066)
         <li>Soumitra Pathak (9674455405)
         </ol></p>
+        <p><b>Timing: 17th Feb</b>, 11:30 - 13:00</p>
 
         `,
         "206": `
@@ -497,12 +505,13 @@
          </ul></p>
 
         <p><b>Prize money worth:</b> Rs. 13,000</p>
-
+        
         <p><b>Contacts:</b>
                 <ol><li>Ishita Ghosh (8777482453)
                         <li>Soumitra Pathak (9674455405)
                 </ol>
         </p>
+          <p><b>Timing: 17th Feb</b>, 08:00 - 11:00</p>
 
         `,
         "207": `
@@ -520,7 +529,7 @@
         Participants will be paired with a random opponent and each have to speak either for or against the motion. Preparation time 15min. Each participant will be given 5 minutes to speak on it.
         </ul>
         </p>
-
+        
         <p><b>Judging Criteria:</b>
         <ul>
         <li>Time utilisation
@@ -541,7 +550,7 @@
                 <li> Soumitra Pathak (9674455405)<br>
                 </ol>
         </p>
-
+        <p><b>Timing: 16th Feb</b>, 14:00 - 17:00</p>
         `,
 
 

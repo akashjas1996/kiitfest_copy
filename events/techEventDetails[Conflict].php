@@ -335,6 +335,8 @@
         <li>Soumitra Pathak (9674455405)
         </ol>
         </p>
+        <p><b>15th Feb</b>, 8:00 - 10:30, Prelims</p>
+        <p><b>15th Feb</b>, 2:30 - 5:00, Finals</p>
         `,
         "202": `
         <h1>Chitra-a-gar</h1>
@@ -366,6 +368,7 @@
         <li>Soumitra Pathak (9674455405)
         </ol>
         </p>
+        <p><b>Timing: 16th Feb</b>, 8:00 - 11:30</p>
 
         `,
         
@@ -401,6 +404,8 @@
         
 
         </p>
+        <p><b>Timing: 15th Feb</b>, 10:30 - 13:00, Prelims</p>
+        <p><b>Timing: 17th Feb</b>, 14:00 - 17:00, Finals</p>
 
         `,
         "204": `
@@ -436,6 +441,8 @@
         </ol>
 
         </p>
+        <p><b>Timing: 15th Feb</b>, 14:00 - 14:30, Distribution</p>
+        <p><b>Timing: 16th Feb</b>, 11:30 - 12:30, Submissions</p>
         `,
         
         "205": `
@@ -467,6 +474,7 @@
         <li>Abhinandan Das (9078803066)
         <li>Soumitra Pathak (9674455405)
         </ol></p>
+        <p><b>Timing: 17th Feb</b>, 11:30 - 13:00</p>
 
         `,
         "206": `
@@ -503,6 +511,7 @@
                         <li>Soumitra Pathak (9674455405)
                 </ol>
         </p>
+          <p><b>Timing: 17th Feb</b>, 08:00 - 11:00</p>
 
         `,
         "207": `
@@ -541,7 +550,7 @@
                 <li> Soumitra Pathak (9674455405)<br>
                 </ol>
         </p>
-
+        <p><b>Timing: 16th Feb</b>, 14:00 - 17:00</p>
         `,
 
 
