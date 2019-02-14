@@ -1,7 +1,40 @@
+<?php
+@require_once("../db_connection.php");
+ if(isset($_POST['submit']) )  { 
+    echo $link = 'https://www.instamojo.com/api/1.1/payments/'.$_POST["mojo_id"].'/'; 
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $link);
+    curl_setopt($ch, CURLOPT_HEADER, FALSE);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, TRUE);
+    curl_setopt($ch, CURLOPT_HTTPHEADER,
+            array("X-Api-Key:b99d20533b706864312305eb142c6ea8",
+                    "X-Auth-Token:887515a0f019663aaf413c97904f0cca"));
+
+    $response = curl_exec($ch);
+    curl_close($ch); 
+    json_encode($response);
+    $response = json_decode($response,true);
+    $pay_id = $response['payment']['payment_id'];
+   //echo $pay_id;
+   if($pay_id != NULL){
+       $email = $_POST['email'];
+     $query1 = "update participants_participant set payment_complete = 1,payment_id='$pay_id' where email= '$email'";
+    // //$query1 = "select * from participants_participant where `unique_id`= '$unique_id'";
+     $result = mysqli_query($connect,$query1);
+    if(!$result)
+    header('location:index.php');
+    }
+}
+
+?>
+
 <!DOCTYPE HTML>
 <html>
+<head>
+
+
   <head>
-  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
   <!--Start of Tawk.to Script-->
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
@@ -15,7 +48,6 @@ s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
 <!--End of Tawk.to Script-->
-
 
 </head>
 
@@ -157,41 +189,5 @@ s0.parentNode.insertBefore(s1,s0);
 </form> 
 </div>
 </div>
-<?php
-@require_once("../db_connection.php");
- if(isset($_POST['submit']) )  { 
-    echo $link = 'https://www.instamojo.com/api/1.1/payments/'.$_POST["mojo_id"].'/'; 
-    $ch = curl_init();
-    curl_setopt($ch, CURLOPT_URL, $link);
-    curl_setopt($ch, CURLOPT_HEADER, FALSE);
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
-    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, TRUE);
-    curl_setopt($ch, CURLOPT_HTTPHEADER,
-            array("X-Api-Key:b99d20533b706864312305eb142c6ea8",
-                    "X-Auth-Token:887515a0f019663aaf413c97904f0cca"));
-
-    $response = curl_exec($ch);
-    curl_close($ch); 
-    json_encode($response);
-    $response = json_decode($response,true);
-    $pay_id = $response['payment']['payment_id'];
-   //echo $pay_id;
-   if($pay_id != NULL){
-       $email = $_POST['email'];
-     $query1 = "update participants_participant set payment_complete = 1,payment_id='$pay_id' where email= '$email'";
-    // //$query1 = "select * from participants_participant where `unique_id`= '$unique_id'";
-     $result = mysqli_query($connect,$query1);
-    if(!$result)
-    echo '<script>';
-    echo 'swal("Erorr!", "Update failed, Contact web team.", "error")';
-    echo '</script>';
-    } else {
-      echo '<script>';
-      echo 'swal("Success!", "Updated successfully", "success")';
-      echo '</script>';
-    }
-}
-
-?>
 </body>
 </html>
