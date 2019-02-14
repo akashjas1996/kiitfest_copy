@@ -100,7 +100,7 @@ s0.parentNode.insertBefore(s1,s0);
                 echo '<li><a href="events/checkout.php">Checkout  <i class="fas fa-shopping-cart"></i></a></li>';
                 echo '<li><a href="logout.php">Logout   <i class="fas fa-sign-out-alt"></i></a></li>';
             } else {
-                echo '<li><a class="button" href="signup.php">Register</a></li>';
+                //echo '<li><a class="button" href="signup.php">Register</a></li>';
                 echo '<li><a class="button" href="login.php">Log In</a></li>';
             }
         ?>
