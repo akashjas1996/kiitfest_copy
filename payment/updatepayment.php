@@ -12,9 +12,9 @@
                     "X-Auth-Token:887515a0f019663aaf413c97904f0cca"));
     $response = curl_exec($ch);
     curl_close($ch); 
-    //echo json_decode($response);
     echo json_encode($response);
-    
+    echo json_decode($response);
+
     $pay_id = $response['payment']['payment_id'];
    echo $pay_id;
    if($pay_id != NULL){
