@@ -22,11 +22,6 @@
     // //$query1 = "select * from participants_participant where `unique_id`= '$unique_id'";
      $result = mysqli_query($connect,$query1);
     if(!$result)
-                echo  '<script>
-            function myFunction() {
-              alert("update done");
-            }
-            </script>';
     header('location:index.php');
     }
 }
