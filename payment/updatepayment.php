@@ -10,11 +10,12 @@
     curl_setopt($ch, CURLOPT_HTTPHEADER,
             array("X-Api-Key:b99d20533b706864312305eb142c6ea8",
                     "X-Auth-Token:887515a0f019663aaf413c97904f0cca"));
+
     $response = curl_exec($ch);
     curl_close($ch); 
-    json_encode($response);
+    echo json_encode($response);
     $pay_id = $response['payment']['payment_id'];
-    echo $pay_id;
+   // echo $pay_id;
    if($pay_id != NULL){
        $email = $_POST['email'];
      $query1 = "update participants_participant set payment_complete = 1,payment_id='$pay_id' where email= '$email'";
@@ -24,6 +25,7 @@
     header('location:index.php');
     }
 }
+
 ?>
 
 <!DOCTYPE HTML>
@@ -50,7 +52,7 @@ s0.parentNode.insertBefore(s1,s0);
 
 
 
-	<link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
 <style>
   body {
   margin:0px;
@@ -87,6 +89,8 @@ s0.parentNode.insertBefore(s1,s0);
   background-color: #b24742;
   box-shadow: 0px 0px 3px 1px #12a0a0, inset 0px 0px 3px 1px #8e132a;
 }
+
+
 .profile-row {
   display: flex;
 }
@@ -99,6 +103,7 @@ s0.parentNode.insertBefore(s1,s0);
 .profile-row .desc {
   flex-basis: 66.6%;
 }
+
 .profile-row .dp img {
   max-width: 100%;
   border-radius: 50%;
@@ -108,6 +113,7 @@ s0.parentNode.insertBefore(s1,s0);
 .profile-row .desc {
   padding: 1em;
 }
+
 .profile-row .dp .dp-arc-inner {
   position: absolute;
   width: 100%;
@@ -117,6 +123,7 @@ s0.parentNode.insertBefore(s1,s0);
   border-radius: 50%;
   top: -6px;
   left: -6px;
+
   animation-duration: 2s;
   animation-name: rotate-clock;
   animation-iteration-count: infinite;
@@ -139,6 +146,7 @@ s0.parentNode.insertBefore(s1,s0);
   border-radius: 50%;
   top: -16px;
   left: -16px;
+
   animation-duration: 2s;
   animation-name: rotate-anticlock;
   animation-iteration-count: infinite;
@@ -152,6 +160,7 @@ s0.parentNode.insertBefore(s1,s0);
     transform: rotate(-360deg);
   }
 }
+
 .profile-row .desc {
   font-family: 'Orbitron', sans-serif;
   color: #ecfcfb;
@@ -161,6 +170,8 @@ s0.parentNode.insertBefore(s1,s0);
 .profile-row .desc h1 {
   margin: 0px;
 }
+
+
 </style>
 </head>
 <body> 
