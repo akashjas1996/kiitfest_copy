@@ -155,6 +155,7 @@ s0.parentNode.insertBefore(s1,s0);
 
   <div id="guest-section" class="container-fluid">
   	<center><h1> Guests </h1></center>
+    <div class="col-md-12" >
   	<div class="row">
   		<div class="col-lg-3" style="padding: 5px">
   			<center> <img width="auto" src="/img/AR.jpg" class="img-responsive"> </center>
@@ -172,7 +173,7 @@ s0.parentNode.insertBefore(s1,s0);
   			<center> <img width="auto" src="/img/v4.png" class="img-responsive"> </center>
         <br><center><p> Prakash Iyer </p></center>
   		</div>
-  	</div>
+  	</div></div>
   </div>
   
 
