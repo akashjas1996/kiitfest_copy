@@ -157,8 +157,6 @@ s0.parentNode.insertBefore(s1,s0);
 </form> 
 </div>
 </div>
-</body>
-</html>
 <?php
 @require_once("../db_connection.php");
  if(isset($_POST['submit']) )  { 
@@ -195,3 +193,5 @@ s0.parentNode.insertBefore(s1,s0);
 }
 
 ?>
+</body>
+</html>
