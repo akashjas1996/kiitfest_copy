@@ -1,8 +1,5 @@
 <!DOCTYPE HTML>
 <html>
-<head>
-
-
   <head>
   <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
   <!--Start of Tawk.to Script-->
@@ -188,11 +185,11 @@ s0.parentNode.insertBefore(s1,s0);
      $result = mysqli_query($connect,$query1);
     if(!$result)
     echo '<script>';
-    echo 'setTimeout(function(){swal("Erorr!", "Update failed, Contact web team.", "error")},150)';
+    echo 'swal("Erorr!", "Update failed, Contact web team.", "error")';
     echo '</script>';
     } else {
       echo '<script>';
-      echo 'setTimeout(function(){swal("Success!", "Updated successfully", "success")},150)';
+      echo 'swal("Success!", "Updated successfully", "success")';
       echo '</script>';
     }
 }
