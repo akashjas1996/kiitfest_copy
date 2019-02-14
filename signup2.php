@@ -1,7 +1,7 @@
-<!--?php 
+<?php 
     echo "<h1 style='text-align: center;'>Registration Closed</h1>";
     exit();
-?-->
+?>
 <head>
   <!--Start of Tawk.to Script-->
 <script type="text/javascript">
