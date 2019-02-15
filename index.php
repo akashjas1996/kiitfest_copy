@@ -237,43 +237,52 @@ s0.parentNode.insertBefore(s1,s0);
       <h1 class="text-white">Our Partners</h1>
       <div class="sponsorGrid">
         <a class="img" href="#">
-          <img class="sponsor" src="img/brands/audi_logo.png" alt="">
+          <img class="sponsor" src="img/brands/redfm.png" alt="">
         </a>
         <a class="img" href="#">
-          <img class="sponsor" src="img/brands/hero.png" alt="">
+          <img class="sponsor" src="img/brands/sports salon.png" alt="">
         </a>
         <a class="img" href="#">
-          <img class="sponsor" src="img/brands/ccd.png" alt="">
+          <img class="sponsor" src="img/brands/maitre.png" alt="">
         </a>
         <a class="img" href="#">
-          <img class="sponsor" src="img/brands/nikon.png" alt="">
-        </a>
-
-
-        <a class="img" href="#">
-          <img class="sponsor" src="img/brands/british_council.jpg" alt="">
-        </a>
-        <a class="img" href="#">
-          <img class="sponsor" src="img/brands/swiggy.jpg" alt="">
-        </a>
-        <a class="img" href="#">
-          <img class="sponsor" src="img/brands/bigfm.png" alt="">
-        </a>
-        <a class="img" href="#">
-          <img class="sponsor" src="img/brands/mindfire.png" alt="">
+          <img class="sponsor" src="img/brands/kha.jpg" alt="">
         </a>
 
+
         <a class="img" href="#">
-          <img class="sponsor" src="img/brands/cocacola.png" alt="">
+          <img class="sponsor" src="img/brands/brc.png" alt="">
         </a>
         <a class="img" href="#">
-          <img class="sponsor" src="img/brands/samsung.png" alt="">
+          <img class="sponsor" src="img/brands/zevar.jpg" alt="">
         </a>
         <a class="img" href="#">
-          <img class="sponsor" src="img/brands/icici.png" alt="">
+          <img class="sponsor" src="img/brands/sc.jpg" alt="">
         </a>
         <a class="img" href="#">
-          <img class="sponsor" src="img/brands/aircel.png" alt="">
+          <img class="sponsor" src="img/brands/swiggy.png" alt="">
+        </a>
+
+        <a class="img" href="#">
+          <img class="sponsor" src="img/brands/VLogo.png" alt="">
+        </a>
+        <a class="img" href="#">
+          <img class="sponsor" src="img/brands/redbull.png" alt="">
+        </a>
+        <a class="img" href="#">
+          <img class="sponsor" src="img/brands/cc.png" alt="">
+        </a>
+        <a class="img" href="#">
+          <img class="sponsor" src="img/brands/9th Bistro.png" alt="">
+        </a>
+        <a class="img" href="#">
+          <img class="sponsor" src="img/brands/bmw.jpg" alt="">
+        </a>
+        <a class="img" href="#">
+          <img class="sponsor" src="img/brands/jlr.jpg" alt="">
+        </a>
+        <a class="img" href="#">
+          <img class="sponsor" src="img/brands/js.jpg" alt="">
         </a>
       </div>
     </div>
