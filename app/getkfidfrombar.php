@@ -1,6 +1,6 @@
 <?php 
-        @require_once("db_connection.php");
-        include "sql.php";
+        @require_once("../db_connection.php");
+        include "../sql.php";
         $sql = new sql();
 
         
@@ -21,7 +21,10 @@
                         $row = mysqli_fetch_assoc($result);
                         
                         //UPDATE TABLE
-                        if($row['Star Night'] == 0  || $row['Star Night 1'] == 0){
+                        if($row['Star Night'] == 0){
+                            // echo $row['Star Night 1'];
+                            // echo $row['Star Night'];
+
                             $eventName = $_GET['eventname'];
                             //echo $eventName;
                             $updateQuery = "update participants_participant set `$eventName` = 1 where kf_id = '$kf_id'";
@@ -36,7 +39,7 @@
                             }
                         } else {
                             $res = NULL;
-                            $res-> message = 'Gaand Maraoo.';
+                            $res-> message = 'error';
                             $res -> success = false;
                             $res= json_encode($res);
                             echo $res;
