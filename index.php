@@ -93,7 +93,7 @@ s0.parentNode.insertBefore(s1,s0);
               echo '<li><a href="events/checkout.php">Checkout  <i class="fas fa-shopping-cart"></i></a></li>';
               echo '<li><a href="logout.php">Logout   <i class="fas fa-sign-out-alt"></i></a></li>';
           } else {
-              //echo '<li><a class="button" href="signup.php">Register  <i class="fas fa-user-plus"></i></a></li>';
+              echo '<li><a class="button" href="signup.php">Register  <i class="fas fa-user-plus"></i></a></li>';
               echo '<li><a class="button" href="login.php">Log In   <i class="fas fa-sign-in-alt"></i></a></li>';
           }
       ?>
@@ -122,24 +122,24 @@ s0.parentNode.insertBefore(s1,s0);
           <h2 class="date"> 15th Feb - 17th Feb<br> 2019 </h2>
 
           <!-- Countdown -->
-          <div class="countdown mt-auto">
-            <div class="countdown__days">
+          <!-- <div class="countdown mt-auto"> -->
+            <!-- <div class="countdown__days">
               <div class="number"></div>
               <span class="time">Days</span>
-            </div>
-            <div class="countdown__hours">
+            </div> -->
+            <!-- <div class="countdown__hours">
               <div class="number"></div>
               <span class="time">Hours</span>
-            </div>
-            <div class="countdown__minutes">
+            </div> -->
+            <!-- <div class="countdown__minutes">
               <div class="number"></div>
               <span class="time">Minutes</span>
-            </div>
-            <div class="countdown__seconds">
+            </div> -->
+           <!--  <div class="countdown__seconds">
               <div class="number"></div>
               <span class="time">Seconds</span>
-            </div>
-          </div>
+            </div> -->
+          <!-- </div> -->
 
         </div>
       </div>
@@ -155,6 +155,7 @@ s0.parentNode.insertBefore(s1,s0);
 
   <div id="guest-section" class="container-fluid">
   	<center><h1> Guests </h1></center>
+    <div class="col-md-12" >
   	<div class="row">
   		<div class="col-lg-3" style="padding: 5px">
   			<center> <img width="auto" src="/img/AR.jpg" class="img-responsive"> </center>
@@ -172,7 +173,7 @@ s0.parentNode.insertBefore(s1,s0);
   			<center> <img width="auto" src="/img/v4.png" class="img-responsive"> </center>
         <br><center><p> Prakash Iyer </p></center>
   		</div>
-  	</div>
+  	</div></div>
   </div>
   
 
@@ -236,43 +237,52 @@ s0.parentNode.insertBefore(s1,s0);
       <h1 class="text-white">Our Partners</h1>
       <div class="sponsorGrid">
         <a class="img" href="#">
-          <img class="sponsor" src="img/brands/audi_logo.png" alt="">
+          <img class="sponsor" src="img/brands/redfm.png" alt="">
         </a>
         <a class="img" href="#">
-          <img class="sponsor" src="img/brands/hero.png" alt="">
+          <img class="sponsor" src="img/brands/sports salon.png" alt="">
         </a>
         <a class="img" href="#">
-          <img class="sponsor" src="img/brands/ccd.png" alt="">
+          <img class="sponsor" src="img/brands/maitre.png" alt="">
         </a>
         <a class="img" href="#">
-          <img class="sponsor" src="img/brands/nikon.png" alt="">
-        </a>
-
-
-        <a class="img" href="#">
-          <img class="sponsor" src="img/brands/british_council.jpg" alt="">
-        </a>
-        <a class="img" href="#">
-          <img class="sponsor" src="img/brands/swiggy.jpg" alt="">
-        </a>
-        <a class="img" href="#">
-          <img class="sponsor" src="img/brands/bigfm.png" alt="">
-        </a>
-        <a class="img" href="#">
-          <img class="sponsor" src="img/brands/mindfire.png" alt="">
+          <img class="sponsor" src="img/brands/kha.jpg" alt="">
         </a>
 
+
         <a class="img" href="#">
-          <img class="sponsor" src="img/brands/cocacola.png" alt="">
+          <img class="sponsor" src="img/brands/brc.png" alt="">
         </a>
         <a class="img" href="#">
-          <img class="sponsor" src="img/brands/samsung.png" alt="">
+          <img class="sponsor" src="img/brands/zevar.jpg" alt="">
         </a>
         <a class="img" href="#">
-          <img class="sponsor" src="img/brands/icici.png" alt="">
+          <img class="sponsor" src="img/brands/sc.jpg" alt="">
         </a>
         <a class="img" href="#">
-          <img class="sponsor" src="img/brands/aircel.png" alt="">
+          <img class="sponsor" src="img/brands/swiggy.png" alt="">
+        </a>
+
+        <a class="img" href="#">
+          <img class="sponsor" src="img/brands/VLogo.png" alt="">
+        </a>
+        <a class="img" href="#">
+          <img class="sponsor" src="img/brands/redbull.png" alt="">
+        </a>
+        <a class="img" href="#">
+          <img class="sponsor" src="img/brands/cc.png" alt="">
+        </a>
+        <a class="img" href="#">
+          <img class="sponsor" src="img/brands/9th Bistro.png" alt="">
+        </a>
+        <a class="img" href="#">
+          <img class="sponsor" src="img/brands/bmw.jpg" alt="">
+        </a>
+        <a class="img" href="#">
+          <img class="sponsor" src="img/brands/jlr.jpg" alt="">
+        </a>
+        <a class="img" href="#">
+          <img class="sponsor" src="img/brands/js.jpg" alt="">
         </a>
       </div>
     </div>
