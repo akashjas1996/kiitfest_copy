@@ -148,19 +148,18 @@ s0.parentNode.insertBefore(s1,s0);
           <!-- </div> -->
 
 
-
-<br>
-<div class="container-fluid"">
-  <div class="row">
-    <div class="col-lg-12">
-      <center> <iframe width="70%" frameBorder="0" height="300"src="https://walls.io/h3iif"></iframe> </center>
-    </div>
-  </div>
-</div>
-
-
         </div>
       </div>
+
+
+
+
+  
+
+
+
+
+
 
       <!-- KIIT/KISS Logo -->
       <a href="https://kiit.ac.in"><img class="kiitLinkLogo" src="img/Logo/kiitLogo.png"></a>
@@ -168,6 +167,17 @@ s0.parentNode.insertBefore(s1,s0);
 
     </div>
   </section>
+
+      <br>
+      <center> <h1> FEST FEVER </h1> </center>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-lg-12">
+      <center> <iframe width="100%" height="690px
+        " scrolling="no" src="https://walls.io/h3iif"></iframe> </center>
+    </div>
+  </div>
+</div>
 
 <br><br>
 
