@@ -275,7 +275,7 @@ $sql = new sql();
                               <div class="summary-item"><span class="text">Discount</span><span class="price">₹ 0</span></div>
                               <div class="summary-item"><span class="text">Status</span><span class="price">Not Paid</span></div>
                               <div class="summary-item"><span class="text">Total</span><span class="price">₹ 208</span></div>
-                              <a href="https://kiitfest.org/payment/pay.php"><button type="button" class="btn btn-primary btn-lg btn-block">Proceed to payment</button></a>
+                              <a href="#"><button type="button" class="btn btn-primary btn-lg btn-block">Proceed to payment</button></a>
                             </div>
                           </div>';
                           else
@@ -289,7 +289,7 @@ $sql = new sql();
                             <div class="summary-item"><span class="text">Discount</span><span class="price">₹ 0</span></div>
                             <div class="summary-item"><span class="text">Status</span><span class="price">Not Paid</span></div>
                             <div class="summary-item"><span class="text">Total</span><span class="price">₹ 515</span></div>
-                            <a href="https://kiitfest.org/payment/pay.php"><button type="button" class="btn btn-primary btn-lg btn-block">Proceed to payment</button></a>
+                            <a href="#"><button type="button" class="btn btn-primary btn-lg btn-block">Proceed to payment</button></a>
                           </div>
                         </div>';
                               }
