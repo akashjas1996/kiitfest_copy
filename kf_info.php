@@ -204,13 +204,13 @@ text-align:center;
                 echo '
                 <li><a href="paid.php">Paid Candidates</a></li>
                 <li><a href="calltopay.php">Unpaid Candidates</a></li>
-                <li><a href="htevzbv.php">Pass Distribution</a></li>';
+                <li><a href="htevzbv.php">Student Info</a></li>';
             }
             if($row['role']==0)
             {
                 echo '
                 <li><a href="calltopay.php">Unpaid Candidates</a></li>
-                <li><a href="htevzbv.php">Pass Distribution</a></li>
+                <li><a href="htevzbv.php">Student Info</a></li>
                 ';   
             }
             echo'
@@ -242,24 +242,22 @@ if(!empty($_POST["kiitfest_id"]))
             echo ' 
           <div class="id-card">
               <div class="profile-row">
-                  <div class="dp">
-                      <div class="dp-arc-outer"></div>
-                      <div class="dp-arc-inner"></div>
-                      <img src="https://via.placeholder.com/420x420">
-                  </div>
-              <div class="desc">
-                  <h1>'.$row['name'].'</h1>
+                  
+              <center><div class="desc">
+                   <h1>'.$row['name'].'</h1>
                   <p>KFID : '.$row['kf_id'].'</p>
-                  <p>Email: '.$row['email'].'</p>
-                  <p>Payment:'.$row['roll_no'].'</p>
+                  <p>Roll No. :'.$row['roll_no'].'</p>
+                  <p>Phone :'.$row['phone'].'</p>
+                  <p>Email: '.$row['email'].'</p> 
+                  
+              </div></center>
               </div>
-              </div>
-          <form action="" method="POST">
+          <!--form action="" method="POST">
               <input  style="color:black;" type="text" name="kiitfestid" value="'.$row['kf_id'].'">
               <input  style="color:black;" type="text" name="barcode">
               <br><br>
               <input style="display:none; color:black;" type="submit" value="save">
-          </form> 
+          </form--> 
         </div>';
   }
           else
@@ -275,8 +273,9 @@ if(!empty($_POST["kiitfest_id"]))
             <div class="desc">
               <h1>'.$row['name'].'</h1>
                   <p>KFID:'.$row['kf_id'].'</p>
+                  <p>Roll No. :'.$row['roll_no'].'</p>
+                  <p>Roll No. :'.$row['phone'].'</p>
                   <p>Email:'.$row['email'].'</p>
-                  <p>Payment:'.$row['payment_complete'].'</p>
             </div>
             </div>
 	    <br>

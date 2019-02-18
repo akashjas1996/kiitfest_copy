@@ -194,12 +194,12 @@ text-align:center;
             <div class="row">
                 <div class="col-md-2 col-sm-4 sidebar1">
                     <div class="logo">
-                        <img src="kf.png" width="100px" class="img-responsive center-block" alt="Logo">
+                         <center> <img src="kf.png" width="100px" class="img-responsive center-block" alt="Logo"> </center>
                     </div>
                     <br>
                     <div class="left-navigation">
                         <ul class="list">
-                            <h5><strong>'.$row['username'].'</strong></h5>';
+                           <h5><strong>'.$row['vol_name'].'</strong></h5>';
             if($row['role']==999)
             {
                 echo '
@@ -210,8 +210,8 @@ text-align:center;
             if($row['role']==0)
             {
                 echo '
-                <li><a href="calltopay.php">Unpaid Candidates</a></li>
-                <li><a href="passCollect.php">Pass Distribution</a></li>
+                <!--li><a href="calltopay.php">Unpaid Candidates</a></li-->
+                <li><a href="passCollect.php">Student Info</a></li>
                 ';   
             }
             echo'

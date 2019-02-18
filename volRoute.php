@@ -74,7 +74,7 @@ text-align:center;
             <div class="row">
                 <div class="col-md-2 col-sm-4 sidebar1">
                     <div class="logo">
-                        <img src="http://lorempixel.com/output/people-q-g-64-64-1.jpg" class="img-responsive center-block" alt="Logo">
+                       <center> <center> <img src="kf.png" width="100px" class="img-responsive center-block" alt="Logo"> </center>
                     </div>
                     <br>
                     <div class="left-navigation">
@@ -90,8 +90,13 @@ text-align:center;
             if($row['role']==0)
             {
                 echo '
-                <li><a href="calltopay.php">Unpaid Candidates</a></li>
-                <li><a href="htevzbv.php">Pass Distribution</a></li>
+                <li><a href="htevzbv.php">Student Info</a></li>
+                ';   
+            }
+            if($row['role']==98)
+            {
+                echo '
+                <li><a href="htevzbv.php">Student Info</a></li>
                 ';   
             }
             echo'
